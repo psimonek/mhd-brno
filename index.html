@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="plugins/leaflet-sidebar-v2-master/css/leaflet-sidebar.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/main.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>    
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="js/SmoothWheelZoom.js"></script>
+    <script src="plugins/leaflet-sidebar-v2-master/js/leaflet-sidebar.js"></script>
+</head>
+<body>
+
+	<!-- Přidání sidebaru -->
+	
+    <div id="sidebar" class="leaflet-sidebar collapsed">
+
+        <!-- nav tabs -->
+        <div class="leaflet-sidebar-tabs">
+            <!-- top aligned tabs -->
+            <ul role="tablist">
+                <li><a href="#home" role="tab"><i class="fa fa-bars active"></i></a></li>
+                <li style="padding-top:10px;"><a href="#tram" role="tab"><img src = "img/tram.svg" width="80%"></a></li>
+                <li style="padding-top:10px;"><a href="#trolejbus" role="tab"><img src = "img/trolleybus.svg" width="70%"></a></li>
+                <li style="padding-top:10px;"><a href="#bus" role="tab"><img src = "img/bus.svg" width="65%"></a></li>
+                <li style="padding-top:0px; font-size:28px;"><a id="infoClick" href="#info" role="tab"><i class="fa fa-info-circle"></i></a></li>
+            </ul>
+
+            <!-- bottom aligned tabs -->
+            <ul role="tablist">
+                <li><a href="https://github.com/nickpeihl/leaflet-sidebar-v2"><i class="fa fa-github"></i></a></li>
+            </ul>
+        </div>
+
+        <!-- panel content -->
+        <div class="leaflet-sidebar-content">
+            <div class="leaflet-sidebar-pane" id="home">
+                <h1 class="leaflet-sidebar-header">
+                    Mapa linek MHD v Brně
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+
+                <p>Pro výběr konkrétní linky klikněte v levo na ikonu tramvaje, trolejbusu, nebo autobusu.</p>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="tram">
+                <h1 class="leaflet-sidebar-header">
+                    Tramvaje
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1> 
+                <p> </p>
+                <ul class="group-content">
+                    <li><a class="tram-type menu-border" href="#" data-line="1">1</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="2">2</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="3">3</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="4">4</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="5">5</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="6">6</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="7">7</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="8">8</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="9">9</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="10">10</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="12">12</a></li>
+	            </ul>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="trolejbus">
+                <h1 class="leaflet-sidebar-header">
+                    Trolejbusy
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+                <p> </p>
+                <ul class="group-content">
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="25">25</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="26">26</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="30">30</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="31">31</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="32">32</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="33">33</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="34">34</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="35">35</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="36">36</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="37">37</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="38">38</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="39">39</a></li>
+                </ul>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="bus">
+                <h1 class="leaflet-sidebar-header">
+                    Autobusy
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+                <p> </p>
+                <ul class="group-content">
+                    <li><a class="bus-type menu-border" href="#" data-line="x4">x4</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="40">40</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="41">41</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="42">42</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="44">44</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="46">46</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="47">47</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="49">49</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="50">50</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E50">E50</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="51">51</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="52">52</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="54">54</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="55">55</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E56">E56</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="57">57</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="58">58</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="62">62</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="64">64</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="65">65</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="67">67</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="68">68</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="69">69</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="70">70</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="72">72</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="75">75</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E75">E75</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E76">E76</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="77">77</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="78">78</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="80">80</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="84">84</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="Š85">Š85</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="Š86">Š86</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="Š88">Š88</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N89">N89</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N90">N90</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N91">N91</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N92">N92</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N93">N93</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N94">N94</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N95">N95</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N96">N96</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N97">N97</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N98">N98</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N99">N99</a></li>
+                </ul>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="info">
+                <h1 class="leaflet-sidebar-header">
+                    Podrobnosti o lince
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+
+                <p>Zde jsou varianty počátečních a konečných zastávek vykreslené linky. Pokud se jedná o zkrácený spoj, kde konečná zastávka leží na trase dané linky a tedy spoj nejede jinou trasou, není taková konečná zkráceného spoje uvedená. Uvedené jsou pouze varianty s odlišnou trasou.</p>
+                <div class="detail-linky-group" id="detailLinky">
+                
+                </div>
+                <div id="resetLayers">
+                
+                </div>
+                <div id="detail-linky-zastavky">
+                
+                </div>
+            </div>
+			
+			<!-- Event listener pro odkazy výše -->
+            <script src="js/event-listener-lines.js"></script> 
+            
+        </div>
+    </div>
+    
+    <!-- Konec obsahu sidebaru -->
+    
+    <div id="map"></div>
+
+    <script>
+        var prepinac = 0; // řešení korektního přepínání viditelnosti karty "i" pomocí onClick.
+    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky
+    </script>
+    	
+    <!-- Funkce pro načtení a zobrazení mapových podkladů -->
+    <script src="js/init-map.js"></script>
+		
+	<!-- Funkce pro dynamické nastavení průhlednosti mapy -->
+	<script src="js/opacity-control.js"></script>
+		
+	<script>
+        var linesLayer = L.layerGroup().addTo(map); // Skupina pro linky
+        
+		// Objekt pro uchování vrstev, do kterého se v pozdějším kódu uchovávají LayerGroup jménem hladina.
+		var hladiny = {};
+	</script>
+	
+	<!-- Funkce pro načtení tramvajových linek a zastávek pomocí Overpass API -->
+	<script src="js/load-lines-and-stops.js"></script>
+	
+	<script>
+	    // Vytvoření sidebaru a přidání do mapy (plugin leaflet-sidebar-v2-master)
+        var sidebar = L.control.sidebar({ container: 'sidebar', autopan: true })
+            .addTo(map)
+            .open('home');
+	</script>
+	
+	<!-- Funkce pro skrytí ostatních vrstev, než na které bylo kliknuto. -->
+	<script src="js/hide-layer-by-name.js"></script>
+	
+	<!-- Funkce pro zobrazení všech hladin v objektu. -->
+	<script src="js/show-all-layers.js"></script>
+
+</body>
+</html>
+                                           

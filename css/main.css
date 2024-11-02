@@ -1,0 +1,112 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+    height: 100%;
+    width: 100%;
+    position:relative;
+}		
+.group-content {
+    display: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Flexbox pro uspořádání do sloupců */
+	flex-wrap: wrap; /* Umožňuje položkám přecházet do dalšího řádku */   
+}
+.group-content li {
+    padding: 6px;
+    width: 33%; /* Šířka každé položky na 50% pro dva sloupce */
+	box-sizing: border-box; /* Zajištění, že padding a border se započítávají do šířky */
+}
+.group-content li a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    display: block; /* Zajištění, že odkaz zabírá celou šířku položky */
+	padding: 6px; /* Vnitřní okraje pro odkazy */
+	font-size: 14px;
+}
+.group-content li a:hover {
+    background-color: #ffff;
+}
+.text-labels {
+	width: 50px !important;
+	height: 40px !important;
+	border-radius: 10px;
+	font-weight: bold;
+	padding: 0px;
+	background-color: rgba(255, 255, 255, 0.7) !important;
+	font-size: 2em;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 40px;       /* The same as your div height */
+}
+.detail-linky {
+    text-decoration: none;
+    text-align: left;
+    display: block; /* Zajištění, že odkaz zabírá celou šířku položky */
+	padding: Opx; /* Vnitřní okraje pro odkazy */
+	margin-bottom: 6px;
+	font-size: 12px;
+	border: 1px solid #c1c1c1;
+	background-color: #eeeeee;
+}
+.detail-linky a {
+    text-decoration: none;
+    display: block;
+    padding: 6px;
+    color: black;    
+}
+.detail-linky a:hover {
+    background-color: #ffff;
+}
+.zastavka {
+	text-decoration: none;
+    text-align: left;
+    display: block; /* Zajištění, že odkaz zabírá celou šířku položky */
+	padding: Opx; /* Vnitřní okraje pro odkazy */
+	font-size: 12px;
+	border-bottom: 1px solid #c1c1c1;
+	background-color: #ffffff;
+}
+.zastavka a {
+	text-decoration: none;
+    display: block;
+    padding: 4px;
+    color: black;    
+}
+.zastavka a:hover {
+	background-color: #eeeeee
+}
+.bus-type {
+	border: 5px solid rgb(37, 91, 218);
+	background-color: rgba(37, 91, 218, 0.1);
+	color: rgb(37, 91, 218);
+}
+.trolleybus-type {
+	border: 5px solid rgb(7, 172, 0);
+	background-color: rgba(7, 172, 0, 0.1);
+	color: rgb(7, 172, 0);
+}
+.tram-type {
+	border: 5px solid rgb(255, 20, 20);
+	background-color: rgba(255, 20, 20, 0.1);
+	color: rgb(255, 20, 20);
+}
+.night-type {
+	border: 5px solid rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0.1);
+	color: rgb(0, 0, 0);
+}
+.menu-border {
+	border-width: 2px;
+}
+.highlight-color {
+	background-color: white;
+	font-weight: bold;
+	border:2px solid black;
+}
