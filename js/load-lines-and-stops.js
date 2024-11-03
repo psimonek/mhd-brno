@@ -2,7 +2,7 @@ function loadLinesAndStops(lineRef) {
 
 	var entityArray = []; //Vytvoříme Array pro relace pro fitBounding
 	
-    var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"=' + lineRef + ']["type"!="disused:route"](49.139,16.487,49.211,16.626);out geom;>;out geom;';
+    var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;out geom;';
     
 	// Otevření detailu linky při volání výpisu.
 	let linkNaDetail = document.getElementById("infoClick");
