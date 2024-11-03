@@ -3,18 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="manifest" href="manifest.json">
+    
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <link rel="stylesheet" href="plugins/leaflet-sidebar-v2-master/css/leaflet-sidebar.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/main.css" />
 
+    <script src="js/appscript.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>    
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="js/SmoothWheelZoom.js"></script>
     <script src="plugins/leaflet-sidebar-v2-master/js/leaflet-sidebar.js"></script>
 </head>
 <body>
-
 	<!-- Přidání sidebaru -->
 	
     <div id="sidebar" class="leaflet-sidebar collapsed">
@@ -26,8 +29,9 @@
                 <li><a href="#home" role="tab"><i class="fa fa-bars active"></i></a></li>
                 <li style="padding-top:10px;"><a href="#tram" role="tab"><img src = "img/tram.svg" width="80%"></a></li>
                 <li style="padding-top:10px;"><a href="#trolejbus" role="tab"><img src = "img/trolleybus.svg" width="70%"></a></li>
-                <li style="padding-top:10px;"><a href="#bus" role="tab"><img src = "img/bus.svg" width="65%"></a></li>
-                <li style="padding-top:0px; font-size:28px;"><a id="infoClick" href="#info" role="tab"><i class="fa fa-info-circle"></i></a></li>
+                <li style="padding-top:10px;"><a href="#bus" role="tab"><img src = "img/bus.svg" width="63%"></a></li>
+                <li style="padding-top:10px;"><a href="#info" role="tab"><img src = "img/route.svg" width="65%"></a></li>
+                <!--<li style="padding-top:0px; font-size:28px;"><a href="#" role="tab"><i class="fa fa-info-circle"></i></a></li>-->
             </ul>
 
             <!-- bottom aligned tabs -->
@@ -47,13 +51,13 @@
                 <p>Tento web zobrazuje na mapě linky MHD v Brně dle vašeho výběru, tedy trasy tramvají, trolejbusů a autobusů, včetně zastávek.</p>
 				<p>Pokud tento panel překrývá celou obrazovku (na mobilu) a nevidíte mapu, použijte v pravého horním rohu šipku <i class="fa fa-caret-left"></i> pro jeho sbalení.</p>
 				<h3>Funkce mapy</h3>
-				<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <i class="fa fa-info-circle"></i> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
+				<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <img style="width: 1em;" src = "img/route.svg"> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
 				<p>Velké číslo linky v mapě se zobrazuje na výchozí první zastávce dané varianty. Kruhové značky zobrazují místo zastavení na zastávce.</p>
 				<h3>Zdroje dat</h3>
 				<p>Jako tvůrce tohoto webu zároveň udržuji i aktuálnost vedení linek MHD v Brně v open-source mapách <a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>, ze kterých tento web přebírá veškerá data. Tento projekt udržují dobrovolníci, proto je nelze považovat za bezchybné a zcela spolehlivé.</p>
-				<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších 2 měsíců.</p>
-				<p><i>Poslední aktualizace dat: 2.11.2024</i></p>
-				<p>S <i class='fa fa-heart'></i> k dopravě a kódování Pavel Šimonek.</p>
+				<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších než 2 měsíce.</p>
+				<p><i>Poslední aktualizace dat: 3.11.2024</i></p>
+				<p>S <i class='fa fa-heart'></i> k dopravě a technologiím vyrobil @psimonek.</p>
             </div>
             
             <div class="leaflet-sidebar-pane" id="tram">
@@ -161,7 +165,7 @@
                     <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
                 </h1>
 
-                <p>Zde jsou varianty počátečních a konečných zastávek vykreslené linky. Pokud se jedná o zkrácený spoj, kde konečná zastávka leží na trase dané linky a tedy spoj nejede jinou trasou, není taková konečná zkráceného spoje uvedená. Uvedené jsou pouze varianty s odlišnou trasou.</p>
+                <p>Zde jsou uvedené varianty vybrané linky, které mají konečné zastávky v jiném místě. Pokud se jedná o zkrácený spoj, který má konečnou na standardní trase, není takový spoj uvedený jako další varianta.</p>
                 <div class="detail-linky-group" id="detailLinky">
                 
                 </div>
@@ -184,8 +188,7 @@
     <div id="map"></div>
 
     <script>
-        var prepinac = 0; // řešení korektního přepínání viditelnosti karty "i" pomocí onClick.
-    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky
+    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky    	
     </script>
     	
     <!-- Funkce pro načtení a zobrazení mapových podkladů -->
@@ -209,6 +212,14 @@
         var sidebar = L.control.sidebar({ container: 'sidebar', autopan: true })
             .addTo(map)
             .open('home');
+        
+        // Přidání tlačítka na zavření mapy
+        sidebar.addPanel({
+            id: 'map',
+            tab: '<li style="padding-top:10px;"><a href="#map" role="tab"><img src = "img/map.svg" width="65%"></a></li>',
+            button: function (event) { sidebar.close(); }
+        });    	
+
 	</script>
 	
 	<!-- Funkce pro skrytí ostatních vrstev, než na které bylo kliknuto. -->

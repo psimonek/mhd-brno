@@ -5,18 +5,11 @@ function loadLinesAndStops(lineRef) {
     var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;out geom;';
     
 	// Otevření detailu linky při volání výpisu.
-	let linkNaDetail = document.getElementById("infoClick");
-	
-	// Simulujte kliknutí na odkaz, ale pouze pokud není kliknuto na "Zobrazit všechny varianty", kde je hodnota 1, aby se sidebar neschoval.
-	if (prepinac == 0) {
-		linkNaDetail.click();
-	} else {
-		prepinac = 0;
-	};
+	sidebar.open('info');
 	
 	var resetDiv = document.getElementById("resetLayers");
 	resetDiv.innerHTML = "";
-    var textToAddReset = '<a onClick="prepinac=1;loadLinesAndStops(\'' + lineRef + '\');" href="#">Zobrazit všechny varianty</a></p>'; // Získáme text, který chceme přidat.
+    var textToAddReset = '<p><a onClick="loadLinesAndStops(\'' + lineRef + '\');" href="#">Zobrazit všechny varianty (resetovat výběr)</a></p>'; // Získáme text, který chceme přidat.
     resetDiv.innerHTML = textToAddReset;
 
 
