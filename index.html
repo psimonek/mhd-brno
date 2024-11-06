@@ -181,13 +181,6 @@
                 
 				</div>
 			</div>
-			<div class="leaflet-sidebar-pane" id="novinky">
-				<h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>
-				<h3>6.11.2024</h3>
-				<p>Snížení datového toku o 30-80% dle typu linky díky optimalizovanému dotazu na server.</p>
-				<h3>3.11.2024</h3>
-				<p>Spuštění alikace se zobrazením všech linek MHD v Brně a vybraných regionálních linek provozovaných DPMB.</p>
-			</div>
         </div>
 			
 		<!-- Event listener pro odkazy výše -->
@@ -238,6 +231,17 @@
             tab: '<span style="color:#cccccc">⎯</span>',
             button: function (event) { sidebar.close(); }
         });  
+
+		sidebar.addPanel({
+            id: 'novinky',
+            tab: '<li style="padding-top:8px;"><a href="#app" role="tab"><img src = "img/download.svg" width="65%"></a></li>',
+			pane: <h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>
+				<h4>6.11.2024</h4>
+				<p>Snížení datového toku o 30-80% dle typu linky díky optimalizovanému dotazu na server.</p>
+				<h4>3.11.2024</h4>
+				<p>Spuštění alikace se zobrazením všech linek MHD v Brně a vybraných regionálních linek provozovaných DPMB.</p>,
+        });  
+
 
 
         var panelContentApp = {
