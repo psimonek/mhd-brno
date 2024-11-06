@@ -226,19 +226,18 @@
             button: function (event) { sidebar.close(); }
         });  
 
+		sidebar.addPanel({
+            id: 'novinky',
+            tab: '<li style="padding-top:8px;"><a href="#app" role="tab"><img src = "img/info.svg" width="65%"></a></li>',
+			pane: '<h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>
+				<p>Ahoj</p>'
+        });  
+
         sidebar.addPanel({
             id: 'delimiter',
             tab: '<span style="color:#cccccc">⎯</span>',
             button: function (event) { sidebar.close(); }
         });  
-
-		sidebar.addPanel({
-            id: 'novinky',
-            tab: '<li style="padding-top:8px;"><a href="#app" role="tab"><img src = "img/info.svg" width="65%"></a></li>',
-			pane: '<h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>'
-        });  
-
-
 
         var panelContentApp = {
             id: 'app',                     // UID, used to access the panel
