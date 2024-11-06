@@ -33,7 +33,7 @@
                 <li style="padding-top:10px;"><a href="#trolejbus" role="tab"><img src = "img/trolleybus.svg" width="70%"></a></li>
                 <li style="padding-top:10px;"><a href="#bus" role="tab"><img src = "img/bus.svg" width="63%"></a></li>
                 <li style="padding-top:10px;"><a href="#info" role="tab"><img src = "img/route.svg" width="65%"></a></li>
-                <!--<li style="padding-top:0px; font-size:28px;"><a href="#" role="tab"><i class="fa fa-info-circle"></i></a></li>-->
+                <li style="padding-top:10px;"><a href="#novinky" role="tab"><img src = "img/info.svg" width="65%"></a></li>
             </ul>
 
             <!-- bottom aligned tabs -->
@@ -173,17 +173,25 @@
                 <p>Zde jsou uvedené varianty vybrané linky, které mají konečné zastávky v jiném místě. Pokud se jedná o zkrácený spoj, který má konečnou na standardní trase, není takový spoj uvedený jako další varianta.</p>
                 <div class="detail-linky-group" id="detailLinky">
                 
-                </div>
-                <div id="resetLayers">
+            	</div>
+            	<div id="resetLayers">
                 
-                </div>
-                <div id="detail-linky-zastavky">
+            	</div>
+           		<div id="detail-linky-zastavky">
                 
-                </div>
-            </div>
+				</div>
+			</div>
+			<div class="leaflet-sidebar-pane" id="novinky">
+				<h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>
+				<h3>6.11.2024</h3>
+				<p>Snížení datového toku o 30-80% dle typu linky díky optimalizovanému dotazu na server.</p>
+				<h3>3.11.2024</h3>
+				<p>Spuštění alikace se zobrazením všech linek MHD v Brně a vybraných regionálních linek provozovaných DPMB.</p>
+			</div>
+        </div>
 			
-			<!-- Event listener pro odkazy výše -->
-            <script src="js/event-listener-lines.js"></script> 
+		<!-- Event listener pro odkazy výše -->
+        <script src="js/event-listener-lines.js"></script> 
             
         </div>
     </div>
