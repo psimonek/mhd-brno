@@ -226,10 +226,11 @@
             button: function (event) { sidebar.close(); }
         });  
 
+		var textNovinky = '<h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>';
 		sidebar.addPanel({
             id: 'novinky',
-            tab: '<li style="padding-top:8px;"><a href="#app" role="tab"><img src = "img/info.svg" width="65%"></a></li>',
-			pane: '<h1 class="leaflet-sidebar-header">Novinky v aplikaci</h1>'
+            tab: '<li style="padding-top:16px;"><a href="#app" role="tab"><img src = "img/info.svg" width="65%"></a></li>',
+			pane: ''
         });  
 
         sidebar.addPanel({
