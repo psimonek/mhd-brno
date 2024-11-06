@@ -2,7 +2,7 @@ function loadLinesAndStops(lineRef) {
 
 	var entityArray = []; //Vytvoříme Array pro relace pro fitBounding
 	
-    var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;out geom;';
+    var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;node(w)["public_transport"="stop_position"];out geom;';
     
 	// Otevření detailu linky při volání výpisu.
 	sidebar.open('info');
@@ -120,16 +120,16 @@ function loadLinesAndStops(lineRef) {
                     }
 
                     if (member.type === 'way' && member.role === '') {
-                        var way = data.elements.find(e => e.id === member.ref);
-                        if (way && way.geometry) {
-                            var latlngs = way.geometry.map(function(point) {
+                        //var way = data.elements.find(e => e.id === member.ref);
+                        //if (way && way.geometry) {
+                            var latlngs = member.geometry.map(function(point) {
                                 return [point.lat, point.lon]; // OSM používá [lat, lon]
                             });
                             // Vykreslení tramvajové linky
                             L.polyline(latlngs, { color: lineColor, weight: 4 })
                             .bindPopup(relation.tags.name || "Neznámá linka")
                             .addTo(hladina);
-                        }
+                        //}
 
                     } else if (member.type === 'node') {
                         // Zpracování zastávek
