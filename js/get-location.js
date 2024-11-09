@@ -32,7 +32,18 @@ function showPosition(position) {
     map.setView([lat, lon], map.getZoom(), { animate: true });
 
     // Otáčení mapy podle směru pohybu
-    map.setBearing(-heading, { duration: 500 }); // Negace pro správnou orientaci
+        const targetBearing = -heading; // Negace pro správnou orientaci
+        const delta = targetBearing - currentBearing;
+
+        // Zajištění, že otáčení je plynulé
+        if (Math.abs(delta) > 180) {
+            currentBearing += (delta > 0 ? delta - 360 : delta + 360) * 0.1; // Otočení přes 360°
+        } else {
+            currentBearing += delta * 0.1; // Plynulé otáčení
+        }
+
+        // Nastavení nového úhlu otáčení
+        map.setBearing(currentBearing);
 }
 
 function showError(error) {
