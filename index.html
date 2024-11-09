@@ -201,11 +201,15 @@
     	
     <!-- Funkce pro načtení a zobrazení mapových podkladů -->
     <script src="js/init-map.js"></script>
+
+	<!-- Funkce pro rotaci mapy při sledování polohy -->
+	<script src="plugins/leaflet-rotate-master/dist/leaflet-rotate.js"></script>
 		
 	<!-- Funkce pro dynamické nastavení průhlednosti mapy -->
 	<script src="js/opacity-control.js"></script>
 		
 	<script>
+		
         var linesLayer = L.layerGroup().addTo(map); // Skupina pro linky
         
 		// Objekt pro uchování vrstev, do kterého se v pozdějším kódu uchovávají LayerGroup jménem hladina.
