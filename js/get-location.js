@@ -1,3 +1,4 @@
+let currentBearing = 0; // Aktuální úhel otáčení
 // Funkce pro aktivaci geolokace
 function getLocation() {
     if (navigator.geolocation) {
