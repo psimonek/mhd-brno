@@ -195,7 +195,7 @@
     <div id="map"></div>
 
     <script>
-    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky    	
+    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky   
     </script>
     	
     <!-- Funkce pro načtení a zobrazení mapových podkladů -->
@@ -209,7 +209,14 @@
         
 		// Objekt pro uchování vrstev, do kterého se v pozdějším kódu uchovávají LayerGroup jménem hladina.
 		var hladiny = {};
-	</script>
+		
+		// Proměnné pro určení a sledování polohy uživatele
+		
+		var marker = L.marker([50.0755, 14.4378]).addTo(map); 
+        var heading = 0; // Směr pohybu uživatele
+        var watchId; // ID sledování polohy
+        var tracking = false; // Stav sledování polohy
+		</script>
 	
 	<!-- Funkce pro načtení tramvajových linek a zastávek pomocí Overpass API -->
 	<script src="js/load-lines-and-stops.js"></script>
@@ -241,6 +248,28 @@
             position: 'top'                  // optional vertical alignment, defaults to 'top'
         };
         sidebar.addPanel(panelContentApp);  	
+
+	
+	</script>
+	<script src="js/get-location.js"></script>
+	<script>
+	//getLocation();
+	
+    // Přidání tlačítka pro aktivaci polohy
+    var locateButton = L.control({position: 'topright'});
+
+    locateButton.onAdd = function (map) {
+        var button = L.DomUtil.create('button', 'locate-button');
+        button.innerHTML = 'Aktivovat polohu';
+        button.onclick = function() {
+            getLocation();
+            // Změna textu tlačítka podle stavu sledování
+            button.innerHTML = tracking ? 'Deaktivovat polohu' : 'Aktivovat polohu';
+        };
+        return button;
+    };
+
+    locateButton.addTo(map);
 
 	</script>
 	
