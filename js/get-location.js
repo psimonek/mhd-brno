@@ -8,11 +8,9 @@ function getLocation() {
                 timeout: 5000
             });
             tracking = true; // Nastavení stavu sledování na true
-            document.getElementById('locate-button').innerHTML = 'Deaktivovat polohu';
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
-            document.getElementById('locate-button').innerHTML = 'Aktivovat polohu';
         }
     } else {
         alert("Geolokace není podporována tímto prohlížečem.");
