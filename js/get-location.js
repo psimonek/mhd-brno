@@ -25,9 +25,11 @@ function showPosition(position) {
     // Získání směru pohybu
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
-    // Aktualizace značky a mapy
+    // Aktualizace značky
     marker.setLatLng([lat, lon]);
-    map.setView([lat, lon]);
+
+    // Centrování mapy na uživatelovu polohu
+    map.setView([lat, lon], map.getZoom(), { animate: true });
 
     // Otáčení mapy podle směru pohybu
     map.setBearing(-heading); // Negace pro správnou orientaci
