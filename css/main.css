@@ -110,3 +110,11 @@ body, html {
 	font-weight: bold;
 	border:2px solid black;
 }
+.locate-button {
+    background: white;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
