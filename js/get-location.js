@@ -32,11 +32,7 @@ function showPosition(position) {
     map.setView([lat, lon], map.getZoom(), { animate: true });
 
     // Otáčení mapy podle směru pohybu
-    //map.setBearing(-heading); // Negace pro správnou orientaci
-    map.easeTo({
-        bearing: -heading, // Negace pro správnou orientaci
-        //duration: 500 // Doba trvání animace v milisekundách
-    });
+    map.setBearing(-heading, { duration: 500 }); // Negace pro správnou orientaci
 }
 
 function showError(error) {
