@@ -50,10 +50,7 @@ function showPosition(position) {
         }
 
         // Nastavení nového úhlu otáčení
-        // Použití CSS transformace pro otáčení mapy
-        const mapContainer = document.querySelector('.leaflet-map-pane');
-        mapContainer.style.transform = `rotate(${currentBearing}deg)`;
-
+        map.setBearing(currentBearing);
         lastUpdateTime = currentTime; // Aktualizace času poslední aktualizace
     }
 }
