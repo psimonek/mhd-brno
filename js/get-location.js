@@ -1,7 +1,3 @@
-let lastUpdateTime = 0; // Čas poslední aktualizace
-const updateInterval = 1000; // Interval aktualizace v milisekundách (např. 1000 ms = 1 sekunda)
-let currentBearing = 0; // Aktuální úhel otáčení
-
 // Funkce pro aktivaci geolokace
 function getLocation() {
     if (navigator.geolocation) {
@@ -23,36 +19,18 @@ function getLocation() {
 }
 
 function showPosition(position) {
-    const lat = position.coords.latitude;
-    const lon = position.coords.longitude;
+    var lat = position.coords.latitude;
+    var lon = position.coords.longitude;
 
     // Získání směru pohybu
-    const heading = position.coords.heading !== null ? position.coords.heading : 0;
+    var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
-    // Aktualizace značky
+    // Aktualizace značky a mapy
     marker.setLatLng([lat, lon]);
+    map.setView([lat, lon]);
 
-    // Centrování mapy na uživatelovu polohu
-    map.setView([lat, lon], map.getZoom(), { animate: true });
-
-    // Kontrola, zda je čas na aktualizaci otáčení mapy
-    const currentTime = Date.now();
-    if (currentTime - lastUpdateTime > updateInterval) {
-        // Plynulé otáčení mapy podle směru pohybu
-        const targetBearing = -heading; // Negace pro správnou orientaci
-        const delta = targetBearing - currentBearing;
-
-        // Zajištění, že otáčení je plynulé
-        if (Math.abs(delta) > 180) {
-            currentBearing += (delta > 0 ? delta - 360 : delta + 360) * 0.1; // Otočení přes 360°
-        } else {
-            currentBearing += delta * 0.1; // Plynulé otáčení
-        }
-
-        // Nastavení nového úhlu otáčení
-        map.setBearing(currentBearing);
-        lastUpdateTime = currentTime; // Aktualizace času poslední aktualizace
-    }
+    // Otáčení mapy podle směru pohybu
+    map.setBearing(-heading); // Negace pro správnou orientaci
 }
 
 function showError(error) {
