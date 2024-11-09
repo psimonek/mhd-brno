@@ -33,7 +33,7 @@ function showPosition(position) {
     map.setBearing(-heading); // Negace pro správnou orientaci
 
     // Udržení aktuální polohy ve středu mapy
-    map.setView([lat, lon], { animate: true }); // Animace pro plynulé přechody
+    // map.setView([lat, lon], { animate: true }); // Animace pro plynulé přechody
 }
 
 function showError(error) {
