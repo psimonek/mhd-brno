@@ -8,9 +8,11 @@ function getLocation() {
                 timeout: 5000
             });
             tracking = true; // Nastavení stavu sledování na true
+            document.getElementById('locate-button').innerHTML = 'Deaktivovat polohu';
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
+            document.getElementById('locate-button').innerHTML = 'Aktivovat polohu';
         }
     } else {
         alert("Geolokace není podporována tímto prohlížečem.");
@@ -22,20 +24,14 @@ function showPosition(position) {
     var lon = position.coords.longitude;
 
     // Získání směru pohybu
-    if (position.coords.heading !== null) {
-        heading = position.coords.heading;
-    }
+    var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
     // Aktualizace značky a mapy
     marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
 
     // Otáčení mapy podle směru pohybu
-    var rotation = -heading; // Negace pro správnou orientaci
-    var mapPane = document.querySelector('.leaflet-map-pane'); // Výběr elementu s třídou leaflet-map-pane
-    if (mapPane) {
-        mapPane.style.transform = 'rotate(' + rotation + 'deg)';
-    }
+    map.setBearing(-heading); // Negace pro správnou orientaci
 }
 
 function showError(error) {
