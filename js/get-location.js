@@ -32,7 +32,10 @@ function showPosition(position) {
 
     // Otáčení mapy podle směru pohybu
     var rotation = -heading; // Negace pro správnou orientaci
-    document.getElementById('map-container').style.transform = 'rotate(' + rotation + 'deg)';
+    var mapPane = document.querySelector('.leaflet-map-pane'); // Výběr elementu s třídou leaflet-map-pane
+    if (mapPane) {
+        mapPane.style.transform = 'rotate(' + rotation + 'deg)';
+    }
 }
 
 function showError(error) {
