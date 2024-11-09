@@ -5,6 +5,7 @@ var map = L.map('map', {
     smoothWheelZoom: true,
     smoothSensitivity: 5,
 	rotate: true,
+	touchRotate: true
 }).setView([49.1951, 16.6068], 13); // Souřadnice Brna
 
 // Přidání OpenStreetMap a ostatních dlaždic
