@@ -32,7 +32,7 @@ function showPosition(position) {
 
     // Otáčení mapy podle směru pohybu
     var rotation = -heading; // Negace pro správnou orientaci
-    document.getElementById('map').style.transform = 'rotate(' + rotation + 'deg)';
+    document.getElementById('map-container').style.transform = 'rotate(' + rotation + 'deg)';
 }
 
 function showError(error) {
