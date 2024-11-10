@@ -1,28 +1,55 @@
-async function requestWakeLock() {
+// test support
+let isSupported = false;
+
+if ('wakeLock' in navigator) {
+  isSupported = true;
+    alert('Váš prohlížeč podporuje funkci wakeLock.\nV Případě sledování polohy bude obrazovka udržována rozsvícená.');
+} else {
+  alert('Váš prohlížeč nepodporuje funkci wakeLock.\nV Případě sledování polohy nebude obrazovka udržována rozsvícená.');
+}
+
+if (isSupported) {
+  // create a reference for the wake lock
+  let wakeLock = null;
+
+  // create an async function to request a wake lock
+  const requestWakeLock = async () => {
     try {
-        wakeLock = await navigator.wakeLock.request('screen');
-        console.log('Wake Lock is active');
+      wakeLock = await navigator.wakeLock.request('screen');
+
+      // change up our interface to reflect wake lock active
+      //changeUI();
+
+      // listen for our release event
+      wakeLock.onrelease = function(ev) {
+        console.log(ev);
+      }
+      //wakeLock.addEventListener('release', () => {
+        // if wake lock is released alter the button accordingly
+        //changeUI('released');
+     //});
+
     } catch (err) {
-        console.error(`${err.name}, ${err.message}`);
-    }
-}
+      // if wake lock request fails - usually system related, such as battery
+      statusElem.textContent = `${err.name}, ${err.message}`;
 
-async function releaseWakeLock() {
-    if (wakeLock !== null) {
-        await wakeLock.release();
-        wakeLock = null;
-        console.log('Wake Lock is released');
     }
-}
+  } // requestWakeLock()
 
-// Volání funkce pro požadavek na Wake Lock při načtení stránky
-document.addEventListener('visibilitychange', async () => {
-    if (document.visibilityState === 'visible') {
-        await requestWakeLock();
+
+
+  const handleVisibilityChange = () => {
+    if (wakeLock !== null && document.visibilityState === 'visible') {
+      requestWakeLock();
+    }
+  }
+
+  reaquireCheck.addEventListener('change', () => {
+    if (reaquireCheck.checked) {
+      document.addEventListener('visibilitychange', handleVisibilityChange);
     } else {
-        await releaseWakeLock();
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
     }
-});
+  });
 
-// Můžete také zavolat requestWakeLock() přímo, když je aplikace spuštěná
-requestWakeLock();
+} // isSupported
