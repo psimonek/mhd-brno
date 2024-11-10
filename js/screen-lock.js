@@ -37,19 +37,13 @@ if (isSupported) {
   } // requestWakeLock()
 
 
-
   const handleVisibilityChange = () => {
     if (wakeLock !== null && document.visibilityState === 'visible') {
       requestWakeLock();
     }
   }
 
-  reaquireCheck.addEventListener('change', () => {
-    if (reaquireCheck.checked) {
-      document.addEventListener('visibilitychange', handleVisibilityChange);
-    } else {
-      document.removeEventListener('visibilitychange', handleVisibilityChange);
-    }
-  });
+  document.addEventListener('visibilitychange', handleVisibilityChange);
+
 
 } // isSupported
