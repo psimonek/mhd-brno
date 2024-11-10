@@ -264,18 +264,41 @@
     	// Přidání tlačítka pro aktivaci polohy
     	var locateButton = L.control({position: 'topright'});
 
-    	locateButton.onAdd = function (map) {
-        	var button = L.DomUtil.create('button', 'locate-button');
-        	button.innerHTML = 'Aktivovat polohu';
-        	button.onclick = function() {
-            	getLocation();
-           		// Změna textu tlačítka podle stavu sledování
-            	button.innerHTML = tracking ? 'Deaktivovat polohu' : 'Aktivovat polohu';
-        	};
-        return button;
-    	};
+		locateButton.onAdd = function (map) {
+		    var button = L.DomUtil.create('button', 'locate-button');
+		    button.style.backgroundColor = 'white'; // Nastavení počáteční barvy pozadí
+		    button.style.border = '2px solid rgba(0,0,0,0.2)'; // Nastavení okraje
+		    button.style.cursor = 'pointer'; // Změna kurzoru na ruku
+		    button.style.width = '48px';
+		    button.style.height = '48px';
+		    button.style.padding = '0px';
+		
+		    // Přidání ikony do tlačítka
+		    var icon = L.DomUtil.create('img', 'locate-icon');
+		    icon.src = 'img/navigation-arrow.svg'; // Zde zadejte cestu k vaší ikoně
+		    icon.style.width = '24px'; // Nastavení šířky ikony
+		    icon.style.height = '24px'; // Nastavení výšky ikony
+		    icon.style.display = 'block'; // Zajištění, že ikona je blokový prvek
+		    icon.style.margin = 'auto'; // Vycentrování ikony
+		    icon.style.padding = '0px';
+		    button.appendChild(icon);
+		
+		    button.onclick = function() {
+		        getLocation();
+		        // Změna barvy pozadí tlačítka podle stavu sledování
+		        if (!tracking) {
+		            button.style.backgroundColor = 'white'; // Deaktivace - bílá barva
+		        } else {
+		            button.style.backgroundColor = 'orange'; // Aktivace - oranžová barva
+		        }
+		        tracking = !tracking; // Přepnutí stavu sledování
+		    };
+		
+		    return button;
+		};
+		
+		locateButton.addTo(map);
 
-    	locateButton.addTo(map);
 
 	</script>
 	
