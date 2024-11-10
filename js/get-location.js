@@ -9,15 +9,15 @@ function getLocation() {
             });
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
-            map.setZoom(18);
+            var aktualniPoloha = L.marker([0, 0]).addTo(map);
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
             if (marker) {
-                map.removeLayer(marker); // Předpokládám, že marker je instance Leaflet.Marker nebo podobného objektu
-                marker = null;
+                map.removeLayer(aktualniPoloha); // Předpokládám, že marker je instance Leaflet.Marker nebo podobného objektu
+                aktualniPoloha = null;
             }
         }
     } else {
@@ -33,11 +33,11 @@ function showPosition(position) {
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
     // Aktualizace značky a mapy
-    if (marker) {
-        marker.setLatLng([lat, lon]);
+    if (aktualniPoloha) {
+        aktualniPoloha.setLatLng([lat, lon]);
     } else {
         // Pokud marker neexistuje, vytvořte ho
-        marker = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
+        aktualniPoloha = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
         map.setView([lat, lon], 18);
     }
     //marker.setLatLng([lat, lon]);
