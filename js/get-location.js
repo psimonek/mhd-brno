@@ -38,7 +38,7 @@ function showPosition(position) {
     } else {
         // Pokud marker neexistuje, vytvořte ho
         marker = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
-       
+        map.setView([lat, lon], 18);
     }
     //marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
