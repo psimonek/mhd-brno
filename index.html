@@ -263,23 +263,22 @@
 	</script>
 	<script src="js/get-location.js"></script>
 	<script>
-	//getLocation();
 	
-    // Přidání tlačítka pro aktivaci polohy
-    var locateButton = L.control({position: 'topright'});
+    	// Přidání tlačítka pro aktivaci polohy
+    	var locateButton = L.control({position: 'topright'});
 
-    locateButton.onAdd = function (map) {
-        var button = L.DomUtil.create('button', 'locate-button');
-        button.innerHTML = 'Aktivovat polohu';
-        button.onclick = function() {
-            getLocation();
-            // Změna textu tlačítka podle stavu sledování
-            button.innerHTML = tracking ? 'Deaktivovat polohu' : 'Aktivovat polohu';
-        };
+    	locateButton.onAdd = function (map) {
+        	var button = L.DomUtil.create('button', 'locate-button');
+        	button.innerHTML = 'Aktivovat polohu';
+        	button.onclick = function() {
+            	getLocation();
+           		// Změna textu tlačítka podle stavu sledování
+            	button.innerHTML = tracking ? 'Deaktivovat polohu' : 'Aktivovat polohu';
+        	};
         return button;
-    };
+    	};
 
-    locateButton.addTo(map);
+    	locateButton.addTo(map);
 
 	</script>
 	
