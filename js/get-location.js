@@ -16,6 +16,7 @@ function getLocation() {
             releaseWakeLock();
             if (marker) {
                 map.removeLayer(marker); // Předpokládám, že marker je instance Leaflet.Marker nebo podobného objektu
+                marker = null;
             }
         }
     } else {
