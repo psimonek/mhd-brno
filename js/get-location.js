@@ -20,7 +20,7 @@ function getLocation() {
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
             aktualniPoloha.addTo(map);
-            map.setZoom(19);
+            map.setZoom(18);
             prepinacPolohy = true;
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
@@ -50,7 +50,7 @@ function showPosition(position) {
     } else {
         // Pokud marker neexistuje, vytvořte ho
         aktualniPoloha = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
-        map.setView([lat, lon], 19);
+        map.setView([lat, lon], 18);
     }
     //marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
