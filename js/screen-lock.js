@@ -17,3 +17,4 @@ async function releaseWakeLock() {
         wakeLock = null;
         console.log('Wake Lock is released');
     }
+}
