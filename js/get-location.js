@@ -31,7 +31,13 @@ function showPosition(position) {
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
     // Aktualizace značky a mapy
-    marker.setLatLng([lat, lon]);
+    if (marker) {
+        marker.setLatLng([lat, lon]);
+    } else {
+        // Pokud marker neexistuje, vytvořte ho
+        marker = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
+    }
+    //marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
 
     // Otáčení mapy podle směru pohybu
