@@ -3,8 +3,7 @@ let wakeLock = null;
 // Definice funkce requestWakeLock
 async function requestWakeLock() {
     try {
-        window.currentWakeLock = await navigator.wakeLock.request();
-        //wakeLock = await navigator.wakeLock.request('screen');
+        wakeLock = await navigator.wakeLock.request('screen');
         console.log('Wake Lock is active');
         wakeLock = 1;
     } catch (err) {
@@ -15,8 +14,7 @@ async function requestWakeLock() {
 // Definice funkce releaseWakeLock
 async function releaseWakeLock() {
     if (wakeLock !== null) {
-        window.currentWakeLock.release();
-        //await wakeLock.release();
+        await wakeLock.release();
         wakeLock = null;
         console.log('Wake Lock is released');
     }
