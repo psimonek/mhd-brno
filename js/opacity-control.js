@@ -19,7 +19,7 @@ opacityControl.onAdd = function(map) {
     opacityContainer.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.2)';
     opacityContainer.style.display = 'flex';
     opacityContainer.style.flexDirection = 'column'; // Vertikální orientace
-    opacityContainer.style.width = '48px';
+    opacityContainer.style.width = '44px';
     opacityContainer.style.height = '124px';
 
     var opacityLabel = L.DomUtil.create('label', '', opacityContainer);
@@ -38,7 +38,7 @@ opacityControl.onAdd = function(map) {
     opacitySlider.style.writingMode = 'bt-lr'; // Vertikální orientace
     opacitySlider.style.transform = 'rotate(270deg)'; // Otočení pro správnou orientaci
     opacitySlider.style.margin = '0 auto'; // Centering
-    opacitySlider.style.marginLeft = '-24px';
+    opacitySlider.style.marginLeft = '-26px';
     opacitySlider.style.marginTop = '48px';
     opacitySlider.style.width = '100px'; // Šířka táhla
     opacitySlider.style.height = '8px'; // Výška táhla
