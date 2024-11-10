@@ -257,11 +257,12 @@
         };
         sidebar.addPanel(panelContentApp);  	
 
-	//requestWakeLock();
+	requestWakeLock();
 	</script>
 	<script src="js/screen-lock.js"></script>
 	<script src="js/get-location.js"></script>
 	<script>
+	requestWakeLock();
 	
     	// Přidání tlačítka pro aktivaci polohy
     	var locateButton = L.control({position: 'topright'});
