@@ -13,10 +13,7 @@ function getLocation() {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
-            wakeLock.release()
-                .then(() => {
-                  wakeLock = null;
-                })
+            releaseWakeLock();
         }
     } else {
         alert("Geolokace není podporována tímto prohlížečem.");
