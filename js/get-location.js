@@ -1,6 +1,14 @@
 // Funkce pro aktivaci geolokace
-var aktualniPoloha = L.marker([0, 0]);
+var arrowIcon = L.divIcon({
+    className: 'arrow-icon',
+    html: '<svg width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,87,0,0.5)" stroke="rgb(255,87,0)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 22 12 18 22 22 12 2" /></svg>',
+    iconSize: [40, 40],
+    iconAnchor: [20, 20] // Ukotvení ikony na střed
+});
+
+var aktualniPoloha = L.marker([0, 0], { icon: arrowIcon });
 var prepinacPolohy = false;
+
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
