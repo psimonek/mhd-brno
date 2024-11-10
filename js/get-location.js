@@ -8,7 +8,8 @@ function getLocation() {
                 timeout: 5000
             });
             tracking = true; // Nastavení stavu sledování na true
-            requestWakeLock();            
+            requestWakeLock();
+            map.setZoom(18);
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
@@ -37,7 +38,7 @@ function showPosition(position) {
     } else {
         // Pokud marker neexistuje, vytvořte ho
         marker = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
-        map.setView([lat, lon], 17);
+       
     }
     //marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
