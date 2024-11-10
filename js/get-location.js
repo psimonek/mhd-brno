@@ -1,4 +1,5 @@
 // Funkce pro aktivaci geolokace
+console.log('Tady jsme před getLocation.');
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
