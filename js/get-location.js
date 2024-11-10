@@ -14,16 +14,9 @@ function getLocation() {
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
-
-
-if (marker) {
+            if (marker) {
                 map.removeLayer(marker); // Předpokládám, že marker je instance Leaflet.Marker nebo podobného objektu
-                marker = null; // Nastavení markeru na null, aby se předešlo dalšímu použití
             }
-
-
-
-            
         }
     } else {
         alert("Geolokace není podporována tímto prohlížečem.");
