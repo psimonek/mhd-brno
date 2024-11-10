@@ -1,24 +1,24 @@
 let wakeLock = null;
 
-const requestWakeLock = async () => {
+async function requestWakeLock() {
     try {
         wakeLock = await navigator.wakeLock.request('screen');
         console.log('Wake Lock is active');
     } catch (err) {
         console.error(`${err.name}, ${err.message}`);
     }
-};
+}
 
-const releaseWakeLock = async () => {
+async function releaseWakeLock() {
     if (wakeLock !== null) {
         await wakeLock.release();
         wakeLock = null;
         console.log('Wake Lock is released');
     }
-};
+}
 
 // Funkce pro zpracování změny viditelnosti
-const handleVisibilityChange = async () => {
+async function handleVisibilityChange() {
     if (document.visibilityState === 'visible') {
         // Pokud se stránka stane viditelnou, znovu požádejte o wake lock
         await requestWakeLock();
@@ -26,7 +26,7 @@ const handleVisibilityChange = async () => {
         // Pokud stránka není viditelná, uvolněte wake lock
         await releaseWakeLock();
     }
-};
+}
 
 // Přidání posluchače události pro změnu viditelnosti
 document.addEventListener('visibilitychange', handleVisibilityChange);
