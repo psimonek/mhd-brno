@@ -3,16 +3,18 @@ let isSupported = false;
 
 if ('wakeLock' in navigator) {
   isSupported = true;
+  console.log('Prohlížeč podporuje wakeLock.');
 } else {
-  console.log('Prohlížeč nepodporuje wakeLock.');
+  console.log('Prohlížeč nepodporuje wakeLock!!!');
 }
 
 if (isSupported) {
   // create a reference for the wake lock
   let wakeLock = null;
-
+ console.log('Tady jsme v části isSuported.');
   // create an async function to request a wake lock
   const requestWakeLock = async () => {
+    console.log('Tady jsme v části const requestWakeLock.');
     try {
       wakeLock = await navigator.wakeLock.request('screen');
 
