@@ -47,3 +47,4 @@ if (isSupported) {
 
 
 } // isSupported
+requestWakeLock();
