@@ -3,7 +3,6 @@ let isSupported = false;
 
 if ('wakeLock' in navigator) {
   isSupported = true;
-  console.log('Prohlížeč podporuje wakeLock.');
 } else {
   console.log('Prohlížeč nepodporuje wakeLock!!!');
 }
