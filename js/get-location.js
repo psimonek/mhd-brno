@@ -1,4 +1,5 @@
 // Funkce pro aktivaci geolokace
+var aktualniPoloha = L.marker([0, 0]);
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
@@ -9,7 +10,7 @@ function getLocation() {
             });
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
-            var aktualniPoloha = L.marker([0, 0]).addTo(map);
+            aktualniPoloha.addTo(map);
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
