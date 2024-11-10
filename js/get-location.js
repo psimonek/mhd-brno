@@ -1,5 +1,6 @@
 // Funkce pro aktivaci geolokace
 var aktualniPoloha = L.marker([0, 0]);
+var prepinacPolohy = false;
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
@@ -11,6 +12,7 @@ function getLocation() {
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
             aktualniPoloha.addTo(map);
+            prepinacPolohy = true;
         } else {
             navigator.geolocation.clearWatch(watchId); // Zrušení sledování
             tracking = false; // Nastavení stavu sledování na false
@@ -18,7 +20,7 @@ function getLocation() {
             releaseWakeLock();
             if (marker) {
                 map.removeLayer(aktualniPoloha); // Předpokládám, že marker je instance Leaflet.Marker nebo podobného objektu
-                aktualniPoloha = null;
+                prepinacPolohy = false;
             }
         }
     } else {
@@ -34,7 +36,7 @@ function showPosition(position) {
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
     // Aktualizace značky a mapy
-    if (aktualniPoloha) {
+    if (prepinacPolohy) {
         aktualniPoloha.setLatLng([lat, lon]);
     } else {
         // Pokud marker neexistuje, vytvořte ho
