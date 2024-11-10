@@ -3,9 +3,8 @@ let isSupported = false;
 
 if ('wakeLock' in navigator) {
   isSupported = true;
-    alert('Váš prohlížeč podporuje funkci wakeLock.\nV Případě sledování polohy bude obrazovka udržována rozsvícená.');
 } else {
-  alert('Váš prohlížeč nepodporuje funkci wakeLock.\nV Případě sledování polohy nebude obrazovka udržována rozsvícená.');
+  console.log('Prohlížeč nepodporuje wakeLock.');
 }
 
 if (isSupported) {
