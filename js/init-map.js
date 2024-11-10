@@ -11,13 +11,13 @@ var map = L.map('map', {
 // Přidání OpenStreetMap a ostatních dlaždic
 
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 22,
+    maxZoom: 21,
     attribution: '© OpenStreetMap'
 });
 var sat = L.tileLayer.wms('https://ags.cuzk.cz/arcgis1/services/ORTOFOTO/MapServer/WMSServer', {
 	  layers: 0,
 	  format: 'image/jpeg',
-	  maxZoom: 22,
+	  maxZoom: 21,
 	  transparent: true,
 	  attribution: '&copy; <a href="https://www.cuzk.cz/">ČÚZK</a>'
 });
