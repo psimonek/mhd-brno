@@ -13,11 +13,12 @@
     
     <!-- Content Security Policy (CSP) -->
     <script>
-        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com; " +
+        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com https://overpass-api.de; " +
                     "script-src 'self' 'unsafe-inline' https://ajax.googleapis.com https://unpkg.com https://scripts.simpleanalyticscdn.com; " +
                     "style-src 'self' 'unsafe-inline' https://unpkg.com https://maxcdn.bootstrapcdn.com; " +
                     "img-src 'self' https://queue.simpleanalyticscdn.com https://tile.openstreetmap.org https://unpkg.com;" +
-                    "font-src 'self' https://maxcdn.bootstrapcdn.com; ";
+                    "font-src 'self' https://maxcdn.bootstrapcdn.com; " + 
+					"content-src 'self' https://overpass-api.de; ";
         const meta = document.createElement('meta');
         meta.httpEquiv = "Content-Security-Policy";
         meta.content = csp;
