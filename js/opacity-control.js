@@ -1,8 +1,16 @@
 // Funkce pro aktualizaci průhlednosti
 function updateOpacity(opacity) {
     Object.values(baseMaps).forEach(function(layer) {
-        layer.setOpacity(opacity);
+        var mapLibreElement = document.querySelector('.maplibregl-map');
+        if (mapLibreElement) {
+            mapLibreElement.style.opacity = opacity; // Nastavení opacity
+        } else {
+            layer.setOpacity(opacity);
+        }
     });
+
+    // Nastavení průhlednosti pro mapLibre
+
 }
 
 // Přidání slideru pro průhlednost
@@ -23,7 +31,6 @@ opacityControl.onAdd = function(map) {
     opacityContainer.style.height = '124px';
 
     var opacityLabel = L.DomUtil.create('label', '', opacityContainer);
-    //opacityLabel.innerHTML = '<span style="text-align: center; font-size: 1.1em;">Průhl.</span>';
     opacityLabel.style.display = 'block';
     opacityLabel.style.marginBottom = '10px';
 
