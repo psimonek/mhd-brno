@@ -13,15 +13,17 @@
     
     <!-- Content Security Policy (CSP) -->
     <script>
-        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com https://overpass-api.de; " +
+        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com https://overpass-api.de https://tiles.openfreemap.org; " +
                     "script-src 'self' 'unsafe-inline' https://ajax.googleapis.com https://unpkg.com https://scripts.simpleanalyticscdn.com; " +
                     "style-src 'self' 'unsafe-inline' https://unpkg.com https://maxcdn.bootstrapcdn.com; " +
                     "img-src 'self' data: https://queue.simpleanalyticscdn.com https://tile.openstreetmap.org https://unpkg.com https://ags.cuzk.cz;" +
-                    "font-src 'self' https://maxcdn.bootstrapcdn.com; ";
+                    "font-src 'self' https://maxcdn.bootstrapcdn.com; " +
+                    "worker-src 'self' blob:";
         const meta = document.createElement('meta');
         meta.httpEquiv = "Content-Security-Policy";
         meta.content = csp;
         document.getElementsByTagName('head')[0].appendChild(meta);
+        
     </script>
     
     <link rel="manifest" href="manifest.json">
@@ -38,6 +40,13 @@
     <script src="plugins/leaflet-sidebar-v2-master/js/leaflet-sidebar.js"></script>
 	<script src="https://unpkg.com/leaflet-rotate@0.2.8/dist/leaflet-rotate-src.js"></script>
 	<script src="js/screen-lock.js"></script>
+
+	<!-- Maplibre GL -->
+	<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+	<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+
+	<!-- Maplibre GL Leaflet  -->
+	<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet/leaflet-maplibre-gl.js"></script>
 	
 </head>
 <body>
