@@ -21,7 +21,12 @@ var sat = L.tileLayer.wms('https://ags.cuzk.cz/arcgis1/services/ORTOFOTO/MapServ
 	  transparent: true,
 	  attribution: '&copy; <a href="https://www.cuzk.cz/">ČÚZK</a>'
 });
+var mapLibre = L.maplibreGL({
+    style: 'mapstyle/bright.json',
+    attribution: '<a href="https://openfreemap.org" target="_blank">OpenFreeMap</a> &copy; <a href="https://www.openmaptiles.org/" target="_blank">OpenMapTiles</a> Data: © OpenStreetMap'
+    });
 var baseMaps = {
     "Klasická mapa": osm,
+    "Vektorová mapa": mapLibre,
     "Satelitní snímky": sat,
 };
