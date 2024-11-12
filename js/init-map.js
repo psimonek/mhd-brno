@@ -27,6 +27,6 @@ var mapLibre = L.maplibreGL({
     });
 var baseMaps = {
     "Klasická mapa": osm,
-    "Satelitní snímky": sat,
-	"Vektorová mapa": mapLibre
+	"Vektorová mapa": mapLibre,
+    "Satelitní snímky": sat
 };
