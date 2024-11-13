@@ -30,3 +30,9 @@ var baseMaps = {
     "Satelitní snímky": sat,
 	"Vektorová mapa": mapLibre,
 };
+
+// Při přepnutí mapy potřebujeme vyvolat funkci pro aplikování stylů Dark/Light mode.
+
+map.on('baselayerchange', function(e) {
+    setTheme(); // Znovu nastavte téma při změně mapy
+});
