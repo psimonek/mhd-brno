@@ -1,3 +1,37 @@
+/* Styly pro tmavý režim */
+:root {
+    --background-color: white;
+    --text-color: black;
+}
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+body.dark-mode {
+    --background-color: black;
+    --text-color: white;
+}
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode p {
+    color: black; /* Nastavení bílé barvy textu nutno invertovat invertované*/
+}
+body.dark-mode .leaflet-layer,
+body.dark-mode .leaflet-control,
+body.dark-mode .leaflet-control-attribution,
+body.dark-mode .leaflet-gl-layer,
+body.dark-mode .leaflet-sidebar {
+    filter: invert(100%) hue-rotate(180deg) brightness(100%) contrast(100%);
+}
+/* Musíme invertovat invertované pro zobrazení satelitní mapy */
+.invert-sat {
+	filter: invert(100%) hue-rotate(180deg) brightness(100%) contrast(100%);
+	}
+/* Konec tmavého režimu */
+
 body, html {
     height: 100%;
     width: 100%;
