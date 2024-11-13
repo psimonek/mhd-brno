@@ -19,6 +19,9 @@ body.dark-mode h5,
 body.dark-mode p {
     color: black; /* Nastavení bílé barvy textu nutno invertovat invertované*/
 }
+body.dark-mode .leaflet-container {
+	background-color: black;
+	}
 body.dark-mode .leaflet-layer,
 body.dark-mode .leaflet-control,
 body.dark-mode .leaflet-control-attribution,
