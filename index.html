@@ -323,6 +323,56 @@
 		};	
 		locateButton.addTo(map);
 
+		// Nastavení tříd při změně režimů z tmavého na světlý a obráceně
+    	
+    	function setTheme() {
+            const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            
+            if (map.hasLayer(sat)) {
+                activeLayerName = "sat";
+            } else if (map.hasLayer(osm)) {
+                activeLayerName = "osm";
+            } else if (map.hasLayer(mapLibre)) {
+                activeLayerName = "mapLibre";
+            }
+                
+            console.log(activeLayerName);
+            if (isDarkMode) {
+                document.body.classList.add('dark-mode');
+        
+                // Zkontrolujte, zda je aktivní satelitní mapa pro invertování invertovaného
+                if (activeLayerName === "sat") {
+                    document.querySelector('.leaflet-container').classList.add('invert-sat'); 
+                    document.querySelector('.leaflet-top.leaflet-right').classList.add('invert-sat');
+                    document.querySelector('.leaflet-top.leaflet-left').classList.add('invert-sat');
+                    document.querySelector('.leaflet-sidebar-tabs').classList.add('invert-sat');
+                    document.querySelector('.leaflet-sidebar-content').classList.add('invert-sat');
+                    document.querySelector('.leaflet-pane.leaflet-marker-pane').classList.add('invert-sat');
+                } else {
+                    document.querySelector('.leaflet-container').classList.remove('invert-sat'); 
+                    document.querySelector('.leaflet-top.leaflet-right').classList.remove('invert-sat');
+                    document.querySelector('.leaflet-top.leaflet-left').classList.remove('invert-sat');
+                    document.querySelector('.leaflet-sidebar-tabs').classList.remove('invert-sat');
+                    document.querySelector('.leaflet-sidebar-content').classList.remove('invert-sat');
+                    document.querySelector('.leaflet-pane.leaflet-marker-pane').classList.remove('invert-sat');
+                }
+            } else {
+                document.body.classList.remove('dark-mode');
+                
+                // Toto je pro odstranění invertování invertovaného
+                document.querySelector('.leaflet-container').classList.remove('invert-sat'); 
+                document.querySelector('.leaflet-top.leaflet-right').classList.remove('invert-sat');
+                document.querySelector('.leaflet-top.leaflet-left').classList.remove('invert-sat');
+                document.querySelector('.leaflet-sidebar-tabs').classList.remove('invert-sat');
+                document.querySelector('.leaflet-sidebar-content').classList.remove('invert-sat');
+                document.querySelector('.leaflet-pane.leaflet-marker-pane').classList.remove('invert-sat');
+        
+            }
+        }
+        // Nastavit téma při načtení stránky
+        setTheme();
+        // Sedování změny v preferencích uživatele Dark/Light theme
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
 
 	</script>
 	
