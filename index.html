@@ -58,8 +58,12 @@
             document.head.appendChild(metaThemeColor);
         }
 
-    // Nastavit barvu při načtení stránky
-	window.onload = setThemeColor;
+		// Nastavit barvu při načtení stránky
+        window.onload = function() {
+            setThemeColor();
+            // Přidat listener pro změnu motivu
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setThemeColor);
+        };
 
     // Přidat listener pro změnu motivu
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setThemeColor);
