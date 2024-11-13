@@ -47,6 +47,24 @@
 
 	<!-- Maplibre GL Leaflet  -->
 	<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet/leaflet-maplibre-gl.js"></script>
+
+	<!-- Zjištění dark theme pro doplnění <meta name="theme-color" content="#000000">  -->
+	<script>
+        function setThemeColor() {
+            const themeColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#000000' : '#FFFFFF';
+            const metaThemeColor = document.createElement('meta');
+            metaThemeColor.name = 'theme-color';
+            metaThemeColor.content = themeColor;
+            document.head.appendChild(metaThemeColor);
+        }
+
+    // Nastavit barvu při načtení stránky
+	window.onload = setThemeColor;
+
+    // Přidat listener pro změnu motivu
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setThemeColor);
+</script>
+
 	
 </head>
 <body>
