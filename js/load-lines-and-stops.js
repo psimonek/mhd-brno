@@ -239,6 +239,9 @@ function loadLinesAndStops(lineRef) {
 		
 		// Přizpůsobení mapy tak, aby zahrnovala všechny souřadnice
 		map.fitBounds(boundsOfRelations);
+
+		// Spustíme kontrolu dark/light režimu pro zajištění, že noční linka (černá) se vykreslí světle
+		setTheme()
     })
     .catch(error => console.error('Chyba při načítání dat:', error));
 }
