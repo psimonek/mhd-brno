@@ -368,19 +368,19 @@
                 if (isDarkMode) {
                     // Pokud je tmavý režim a cesta je černá, nastavíme barvu na bílou
                     if (currentStroke === 'rgb(0, 0, 0)') {
-                        path.setAttribute('stroke', 'rgb(255, 255, 150)'); // bílá
+                        path.setAttribute('stroke', 'rgb(220, 220, 220)'); // bílá
                         
                     }
                     if (currentFill === 'rgb(0, 0, 0)') {
-                        path.setAttribute('fill', 'rgb(255, 255, 150)'); // bílá
+                        path.setAttribute('fill', 'rgb(220, 220, 220)'); // bílá
                         
                     }
                 } else {
                     // Pokud je světlý režim a cesta je bílá, nastavíme barvu na černou
-                    if (currentStroke === 'rgb(255, 255, 150)') {
+                    if (currentStroke === 'rgb(220, 220, 220)') {
                         path.setAttribute('stroke', 'rgb(0, 0, 0)'); // černá
                     }
-                    if (currentFill === 'rgb(255, 255, 150)') {
+                    if (currentFill === 'rgb(220, 220, 220)') {
                         path.setAttribute('fill', 'rgb(0, 0, 0)'); // černá
                     }
                 }
