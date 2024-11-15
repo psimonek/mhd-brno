@@ -27,7 +27,7 @@ body.dark-mode .leaflet-control,
 body.dark-mode .leaflet-control-attribution,
 body.dark-mode .leaflet-gl-layer,
 body.dark-mode .leaflet-sidebar {
-    filter: invert(100%) hue-rotate(180deg) brightness(100%) contrast(100%);
+    filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(100%);
 }
 /* Musíme invertovat invertované pro zobrazení satelitní mapy */
 .invert-sat {
