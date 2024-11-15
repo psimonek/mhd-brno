@@ -358,6 +358,34 @@
             }
                 
             console.log(activeLayerName);
+
+			// Změna barvy cesty podle režimu (zajištění správného zobrazení nočních linek)
+            const pathElements = document.querySelectorAll('path.leaflet-interactive');
+            pathElements.forEach(path => {
+                const currentStroke = path.getAttribute('stroke');
+                const currentFill = path.getAttribute('fill');
+                
+                if (isDarkMode) {
+                    // Pokud je tmavý režim a cesta je černá, nastavíme barvu na bílou
+                    if (currentStroke === 'rgb(0, 0, 0)') {
+                        path.setAttribute('stroke', 'rgb(255, 255, 150)'); // bílá
+                        
+                    }
+                    if (currentFill === 'rgb(0, 0, 0)') {
+                        path.setAttribute('fill', 'rgb(255, 255, 150)'); // bílá
+                        
+                    }
+                } else {
+                    // Pokud je světlý režim a cesta je bílá, nastavíme barvu na černou
+                    if (currentStroke === 'rgb(255, 255, 150)') {
+                        path.setAttribute('stroke', 'rgb(0, 0, 0)'); // černá
+                    }
+                    if (currentFill === 'rgb(255, 255, 150)') {
+                        path.setAttribute('fill', 'rgb(0, 0, 0)'); // černá
+                    }
+                }
+            });
+
             if (isDarkMode) {
                 document.body.classList.add('dark-mode');
         
