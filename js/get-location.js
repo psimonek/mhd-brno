@@ -61,34 +61,33 @@ function showPosition(position) {
         activeLayerName = "sat";
         map.setBearing(-heading); // Negace pro správnou orientaci
         if (arrowElement) {
-            arrowElement.style.transform = 'rotate(0deg)';
+            arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
         }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
         map.setBearing(-heading); // Negace pro správnou orientaci
         if (arrowElement) {
-            arrowElement.style.transform = 'rotate(0deg)';
+            arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
         }
     } else if (map.hasLayer(mapLibre)) {
         activeLayerName = "mapLibre";
-        map.setBearing(0);
+        map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
         }    
     }
-    //map.setBearing(-heading); // Negace pro správnou orientaci
 }
 
 function showError(error) {
     switch(error.code) {
         case error.PERMISSION_DENIED:
-            alert("Uživatel odmítl žádost o geolokaci.");
+            alert("Uživatel nepovolil sdílení polohy.");
             break;
         case error.POSITION_UNAVAILABLE:
             alert("Poloha není k dispozici.");
             break;
         case error.TIMEOUT:
-            alert("Žádost o geolokaci vypršela.");
+            alert("Žádost o polohu vypršela.");
             break;
         case error.UNKNOWN_ERROR:
             alert("Nastala neznámá chyba.");
