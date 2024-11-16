@@ -55,8 +55,21 @@ function showPosition(position) {
     //marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
 
-    // Otáčení mapy podle směru pohybu
-    map.setBearing(-heading); // Negace pro správnou orientaci
+    // Otáčení mapy nebo šipky podle směru pohybu
+    if (map.hasLayer(sat)) {
+        activeLayerName = "sat";
+        map.setBearing(-heading); // Negace pro správnou orientaci
+    } else if (map.hasLayer(osm)) {
+        activeLayerName = "osm";
+        map.setBearing(-heading); // Negace pro správnou orientaci
+    } else if (map.hasLayer(mapLibre)) {
+        activeLayerName = "mapLibre";
+        var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-icon');
+        if (arrowElement) {
+            arrowElement.style.transform = 'rotate(' + heading + 'deg)';
+        }    
+    }
+    //map.setBearing(-heading); // Negace pro správnou orientaci
 }
 
 function showError(error) {
