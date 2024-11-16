@@ -56,6 +56,7 @@ function showPosition(position) {
     map.setView([lat, lon]);
 
     // Otáčení mapy nebo šipky podle směru pohybu
+    var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
         map.setBearing(-heading); // Negace pro správnou orientaci
@@ -71,7 +72,6 @@ function showPosition(position) {
     } else if (map.hasLayer(mapLibre)) {
         activeLayerName = "mapLibre";
         map.setBearing(0);
-        var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
         if (arrowElement) {
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
         }    
