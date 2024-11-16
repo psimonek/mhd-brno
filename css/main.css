@@ -9,7 +9,7 @@ body {
 }
 body.black-mode {
     --background-color: black;
-    --text-color: white;
+    /*--text-color: white;*/
 }
 sidebar.dark-mode h1,
 sidebar.dark-mode h2,
