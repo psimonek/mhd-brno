@@ -31,21 +31,22 @@ var baseMaps = {
 	"Vektorová mapa": mapLibre,
 };
 
-// Při přepnutí mapy potřebujeme vyvolat funkci pro aplikování stylů Dark/Light mode.
+// Při přepnutí mapy potřebujeme vyvolat funkci pro aplikování stylů Dark/Light mode a stylu navigace (otáčení mapy nebo šipky).
+// Zde se jedná pouze o vyvolání správních hodnot při přepnutí mapy. Samotné chování během navigace se definuje v get-location.js
 
 map.on('baselayerchange', function(e) {
-    setTheme(); // Znovu nastavte téma při změně mapy
+    setTheme(); // Znovu nastavení módu dark/light při změně mapy
 	if (map.hasLayer(sat)) {
-        map.setBearing(0); // Negace pro správnou orientaci
+        map.setBearing(0); // Reset rotace mapy
     	if (arrowElement) {
-            arrowElement.style.transform = 'rotate(0deg)';
+            arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
         }
     } else if (map.hasLayer(osm)) {
-        map.setBearing(0); // Negace pro správnou orientaci
+        map.setBearing(0); // Reset rotace mapy
         if (arrowElement) {
-            arrowElement.style.transform = 'rotate(0deg)';
+            arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
         }
     } else if (map.hasLayer(mapLibre)) {
-        map.setBearing(0); 
+        map.setBearing(0); // Reset rotace mapy
     }
 });
