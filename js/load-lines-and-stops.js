@@ -136,7 +136,7 @@ function loadLinesAndStops(lineRef) {
                         var stop = data.elements.find(e => e.id === member.ref);
                         if (stop && stop.tags && stop.tags.public_transport === 'stop_position') {
                             // Vykreslení zastávky
-                            L.circleMarker([stop.lat, stop.lon], { color: lineColor, fillOpacity: .6, radius: 8, layerType: "circleMarker"})
+                            L.circleMarker([stop.lat, stop.lon], { color: lineColor, fillColor: "white", fillOpacity: 1, radius: 10, layerType: "circleMarker"})
                                 .bindPopup(stop.tags.name || "Neznámá zastávka", { offset: [0, -10] })
                                 .addTo(hladina);
                         }                   
@@ -158,6 +158,7 @@ function loadLinesAndStops(lineRef) {
 				        hideLayerByName(cisloRel);
 				        // Vyvolej funkci addStoptoDiv s cisloRelace
 				        addStoptoDiv(cisloRel);
+				        setTheme(); // Potřebujeme kvůli zachování barev variant linek při jejich vyvolání a skrytí zkontrolovat režim tmavý/světlý 
 				    });
 				});
 
