@@ -1,7 +1,7 @@
 // Funkce pro aktivaci geolokace
 var arrowIcon = L.divIcon({
     className: 'arrow-icon',
-    html: '<svg width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,87,0,0.5)" stroke="rgb(255,87,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon class="arrow-position" points="12 2 2 22 12 18 22 22 12 2" /></svg>',
+    html: '<svg class="arrow-position" width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,87,0,0.5)" stroke="rgb(255,87,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 22 12 18 22 22 12 2" /></svg>',
     iconSize: [30, 30],
     iconAnchor: [20, 20] // Ukotvení ikony na střed
 });
