@@ -35,4 +35,17 @@ var baseMaps = {
 
 map.on('baselayerchange', function(e) {
     setTheme(); // Znovu nastavte téma při změně mapy
+	if (map.hasLayer(sat)) {
+        map.setBearing(0); // Negace pro správnou orientaci
+    	if (arrowElement) {
+            arrowElement.style.transform = 'rotate(0deg)';
+        }
+    } else if (map.hasLayer(osm)) {
+        map.setBearing(0); // Negace pro správnou orientaci
+        if (arrowElement) {
+            arrowElement.style.transform = 'rotate(0deg)';
+        }
+    } else if (map.hasLayer(mapLibre)) {
+        map.setBearing(0); 
+    }
 });
