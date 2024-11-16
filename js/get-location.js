@@ -59,9 +59,15 @@ function showPosition(position) {
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
         map.setBearing(-heading); // Negace pro správnou orientaci
+        if (arrowElement) {
+            arrowElement.style.transform = 'rotate(0deg)';
+        }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
         map.setBearing(-heading); // Negace pro správnou orientaci
+        if (arrowElement) {
+            arrowElement.style.transform = 'rotate(0deg)';
+        }
     } else if (map.hasLayer(mapLibre)) {
         activeLayerName = "mapLibre";
         map.setBearing(0);
