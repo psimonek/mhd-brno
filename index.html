@@ -355,10 +355,11 @@
                 activeLayerName = "sat";
             } else if (map.hasLayer(osm)) {
                 activeLayerName = "osm";
-            } else if (map.hasLayer(mapLibre)) {
-                activeLayerName = "mapLibre";
+            } else if (map.hasLayer(mapLibreBright)) {
+                activeLayerName = "mapLibreBright";
+            } else if (map.hasLayer(mapLibreDark)) {
+                activeLayerName = "mapLibreDark";
             }
-                
             console.log(activeLayerName);
 
 			// Změna barvy cesty podle režimu (zajištění správného zobrazení nočních linek)
@@ -406,11 +407,20 @@
                     if (mapWindow) {
                         mapWindow.classList.add('dark-mode');
                     }
+                    map.removeLayer(mapLibreDark);
+                } else if (activeLayerName === "mapLibreBright") {
+                    const mapWindow = document.querySelector('.leaflet-tile-pane');
+                    if (mapWindow) {
+                        mapWindow.classList.remove('dark-mode');
+                    }
+                    map.removeLayer(mapLibreBright)
+                    mapLibreDark.addTo(map);
                 } else {
                     const mapWindow = document.querySelector('.leaflet-tile-pane');
                     if (mapWindow) {
                         mapWindow.classList.remove('dark-mode');
                     }
+                    map.removeLayer(mapLibreDark);
                 }
             } else {
                 document.body.classList.remove('black-mode');
@@ -418,10 +428,19 @@
                 elementsOnScreen.forEach(element => {
                     element.classList.remove('dark-mode');
                 });
+                if (activeLayerName === "mapLibreDark") { 
+                    const mapWindow = document.querySelector('.leaflet-tile-pane');
+                    if (mapWindow) {
+                        mapWindow.classList.remove('dark-mode');
+                    }
+                    map.removeLayer(mapLibreDark);
+                    mapLibreBright.addTo(map);
+                }
             }
         }
         // Nastavit téma při načtení stránky
         setTheme();
+
 
         // Sedování změny v preferencích uživatele Dark/Light theme
         window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
