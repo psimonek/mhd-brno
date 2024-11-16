@@ -28,7 +28,8 @@ var mapLibre = L.maplibreGL({
 var baseMaps = {
     "Klasická mapa": osm,
     "Satelitní snímky": sat,
-	"Vektorová mapa": mapLibre,
+	"Alternativní mapa": mapLibreBright,
+	//"Silniční (tmavá)": mapLibreDark
 };
 
 // Při přepnutí mapy potřebujeme vyvolat funkci pro aplikování stylů Dark/Light mode a stylu navigace (otáčení mapy nebo šipky).
