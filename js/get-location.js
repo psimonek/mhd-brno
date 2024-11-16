@@ -70,7 +70,7 @@ function showPosition(position) {
             arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
         }
     } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-        activeLayerName = "mapLibre";
+        //activeLayerName = "mapLibre";
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
