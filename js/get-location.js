@@ -64,6 +64,7 @@ function showPosition(position) {
         map.setBearing(-heading); // Negace pro správnou orientaci
     } else if (map.hasLayer(mapLibre)) {
         activeLayerName = "mapLibre";
+        map.setBearing(0);
         var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
         if (arrowElement) {
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
