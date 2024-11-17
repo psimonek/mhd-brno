@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<title>MHD Brno</title>
+    <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
+	<link rel="icon" type="image/png" href="img/favicon.png">
+    <meta charset="UTF-8">
+	<meta name="description" content="Zobrazení vedení všech variant linek autobusů, trolejbusů a tramvají v Brně.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bezpečnostní hlavičky -->
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+    <meta name="referrer" content="no-referrer">
+    
+    <!-- Content Security Policy (CSP) -->
+    <script>
+        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com https://overpass-api.de https://tiles.openfreemap.org; " +
+                    "script-src 'self' 'unsafe-inline' https://ajax.googleapis.com https://unpkg.com https://scripts.simpleanalyticscdn.com; " +
+                    "style-src 'self' 'unsafe-inline' https://unpkg.com https://maxcdn.bootstrapcdn.com; " +
+                    "img-src 'self' data: https://queue.simpleanalyticscdn.com https://tile.openstreetmap.org https://unpkg.com https://ags.cuzk.cz;" +
+                    "font-src 'self' https://maxcdn.bootstrapcdn.com; " +
+                    "worker-src 'self' blob:";
+        const meta = document.createElement('meta');
+        meta.httpEquiv = "Content-Security-Policy";
+        meta.content = csp;
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        
+    </script>
+    
+    <link rel="manifest" href="manifest.json">
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="plugins/leaflet-sidebar-v2-master/css/leaflet-sidebar.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/main.css" />
+
+    <script src="js/appscript.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>    
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <!--<script src="js/SmoothWheelZoom.js"></script> Toto blokuje jiný kód, tedy vyřazuji z provozu-->
+    <script src="plugins/leaflet-sidebar-v2-master/js/leaflet-sidebar.js"></script>
+	<script src="https://unpkg.com/leaflet-rotate@0.2.8/dist/leaflet-rotate-src.js"></script>
+	<script src="js/screen-lock.js"></script>
+
+	<!-- Maplibre GL -->
+	<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+	<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+
+	<!-- Maplibre GL Leaflet  -->
+	<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet/leaflet-maplibre-gl.js"></script>
+
+	<!-- Zjištění dark theme pro doplnění <meta name="theme-color" content="#000000">  -->
+<script>
+        function setThemeColor() {
+            const themeColor = window.matchMedia('(prefers-color-scheme: dark)').matches ? '#000000' : '#FFFFFF';
+            const metaThemeColor = document.querySelector('meta[name="theme-color"]') || document.createElement('meta');
+            metaThemeColor.name = 'theme-color';
+            metaThemeColor.content = themeColor;
+            if (!metaThemeColor.parentNode) {
+                document.head.appendChild(metaThemeColor);
+            }
+        }
+
+        // Nastavit barvu při načtení stránky
+        window.onload = function() {
+            setThemeColor();
+            // Přidat listener pro změnu motivu
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setThemeColor);
+        };
+    </script>
+
+	
+</head>
+<body>
+	<!-- Přidání sidebaru -->
+	
+    <div id="sidebar" class="leaflet-sidebar collapsed">
+
+        <!-- nav tabs -->
+        <div class="leaflet-sidebar-tabs">
+            <!-- top aligned tabs -->
+            <ul role="tablist">
+                <li><a href="#home" role="tab"><i class="fa fa-bars active"></i></a></li>
+                <li style="padding-top:10px;"><a href="#tram" role="tab"><img src = "img/tram.svg" width="80%"></a></li>
+                <li style="padding-top:10px;"><a href="#trolejbus" role="tab"><img src = "img/trolleybus.svg" width="70%"></a></li>
+                <li style="padding-top:10px;"><a href="#bus" role="tab"><img src = "img/bus.svg" width="63%"></a></li>
+                <li style="padding-top:10px;"><a href="#info" role="tab"><img src = "img/route.svg" width="65%"></a></li>
+                <!--<li style="padding-top:10px;"><a href="#novinky" role="tab"><img src = "img/info.svg" width="65%"></a></li>-->
+            </ul>
+
+            <!-- bottom aligned tabs -->
+            <ul role="tablist">
+                <li><a href="http://github.com/psimonek/mhd-brno.git"><i class="fa fa-github"></i></a></li>
+            </ul>
+        </div>
+
+        <!-- panel content -->
+        <div class="leaflet-sidebar-content">
+            <div class="leaflet-sidebar-pane" id="home">
+                <h1 class="leaflet-sidebar-header">
+                    Mapa linek MHD v Brně
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+				<h3>Funkce webu</h3>
+                <p>Tento web zobrazuje na mapě linky MHD v Brně dle vašeho výběru, tedy trasy tramvají, trolejbusů a autobusů, včetně zastávek.</p>
+				<p>Pokud tento panel překrývá celou obrazovku a nevidíte mapu, klikněte v pravém horním rohu na šipku sbalení <i class="fa fa-caret-left"></i> nebo vlevo na ikonu <img style="width: 1em;" src = "img/map.svg"></p>
+				<h3>Funkce mapy</h3>
+				<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <img style="width: 1em;" src = "img/route.svg"> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
+				<p>Velké číslo linky v mapě se zobrazuje na výchozí první zastávce dané varianty. Kruhové značky zobrazují místo zastavení na zastávce.</p>
+				<h3>Zdroje dat</h3>
+				<p>Jako tvůrce tohoto webu zároveň udržuji i aktuálnost vedení linek MHD v Brně v open-source mapách <a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>, ze kterých tento web přebírá veškerá data. Tento projekt udržují dobrovolníci, proto je nelze považovat za bezchybné a zcela spolehlivé.</p>
+				<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších než 2 měsíce.</p>
+				<p><i>Poslední aktualizace dat: 12.11.2024</i></p>
+				<p>S <i class='fa fa-heart'></i> k dopravě a technologiím vyrobil @psimonek.</p>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="tram">
+                <h1 class="leaflet-sidebar-header">
+                    Tramvaje
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1> 
+                <p> </p>
+                <ul class="group-content">
+                    <li><a class="tram-type menu-border" href="#" data-line="1">1</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="2">2</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="3">3</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="4">4</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="5">5</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="6">6</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="7">7</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="8">8</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="9">9</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="10">10</a></li>
+                    <li><a class="tram-type menu-border" href="#" data-line="12">12</a></li>
+	            </ul>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="trolejbus">
+                <h1 class="leaflet-sidebar-header">
+                    Trolejbusy
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+                <p> </p>
+                <ul class="group-content">
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="25">25</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="26">26</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="30">30</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="31">31</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="32">32</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="33">33</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="34">34</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="35">35</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="36">36</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="37">37</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="38">38</a></li>
+                    <li><a class="trolleybus-type menu-border" href="#" data-line="39">39</a></li>
+                </ul>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="bus">
+                <h1 class="leaflet-sidebar-header">
+                    Autobusy
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+                <p> </p>
+                <ul class="group-content">
+                    <li><a class="bus-type menu-border" href="#" data-line="x4">x4</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="40">40</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="41">41</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="42">42</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="44">44</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="46">46</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="47">47</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="49">49</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="50">50</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E50">E50</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="51">51</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="52">52</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="54">54</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="55">55</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E56">E56</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="57">57</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="58">58</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="62">62</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="64">64</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="65">65</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="67">67</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="68">68</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="69">69</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="70">70</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="72">72</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="75">75</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E75">E75</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="E76">E76</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="77">77</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="78">78</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="80">80</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="84">84</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="Š85">Š85</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="Š86">Š86</a></li>
+                    <li><a class="bus-type menu-border" href="#" data-line="Š88">Š88</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N89">N89</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N90">N90</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N91">N91</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N92">N92</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N93">N93</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N94">N94</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N95">N95</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N96">N96</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N97">N97</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N98">N98</a></li>
+                    <li><a class="night-type menu-border" href="#" data-line="N99">N99</a></li>
+					<li><a class="bus-type menu-border" href="#" data-line="211">211</a></li>
+					<li><a class="bus-type menu-border" href="#" data-line="302">302</a></li>
+					<li><a class="bus-type menu-border" href="#" data-line="303">303</a></li>
+					<li><a class="bus-type menu-border" href="#" data-line="403">403</a></li>
+                </ul>
+            </div>
+            
+            <div class="leaflet-sidebar-pane" id="info">
+                <h1 class="leaflet-sidebar-header">
+                    Podrobnosti o lince
+                    <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+
+                <p>Zde jsou uvedené varianty vybrané linky, které mají konečné zastávky v jiném místě. Pokud se jedná o zkrácený spoj, který má konečnou na standardní trase, není takový spoj uvedený jako další varianta.</p>
+                <div class="detail-linky-group" id="detailLinky">
+                
+            	</div>
+            	<div id="resetLayers">
+                
+            	</div>
+           		<div id="detail-linky-zastavky">
+                
+				</div>
+			</div>
+        </div>
+			
+		<!-- Event listener pro odkazy výše -->
+        <script src="js/event-listener-lines.js"></script> 
+            
+        </div>
+    </div>
+    
+    <!-- Konec obsahu sidebaru -->
+    
+	<div id="map"></div>
+
+    <script>
+    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky   
+
+		// proměnná pro zamknutí mobilu, aby nepadal do uspání obrazovky.
+		//let wakeLock = null;
+		
+    </script>
+    	
+    <!-- Funkce pro načtení a zobrazení mapových podkladů -->
+    <script src="js/init-map.js"></script>
+		
+	<!-- Funkce pro dynamické nastavení průhlednosti mapy -->
+	<script src="js/opacity-control.js"></script>
+		
+	<script>
+		
+        var linesLayer = L.layerGroup().addTo(map); // Skupina pro linky
+        
+		// Objekt pro uchování vrstev, do kterého se v pozdějším kódu uchovávají LayerGroup jménem hladina.
+		var hladiny = {};
+		
+		// Proměnné pro určení a sledování polohy uživatele
+		
+		var marker = L.marker([50.0755, 14.4378]).addTo(map); 
+        var heading = 0; // Směr pohybu uživatele
+        var watchId; // ID sledování polohy
+        var tracking = false; // Stav sledování polohy
+		</script>
+	
+	<!-- Funkce pro načtení tramvajových linek a zastávek pomocí Overpass API -->
+	<script src="js/load-lines-and-stops.js"></script>
+	
+	<script>
+	    // Vytvoření sidebaru a přidání do mapy (plugin leaflet-sidebar-v2-master)
+        var sidebar = L.control.sidebar({ container: 'sidebar', autopan: true })
+            .addTo(map)
+            .open('home');
+        
+        // Přidání tlačítka na zavření mapy
+        sidebar.addPanel({
+            id: 'map',
+            tab: '<li style="padding-top: 10px;"><a href="#map" role="tab"><img src = "img/map.svg" width="65%"></a></li>',
+            button: function (event) { sidebar.close(); }
+        });    
+
+        sidebar.addPanel({
+            id: 'delimiter',
+            tab: '<span style="color:#cccccc">⎯</span>',
+            button: function (event) { sidebar.close(); }
+        });  
+
+        var panelContentApp = {
+            id: 'app',                     // UID, used to access the panel
+            tab: '<li style="padding-top:8px;"><a href="#app" role="tab"><img src = "img/download.svg" width="65%"></a></li>',  // content can be passed as HTML string,
+            pane: '<p>Tento web využívá technologii uložení aplikace do mobilního telefonu bez nutnosti instalace z Google Play nebo Apple App Store.<p/><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/apple.svg"><span style="vertical-align:middle;">Instalace pro iOS</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Safari</b>.</p><p>2. Ťukněte v adresním řádku na <b>ikonu sdílení</b> <img style="width:1em;" src="img/ios-share.png"></p><p>3. Vyberte položku <b>Přidat na domovskou obrazovku</b> <img style="width:1em;" src="img/ios-add.png"><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/android.svg"><span style="vertical-align:middle;">Instalace pro Android</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Chrome</b> nebo <b>Firefox</b>.</p><p>2. Ťukněte v adresním řádku na <b>tři tečky</b> <img style="width:1em;" src="img/android-dots.svg"></p><p>3. Vyberte položku <b>Instalovat aplikaci</b> <img style="width:1em;" src="img/android-install.svg"></p>',
+            title: 'Mobilní aplikace',              // an optional pane header
+            position: 'top'                  // optional vertical alignment, defaults to 'top'
+        };
+        sidebar.addPanel(panelContentApp);  	
+
+	</script>
+	<script src="js/a.js"></script>
+	<script>
+	
+    	// Přidání tlačítka pro aktivaci polohy
+    	var locateButton = L.control({position: 'topright'});
+
+		locateButton.onAdd = function (map) {
+		    var button = L.DomUtil.create('button', 'locate-button');
+		    button.style.backgroundColor = 'white'; // Nastavení počáteční barvy pozadí
+		    button.style.border = '2px solid rgba(0,0,0,0.2)'; // Nastavení okraje
+		    button.style.cursor = 'pointer'; // Změna kurzoru na ruku
+		    button.style.width = '48px';
+		    button.style.height = '48px';
+		    button.style.padding = '0px';
+		
+		    // Přidání ikony do tlačítka
+		    var icon = L.DomUtil.create('img', 'locate-icon');
+		    icon.src = 'img/navigation-arrow.svg'; // Zde zadejte cestu k vaší ikoně
+		    icon.style.width = '24px'; // Nastavení šířky ikony
+		    icon.style.height = '24px'; // Nastavení výšky ikony
+		    icon.style.display = 'block'; // Zajištění, že ikona je blokový prvek
+		    icon.style.margin = 'auto'; // Vycentrování ikony
+		    icon.style.padding = '0px';
+		    button.appendChild(icon);
+		
+		    button.onclick = function() {
+		        getLocation();
+		        // Změna barvy pozadí tlačítka podle stavu sledování
+		        if (!tracking) {
+		            button.style.backgroundColor = 'white'; // Deaktivace - bílá barva
+		        } else {
+		            button.style.backgroundColor = 'orange'; // Aktivace - oranžová barva
+		        }
+		    };	
+		    return button;
+		};	
+		locateButton.addTo(map);
+
+		// Nastavení tříd při změně režimů z tmavého na světlý a obráceně
+    	
+    	function setTheme() {
+            const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            
+            if (map.hasLayer(sat)) {
+                activeLayerName = "sat";
+            } else if (map.hasLayer(osm)) {
+                activeLayerName = "osm";
+            } else if (map.hasLayer(mapLibreBright)) {
+                activeLayerName = "mapLibreBright";
+            } else if (map.hasLayer(mapLibreDark)) {
+                activeLayerName = "mapLibreDark";
+            }
+            console.log(activeLayerName);
+
+			// Změna barvy cesty podle režimu (zajištění správného zobrazení nočních linek)
+            const pathElements = document.querySelectorAll('path.leaflet-interactive');
+            pathElements.forEach(path => {
+                const currentStroke = path.getAttribute('stroke');
+                //const currentFill = path.getAttribute('fill');
+                
+                if (isDarkMode) {
+                    // Pokud je tmavý režim a cesta je černá, nastavíme barvu na bílou (růžovou), pokud je modrá, zesvětlíme ji,
+                    if (currentStroke === 'rgb(0, 0, 0)' || currentStroke === 'rgb(220, 220, 220)' || currentStroke === 'rgb(255, 150, 255)') {
+                        if (activeLayerName === "mapLibreDark" || activeLayerName === "mapLibreBright") {
+                            path.setAttribute('stroke', 'rgb(255, 150, 255)'); // růžová
+							// U růžové cesty musíme změnit i text linky v matě (na začátku trasy)
+                            const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                            mapWindows.forEach(mapWindow => {
+                                mapWindow.classList.add('line-pink');
+                            });
+                        } else {
+                            path.setAttribute('stroke', 'rgb(220, 220, 220)'); // bílá
+							const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                            mapWindows.forEach(mapWindow => {
+                                mapWindow.classList.remove('line-pink');
+							});
+                        }
+                    } else if (currentStroke === 'rgb(37, 91, 218)') {
+                        path.setAttribute('stroke', 'rgb(0, 180, 255)'); // modrá
+						const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                        mapWindows.forEach(mapWindow => {
+                            mapWindow.classList.remove('line-pink');
+						});
+                    }
+                } else {
+                    // Pokud je světlý režim a cesta je bílá, nastavíme barvu na černou a světle modrou zpět na modrou
+                    if (currentStroke === 'rgb(220, 220, 220)') {
+                        path.setAttribute('stroke', 'rgb(0, 0, 0)'); // z bílé černá
+                    } else if (currentStroke === 'rgb(0, 180, 255)') {
+                        path.setAttribute('stroke', 'rgb(37, 91, 218)'); // modrá
+                    } else if (currentStroke === 'rgb(255, 150, 255)') {
+						// Při změně dark na light odstranit růžový nápis čísla linky v mapě 
+                        const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                        mapWindows.forEach(mapWindow => {
+                            mapWindow.classList.remove('line-pink');
+                        });
+                        path.setAttribute('stroke', 'rgb(0, 0, 0)'); // z růžové černá
+                    }
+                }
+            });
+
+            if (isDarkMode) {
+                document.body.classList.add('black-mode');
+                const elementsOnScreen = document.querySelectorAll('.leaflet-sidebar, .leaflet-top.leaflet-right, .leaflet-top.leaflet-left'); 
+                elementsOnScreen.forEach(element => {
+                    element.classList.add('dark-mode');
+                });
+        
+                if (activeLayerName === "osm") {
+                    const mapWindow = document.querySelector('.leaflet-tile-pane');
+                    if (mapWindow) {
+                        mapWindow.classList.add('dark-mode');
+                    }
+                    map.removeLayer(mapLibreDark);
+                } else if (activeLayerName === "mapLibreBright") {
+                    const mapWindow = document.querySelector('.leaflet-tile-pane');
+                    if (mapWindow) {
+                        mapWindow.classList.remove('dark-mode');
+                    }
+                    map.removeLayer(mapLibreBright)
+                    mapLibreDark.addTo(map);
+                } else if (activeLayerName === "sat") {
+                    const mapWindow = document.querySelector('.leaflet-tile-pane');
+                    if (mapWindow) {
+                        mapWindow.classList.remove('dark-mode');
+                    }
+                    map.removeLayer(mapLibreDark);
+                }
+            } else {
+                document.body.classList.remove('black-mode');
+                const elementsOnScreen = document.querySelectorAll('.leaflet-sidebar, .leaflet-top.leaflet-right, .leaflet-top.leaflet-left, .leaflet-tile-pane'); 
+                elementsOnScreen.forEach(element => {
+                    element.classList.remove('dark-mode');
+                });
+                if (activeLayerName === "mapLibreDark") { 
+                    const mapWindow = document.querySelector('.leaflet-tile-pane');
+                    if (mapWindow) {
+                        mapWindow.classList.remove('dark-mode');
+                    }
+                    map.removeLayer(mapLibreDark);
+                    mapLibreBright.addTo(map);
+                }
+            }
+        }
+        // Nastavit téma při načtení stránky
+        setTheme();
+		
+        // Sedování změny v preferencích uživatele Dark/Light theme
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
+
+	</script>
+	
+	<!-- Funkce pro skrytí ostatních vrstev, než na které bylo kliknuto. -->
+	<script src="js/hide-layer-by-name.js"></script>
+	
+	<!-- Funkce pro zobrazení všech hladin v objektu. -->
+	<script src="js/show-all-layers.js"></script>
+
+	<!-- Anonymní měření statistiky - bez sledování -->
+	<!-- 100% privacy-first analytics -->
+	<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+	<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+</body>
+</html>
