@@ -415,7 +415,7 @@
                     }
                     map.removeLayer(mapLibreBright)
                     mapLibreDark.addTo(map);
-                } else {
+                } else if (activeLayerName === "sat") {
                     const mapWindow = document.querySelector('.leaflet-tile-pane');
                     if (mapWindow) {
                         mapWindow.classList.remove('dark-mode');
