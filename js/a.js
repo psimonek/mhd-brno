@@ -115,6 +115,7 @@ function showError(error) {
             break;
     }
 }
+</script>
 <div id="alpha-value" style="position: absolute; bottom: 10px; right: 10px; background: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px; z-index: 5000;">
     Alpha: <span id="alpha-display">0</span>
 </div>
