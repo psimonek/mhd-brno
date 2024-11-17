@@ -56,7 +56,7 @@ function showPosition(position) {
     map.setView([lat, lon]);
 
     // Otáčení mapy nebo šipky podle směru pohybu
-    var arrowElement = document.getElement().querySelector('.arrow-position');
+    var arrowElement = document.querySelector('.arrow-position');;
     if (window.DeviceOrientationEvent) {
             window.addEventListener('deviceorientation', (event) => {
                 // Získání hodnoty beta a gamma
@@ -87,7 +87,7 @@ function showPosition(position) {
         //activeLayerName = "mapLibre";
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
-            arrowElement.style.transform = 'rotate(' + alpha + 'deg)';
+            arrowElement.style.transform = `rotate(${alpha}deg)`;
         }    
     }
 }
