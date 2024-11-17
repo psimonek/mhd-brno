@@ -56,7 +56,7 @@ function showPosition(position) {
     map.setView([lat, lon]);
 
     // Otáčení mapy nebo šipky podle směru pohybu
-    var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
+    var arrowElement = document.getElement().querySelector('.arrow-position');
     if (window.DeviceOrientationEvent) {
             window.addEventListener('deviceorientation', (event) => {
                 // Získání hodnoty beta a gamma
