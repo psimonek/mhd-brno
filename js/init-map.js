@@ -40,16 +40,26 @@ var baseMaps = {
 // Zde se jedná pouze o vyvolání správních hodnot při přepnutí mapy. Samotné chování během navigace se definuje v get-location.js
 
 map.on('baselayerchange', function(e) {
-    setTheme(); // Znovu nastavení módu dark/light při změně mapy
+    if (typeof setTheme === 'function') {
+        setTheme(); // Znovu nastavení módu dark/light při změně mapy. Vyvolá se jen, pokud už je definovaná
+    } else {
+        console.log('Funkce setTheme není definována.');
+    } 
 	if (map.hasLayer(sat)) {
         map.setBearing(0); // Reset rotace mapy
-    	if (arrowElement) {
+        if (typeof arrowElement !== 'undefined') {
+            // Pokud arrowElement existuje, můžeme s ní pracovat
             arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
+        } else {
+            console.log('Proměnná arrowElement není definována.');
         }
     } else if (map.hasLayer(osm)) {
         map.setBearing(0); // Reset rotace mapy
-        if (arrowElement) {
+        if (typeof arrowElement !== 'undefined') {
+            // Pokud arrowElement existuje, můžeme s ní pracovat
             arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
+        } else {
+            console.log('Proměnná arrowElement není definována.');
         }
     } else {
         map.setBearing(0); // Reset rotace mapy
