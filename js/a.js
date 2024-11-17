@@ -66,6 +66,13 @@ function showPosition(position) {
 
                 // Vypočítání úhlu pro otáčení šipky
                 // Použijeme pouze alpha pro otáčení kolem osy Z
+                if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
+                    // Ujistěte se, že mapa směřuje vzhůru
+                    map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
+                    if (arrowElement) {
+                        arrowElement.style.transform = `rotate(${alpha}deg)`; // Otáčení šipky podle alpha
+                    }
+                }
                 
             });
         } else {
@@ -83,13 +90,7 @@ function showPosition(position) {
         if (arrowElement) {
             arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
         }
-    } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-        //activeLayerName = "mapLibre";
-        map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
-        if (arrowElement) {
-            arrowElement.style.transform = `rotate(${alpha}deg)`;
-        }    
-    }
+    } 
 }
 
 function showError(error) {
