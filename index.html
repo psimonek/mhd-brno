@@ -380,9 +380,17 @@
                             });
                         } else {
                             path.setAttribute('stroke', 'rgb(220, 220, 220)'); // bílá
+							const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                            mapWindows.forEach(mapWindow => {
+                                mapWindow.classList.remove('line-pink');
+							});
                         }
                     } else if (currentStroke === 'rgb(37, 91, 218)') {
                         path.setAttribute('stroke', 'rgb(0, 180, 255)'); // modrá
+						const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                        mapWindows.forEach(mapWindow => {
+                            mapWindow.classList.remove('line-pink');
+						});
                     }
                 } else {
                     // Pokud je světlý režim a cesta je bílá, nastavíme barvu na černou a světle modrou zpět na modrou
