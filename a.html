@@ -473,5 +473,36 @@
 	<!-- 100% privacy-first analytics -->
 	<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 	<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+<script>
+	var arrowElement = document.querySelector('.arrow-position');;
+    if (window.DeviceOrientationEvent) {
+            window.addEventListener('deviceorientation', (event) => {
+                // Získání hodnoty beta a gamma
+                const alpha = event.alpha; // Otočení kolem osy Z
+                const beta = event.beta;   // Otočení kolem osy X
+                const gamma = event.gamma; // Otočení kolem osy Y
+
+
+                document.getElementById('alpha-display').textContent = alpha.toFixed(2);
+
+
+
+                
+                // Vypočítání úhlu pro otáčení šipky
+                // Použijeme pouze alpha pro otáčení kolem osy Z
+                if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
+                    // Ujistěte se, že mapa směřuje vzhůru
+                    map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
+                    if (arrowElement) {
+                        arrowElement.style.transform = `rotate(${alpha}deg)`; // Otáčení šipky podle alpha
+                    }
+                }
+                
+            });
+        } else {
+            console.log("Device Orientation API není podporováno tímto zařízením.");
+        }
+</script>
+
 </body>
 </html>
