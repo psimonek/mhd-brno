@@ -57,6 +57,20 @@ function showPosition(position) {
 
     // Otáčení mapy nebo šipky podle směru pohybu
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
+    if (window.DeviceOrientationEvent) {
+            window.addEventListener('deviceorientation', (event) => {
+                // Získání hodnoty beta a gamma
+                const alpha = event.alpha; // Otočení kolem osy Z
+                const beta = event.beta;   // Otočení kolem osy X
+                const gamma = event.gamma; // Otočení kolem osy Y
+
+                // Vypočítání úhlu pro otáčení šipky
+                // Použijeme pouze alpha pro otáčení kolem osy Z
+                
+            });
+        } else {
+            console.log("Device Orientation API není podporováno tímto zařízením.");
+        }
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
         map.setBearing(-heading); // Negace pro správnou orientaci
@@ -73,7 +87,7 @@ function showPosition(position) {
         //activeLayerName = "mapLibre";
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
-            arrowElement.style.transform = 'rotate(' + heading + 'deg)';
+            arrowElement.style.transform = `rotate(${alpha}deg)`;
         }    
     }
 }
