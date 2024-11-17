@@ -25,6 +25,10 @@ body.black-mode .leaflet-container {
 .dark-mode {
     filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(100%);
 }
+.line-pink {
+	color: rgb(177, 80, 177) !important;
+	border-color: rgb(177, 80, 177) !important;
+	}
 /* Konec tmavého režimu */
 
 body, html {
