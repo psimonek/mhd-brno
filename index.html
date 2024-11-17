@@ -366,31 +366,37 @@
             const pathElements = document.querySelectorAll('path.leaflet-interactive');
             pathElements.forEach(path => {
                 const currentStroke = path.getAttribute('stroke');
-                const currentFill = path.getAttribute('fill');
+                //const currentFill = path.getAttribute('fill');
                 
                 if (isDarkMode) {
-                    // Pokud je tmavý režim a cesta je černá, nastavíme barvu na bílou
-                    if (currentStroke === 'rgb(0, 0, 0)') {
-                        path.setAttribute('stroke', 'rgb(220, 220, 220)'); // bílá
+                    // Pokud je tmavý režim a cesta je černá, nastavíme barvu na bílou (růžovou), pokud je modrá, zesvětlíme ji,
+                    if (currentStroke === 'rgb(0, 0, 0)' || currentStroke === 'rgb(220, 220, 220)' || currentStroke === 'rgb(255, 150, 255)') {
+                        if (activeLayerName === "mapLibreDark" || activeLayerName === "mapLibreBright") {
+                            path.setAttribute('stroke', 'rgb(255, 150, 255)'); // růžová
+							// U růžové cesty musíme změnit i text linky v matě (na začátku trasy)
+                            const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                            mapWindows.forEach(mapWindow => {
+                                mapWindow.classList.add('line-pink');
+                            });
+                        } else {
+                            path.setAttribute('stroke', 'rgb(220, 220, 220)'); // bílá
+                        }
                     } else if (currentStroke === 'rgb(37, 91, 218)') {
-                        path.setAttribute('stroke', 'rgb(0, 180, 255)'); // bílá
-                    }                    
-                    if (currentFill === 'rgb(0, 0, 0)') {
-                        path.setAttribute('fill', 'rgb(220, 220, 220)'); // bílá
-                    } else if (currentFill === 'rgb(37, 91, 218)') {
-                        path.setAttribute('fill', 'rgb(0, 180, 255)'); // bílá
+                        path.setAttribute('stroke', 'rgb(0, 180, 255)'); // modrá
                     }
                 } else {
-                    // Pokud je světlý režim a cesta je bílá, nastavíme barvu na černou
+                    // Pokud je světlý režim a cesta je bílá, nastavíme barvu na černou a světle modrou zpět na modrou
                     if (currentStroke === 'rgb(220, 220, 220)') {
-                        path.setAttribute('stroke', 'rgb(0, 0, 0)'); // černá
+                        path.setAttribute('stroke', 'rgb(0, 0, 0)'); // z bílé černá
                     } else if (currentStroke === 'rgb(0, 180, 255)') {
-                        path.setAttribute('stroke', 'rgb(37, 91, 218)'); // bílá
-                    }
-                    if (currentFill === 'rgb(220, 220, 220)') {
-                        path.setAttribute('fill', 'rgb(0, 0, 0)'); // černá
-                    } else if (currentFill === 'rgb(0, 180, 255)') {
-                        path.setAttribute('fill', 'rgb(37, 91, 218)'); // bílá
+                        path.setAttribute('stroke', 'rgb(37, 91, 218)'); // modrá
+                    } else if (currentStroke === 'rgb(255, 150, 255)') {
+						// Při změně dark na light odstranit růžový nápis čísla linky v mapě 
+                        const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                        mapWindows.forEach(mapWindow => {
+                            mapWindow.classList.remove('line-pink');
+                        });
+                        path.setAttribute('stroke', 'rgb(0, 0, 0)'); // z růžové černá
                     }
                 }
             });
@@ -440,8 +446,7 @@
         }
         // Nastavit téma při načtení stránky
         setTheme();
-
-
+		
         // Sedování změny v preferencích uživatele Dark/Light theme
         window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
 
