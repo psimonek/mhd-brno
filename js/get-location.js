@@ -41,6 +41,8 @@ function showPosition(position) {
     var lat = position.coords.latitude;
     var lon = position.coords.longitude;
 
+    console.log(position);
+
     // Získání směru pohybu
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
 
