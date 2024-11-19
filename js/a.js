@@ -65,10 +65,10 @@ function showPosition(e) {
     } else {
         // Pokud marker neexistuje, vytvoříme ho
         aktualniPoloha = L.marker([lat, lon]).addTo(map); 
-        map.setView(([lat, lon]), map.getZoom(), { animate: true }, { duration: 2 });
+        map.setView(([lat, lon]), { animate: true }, { duration: 2 });
     }
     //marker.setLatLng([lat, lon]);
-    map.setView(([lat, lon]), map.getZoom(), { animate: true }, { duration: 2 });
+    map.setView(([lat, lon]), { animate: true }, { duration: 2 });
 
     // Otáčení mapy nebo šipky podle směru pohybu
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
