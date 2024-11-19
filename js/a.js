@@ -48,7 +48,7 @@ function showPosition(position) {
 
 
     // Příklad volání funkce pro aktualizaci hodnot
-updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed););
+updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed));
 
 
     
