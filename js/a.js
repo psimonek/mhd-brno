@@ -12,47 +12,19 @@ var prepinacPolohy = false;
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
-
-
-            
-            // Funkce pro aktualizaci polohy
-            function onLocationFound(e) {
-                var radius = e.accuracy / 2;
-
-                console.log(e);
-            
-                // Plynulý posun mapy na novou pozici
-                map.setView(e.latlng, map.getZoom(), { animate: true });
-            
-                // Přidání kruhu kolem aktuální polohy (volitelné)
-                L.circle(e.latlng, radius).addTo(map);
-            }
-
             // Aktivace sledování polohy
             map.locate({ setView: true, watch: true });
             
-            map.on('locationfound', onLocationFound);
-            map.on('locationerror', onLocationError);
+            map.on('locationfound', showPosition);
+            map.on('locationerror', showError);
 
-            // Zpracování chyb
-            function onLocationError(e) {
-                alert(e.message);
-            }
-
-
-            
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
             //aktualniPoloha.addTo(map);
             map.setZoom(18);
             prepinacPolohy = true;
         } else {
-            //navigator.geolocation.clearWatch(watchId); // Zrušení sledování
-
-            stopLocate();
-
-
-            
+            map.stopLocate();
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
@@ -66,32 +38,32 @@ function getLocation() {
     }
 }
 
-function showPosition(position) {
-    var lat = position.coords.latitude;
-    var lon = position.coords.longitude;
+function showPosition(e) {
+    var lat = e.latitude;
+    var lon = e.longitude;
 
     // Získání směru pohybu
-    var heading = position.coords.heading !== null ? position.coords.heading : 0;
-    var accuracy = position.coords.accuracy !== null ? position.coords.accuracy : 0;
-    var speed = position.coords.accuracy !== null ? position.coords.speed : 0;
+    var heading = e.heading !== null ? e.heading : 0;
+    var accuracy = e.accuracy !== null ? e.accuracy : 0;
+    //var speed = e.accuracy !== null ? position.coords.speed : 0;
 
 
     // Příklad volání funkce pro aktualizaci hodnot
-updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed));
+updateValues(Math.round(accuracy), Math.round(heading), 0);
 
 
     
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
-        aktualniPoloha.setLatLng([lat, lon]);
+        aktualniPoloha.setLatLng(e.latlng);
     } else {
-        // Pokud marker neexistuje, vytvořte ho
-        aktualniPoloha = L.marker([lat, lon]).addTo(map); // Předpokládám, že používáte Leaflet
-        map.setView([lat, lon], 18);
+        // Pokud marker neexistuje, vytvoříme ho
+        aktualniPoloha = L.marker(e.latlng).addTo(map); 
+        map.setView(e.latlng, map.getZoom(), { animate: true });
     }
     //marker.setLatLng([lat, lon]);
-    map.setView([lat, lon]);
+    map.setView(e.latlng, map.getZoom(), { animate: true });
 
     // Otáčení mapy nebo šipky podle směru pohybu
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
