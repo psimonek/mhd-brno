@@ -18,6 +18,8 @@ function getLocation() {
             // Funkce pro aktualizaci polohy
             function onLocationFound(e) {
                 var radius = e.accuracy / 2;
+
+                console.log(e);
             
                 // Plynulý posun mapy na novou pozici
                 map.setView(e.latlng, map.getZoom(), { animate: true });
