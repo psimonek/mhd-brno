@@ -13,7 +13,7 @@ function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
             // Aktivace sledování polohy
-            map.locate({ setView: true, watch: true, maximumAge: 0, enableHighAccuracy: true, duration: 1 });
+            map.locate({ setView: true, maxZoom: 19, watch: true, maximumAge: 0, enableHighAccuracy: true });
             
             map.on('locationfound', showPosition);
             map.on('locationerror', showError);
@@ -65,10 +65,10 @@ function showPosition(e) {
     } else {
         // Pokud marker neexistuje, vytvoříme ho
         aktualniPoloha = L.marker([lat, lon]).addTo(map); 
-        map.setView(([lat, lon]), { animate: true }, { duration: 2 });
+        map.setView(([lat, lon]), getZoom(), { animate: true }, { duration: 2 });
     }
     //marker.setLatLng([lat, lon]);
-    map.setView(([lat, lon]), { animate: true }, { duration: 2 });
+    map.setView(([lat, lon]), getZoom(), { animate: true }, { duration: 2 });
 
     // Otáčení mapy nebo šipky podle směru pohybu
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
