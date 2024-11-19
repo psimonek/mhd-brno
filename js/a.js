@@ -20,7 +20,7 @@ function getLocation() {
 
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
-            //aktualniPoloha.addTo(map);
+            aktualniPoloha.addTo(map);
             map.setZoom(18);
             prepinacPolohy = true;
         } else {
