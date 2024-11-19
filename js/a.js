@@ -55,61 +55,8 @@ function showPosition(position) {
     //marker.setLatLng([lat, lon]);
     map.setView([lat, lon]);
 
-
-var arrowElement = document.querySelector('.arrow-position');
-
-if (typeof DeviceMotionEvent.requestPermission === 'function') {
-    // Žádost o povolení pro přístup k orientaci zařízení
-    DeviceMotionEvent.requestPermission()
-        .then(response => {
-            if (response === 'granted') {
-                // Povolení bylo uděleno, přidejte posluchače události
-                window.addEventListener('deviceorientation', (event) => {
-                    // Získání hodnoty alpha, beta a gamma
-                    const alpha = event.alpha; // Otočení kolem osy Z
-
-                    // Zobrazit hodnotu alpha v reálném čase
-                    document.getElementById('alpha-display').textContent = alpha.toFixed(2);
-
-                    // Otáčení šipky podle alpha
-                    if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-                        // Ujistěte se, že mapa směřuje vzhůru
-                        map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
-                        if (arrowElement) {
-                            arrowElement.style.transform = `rotate(${alpha}deg)`; // Otáčení šipky podle alpha
-                        }
-                    }
-                });
-            } else {
-                console.log("Přístup k orientaci zařízení byl zamítnut.");
-            }
-        })
-        .catch(console.error);
-} else {
-    // Starší verze iOS nebo jiné prohlížeče
-    window.addEventListener('deviceorientation', (event) => {
-        // Získání hodnoty alpha, beta a gamma
-        const alpha = event.alpha; // Otočení kolem osy Z
-
-        // Zobrazit hodnotu alpha v reálném čase
-        document.getElementById('alpha-display').textContent = alpha.toFixed(2);
-
-        // Otáčení šipky podle alpha
-        if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-            // Ujistěte se, že mapa směřuje vzhůru
-            map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
-            if (arrowElement) {
-                arrowElement.style.transform = `rotate(${alpha}deg)`; // Otáčení šipky podle alpha
-            }
-        }
-    });
-}
-
-
-
-    
     // Otáčení mapy nebo šipky podle směru pohybu
-    
+    var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
         map.setBearing(-heading); // Negace pro správnou orientaci
@@ -122,7 +69,13 @@ if (typeof DeviceMotionEvent.requestPermission === 'function') {
         if (arrowElement) {
             arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
         }
-    } 
+    } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
+        //activeLayerName = "mapLibre";
+        map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
+        if (arrowElement) {
+            arrowElement.style.transform = 'rotate(' + heading + 'deg)';
+        }    
+    }
 }
 
 function showError(error) {
