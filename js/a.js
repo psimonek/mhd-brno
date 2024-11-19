@@ -13,7 +13,7 @@ function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
             // Aktivace sledování polohy
-            map.locate({ setView: true, watch: true });
+            map.locate({ setView: true, watch: true, maximumAge: 100 });
             
             map.on('locationfound', showPosition);
             map.on('locationerror', showError);
