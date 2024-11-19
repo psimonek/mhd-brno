@@ -42,6 +42,10 @@ function showPosition(e) {
     var lat = e.latitude;
     var lon = e.longitude;
 
+    console.log('e.latitude ' + e.latitude);
+    console.log('e.longitude ' + e.longitude);
+    console.log(e);
+
     // Získání směru pohybu
     var heading = e.heading !== null ? e.heading : 0;
     var accuracy = e.accuracy !== null ? e.accuracy : 0;
