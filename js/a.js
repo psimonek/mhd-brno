@@ -56,10 +56,10 @@ updateValues(Math.round(accuracy), Math.round(heading), 0);
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
-        aktualniPoloha.setLatLng(e.latlng);
+        aktualniPoloha.setLatLng([lat, lon]);
     } else {
         // Pokud marker neexistuje, vytvoříme ho
-        aktualniPoloha = L.marker(e.latlng).addTo(map); 
+        aktualniPoloha = L.marker([lat, lon]).addTo(map); 
         map.setView(e.latlng, map.getZoom(), { animate: true });
     }
     //marker.setLatLng([lat, lon]);
