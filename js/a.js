@@ -51,6 +51,7 @@ function showPosition(e) {
     var heading = e.heading !== null ? e.heading : 0;
     var accuracy = e.accuracy !== null ? e.accuracy : 0;
     var speed = e.speed !== null ? e.speed : 0;
+    var zoomlevel = map.getZoom();
 
 
     // Příklad volání funkce pro aktualizaci hodnot
@@ -115,4 +116,5 @@ function updateValues(gpsValue, uhelValue, rychlostValue) {
     document.getElementById('gps').innerText = '🛰️ ' + gpsValue;
     document.getElementById('uhel').innerText = '🌏 ' + uhelValue;
     document.getElementById('rychlost').innerText = '🛣️ ' + rychlostValue + ' km/h';
+    document.getElementById('zoomlevel').innerText = zoomlevel;
 }
