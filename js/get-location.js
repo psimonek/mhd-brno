@@ -17,6 +17,7 @@ function getLocation() {
                 maximumAge: 0,
                 timeout: 5000
             });
+            console.log(watchId);
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
             aktualniPoloha.addTo(map);
@@ -41,7 +42,7 @@ function showPosition(position) {
     var lat = position.coords.latitude;
     var lon = position.coords.longitude;
 
-    console.log(position);
+    console.log(position); 
 
     // Získání směru pohybu
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
