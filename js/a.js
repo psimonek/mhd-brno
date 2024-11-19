@@ -43,6 +43,15 @@ function showPosition(position) {
 
     // Získání směru pohybu
     var heading = position.coords.heading !== null ? position.coords.heading : 0;
+    var accuracy = position.coords.accuracy !== null ? position.coords.accuracy : 0;
+    var speed = position.coords.accuracy !== null ? position.coords.speed : 0;
+
+
+    // Příklad volání funkce pro aktualizaci hodnot
+updateValues(accuracy, heading, speed);
+
+
+    
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
@@ -93,4 +102,11 @@ function showError(error) {
             alert("Nastala neznámá chyba.");
             break;
     }
+}
+
+// Funkce pro aktualizaci hodnot v debug okně
+function updateValues(gpsValue, uhelValue, rychlostValue) {
+    document.getElementById('gps').innerText = '🛰️ ' + gpsValue;
+    document.getElementById('uhel').innerText = '🌏 ' + uhelValue;
+    document.getElementById('rychlost').innerText = '🛣️ ' + rychlostValue + ' km/h';
 }
