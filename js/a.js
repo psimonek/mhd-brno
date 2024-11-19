@@ -12,18 +12,45 @@ var prepinacPolohy = false;
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
-            watchId = navigator.geolocation.watchPosition(showPosition, showError, {
-                enableHighAccuracy: true,
-                maximumAge: 0,
-                timeout: 5000
-            });
+
+
+            
+            // Funkce pro aktualizaci polohy
+            function onLocationFound(e) {
+                var radius = e.accuracy / 2;
+            
+                // Plynulý posun mapy na novou pozici
+                map.setView(e.latlng, map.getZoom(), { animate: true });
+            
+                // Přidání kruhu kolem aktuální polohy (volitelné)
+                L.circle(e.latlng, radius).addTo(map);
+            }
+
+            // Aktivace sledování polohy
+            map.locate({ setView: true, watch: true });
+            
+            map.on('locationfound', onLocationFound);
+            map.on('locationerror', onLocationError);
+
+            // Zpracování chyb
+            function onLocationError(e) {
+                alert(e.message);
+            }
+
+
+            
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
-            aktualniPoloha.addTo(map);
+            //aktualniPoloha.addTo(map);
             map.setZoom(18);
             prepinacPolohy = true;
         } else {
-            navigator.geolocation.clearWatch(watchId); // Zrušení sledování
+            //navigator.geolocation.clearWatch(watchId); // Zrušení sledování
+
+            stopLocate()
+
+
+            
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
