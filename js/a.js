@@ -50,11 +50,11 @@ function showPosition(e) {
     // Získání směru pohybu
     var heading = e.heading !== null ? e.heading : 0;
     var accuracy = e.accuracy !== null ? e.accuracy : 0;
-    //var speed = e.accuracy !== null ? position.coords.speed : 0;
+    var speed = e.speed !== null ? e.speed : 0;
 
 
     // Příklad volání funkce pro aktualizaci hodnot
-    updateValues(Math.round(accuracy), Math.round(heading), 0);
+    updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed));
 
 
     
@@ -65,10 +65,10 @@ function showPosition(e) {
     } else {
         // Pokud marker neexistuje, vytvoříme ho
         aktualniPoloha = L.marker([lat, lon]).addTo(map); 
-        map.setView(([lat, lon]), map.getZoom(), { animate: true });
+        map.setView(([lat, lon]), map.getZoom(), { animate: true }, { duration: 2 });
     }
     //marker.setLatLng([lat, lon]);
-    map.setView(([lat, lon]), map.getZoom(), { animate: true });
+    map.setView(([lat, lon]), map.getZoom(), { animate: true }, { duration: 2 });
 
     // Otáčení mapy nebo šipky podle směru pohybu
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
