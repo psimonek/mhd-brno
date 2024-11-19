@@ -49,7 +49,7 @@ function getLocation() {
         } else {
             //navigator.geolocation.clearWatch(watchId); // Zrušení sledování
 
-            stopLocate()
+            stopLocate();
 
 
             
