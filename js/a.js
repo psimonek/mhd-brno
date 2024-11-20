@@ -8,6 +8,7 @@ var arrowIcon = L.divIcon({
 
 var aktualniPoloha = L.marker([0, 0], { icon: arrowIcon });
 var prepinacPolohy = false;
+var previousHeading = 0;
 
 // Funkce pro animaci markeru
 function moveMarker(marker, newLatLng) {
@@ -86,21 +87,31 @@ function showPosition(e) {
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
-        map.setBearing(-heading); // Negace pro správnou orientaci
-        if (arrowElement) {
-            arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+        if (speed > 2) {
+            var deltaHeading = Math.abs(heading - previousHeading);
+            if (deltaHeading > 5) { // malé inkrementální změny
+                map.setBearing(-heading); // Negace pro správnou orientaci
+                if (arrowElement) {
+                    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+                }
+            }
         }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
-        map.setBearing(-heading); // Negace pro správnou orientaci
-        if (arrowElement) {
-            arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+        if (speed > 2) {
+            var deltaHeading = Math.abs(heading - previousHeading);
+            if (deltaHeading > 5) { // malé inkrementální změny
+                map.setBearing(-heading); // Negace pro správnou orientaci
+                if (arrowElement) {
+                    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+                }
+            }
         }
     } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
         //activeLayerName = "mapLibre";
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
-            //arrowElement.style.transition = 'transform 0.5s ease-in-out';
+            arrowElement.style.transition = 'transform 0.5s ease-in-out';
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
         }    
     }
