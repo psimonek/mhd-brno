@@ -168,5 +168,11 @@ body, html {
     font-size: 14px;
     text-align: center;
 }
+.arrow-icon {
+    transition: transform 2s ease; /* Plynulý přechod pro transformaci */
+}
+.arrow-icon.move {
+    transform: translate(0, 0); /* Výchozí pozice */
+}
 
 
