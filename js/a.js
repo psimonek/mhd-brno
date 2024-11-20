@@ -100,7 +100,7 @@ function showPosition(e) {
         //activeLayerName = "mapLibre";
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
-            arrowElement.style.transition = 'transform 0.5s ease-in-out';
+            //arrowElement.style.transition = 'transform 0.5s ease-in-out';
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
         }    
     }
