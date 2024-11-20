@@ -69,7 +69,7 @@ function showPosition(e) {
         map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
     }
     //marker.setLatLng([lat, lon]);
-    map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
+    map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 2 }});
 
     // Otáčení mapy nebo šipky podle směru pohybu
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
