@@ -153,18 +153,18 @@ body, html {
 }
 .debug-info-container {
     position: absolute;
-    bottom: 10px;
+    bottom: 20px;
     right: 10px;
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 10px;
-    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 5px;
+    border-radius: 2px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     z-index: 3000;
 }
 
 .debug-info-item {
-    min-width: 80px; /* Pevná šířka pro minimálně 8 znaků */
-    margin: 5px 0;
+    min-width: 40px; /* Pevná šířka pro minimálně 8 znaků */
+    margin: 2px 0;
     font-size: 14px;
     text-align: center;
 }
