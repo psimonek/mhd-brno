@@ -1,6 +1,6 @@
 // Funkce pro aktivaci geolokace
 var arrowIcon = L.divIcon({
-    className: 'arrow-icon',
+    className: 'arrow-icon move',
     html: '<svg class="arrow-position" width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,87,0,0.5)" stroke="rgb(255,87,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 22 12 18 22 22 12 2" /></svg>',
     iconSize: [30, 30],
     iconAnchor: [20, 20] // Ukotvení ikony na střed
@@ -8,6 +8,20 @@ var arrowIcon = L.divIcon({
 
 var aktualniPoloha = L.marker([0, 0], { icon: arrowIcon });
 var prepinacPolohy = false;
+
+// Funkce pro animaci markeru
+function moveMarker(marker, newLatLng) {
+    // Odebrání třídy pro animaci
+    marker.getElement().classList.remove('move');
+
+    // Nastavení nové pozice
+    marker.setLatLng(newLatLng);
+
+    // Přidání třídy pro animaci zpět po krátké prodlevě
+    setTimeout(() => {
+        marker.getElement().classList.add('move');
+    }, 0);
+}
 
 function getLocation() {
     if (navigator.geolocation) {
@@ -62,7 +76,9 @@ function showPosition(e) {
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
-        aktualniPoloha.setLatLng([lat, lon]);
+        // Volání animace přesunutí kurzoru
+        moveMarker(aktualniPoloha, L.latLng([lat, lon])); // Přesunout na novou pozici
+        //aktualniPoloha.setLatLng([lat, lon]);
     } else {
         // Pokud marker neexistuje, vytvoříme ho
         aktualniPoloha = L.marker([lat, lon]).addTo(map); 
