@@ -163,7 +163,7 @@ body, html {
 }
 
 .debug-info-item {
-    min-width: 40px; /* Pevná šířka pro minimálně 8 znaků */
+    min-width: 50px; /* Pevná šířka pro minimálně 8 znaků */
     margin: 2px 0;
     font-size: 14px;
     text-align: center;
