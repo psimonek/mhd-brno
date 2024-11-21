@@ -179,6 +179,6 @@ function showError(error) {
 function updateValues(gpsValue, uhelValue, rychlostValue, zoomlevelValue) {
     document.getElementById('gps').innerText = '⌀ ' + gpsValue;
     document.getElementById('uhel').innerText = '➚ ' + uhelValue + '°';
-    document.getElementById('rychlost').innerText = (rychlostValue*3,6) + ' km/h';
+    document.getElementById('rychlost').innerText = (rychlostValue*3.6) + ' km/h';
     document.getElementById('zoomlevel').innerText = '⬍ ' + zoomlevelValue;
 }
