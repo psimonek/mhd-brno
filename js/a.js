@@ -14,7 +14,7 @@ var cumulativeDeltaHeading = 0;
 // Proměnné pro plynulou rotaci pohledu
 var startBearing = 0; // počáteční úhel
 var endBearing = 0; // koncový úhel
-var duration = 2000; // trvání animace v milisekundách
+var duration = 1500; // trvání animace v milisekundách
 
 // Funkce pro animaci markeru
 function moveMarker(marker, newLatLng) {
@@ -120,7 +120,7 @@ function showPosition(e) {
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
-        if (speed > 0) {
+        if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 endBearing = heading; // Negace pro správnou orientaci
@@ -135,7 +135,7 @@ function showPosition(e) {
         }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
-        if (speed > 0) {
+        if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 endBearing = heading; // Negace pro správnou orientaci
@@ -180,6 +180,6 @@ function showError(error) {
 function updateValues(gpsValue, uhelValue, rychlostValue, zoomlevelValue) {
     document.getElementById('gps').innerText = '⌀ ' + gpsValue;
     document.getElementById('uhel').innerText = '➚ ' + uhelValue + '°';
-    document.getElementById('rychlost').innerText = (rychlostValue*3.6) + ' km/h';
+    document.getElementById('rychlost').innerText = Math.round(rychlostValue*3.6) + ' km/h';
     document.getElementById('zoomlevel').innerText = '⬍ ' + zoomlevelValue;
 }
