@@ -11,6 +11,11 @@ var prepinacPolohy = false;
 var previousHeading = 0;
 var cumulativeDeltaHeading = 0;
 
+// Proměnné pro plynulou rotaci pohledu
+var startBearing = 0; // počáteční úhel
+var endBearing = 0; // koncový úhel
+var duration = 2000; // trvání animace v milisekundách
+
 // Funkce pro animaci markeru
 function moveMarker(marker, newLatLng) {
     // Odebrání třídy pro animaci
@@ -91,11 +96,6 @@ function showPosition(e) {
     var deltaHeading = Math.abs(heading - previousHeading);
     cumulativeDeltaHeading += deltaHeading;
     
-    // Proměnné pro plynulou rotaci pohledu
-    var startBearing = 0; // počáteční úhel
-    var endBearing = 0; // koncový úhel
-    var duration = 2000; // trvání animace v milisekundách
-
 
     
     // Příklad volání funkce pro aktualizaci hodnot
