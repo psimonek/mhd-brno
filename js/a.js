@@ -25,6 +25,29 @@ function moveMarker(marker, newLatLng) {
     }, 0);
 }
 
+// Funkce pro plynulou změnu úhlu pohledu
+function animateBearing(startBearing, endBearing, duration) {
+    var startTime = null;
+
+    function animate(time) {
+        if (!startTime) startTime = time;
+        var elapsed = time - startTime;
+
+        // Vypočítání aktuálního úhlu pohledu
+        var progress = Math.min(elapsed / duration, 1);
+        var currentBearing = startBearing + (endBearing - startBearing) * progress;
+
+        // Nastavení úhlu pohledu
+        map.setBearing(currentBearing);
+
+        if (progress < 1) {
+            requestAnimationFrame(animate);
+        }
+    }
+
+    requestAnimationFrame(animate);
+}
+
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
@@ -66,11 +89,16 @@ function showPosition(e) {
 
     var deltaHeading = Math.abs(heading - previousHeading);
     cumulativeDeltaHeading += deltaHeading;
+    
+    // Proměnné pro plynulou rotaci pohledu
+    var startBearing = 0; // počáteční úhel
+    var endBearing = 0; // koncový úhel
+    var duration = 2000; // trvání animace v milisekundách
 
 
+    
     // Příklad volání funkce pro aktualizaci hodnot
     updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), zoomlevel);
-
 
     
 
@@ -94,7 +122,10 @@ function showPosition(e) {
         if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
-                map.setBearing(-heading); // Negace pro správnou orientaci
+                endBearing = -heading; // Negace pro správnou orientaci
+                animateBearing(startBearing, endBearing, duration);
+                //map.setBearing(-heading); // Negace pro správnou orientaci
+                startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
                 if (arrowElement) {
                     arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
                 }
@@ -106,7 +137,10 @@ function showPosition(e) {
         if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
-                map.setBearing(-heading); // Negace pro správnou orientaci
+                endBearing = -heading; // Negace pro správnou orientaci
+                animateBearing(startBearing, endBearing, duration);
+                //map.setBearing(-heading); // Negace pro správnou orientaci
+                startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
                 if (arrowElement) {
                     arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
                 }
