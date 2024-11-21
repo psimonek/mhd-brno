@@ -119,7 +119,7 @@ function showPosition(e) {
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
-        if (speed > 2) {
+        if (speed > 0) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 endBearing = -heading; // Negace pro správnou orientaci
@@ -134,7 +134,7 @@ function showPosition(e) {
         }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
-        if (speed > 2) {
+        if (speed > 0) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 endBearing = -heading; // Negace pro správnou orientaci
