@@ -38,7 +38,7 @@ function animateBearing(startBearing, endBearing, duration) {
         var currentBearing = startBearing + (endBearing - startBearing) * progress;
 
         // Nastavení úhlu pohledu
-        map.setBearing(currentBearing);
+        map.setBearing(-currentBearing);
 
         if (progress < 1) {
             requestAnimationFrame(animate);
@@ -122,7 +122,7 @@ function showPosition(e) {
         if (speed > 0) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
-                endBearing = -heading; // Negace pro správnou orientaci
+                endBearing = heading; // Negace pro správnou orientaci
                 animateBearing(startBearing, endBearing, duration);
                 //map.setBearing(-heading); // Negace pro správnou orientaci
                 startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
@@ -137,7 +137,7 @@ function showPosition(e) {
         if (speed > 0) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
-                endBearing = -heading; // Negace pro správnou orientaci
+                endBearing = heading; // Negace pro správnou orientaci
                 animateBearing(startBearing, endBearing, duration);
                 //map.setBearing(-heading); // Negace pro správnou orientaci
                 startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
