@@ -93,7 +93,7 @@ function showPosition(e) {
         activeLayerName = "sat";
         if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
-            if (cumulativeDeltaHeading >= 5) { // malé inkrementální změny
+            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 map.setBearing(-heading); // Negace pro správnou orientaci
                 if (arrowElement) {
                     arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
@@ -105,7 +105,7 @@ function showPosition(e) {
         activeLayerName = "osm";
         if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
-            if (cumulativeDeltaHeading >= 5) { // malé inkrementální změny
+            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 map.setBearing(-heading); // Negace pro správnou orientaci
                 if (arrowElement) {
                     arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
