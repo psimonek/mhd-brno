@@ -47,6 +47,9 @@ map.on('baselayerchange', function(e) {
     } 
 	if (map.hasLayer(sat)) {
         map.setBearing(0); // Reset rotace mapy
+		if (map.hasLayer(aktualniPoloha)) {
+			map.removeLayer(aktualniPoloha);
+		}
         if (typeof arrowElement !== 'undefined') {
             // Pokud arrowElement existuje, můžeme s ní pracovat
             arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
@@ -55,6 +58,9 @@ map.on('baselayerchange', function(e) {
         }
     } else if (map.hasLayer(osm)) {
         map.setBearing(0); // Reset rotace mapy
+		if (map.hasLayer(aktualniPoloha)) {
+			map.removeLayer(aktualniPoloha);
+		}
         if (typeof arrowElement !== 'undefined') {
             // Pokud arrowElement existuje, můžeme s ní pracovat
             arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
@@ -63,5 +69,9 @@ map.on('baselayerchange', function(e) {
         }
     } else {
         map.setBearing(0); // Reset rotace mapy
+		var elementFixedArrow = document.getElementById('fixedArrow');
+		if (elementFixedArrow) {
+  			element.style.visibility = 'hidden';
+		}
     }
 });
