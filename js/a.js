@@ -96,7 +96,7 @@ function showPosition(e) {
     cumulativeDeltaHeading += deltaHeading;
     
     // Příklad volání funkce pro aktualizaci hodnot
-    updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), zoomlevel);
+    updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), Math.round(cumulativeDeltaHeading);
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
