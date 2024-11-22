@@ -57,7 +57,7 @@ function getLocation() {
             if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
                 aktualniPoloha.addTo(map);
             } else {
-
+                document.getElementById('fixedArrow').style.visibility = 'visible';
             }
             map.setZoom(18);
             prepinacPolohy = true;
@@ -146,17 +146,13 @@ function showPosition(e) {
         document.getElementById('fixedArrow').style.visibility = 'hidden'; // Skytí stacionární šipky
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         // V jiných mapách máme stacionární šipku, zde ji musíme přidat dle lat lon.
-        if (!map.hasLayer(aktualniPoloha)) {
-            aktualniPoloha.setLatLng([lat, lon]).addTo(map);
-            var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
-        } else {
-            aktualniPoloha.setLatLng([lat, lon]);
-        }  
+        var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
+        aktualniPoloha.setLatLng([lat, lon]);
         // Rotace s animací šipky při alternativní mapě
-        //if (arrowElement) {
+        if (arrowElement) {
             arrowElement.style.transition = 'transform 0.5s ease-in-out';
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
-        //}
+        }
         cumulativeDeltaHeading = 0; // reset kumulativní změny - kvůli možné změně pohledu a nakumulování úhlu
     }
 }
