@@ -118,7 +118,7 @@ function showPosition(e) {
     map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 2 }});
 
     // Otáčení mapy nebo šipky podle směru pohybu
-    var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
+//var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
 document.getElementById('fixedArrow').style.visibility = 'visible';
