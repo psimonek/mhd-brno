@@ -78,7 +78,7 @@ map.on('baselayerchange', function(e) {
     } else {
         map.setBearing(0); // Reset rotace mapy
 		var elementFixedArrow = document.getElementById('fixedArrow');
-		if (elementFixedArrow.style.visibility === 'visible';) {
+		if (elementFixedArrow.style.visibility === 'visible') {
   			elementFixedArrow.style.visibility = 'hidden';
 			aktualniPoloha.addTo(map);
 		}
