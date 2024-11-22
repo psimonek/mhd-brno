@@ -150,7 +150,7 @@ function showPosition(e) {
         document.getElementById('fixedArrow').style.visibility = 'hidden'; // Skytí stacionární šipky
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         // V jiných mapách máme stacionární šipku, zde ji musíme přidat dle lat lon.
-        if (!aktualniPoloha) {
+        if (!map.hasLayer(aktualniPoloha)) {
             aktualniPoloha = L.marker([lat, lon]).addTo(map);
             var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
         } else {
