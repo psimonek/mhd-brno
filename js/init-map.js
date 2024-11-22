@@ -71,7 +71,7 @@ map.on('baselayerchange', function(e) {
         map.setBearing(0); // Reset rotace mapy
 		var elementFixedArrow = document.getElementById('fixedArrow');
 		if (elementFixedArrow) {
-  			element.style.visibility = 'hidden';
+  			elementFixedArrow.style.visibility = 'hidden';
 		}
     }
 });
