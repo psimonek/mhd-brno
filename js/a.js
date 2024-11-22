@@ -96,7 +96,7 @@ function showPosition(e) {
     cumulativeDeltaHeading += deltaHeading;
     
     // Příklad volání funkce pro aktualizaci hodnot
-    updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), Math.round(cumulativeDeltaHeading);
+    updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), Math.round(cumulativeDeltaHeading));
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
@@ -150,7 +150,7 @@ function showPosition(e) {
         document.getElementById('fixedArrow').style.visibility = 'hidden'; // Skytí stacionární šipky
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         // V jiných mapách máme stacionární šipku, zde ji musíme přidat dle lat lon.
-        if (!marker) {
+        if (!aktualniPoloha) {
             aktualniPoloha = L.marker([lat, lon]).addTo(map);
             var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
         } else {
