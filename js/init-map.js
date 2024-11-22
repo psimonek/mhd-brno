@@ -57,6 +57,7 @@ map.on('baselayerchange', function(e) {
         map.setBearing(0); // Reset rotace mapy
 		if (map.hasLayer(aktualniPoloha)) {
 			map.removeLayer(aktualniPoloha);
+			document.getElementById('fixedArrow').style.visibility = 'visible';
 		}
         if (typeof arrowElement !== 'undefined') {
             // Pokud arrowElement existuje, můžeme s ní pracovat
@@ -68,6 +69,7 @@ map.on('baselayerchange', function(e) {
         map.setBearing(0); // Reset rotace mapy
 		if (map.hasLayer(aktualniPoloha)) {
 			map.removeLayer(aktualniPoloha);
+			document.getElementById('fixedArrow').style.visibility = 'visible';
 		}
         if (typeof arrowElement !== 'undefined') {
             // Pokud arrowElement existuje, můžeme s ní pracovat
