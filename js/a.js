@@ -14,7 +14,7 @@ var cumulativeDeltaHeading = 0;
 // Proměnné pro plynulou rotaci pohledu
 var startBearing = 0; // počáteční úhel
 var endBearing = 0; // koncový úhel
-var duration = 1500; // trvání animace v milisekundách
+var duration = 500; // trvání animace v milisekundách
 
 // Funkce pro animaci markeru
 function moveMarker(marker, newLatLng) {
