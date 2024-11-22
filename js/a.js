@@ -106,14 +106,16 @@ function showPosition(e) {
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
         // Volání animace přesunutí kurzoru
-        moveMarker(aktualniPoloha, L.latLng([lat, lon])); // Přesunout na novou pozici
+        //moveMarker(aktualniPoloha, L.latLng([lat, lon])); // Přesunout na novou pozici
         //aktualniPoloha.setLatLng([lat, lon]);
     } else {
         // Pokud marker neexistuje, vytvoříme ho
-        aktualniPoloha = L.marker([lat, lon]).addTo(map); 
-        map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
+        //aktualniPoloha = L.marker([lat, lon]).addTo(map); 
+        //map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
     }
     //marker.setLatLng([lat, lon]);
+    marker.getElement().classList.add('stred');
+    
     map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 2 }});
 
     // Otáčení mapy nebo šipky podle směru pohybu
