@@ -148,6 +148,9 @@ function showPosition(e) {
         // V jiných mapách máme stacionární šipku, zde ji musíme přidat dle lat lon.
         var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
         aktualniPoloha.setLatLng([lat, lon]);
+        if (!map.hasLayer(aktualniPoloha)) {
+			aktualniPoloha.addTo(map);
+		}
         // Rotace s animací šipky při alternativní mapě
         if (arrowElement) {
             arrowElement.style.transition = 'transform 0.5s ease-in-out';
