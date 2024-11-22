@@ -122,7 +122,7 @@ function showPosition(e) {
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
 document.getElementById('fixedArrow').style.visibility = 'visible';
-        if (speed > 2) {
+        if (speed > 1) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 endBearing = heading; // Negace pro správnou orientaci
@@ -138,7 +138,7 @@ document.getElementById('fixedArrow').style.visibility = 'visible';
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
 document.getElementById('fixedArrow').style.visibility = 'visible';
-        if (speed > 2) {
+        if (speed > 1) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
                 endBearing = heading; // Negace pro správnou orientaci
