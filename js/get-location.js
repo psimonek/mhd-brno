@@ -55,7 +55,7 @@ function getLocation() {
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
             if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-                aktualniPoloha.addTo(map);
+                aktualniPoloha.setLatLng([lat, lon]).addTo(map);
             } else {
                 document.getElementById('fixedArrow').style.visibility = 'visible';
             }
