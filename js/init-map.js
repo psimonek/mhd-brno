@@ -82,7 +82,7 @@ map.on('baselayerchange', function(e) {
 		var elementFixedArrow = document.getElementById('fixedArrow');
 		if (elementFixedArrow.style.visibility === 'visible') {
   			elementFixedArrow.style.visibility = 'hidden';
-			aktualniPoloha.addTo(map);
+			aktualniPoloha.setLatLng([lat, lon]).addTo(map);
 		}
     }
 });
