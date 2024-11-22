@@ -160,7 +160,8 @@ function showPosition(e) {
         if (arrowElement) {
             arrowElement.style.transition = 'transform 0.5s ease-in-out';
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
-        }    
+        }
+        cumulativeDeltaHeading = 0; // reset kumulativní změny - kvůli možné změně pohledu a nakumulování úhlu
     }
 }
 
