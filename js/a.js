@@ -65,11 +65,12 @@ function getLocation() {
 
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
-            aktualniPoloha.addTo(map);
+//aktualniPoloha.addTo(map);
             map.setZoom(18);
             prepinacPolohy = true;
         } else {
             map.stopLocate();
+document.getElementById('fixedArrow').style.visibility = 'hidden';
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
@@ -106,12 +107,12 @@ function showPosition(e) {
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
         // Volání animace přesunutí kurzoru
-        moveMarker(aktualniPoloha, L.latLng([lat, lon])); // Přesunout na novou pozici
+//moveMarker(aktualniPoloha, L.latLng([lat, lon])); // Přesunout na novou pozici
         //aktualniPoloha.setLatLng([lat, lon]);
     } else {
         // Pokud marker neexistuje, vytvoříme ho
-        aktualniPoloha = L.marker([lat, lon]).addTo(map); 
-        map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
+//aktualniPoloha = L.marker([lat, lon]).addTo(map); 
+//map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
     }
     //marker.setLatLng([lat, lon]);
     map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 2 }});
@@ -120,6 +121,7 @@ function showPosition(e) {
     var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
+document.getElementById('fixedArrow').style.visibility = 'visible';
         if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
@@ -135,6 +137,7 @@ function showPosition(e) {
         }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
+document.getElementById('fixedArrow').style.visibility = 'visible';
         if (speed > 2) {
             var deltaHeading = Math.abs(heading - previousHeading);
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
@@ -150,6 +153,7 @@ function showPosition(e) {
         }
     } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
         //activeLayerName = "mapLibre";
+document.getElementById('fixedArrow').style.visibility = 'visible';
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         if (arrowElement) {
             arrowElement.style.transition = 'transform 0.5s ease-in-out';
