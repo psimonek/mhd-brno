@@ -14,9 +14,9 @@ var cumulativeDeltaHeading = 0;
 // Proměnné pro plynulou rotaci pohledu
 var startBearing = 0; // počáteční úhel
 var endBearing = 0; // koncový úhel
-var duration = 100; // trvání animace v milisekundách
+var duration = 300; // trvání animace v milisekundách
 
-// Funkce pro animaci markeru
+// Funkce pro animaci markeru --- nyní nepoužíváme, máme statickou šipku
 function moveMarker(marker, newLatLng) {
     // Odebrání třídy pro animaci
     marker.getElement().classList.remove('move');
@@ -50,7 +50,6 @@ function animateBearing(startBearing, endBearing, duration) {
             requestAnimationFrame(animate);
         }
     }
-
     requestAnimationFrame(animate);
 }
 
@@ -59,10 +58,8 @@ function getLocation() {
         if (!tracking) {
             // Aktivace sledování polohy
             map.locate({ setView: false, maxZoom: 19, watch: true, maximumAge: 0, enableHighAccuracy: true });
-            
             map.on('locationfound', showPosition);
             map.on('locationerror', showError);
-
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
 //aktualniPoloha.addTo(map);
@@ -70,12 +67,13 @@ function getLocation() {
             prepinacPolohy = true;
         } else {
             map.stopLocate();
-document.getElementById('fixedArrow').style.visibility = 'hidden';
+            document.getElementById('fixedArrow').style.visibility = 'hidden'; // Zrušíme stacionární šipku
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
+            // Pokud existuje šipka, zrušíme ji.
             if (marker) {
-                map.removeLayer(aktualniPoloha); // Předpokládám, že marker je instance Leaflet.Marker nebo podobného objektu
+                map.removeLayer(aktualniPoloha); 
                 prepinacPolohy = false;
             }
         }
@@ -97,12 +95,8 @@ function showPosition(e) {
     var deltaHeading = Math.abs(heading - previousHeading);
     cumulativeDeltaHeading += deltaHeading;
     
-
-    
     // Příklad volání funkce pro aktualizaci hodnot
     updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), zoomlevel);
-
-    
 
     // Aktualizace značky a mapy
     if (prepinacPolohy) {
@@ -121,40 +115,48 @@ function showPosition(e) {
 //var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
-document.getElementById('fixedArrow').style.visibility = 'visible';
+        document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
             var deltaHeading = Math.abs(heading - previousHeading);
-            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
-                endBearing = heading; // Negace pro správnou orientaci
+            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny kód neprovedou
+                endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
-                //map.setBearing(-heading); // Negace pro správnou orientaci
+                //map.setBearing(-heading); // Negace pro správnou orientaci --- rušíme, protože rotaci animujeme v předchozím řádku
                 startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
-                if (arrowElement) {
-                    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
-                }
+                //if (arrowElement) {
+                //    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+                //}
                 cumulativeDeltaHeading = 0; // reset kumulativní změny
             }
         }
     } else if (map.hasLayer(osm)) {
         activeLayerName = "osm";
-document.getElementById('fixedArrow').style.visibility = 'visible';
+        document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
             var deltaHeading = Math.abs(heading - previousHeading);
-            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny
-                endBearing = heading; // Negace pro správnou orientaci
+            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny kód neprovedou
+                endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
-                //map.setBearing(-heading); // Negace pro správnou orientaci
+                //map.setBearing(-heading); // Negace pro správnou orientaci --- rušíme, protože rotaci animujeme v předchozím řádku
                 startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
-                if (arrowElement) {
-                    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
-                }
+                //if (arrowElement) {
+                //    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+                //}
                 cumulativeDeltaHeading = 0; // reset kumulativní změny
             }
         }
     } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
         //activeLayerName = "mapLibre";
-document.getElementById('fixedArrow').style.visibility = 'visible';
+        document.getElementById('fixedArrow').style.visibility = 'hidden'; // Skytí stacionární šipky
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
+        // V jiných mapách máme stacionární šipku, zde ji musíme přidat dle lat lon.
+        if (!marker) {
+            aktualniPoloha = L.marker([lat, lon]).addTo(map);
+            var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
+        } else {
+            aktualniPoloha.setLatLng([lat, lon]);
+        }  
+        // Rotace s animací šipky při alternativní mapě
         if (arrowElement) {
             arrowElement.style.transition = 'transform 0.5s ease-in-out';
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
