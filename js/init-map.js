@@ -1,4 +1,5 @@
 // Inicializace mapy
+var aktualniPoloha; //Pouze prázdná proměnná, která se naplní později. Definováno zde, aby v listeneru nedocházelo k chybě.
 
 var map = L.map('map', {
     scrollWheelZoom: false,
