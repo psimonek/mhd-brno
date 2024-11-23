@@ -9,7 +9,7 @@ var endBearing = 0; // koncový úhel
 var duration = 300; // trvání animace v milisekundách
 
 // Funkce pro animaci markeru --- nyní nepoužíváme, máme statickou šipku
-function moveMarker(marker, newLatLng) {
+/*function moveMarker(marker, newLatLng) {
     // Odebrání třídy pro animaci
     marker.getElement().classList.remove('move');
 
@@ -20,7 +20,7 @@ function moveMarker(marker, newLatLng) {
     setTimeout(() => {
         marker.getElement().classList.add('move');
     }, 0);
-}
+}*/
 
 // Funkce pro plynulou změnu úhlu pohledu
 function animateBearing(startBearing, endBearing, duration) {
@@ -55,7 +55,7 @@ function getLocation() {
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
             if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-                aktualniPoloha.setLatLng([lat, lon]).addTo(map);
+                aktualniPoloha.addTo(map);
             } else {
                 document.getElementById('fixedArrow').style.visibility = 'visible';
             }
