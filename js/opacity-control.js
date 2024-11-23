@@ -2,7 +2,7 @@
 function updateOpacity(opacity) {
     Object.values(baseMaps).forEach(function(layer) {
         var mapLibreElement = document.querySelector('.maplibregl-map');
-        console.log('baseMaps: ' + baseMaps);
+        console.log('BaseMaps: ' + Object.values(baseMaps));
         if (mapLibreElement) {
             mapLibreElement.style.opacity = opacity; // Nastavení opacity
         } else {
