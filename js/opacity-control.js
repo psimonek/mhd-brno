@@ -1,15 +1,14 @@
 // Funkce pro aktualizaci průhlednosti
 function updateOpacity(opacity) {
-    var aktualniVrstva = map.getActiveBaseLayer();
-console.log('aktualniVrstva:' + aktualniVrstva);
-    Object.values(baseMaps).forEach(function(layer) {
-        var mapLibreElement = document.querySelector('.maplibregl-map');
+    if (map.hasLayer(sat)) {
+        sat.setOpacity(opacity);
+    } else if (map.hasLayer(osm)) {
+        osm.setOpacity(opacity);
+    } else {
         if (mapLibreElement) {
             mapLibreElement.style.opacity = opacity; // Nastavení opacity
-        } else {
-            layer.setOpacity(opacity);
         }
-    });
+    }
 }
 
 // Přidání slideru pro průhlednost
