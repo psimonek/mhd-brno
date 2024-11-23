@@ -86,3 +86,4 @@ map.on('baselayerchange', function(e) {
 		}
     }
 });
+osm.setOpacity(0.2);
