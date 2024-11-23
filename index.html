@@ -113,6 +113,7 @@
 				<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších než 2 měsíce.</p>
 				<p><i>Poslední aktualizace dat: 12.11.2024</i></p>
 				<p>S <i class='fa fa-heart'></i> k dopravě a technologiím vyrobil @psimonek.</p>
+				<p><input type="checkbox" id="show-debugging" /><label for="show-debugging">Zobrazit hodnoty ze senzorů</label></p>
             </div>
             
             <div class="leaflet-sidebar-pane" id="tram">
@@ -466,12 +467,26 @@
         window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
 
 	</script>
+
+	<!-- Funkce zobrazení okna s hodnotami ze senzorů a dalších pro ladění. -->
 	<div id="debug-info" class="debug-info-container">
         <div id="gps" class="debug-info-item"></div>
         <div id="uhel" class="debug-info-item"></div>
         <div id="rychlost" class="debug-info-item"></div>
 		<div id="zoomlevel" class="debug-info-item"></div>
     </div>
+	<script>
+		const checkbox = document.getElementById('show-debugging');
+		const debuggingDiv = document.getElementById('debug-info');
+		
+		checkbox.addEventListener('change', () => {
+			if (checkbox.checked) {
+				debuggingDiv.style.display = 'block';
+			} else {
+				debuggingDiv.style.display = 'none';
+			}
+		});
+	</script>
 
 	<!-- Funkce pro skrytí ostatních vrstev, než na které bylo kliknuto. -->
 	<script src="js/hide-layer-by-name.js"></script>
