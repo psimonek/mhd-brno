@@ -5,8 +5,10 @@ Object.values(baseMaps).forEach(function(layer) {
   console.log(layer);
 });
     Object.values(baseMaps).forEach(function(layer) {
-      var tilemapLayer = ctrLayer.getActiveBaseLayer().layer;
-      console.log('tilemapLayer: '+ tilemapLayer);
+      console.log('BaseMaps:');
+Object.values(baseMaps).forEach(function(layer) {
+  console.log(Object.keys(layer));
+});
         var mapLibreElement = document.querySelector('.maplibregl-map');
         if (mapLibreElement) {
             mapLibreElement.style.opacity = opacity; // Nastavení opacity
