@@ -2,7 +2,7 @@
 function updateOpacity(opacity) {
 console.log('BaseMaps:');
 Object.values(baseMaps).forEach(function(layer) {
-  console.log(typeof layer);
+  console.log(layer);
 });
     Object.values(baseMaps).forEach(function(layer) {
         var mapLibreElement = document.querySelector('.maplibregl-map');
