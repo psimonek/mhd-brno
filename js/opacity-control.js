@@ -5,7 +5,7 @@ function updateOpacity(opacity) {
         if (mapLibreElement) {
             mapLibreElement.style.opacity = opacity; // Nastavení opacity
         } else {
-            layer.setOpacity(opacity);
+            //layer.setOpacity(opacity);
         }
     });
 
