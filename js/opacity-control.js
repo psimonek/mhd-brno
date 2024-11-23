@@ -1,6 +1,7 @@
 // Funkce pro aktualizaci průhlednosti
 function updateOpacity(opacity) {
-console.log('BaseMaps:' + baseMaps);
+    var aktualniVrstva = mapa.getActiveBaseLayer();
+console.log('aktualniVrstva:' + aktualniVrstva);
     Object.values(baseMaps).forEach(function(layer) {
         var mapLibreElement = document.querySelector('.maplibregl-map');
         if (mapLibreElement) {
