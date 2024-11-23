@@ -157,13 +157,14 @@ body, html {
 }
 .debug-info-container {
     position: absolute;
-    bottom: 20px;
+    bottom: 30px;
     right: 10px;
     background-color: rgba(255, 255, 255, 0.6);
     padding: 5px;
     border-radius: 2px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     z-index: 3000;
+	display: none;
 }
 
 .debug-info-item {
