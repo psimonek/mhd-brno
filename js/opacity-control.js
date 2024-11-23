@@ -4,10 +4,11 @@ function updateOpacity(opacity) {
         sat.setOpacity(opacity);
     } else if (map.hasLayer(osm)) {
         osm.setOpacity(opacity);
-    } else if (map.hasLayer(mapLibreBright)) {
-        mapLibreBright.setOpacity(opacity);
-    } else if (map.hasLayer(mapLibreDark)) {
-        mapLibreDark.setOpacity(opacity);
+    } else {
+        var mapLibreElement = document.querySelector('.maplibregl-map');
+        if (mapLibreElement) {
+            mapLibreElement.style.opacity = opacity; // Nastavení opacity
+        }
     }
 }
 
