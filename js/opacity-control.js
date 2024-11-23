@@ -1,9 +1,6 @@
 // Funkce pro aktualizaci průhlednosti
 function updateOpacity(opacity) {
-console.log('BaseMaps:');
-Object.values(baseMaps).forEach(function(layer) {
-  console.log('layer.name: ' + layer.name);
-});
+console.log('BaseMaps:' + baseMaps);
     Object.values(baseMaps).forEach(function(layer) {
         var mapLibreElement = document.querySelector('.maplibregl-map');
         if (mapLibreElement) {
@@ -12,9 +9,6 @@ Object.values(baseMaps).forEach(function(layer) {
             layer.setOpacity(opacity);
         }
     });
-
-    // Nastavení průhlednosti pro mapLibre
-
 }
 
 // Přidání slideru pro průhlednost
