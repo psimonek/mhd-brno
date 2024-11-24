@@ -11,6 +11,9 @@ body.black-mode {
     --background-color: black;
     /*--text-color: white;*/
 }
+body.black-mode .stop-tooltip {
+	filter: invert(10%) hue-rotate(0deg) brightness(100%) contrast(100%);
+}
 sidebar.dark-mode h1,
 sidebar.dark-mode h2,
 sidebar.dark-mode h3,
@@ -185,5 +188,9 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
-
+.stop-tooltip {
+    font-size: 13px;
+    font-weight: 500;
+    background-color: #fff;
+    filter: invert(90%) hue-rotate(0deg) brightness(100%) contrast(100%);
+}
