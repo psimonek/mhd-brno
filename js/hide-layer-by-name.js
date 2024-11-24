@@ -6,6 +6,7 @@ function hideLayerByName(name) {
 		    if (layer instanceof L.LayerGroup) { // nebo jiný typ vrstvy, pokud používáte jinou knihovnu
 		        if (key !== name) {
 		            map.removeLayer(layer);
+					tooltips.clearLayers(); // Musíme vyprázdnit skupinu tooltipů pro zobrazování zastávek u varianty.
 		         } else {
 		            map.addLayer(layer);
 		         }
