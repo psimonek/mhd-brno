@@ -194,3 +194,7 @@ body, html {
     background-color: #fff;
     filter: invert(90%) hue-rotate(0deg) brightness(100%) contrast(100%);
 }
+#show-stops:disabled + label {
+  opacity: 0.3 !important;
+  cursor: not-allowed;
+}
