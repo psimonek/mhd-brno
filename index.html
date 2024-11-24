@@ -111,7 +111,7 @@
 				<h3>Zdroje dat</h3>
 				<p>Jako tvůrce tohoto webu zároveň udržuji i aktuálnost vedení linek MHD v Brně v open-source mapách <a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>, ze kterých tento web přebírá veškerá data. Tento projekt udržují dobrovolníci, proto je nelze považovat za bezchybné a zcela spolehlivé.</p>
 				<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších než 2 měsíce.</p>
-				<p><i>Poslední aktualizace dat: 23.11.2024</i></p>
+				<p><i>Poslední aktualizace dat: 24.11.2024</i></p>
 				<p>S <i class='fa fa-heart'></i> k dopravě a technologiím vyrobil @psimonek.</p>
 				<p><input style="margin-right: 0.75em;" type="checkbox" id="show-debugging" /><label for="show-debugging"><i>Zobrazit hodnoty ze senzorů</i></label></p>
             </div>
@@ -232,6 +232,13 @@
             	<div id="resetLayers">
                 
             	</div>
+            	<div id="prepinac-zastavek">
+                    <p><input style="margin-right: 0.75em;" type="checkbox" id="show-stops" checked /><label for="show-stops">Zobrazit názvy zastávek v klasické mapě při zvětšení trasy.</label></p>
+				</div>
+				<script>
+				    const stopscheckbox = document.getElementById('show-stops');
+				    const getStopsCheckboxValue = () => stopscheckbox.checked;
+				</script>
            		<div id="detail-linky-zastavky">
                 
 				</div>
@@ -476,6 +483,9 @@
 		<div id="zoomlevel" class="debug-info-item"></div>
     </div>
 	<script>
+	
+	    // Přidání listeneru na zatržítko pro debug okno.
+	    
 		const checkbox = document.getElementById('show-debugging');
 		const debuggingDiv = document.getElementById('debug-info');
 		
@@ -486,6 +496,17 @@
 				debuggingDiv.style.display = 'none';
 			}
 		});
+		
+		// Přidání listeneru na zatržítko pro zobrazení názvů zastávek v zoomed mapě.
+		
+		stopscheckbox.addEventListener('change', () => {
+            if (stopscheckbox.checked) {
+                tooltips.addTo(map);
+            } else {
+                tooltips.removeFrom(map);
+            }
+        });
+		
 	</script>
 
 	<!-- Funkce pro skrytí ostatních vrstev, než na které bylo kliknuto. -->
