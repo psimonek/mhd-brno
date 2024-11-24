@@ -1,3 +1,5 @@
+var tooltips = L.layerGroup(); // Musíme na začátku kódu definovat kolekci pro tooltipy zastávek při zoomu při vybrané variantě.
+
 // Inicializace mapy
 var arrowIcon = L.divIcon({
     className: 'arrow-icon move',
