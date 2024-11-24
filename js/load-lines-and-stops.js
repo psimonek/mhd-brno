@@ -1,5 +1,7 @@
 function loadLinesAndStops(lineRef) {
 
+	tooltips.clearLayers(); // Musíme vyprázdnit skupinu tooltipů pro zobrazování zastávek u varianty.
+	
 	var entityArray = []; //Vytvoříme Array pro relace pro fitBounding
 	
     var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;node(w)["public_transport"="stop_position"];out geom;';
@@ -53,9 +55,6 @@ function loadLinesAndStops(lineRef) {
 				
 				hladiny[jmenoHladiny] = hladina; // Uložení vrstvy do objektu s názvem jako klíčem
 				hladina.addTo(map);
-				//console.log(hladiny);
-
-
 				
 				// Přidání variant linky do <div id="detailLinky">
 				
@@ -69,7 +68,6 @@ function loadLinesAndStops(lineRef) {
 				    detailDiv.innerHTML = textToAdd;
 				}
             	
-            	
             	// Přidání bound boxu do pole entityArray, které vystředí a zvětší mapu po projetí všech relations.
             	
             	var boundLatLon = [
@@ -78,7 +76,6 @@ function loadLinesAndStops(lineRef) {
             		];
 
             	entityArray.push(boundLatLon);
-
             	
             	// Zvolení barvy výstupu podle typu dopravního prostředku. 
             	// transportType je určený pro volání css skriptu pro popisy.
@@ -139,6 +136,7 @@ function loadLinesAndStops(lineRef) {
                             L.circleMarker([stop.lat, stop.lon], { color: lineColor, fillColor: "white", fillOpacity: 1, radius: 10, layerType: "circleMarker"})
                                 .bindPopup(stop.tags.name || "Neznámá zastávka", { offset: [0, -10] })
                                 .addTo(hladina);
+                                //console.dir(hladina);
                         }                   
                     } 
                 });
@@ -170,15 +168,15 @@ function loadLinesAndStops(lineRef) {
 				// Výpis zastávek vybrané linky v detailu
 				
 				function addStoptoDiv(lyr) {
-					
+
 					detailDivZast.innerHTML = ''; // vymazaní obsahu div.
 					
 					detailDivZast.innerHTML += "<h3>Zastávky vybrané varianty linky</h3>";
 					var dataVrstvy = hladiny[lyr];
-					
+								
 					// Předpokládáme, že jmenohladiny je vrstva s různými typy
 					dataVrstvy.eachLayer(function(layer) {
-					
+
 					    // Získání typu vrstvy z options
 					    var layerType = layer.options.layerType; // Předpokládáme, že layerType je v options
 					    
@@ -190,12 +188,36 @@ function loadLinesAndStops(lineRef) {
 					    if (layerType === 'circleMarker' && popup && popup._content) {
 					        var stopName = popup._content; // Získání obsahu popupu
 					        var latName = latlng.lat;
-					        //console.log('Jméno zastávky:', stopName);
-					        //console.log(latName);
-					        //console.log(layer._leaflet_id);
+					        
+					        // Přidání tooltipu jména zastávky při zoomu větším než 16.
+			                var labelZastavka = L.tooltip({
+							  permanent: true,
+							  opacity: 0.8,
+							  offset: [20, 0],
+							  className: 'stop-tooltip'
+							})
+			                .setLatLng(latlng)
+			                .setContent(stopName);
+			                
+			                // Přidání tooltipu do kolekce vrstev
+							tooltips.addLayer(labelZastavka);
+							
+							if (map.getZoom() > 15 && map.hasLayer(osm)) {
+				                tooltips.addTo(map);
+				            }
+			                				            
+				            // Kontrola zoomu
+				            map.on('zoomend', function() {
+				                if (map.getZoom() > 15 && map.hasLayer(osm)) {
+				                    tooltips.addTo(map);
+				                } else {
+				                    tooltips.removeFrom(map);
+				                }
+				            });
+
 					        detailDivZast.innerHTML += '<div class="zastavka" id="zastavka"><a href="#" data-line="' + layer._leaflet_id + '" relation="' + lyr + '">' + stopName + '</a></div>';
 					    } 
-					});		
+					});	
 											
 					var naslouchaniZastavky = document.querySelectorAll('.zastavka a');
 					// Iteruj přes všechny nalezené odkazy a přidej event listener
@@ -208,7 +230,7 @@ function loadLinesAndStops(lineRef) {
 					        var relNum = this.getAttribute('relation');
 							
 							// Při kliknutí na položku zastávky v seznamu se projdou hladiny a při shode _leaflet_id
-							// se mapa vystředí na souřadnice, které se berou z vrasvy.
+							// se mapa vystředí na souřadnice, které se berou z vrstvy.
 							
 					        var dataVrstvyZast = hladiny[lyr];
 					        dataVrstvyZast.eachLayer(function(layer) {
