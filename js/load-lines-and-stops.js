@@ -202,13 +202,14 @@ function loadLinesAndStops(lineRef) {
 			                // Přidání tooltipu do kolekce vrstev
 							tooltips.addLayer(labelZastavka);
 							
-							if (map.getZoom() > 15 && map.hasLayer(osm)) {
+							if (map.getZoom() > 15 && map.hasLayer(osm) && getStopsCheckboxValue()) {
 				                tooltips.addTo(map);
 				            }
 			                				            
 				            // Kontrola zoomu
 				            map.on('zoomend', function() {
-				                if (map.getZoom() > 15 && map.hasLayer(osm)) {
+				            	console.log(getStopsCheckboxValue());
+				                if (map.getZoom() > 15 && map.hasLayer(osm) && getStopsCheckboxValue()) {
 				                    tooltips.addTo(map);
 				                } else {
 				                    tooltips.removeFrom(map);
