@@ -67,6 +67,9 @@ map.on('baselayerchange', function(e) {
         } else {
             console.log('Proměnná arrowElement není definována.');
         }
+        stopscheckbox.disabled = true; // Odstraníme možnost zapnout zobrazení názvů zastávek při zoomu v mapě.
+        tooltips.removeFrom(map);
+        
     } else if (map.hasLayer(osm)) {
         map.setBearing(0); // Reset rotace mapy
 		if (map.hasLayer(aktualniPoloha)) {
@@ -79,6 +82,16 @@ map.on('baselayerchange', function(e) {
         } else {
             console.log('Proměnná arrowElement není definována.');
         }
+        stopscheckbox.disabled = false; // Zpřístupníme možnost zapnout zobrazení názvů zastávek při zoomu v mapě.
+        // Pokud přepneme mapu z jiné na OSM, zjistíme, jestli jsou tooltips vyplněné údaji, nebo ne.
+        if (tooltips.getLayers().length === 0) {
+			
+		} else {
+			if (stopscheckbox.checked) {
+                tooltips.addTo(map);
+            }
+		}
+        
     } else {
         map.setBearing(0); // Reset rotace mapy
 		var elementFixedArrow = document.getElementById('fixedArrow');
@@ -86,5 +99,7 @@ map.on('baselayerchange', function(e) {
   			elementFixedArrow.style.visibility = 'hidden';
 			aktualniPoloha.addTo(map);
 		}
+		stopscheckbox.disabled = true; // Odstraníme možnost zapnout zobrazení názvů zastávek při zoomu v mapě.
+		tooltips.removeFrom(map);
     }
 });
