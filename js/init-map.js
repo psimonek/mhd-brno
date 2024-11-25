@@ -8,8 +8,6 @@ var arrowIcon = L.divIcon({
     iconAnchor: [15, 15] // Ukotvení ikony na střed
 });
 
-var aktualniPoloha = L.marker([0, 0], { icon: arrowIcon });
-
 var map = L.map('map', {
     scrollWheelZoom: false,
     smoothWheelZoom: true,
@@ -56,32 +54,32 @@ map.on('baselayerchange', function(e) {
         console.log('Funkce setTheme není definována.');
     } 
 	if (map.hasLayer(sat)) {
-        map.setBearing(0); // Reset rotace mapy
-		if (map.hasLayer(aktualniPoloha)) {
-			map.removeLayer(aktualniPoloha);
-			document.getElementById('fixedArrow').style.visibility = 'visible';
-		}
-        if (typeof arrowElement !== 'undefined') {
+        //map.setBearing(0); // Reset rotace mapy
+	//	if (map.hasLayer(aktualniPoloha)) {
+	//		map.removeLayer(aktualniPoloha);
+	//		document.getElementById('fixedArrow').style.visibility = 'visible';
+	//	}
+        //if (typeof arrowElement !== 'undefined') {
             // Pokud arrowElement existuje, můžeme s ní pracovat
-            arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
-        } else {
-            console.log('Proměnná arrowElement není definována.');
-        }
+       //     arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
+       // } else {
+        //    console.log('Proměnná arrowElement není definována.');
+        //}
         stopscheckbox.disabled = true; // Odstraníme možnost zapnout zobrazení názvů zastávek při zoomu v mapě.
         tooltips.removeFrom(map);
         
     } else if (map.hasLayer(osm)) {
-        map.setBearing(0); // Reset rotace mapy
-		if (map.hasLayer(aktualniPoloha)) {
-			map.removeLayer(aktualniPoloha);
-			document.getElementById('fixedArrow').style.visibility = 'visible';
-		}
-        if (typeof arrowElement !== 'undefined') {
+        //map.setBearing(0); // Reset rotace mapy
+	//	if (map.hasLayer(aktualniPoloha)) {
+	//		map.removeLayer(aktualniPoloha);
+	//		document.getElementById('fixedArrow').style.visibility = 'visible';
+	//	}
+        //if (typeof arrowElement !== 'undefined') {
             // Pokud arrowElement existuje, můžeme s ní pracovat
-            arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
-        } else {
-            console.log('Proměnná arrowElement není definována.');
-        }
+        //    arrowElement.style.transform = 'rotate(0deg)'; // Reset možné zrotované šipky
+        //} else {
+        //    console.log('Proměnná arrowElement není definována.');
+        //}
         stopscheckbox.disabled = false; // Zpřístupníme možnost zapnout zobrazení názvů zastávek při zoomu v mapě.
         // Pokud přepneme mapu z jiné na OSM, zjistíme, jestli jsou tooltips vyplněné údaji, nebo ne.
         if (tooltips.getLayers().length === 0) {
@@ -94,11 +92,11 @@ map.on('baselayerchange', function(e) {
         
     } else {
         map.setBearing(0); // Reset rotace mapy
-		var elementFixedArrow = document.getElementById('fixedArrow');
-		if (elementFixedArrow.style.visibility === 'visible') {
-  			elementFixedArrow.style.visibility = 'hidden';
-			aktualniPoloha.addTo(map);
-		}
+		//var elementFixedArrow = document.getElementById('fixedArrow');
+		//if (elementFixedArrow.style.visibility === 'visible') {
+  		//	elementFixedArrow.style.visibility = 'hidden';
+		//	aktualniPoloha.addTo(map);
+		//}
 		stopscheckbox.disabled = true; // Odstraníme možnost zapnout zobrazení názvů zastávek při zoomu v mapě.
 		tooltips.removeFrom(map);
     }
