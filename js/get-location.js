@@ -1,5 +1,4 @@
 // Funkce pro aktivaci geolokace
-var prepinacPolohy = false;
 var previousHeading = 0;
 var cumulativeDeltaHeading = 0;
 
@@ -45,7 +44,6 @@ function getLocation() {
             requestWakeLock();
 			map.setZoom(18);
             document.getElementById('fixedArrow').style.visibility = 'visible';
-            prepinacPolohy = true;
         } else {
             map.stopLocate();
             document.getElementById('fixedArrow').style.visibility = 'hidden'; // Zrušíme stacionární šipku
