@@ -110,7 +110,7 @@ function showPosition(e) {
         }
     } else if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
         //activeLayerName = "mapLibre";
-        document.getElementById('fixedArrow').style.visibility = 'hidden'; // Skytí stacionární šipky
+        document.getElementById('fixedArrow').style.visibility = 'visible'; // Skytí stacionární šipky
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
         // Rotace s animací šipky při alternativní mapě
         if (arrowElement) {
