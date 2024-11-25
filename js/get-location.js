@@ -115,7 +115,7 @@ function showPosition(e) {
         document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
             //var deltaHeading = Math.abs(heading - previousHeading); //Toto je nejspíš nadbytečné
-            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny kód neprovedou
+            if (cumulativeDeltaHeading >= 8) { // malé inkrementální změny kód neprovedou
                 endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
                 //map.setBearing(-heading); // Negace pro správnou orientaci --- rušíme, protože rotaci animujeme v předchozím řádku
@@ -131,7 +131,7 @@ function showPosition(e) {
         document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
             //var deltaHeading = Math.abs(heading - previousHeading); //Toto je nejspíš nadbytečné
-            if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny kód neprovedou
+            if (cumulativeDeltaHeading >= 8) { // malé inkrementální změny kód neprovedou
                 endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
                 //map.setBearing(-heading); // Negace pro správnou orientaci --- rušíme, protože rotaci animujeme v předchozím řádku
