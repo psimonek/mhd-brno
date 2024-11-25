@@ -90,6 +90,7 @@ function showPosition(e) {
 
     var deltaHeading = Math.abs(heading - previousHeading);
     cumulativeDeltaHeading += deltaHeading;
+	previousHeading = heading;
     
     // Příklad volání funkce pro aktualizaci hodnot
     updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), Math.round(cumulativeDeltaHeading));
@@ -113,7 +114,7 @@ function showPosition(e) {
         activeLayerName = "sat";
         document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
-            var deltaHeading = Math.abs(heading - previousHeading);
+            //var deltaHeading = Math.abs(heading - previousHeading); //Toto je nejspíš nadbytečné
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny kód neprovedou
                 endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
@@ -129,7 +130,7 @@ function showPosition(e) {
         activeLayerName = "osm";
         document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
-            var deltaHeading = Math.abs(heading - previousHeading);
+            //var deltaHeading = Math.abs(heading - previousHeading); //Toto je nejspíš nadbytečné
             if (cumulativeDeltaHeading >= 20) { // malé inkrementální změny kód neprovedou
                 endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
@@ -175,7 +176,6 @@ function showError(error) {
             alert("Nastala neznámá chyba.");
             break;
     }
-    previousHeading = heading;
 }
 
 // Funkce pro aktualizaci hodnot v debug okně
