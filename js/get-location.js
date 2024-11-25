@@ -8,21 +8,8 @@ var startBearing = 0; // počáteční úhel
 var endBearing = 0; // koncový úhel
 var duration = 300; // trvání animace v milisekundách
 
-// Funkce pro animaci markeru --- nyní nepoužíváme, máme statickou šipku
-/*function moveMarker(marker, newLatLng) {
-    // Odebrání třídy pro animaci
-    marker.getElement().classList.remove('move');
-
-    // Nastavení nové pozice
-    marker.setLatLng(newLatLng);
-
-    // Přidání třídy pro animaci zpět po krátké prodlevě
-    setTimeout(() => {
-        marker.getElement().classList.add('move');
-    }, 0);
-}*/
-
 // Funkce pro plynulou změnu úhlu pohledu
+
 function animateBearing(startBearing, endBearing, duration) {
     var startTime = null;
 
@@ -45,6 +32,8 @@ function animateBearing(startBearing, endBearing, duration) {
     requestAnimationFrame(animate);
 }
 
+// Hlavní kód pro získání povolení ke sledování polohy a poté získávání hodnot ze snímačů.
+
 function getLocation() {
     if (navigator.geolocation) {
         if (!tracking) {
@@ -54,12 +43,8 @@ function getLocation() {
             map.on('locationerror', showError);
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
-            if (map.hasLayer(mapLibreBright) || map.hasLayer(mapLibreDark)) {
-                aktualniPoloha.addTo(map);
-            } else {
-                document.getElementById('fixedArrow').style.visibility = 'visible';
-            }
-            map.setZoom(18);
+			map.setZoom(18);
+            document.getElementById('fixedArrow').style.visibility = 'visible';
             prepinacPolohy = true;
         } else {
             map.stopLocate();
@@ -67,16 +52,13 @@ function getLocation() {
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
-            // Pokud existuje šipka, zrušíme ji.
-            if (marker) {
-                map.removeLayer(aktualniPoloha); 
-                prepinacPolohy = false;
-            }
         }
     } else {
         alert("Geolokace není podporována tímto prohlížečem.");
     }
 }
+
+// Hlavní kód pro zpracování dat získaných ze senzorů a aplikování na mapu.
 
 function showPosition(e) {
     var lat = e.latitude;
@@ -92,37 +74,25 @@ function showPosition(e) {
     cumulativeDeltaHeading += deltaHeading;
 	previousHeading = heading;
     
-    // Příklad volání funkce pro aktualizaci hodnot
+    // Volání funkce pro aktualizaci hodnot debuggeru.
     updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), Math.round(cumulativeDeltaHeading));
 
-    // Aktualizace značky a mapy
-    if (prepinacPolohy) {
-        // Volání animace přesunutí kurzoru
-//moveMarker(aktualniPoloha, L.latLng([lat, lon])); // Přesunout na novou pozici
-        //aktualniPoloha.setLatLng([lat, lon]);
-    } else {
-        // Pokud marker neexistuje, vytvoříme ho
-//aktualniPoloha = L.marker([lat, lon]).addTo(map); 
-//map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 1 }});
-    }
-    //marker.setLatLng([lat, lon]);
     map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 2 }});
 
+	var arrowElement = document.querySelector('.arrow-position'); // Načítáme šipku z dokumentu pro pozdější rotaci.
+
     // Otáčení mapy nebo šipky podle směru pohybu
-//var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
     if (map.hasLayer(sat)) {
         activeLayerName = "sat";
         document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
-            //var deltaHeading = Math.abs(heading - previousHeading); //Toto je nejspíš nadbytečné
             if (cumulativeDeltaHeading >= 8) { // malé inkrementální změny kód neprovedou
                 endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
-                //map.setBearing(-heading); // Negace pro správnou orientaci --- rušíme, protože rotaci animujeme v předchozím řádku
                 startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
-                //if (arrowElement) {
-                //    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
-                //}
+                if (arrowElement) {
+                    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+                }
                 cumulativeDeltaHeading = 0; // reset kumulativní změny
             }
         }
@@ -130,15 +100,13 @@ function showPosition(e) {
         activeLayerName = "osm";
         document.getElementById('fixedArrow').style.visibility = 'visible'; // Zviditelníme stacionární šipku
         if (speed > 1) {
-            //var deltaHeading = Math.abs(heading - previousHeading); //Toto je nejspíš nadbytečné
             if (cumulativeDeltaHeading >= 8) { // malé inkrementální změny kód neprovedou
                 endBearing = heading;
                 animateBearing(startBearing, endBearing, duration);
-                //map.setBearing(-heading); // Negace pro správnou orientaci --- rušíme, protože rotaci animujeme v předchozím řádku
                 startBearing = endBearing; // Musíme nastavit pro další polohu aktuální natočení.
-                //if (arrowElement) {
-                //    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
-                //}
+                if (arrowElement) {
+                    arrowElement.style.transform = 'rotate(0deg)'; // Ujistíme se, že šipka směřuje pouze vzhůru
+                }
                 cumulativeDeltaHeading = 0; // reset kumulativní změny
             }
         }
@@ -146,15 +114,9 @@ function showPosition(e) {
         //activeLayerName = "mapLibre";
         document.getElementById('fixedArrow').style.visibility = 'hidden'; // Skytí stacionární šipky
         map.setBearing(0); // Ujistíme se, že mapa směřuje vzhůru
-        // V jiných mapách máme stacionární šipku, zde ji musíme přidat dle lat lon.
-        var arrowElement = aktualniPoloha.getElement().querySelector('.arrow-position');
-        aktualniPoloha.setLatLng([lat, lon]);
-        if (!map.hasLayer(aktualniPoloha)) {
-			aktualniPoloha.addTo(map);
-		}
         // Rotace s animací šipky při alternativní mapě
         if (arrowElement) {
-            arrowElement.style.transition = 'transform 0.5s ease-in-out';
+            arrowElement.style.transition = 'transform 1s ease-in-out';
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
         }
         cumulativeDeltaHeading = 0; // reset kumulativní změny - kvůli možné změně pohledu a nakumulování úhlu
@@ -180,8 +142,8 @@ function showError(error) {
 
 // Funkce pro aktualizaci hodnot v debug okně
 function updateValues(gpsValue, uhelValue, rychlostValue, zoomlevelValue) {
-    document.getElementById('gps').innerText = '⌀ ' + gpsValue;
+    document.getElementById('gps').innerText = '⦿ ' + gpsValue + ' m';
     document.getElementById('uhel').innerText = '➚ ' + uhelValue + '°';
     document.getElementById('rychlost').innerText = Math.round(rychlostValue*3.6) + ' km/h';
-    document.getElementById('zoomlevel').innerText = '⬍ ' + zoomlevelValue;
+    document.getElementById('zoomlevel').innerText = '± ' + zoomlevelValue + '°';
 }
