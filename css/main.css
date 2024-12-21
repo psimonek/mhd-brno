@@ -122,33 +122,59 @@ body, html {
 .zastavka a:hover {
 	background-color: #eeeeee
 }
-.bus-type {
+.bus-type-line {
 	border: 5px solid rgb(37, 91, 218);
-	background-color: rgba(37, 91, 218, 0.1);
 	color: rgb(37, 91, 218);
 }
-.trolleybus-type {
+.bus-type {
+	border: 5px solid rgba(37, 91, 218, 0.4);
+	background-color: rgba(37, 91, 218, 0.3);
+	color: rgb(37, 91, 218);
+	font-weight: 500;
+}
+.trolleybus-type-line {
 	border: 5px solid rgb(7, 172, 0);
-	background-color: rgba(7, 172, 0, 0.1);
 	color: rgb(7, 172, 0);
 }
-.tram-type {
+.trolleybus-type {
+	border: 5px solid rgba(7, 172, 0, 0.4);
+	background-color: rgba(7, 172, 0, 0.3);
+	color: rgb(7, 172, 0);
+	font-weight: 500;
+}
+.tram-type-line {
 	border: 5px solid rgb(255, 20, 20);
-	background-color: rgba(255, 20, 20, 0.1);
 	color: rgb(255, 20, 20);
 }
-.night-type {
+.tram-type {
+	border: 5px solid rgba(255, 20, 20, 0.4);
+	background-color: rgba(255, 20, 20, 0.3);
+	color: rgb(255, 20, 20);
+	font-weight: 500;
+}
+.night-type-line {
 	border: 5px solid rgb(0, 0, 0);
-	background-color: rgba(0, 0, 0, 0.1);
 	color: rgb(0, 0, 0);
 }
-.rez-type {
+.night-type {
+	border: 5px solid rgba(0, 0, 0, 0.4);
+	background-color: rgba(0, 0, 0, 0.3);
+	color: rgb(0, 0, 0);
+	font-weight: 500;
+}
+.rez-type-line {
 	border: 5px solid rgb(255, 128, 0);
-	background-color: rgba(255, 128, 0, 0.1);
 	color: rgb(255, 128, 0);
+}
+.rez-type {
+	border: 5px solid rgba(255, 128, 0, 0.4);
+	background-color: rgba(255, 128, 0, 0.3);
+	color: rgb(255, 128, 0);
+	font-weight: 500;
 }
 .menu-border {
 	border-width: 2px;
+	border-radius: 6px;
 }
 .highlight-color {
 	background-color: white;
