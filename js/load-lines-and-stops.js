@@ -104,7 +104,7 @@ function loadLinesAndStops(lineRef) {
 	                    	var textLatLng = [lat, lon];
 	                    	L.marker(textLatLng, {
 								icon: L.divIcon({
-	    							className: 'text-labels rez-type',   // Set class for CSS styling
+	    							className: 'text-labels rez-type-line',   // Set class for CSS styling
 	    							html: getTagValue(tags, 'ref').split(" ").pop().trim()
 									}),
 								zIndexOffset: 1000     // Make appear above other map features
@@ -343,17 +343,17 @@ function loadLinesAndStops(lineRef) {
 		                if (relation.tags.route === 'bus') {
 		                	if (relation.tags.ref.startsWith("N")) {
 		                		var lineColor = 'rgb(0, 0, 0)';
-		                		var transportType = 'night-type';
+		                		var transportType = 'night-type-line';
 		                	} else {
 		                		var lineColor = 'rgb(37, 91, 218)';
-		                		var transportType = 'bus-type';
+		                		var transportType = 'bus-type-line';
 		                	}
 		                } else if (relation.tags.route === 'trolleybus') {
 		                	var lineColor = 'rgb(7, 172, 0)';
-		                	var transportType = 'trolleybus-type';
+		                	var transportType = 'trolleybus-type-line';
 		                } else if (relation.tags.route === 'tram') {
 		                	var lineColor = 'rgb(255, 20, 20)'; 
-		                	var transportType = 'tram-type';
+		                	var transportType = 'tram-type-line';
 		                }
 		            	
 		            	// Vykreslení jednotlivých členů relací
