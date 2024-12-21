@@ -79,7 +79,7 @@ body, html {
 	border-radius: 10px;
 	font-weight: bold;
 	padding: 0px;
-	background-color: rgba(255, 255, 255, 0.7) !important;
+	background-color: rgba(255, 255, 255, 0.9) !important;
 	font-size: 2em;
 	text-align: center;
 	vertical-align: middle;
@@ -142,6 +142,11 @@ body, html {
 	background-color: rgba(0, 0, 0, 0.1);
 	color: rgb(0, 0, 0);
 }
+.rez-type {
+	border: 5px solid rgb(255, 128, 0);
+	background-color: rgba(255, 128, 0, 0.1);
+	color: rgb(255, 128, 0);
+}
 .menu-border {
 	border-width: 2px;
 }
@@ -189,7 +194,7 @@ body, html {
     transform: translate(-50%, -50%);
 }
 .stop-tooltip {
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 500;
     background-color: #fff;
     filter: invert(90%) hue-rotate(0deg) brightness(100%) contrast(100%);
