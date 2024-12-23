@@ -4702,63 +4702,111 @@
     <tag k='highway' v='residential' />
     <tag k='noname' v='yes' />
   </way>
-  <relation id='-70' action='modify' visible='true'>
-    <member type='node' ref='-25883' role='stop_entry_only' />
-    <member type='node' ref='-25858' role='stop' />
-    <member type='node' ref='-7192182' role='stop' />
-    <member type='node' ref='-7192205' role='stop' />
-    <member type='node' ref='-25874' role='stop_exit_only' />
-    <member type='way' ref='-617' role='' />
-    <member type='way' ref='-4975' role='' />
-    <member type='way' ref='-624' role='' />
-    <member type='way' ref='-620' role='' />
-    <member type='way' ref='-8007' role='' />
-    <member type='way' ref='-614' role='' />
-    <member type='way' ref='-8213' role='' />
-    <member type='way' ref='-8217' role='' />
-    <member type='way' ref='-627' role='' />
+  <relation id='-100100' action='modify' visible='true'>
+    <member type='node' ref='-25874' role='stop_entry_only' />
+    <member type='node' ref='-2902715' role='stop' />
+    <member type='node' ref='-9970611' role='stop' />
+    <member type='node' ref='-2301642' role='stop' />
+    <member type='node' ref='-8555868' role='stop' />
+    <member type='node' ref='-2884429' role='stop' />
+    <member type='node' ref='-8497023' role='stop' />
+    <member type='node' ref='-8463070' role='stop' />
+    <member type='node' ref='-25887' role='stop' />
+    <member type='node' ref='-2914447' role='stop' />
+    <member type='node' ref='-2474217' role='stop' />
+    <member type='node' ref='-8681470' role='stop' />
+    <member type='node' ref='-8710548' role='stop' />
+    <member type='node' ref='-8763128' role='stop' />
+    <member type='node' ref='-2861885' role='stop_exit_only' />
     <member type='way' ref='-630' role='' />
-    <tag k='from' v='Královo Pole, nádraží' />
+    <member type='way' ref='-627' role='' />
+    <member type='way' ref='-8011' role='' />
+    <member type='way' ref='-6357' role='' />
+    <member type='way' ref='-6361' role='' />
+    <member type='way' ref='-5804' role='' />
+    <member type='way' ref='-6278' role='' />
+    <member type='way' ref='-4657' role='' />
+    <member type='way' ref='-4660' role='' />
+    <member type='way' ref='-4663' role='' />
+    <member type='way' ref='-7963' role='' />
+    <member type='way' ref='-8326' role='' />
+    <tag k='from' v='Vozovna Medlánky' />
     <tag k='maxlat' v='49.2357557' />
-    <tag k='maxlon' v='16.5844319' />
-    <tag k='minlat' v='49.2279035' />
-    <tag k='minlon' v='16.5955987' />
-    <tag k='name' v='Trasa S: Královo Pole, nádraží ⇒ Vozovna Medlánky' />
+    <tag k='maxlon' v='16.555447' />
+    <tag k='minlat' v='49.1934172' />
+    <tag k='minlon' v='16.5892558' />
+    <tag k='name' v='Trasa A: Vozovna Medlánky ⇒ Anthropos' />
     <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa S' />
+    <tag k='ref' v='Trasa A' />
     <tag k='route' v='bus' />
-    <tag k='to' v='Vozovna Medlánky' />
+    <tag k='to' v='Anthropos' />
     <tag k='type' v='route' />
   </relation>
-  <relation id='-86' action='modify' visible='true'>
-    <member type='node' ref='-25884' role='stop_entry_only' />
+  <relation id='-100200' action='modify' visible='true'>
+    <member type='node' ref='-2861885' role='stop_entry_only' />
+    <member type='node' ref='-2717132' role='stop' />
+    <member type='node' ref='-8717895' role='stop' />
+    <member type='node' ref='-8692433' role='stop' />
+    <member type='node' ref='-8628181' role='stop' />
+    <member type='node' ref='-25884' role='stop' />
     <member type='node' ref='-8426592' role='stop' />
     <member type='node' ref='-8467459' role='stop' />
     <member type='node' ref='-8508795' role='stop' />
     <member type='node' ref='-28865' role='stop' />
     <member type='node' ref='-8555868' role='stop' />
-    <member type='node' ref='-26009' role='stop' />
-    <member type='node' ref='-26022' role='stop_exit_only' />
+    <member type='node' ref='-9917184' role='stop' />
+    <member type='node' ref='-9960045' role='stop' />
+    <member type='node' ref='-2906169' role='stop' />
+    <member type='node' ref='-25874' role='stop_exit_only' />
+    <member type='way' ref='-8326' role='' />
+    <member type='way' ref='-7963' role='' />
     <member type='way' ref='-4663' role='' />
     <member type='way' ref='-4660' role='' />
     <member type='way' ref='-4657' role='' />
-    <member type='way' ref='-632' role='' />
-    <member type='way' ref='-4989' role='' />
-    <member type='way' ref='-5000' role='' />
-    <member type='way' ref='-4645' role='' />
-    <tag k='from' v='Vozovna Komín' />
-    <tag k='maxlat' v='49.2212068' />
-    <tag k='maxlon' v='16.5596955' />
-    <tag k='minlat' v='49.208484' />
-    <tag k='minlon' v='16.6376996' />
-    <tag k='name' v='Trasa H: Vozovna Komín ⇒ Vozovna Husovice' />
+    <member type='way' ref='-6278' role='' />
+    <member type='way' ref='-6283' role='' />
+    <member type='way' ref='-6361' role='' />
+    <member type='way' ref='-6363' role='' />
+    <member type='way' ref='-8213' role='' />
+    <member type='way' ref='-8217' role='' />
+    <member type='way' ref='-627' role='' />
+    <member type='way' ref='-630' role='' />
+    <tag k='from' v='Anthropos' />
+    <tag k='maxlat' v='49.2357557' />
+    <tag k='maxlon' v='16.555447' />
+    <tag k='minlat' v='49.1934172' />
+    <tag k='minlon' v='16.5892558' />
+    <tag k='name' v='Trasa A: Anthropos ⇒ Vozovna Medlánky' />
     <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa H' />
+    <tag k='ref' v='Trasa A' />
     <tag k='route' v='bus' />
-    <tag k='to' v='Vozovna Husovice' />
+    <tag k='to' v='Vozovna Medlánky' />
     <tag k='type' v='route' />
   </relation>
-  <relation id='-115' action='modify' visible='true'>
+  <relation id='-100300' action='modify' visible='true'>
+    <member type='node' ref='-23675693' role='stop_entry_only' />
+    <member type='node' ref='-23544282' role='stop' />
+    <member type='node' ref='-11379788' role='stop' />
+    <member type='node' ref='-10011880' role='stop_exit_only' />
+    <member type='way' ref='-9188' role='' />
+    <member type='way' ref='-9115' role='' />
+    <member type='way' ref='-9186' role='' />
+    <member type='way' ref='-9253' role='' />
+    <member type='way' ref='-9143' role='' />
+    <tag k='from' v='Kamenný vrch' />
+    <tag k='maxlat' v='49.18002' />
+    <tag k='maxlon' v='16.5456127' />
+    <tag k='minlat' v='49.1642876' />
+    <tag k='minlon' v='16.5713787' />
+    <tag k='name' v='Trasa D: Kamenný vrch ⇒ Dunajská ⇒ Kamenný vrch' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa D' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kamenný vrch' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Dunajská' />
+  </relation>
+  <relation id='-100400' action='modify' visible='true'>
     <member type='node' ref='-25874' role='stop_entry_only' />
     <member type='node' ref='-7332327' role='stop' />
     <member type='node' ref='-7384525' role='stop' />
@@ -4831,7 +4879,204 @@
     <tag k='to' v='Vozovna Medlánky' />
     <tag k='type' v='route' />
   </relation>
-  <relation id='-135' action='modify' visible='true'>
+  <relation id='-100500' action='modify' visible='true'>
+    <member type='node' ref='-23675693' role='stop_entry_only' />
+    <member type='node' ref='-11379788' role='stop' />
+    <member type='node' ref='-23817759' role='stop' />
+    <member type='node' ref='-19461341' role='stop' />
+    <member type='node' ref='-19997655' role='stop' />
+    <member type='node' ref='-20489947' role='stop' />
+    <member type='node' ref='-15538488' role='stop' />
+    <member type='node' ref='-23293698' role='stop' />
+    <member type='node' ref='-23222818' role='stop' />
+    <member type='node' ref='-23158771' role='stop' />
+    <member type='node' ref='-23127564' role='stop' />
+    <member type='node' ref='-23045441' role='stop_exit_only' />
+    <member type='way' ref='-9394' role='' />
+    <member type='way' ref='-9143' role='' />
+    <member type='way' ref='-9253' role='' />
+    <member type='way' ref='-9255' role='' />
+    <member type='way' ref='-9115' role='' />
+    <member type='way' ref='-9313' role='' />
+    <tag k='from' v='Kamenný vrch' />
+    <tag k='maxlat' v='49.1798629' />
+    <tag k='maxlon' v='16.5456127' />
+    <tag k='minlat' v='49.165964' />
+    <tag k='minlon' v='16.5863996' />
+    <tag k='name' v='Trasa G: Kamenný vrch ⇒ Gruzínská' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa G' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Gruzínská' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-100600' action='modify' visible='true'>
+    <member type='node' ref='-25884' role='stop_entry_only' />
+    <member type='node' ref='-8426592' role='stop' />
+    <member type='node' ref='-8467459' role='stop' />
+    <member type='node' ref='-8508795' role='stop' />
+    <member type='node' ref='-28865' role='stop' />
+    <member type='node' ref='-8555868' role='stop' />
+    <member type='node' ref='-26009' role='stop' />
+    <member type='node' ref='-26022' role='stop_exit_only' />
+    <member type='way' ref='-4663' role='' />
+    <member type='way' ref='-4660' role='' />
+    <member type='way' ref='-4657' role='' />
+    <member type='way' ref='-632' role='' />
+    <member type='way' ref='-4989' role='' />
+    <member type='way' ref='-5000' role='' />
+    <member type='way' ref='-4645' role='' />
+    <tag k='from' v='Vozovna Komín' />
+    <tag k='maxlat' v='49.2212068' />
+    <tag k='maxlon' v='16.5596955' />
+    <tag k='minlat' v='49.208484' />
+    <tag k='minlon' v='16.6376996' />
+    <tag k='name' v='Trasa H: Vozovna Komín ⇒ Vozovna Husovice' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa H' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Vozovna Husovice' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-100700' action='modify' visible='true'>
+    <member type='node' ref='-2914447' role='stop_entry_only' />
+    <member type='node' ref='-2474217' role='stop' />
+    <member type='node' ref='-8681470' role='stop' />
+    <member type='node' ref='-8710548' role='stop' />
+    <member type='node' ref='-8763128' role='stop' />
+    <member type='node' ref='-2861885' role='stop' />
+    <member type='node' ref='-7192168' role='stop' />
+    <member type='node' ref='-5382358' role='stop' />
+    <member type='node' ref='-8838688' role='stop' />
+    <member type='node' ref='-8860663' role='stop' />
+    <member type='node' ref='-5662079' role='stop' />
+    <member type='node' ref='-8892573' role='stop' />
+    <member type='node' ref='-7134506' role='stop' />
+    <member type='node' ref='-6100579' role='stop_exit_only' />
+    <member type='way' ref='-8326' role='' />
+    <member type='way' ref='-6565' role='' />
+    <member type='way' ref='-6575' role='' />
+    <member type='way' ref='-7550' role='' />
+    <member type='way' ref='-7487' role='' />
+    <member type='way' ref='-7395' role='' />
+    <tag k='from' v='Vozovna Komín' />
+    <tag k='maxlat' v='49.2144499' />
+    <tag k='maxlon' v='16.555447' />
+    <tag k='minlat' v='49.1885382' />
+    <tag k='minlon' v='16.6135579' />
+    <tag k='name' v='Trasa K: Vozovna Komín ⇒ Hlavní nádraží' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa K' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Hlavní nádraží' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-100800' action='modify' visible='true'>
+    <member type='node' ref='-6331418' role='stop_entry_only' />
+    <member type='node' ref='-6392969' role='stop' />
+    <member type='node' ref='-7130290' role='stop' />
+    <member type='node' ref='-8881384' role='stop' />
+    <member type='node' ref='-7146354' role='stop' />
+    <member type='node' ref='-8867671' role='stop' />
+    <member type='node' ref='-8819928' role='stop' />
+    <member type='node' ref='-7162511' role='stop' />
+    <member type='node' ref='-7181974' role='stop' />
+    <member type='node' ref='-2861885' role='stop' />
+    <member type='node' ref='-2717132' role='stop' />
+    <member type='node' ref='-8717895' role='stop' />
+    <member type='node' ref='-8692433' role='stop' />
+    <member type='node' ref='-8628181' role='stop' />
+    <member type='node' ref='-25884' role='stop_exit_only' />
+    <member type='way' ref='-7397' role='' />
+    <member type='way' ref='-7487' role='' />
+    <member type='way' ref='-7489' role='' />
+    <member type='way' ref='-6575' role='' />
+    <member type='way' ref='-6565' role='' />
+    <member type='way' ref='-8326' role='' />
+    <member type='way' ref='-7963' role='' />
+    <tag k='from' v='Hlavní nádraží' />
+    <tag k='maxlat' v='49.2144499' />
+    <tag k='maxlon' v='16.555447' />
+    <tag k='minlat' v='49.1885382' />
+    <tag k='minlon' v='16.6135579' />
+    <tag k='name' v='Trasa K: Hlavní nádraží ⇒ Vozovna Komín' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa K' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Vozovna Komín' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-100900' action='modify' visible='true'>
+    <member type='node' ref='-2301075' role='stop_entry_only' />
+    <member type='node' ref='-2301082' role='stop' />
+    <member type='node' ref='-9737181' role='stop' />
+    <member type='node' ref='-2301124' role='stop' />
+    <member type='node' ref='-2301132' role='stop' />
+    <member type='node' ref='-2301323' role='stop' />
+    <member type='node' ref='-2301166' role='stop' />
+    <member type='node' ref='-9810143' role='stop' />
+    <member type='node' ref='-2301423' role='stop' />
+    <member type='node' ref='-9827021' role='stop' />
+    <member type='node' ref='-2301073' role='stop_exit_only' />
+    <member type='way' ref='-5627' role='' />
+    <member type='way' ref='-5774' role='' />
+    <member type='way' ref='-5771' role='' />
+    <member type='way' ref='-5607' role='' />
+    <tag k='from' v='Novolíšeňská' />
+    <tag k='maxlat' v='49.2143401' />
+    <tag k='maxlon' v='16.6664802' />
+    <tag k='minlat' v='49.2017797' />
+    <tag k='minlon' v='16.6882002' />
+    <tag k='name' v='Trasa N: Novolíšeňská ⇒ Růženin dvůr' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa N' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Růženin dvůr' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-101100' action='modify' visible='true'>
+    <member type='node' ref='-3608945' role='stop_entry_only' />
+    <member type='node' ref='-5071772' role='stop_exit_only' />
+    <member type='way' ref='-6372' role='' />
+    <member type='way' ref='-4660' role='' />
+    <member type='way' ref='-8401' role='' />
+    <member type='way' ref='-6376' role='' />
+    <member type='way' ref='-8335' role='' />
+    <member type='way' ref='-6563' role='' />
+    <tag k='from' v='Přívrat' />
+    <tag k='maxlat' v='49.2187545' />
+    <tag k='maxlon' v='16.5676065' />
+    <tag k='minlat' v='49.1935563' />
+    <tag k='minlon' v='16.5773223' />
+    <tag k='name' v='Trasa P: Přívrat ⇒ Pisárky' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa P' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Pisárky' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-101200' action='modify' visible='true'>
+    <member type='node' ref='-5071772' role='stop_entry_only' />
+    <member type='node' ref='-3608945' role='stop_exit_only' />
+    <member type='way' ref='-6563' role='' />
+    <member type='way' ref='-8335' role='' />
+    <member type='way' ref='-8337' role='' />
+    <member type='way' ref='-8401' role='' />
+    <member type='way' ref='-4660' role='' />
+    <member type='way' ref='-6372' role='' />
+    <tag k='from' v='Pisárky' />
+    <tag k='maxlat' v='49.2187545' />
+    <tag k='maxlon' v='16.5676065' />
+    <tag k='minlat' v='49.1935563' />
+    <tag k='minlon' v='16.5773223' />
+    <tag k='name' v='Trasa P: Pisárky ⇒ Přívrat' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='ref' v='Trasa P' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Přívrat' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-101300' action='modify' visible='true'>
     <member type='node' ref='-976748' role='stop_entry_only' />
     <member type='node' ref='-9274057' role='stop' />
     <member type='node' ref='-9362541' role='stop' />
@@ -4867,7 +5112,7 @@
     <tag k='to' v='Růženin dvůr' />
     <tag k='type' v='route' />
   </relation>
-  <relation id='-162' action='modify' visible='true'>
+  <relation id='-101400' action='modify' visible='true'>
     <member type='node' ref='-2301073' role='stop_entry_only' />
     <member type='node' ref='-2288029' role='stop' />
     <member type='node' ref='-2282253' role='stop' />
@@ -4902,277 +5147,32 @@
     <tag k='to' v='Vozovna Slatina' />
     <tag k='type' v='route' />
   </relation>
-  <relation id='-182' action='modify' visible='true'>
-    <member type='node' ref='-2301075' role='stop_entry_only' />
-    <member type='node' ref='-2301082' role='stop' />
-    <member type='node' ref='-9737181' role='stop' />
-    <member type='node' ref='-2301124' role='stop' />
-    <member type='node' ref='-2301132' role='stop' />
-    <member type='node' ref='-2301323' role='stop' />
-    <member type='node' ref='-2301166' role='stop' />
-    <member type='node' ref='-9810143' role='stop' />
-    <member type='node' ref='-2301423' role='stop' />
-    <member type='node' ref='-9827021' role='stop' />
-    <member type='node' ref='-2301073' role='stop_exit_only' />
-    <member type='way' ref='-5627' role='' />
-    <member type='way' ref='-5774' role='' />
-    <member type='way' ref='-5771' role='' />
-    <member type='way' ref='-5607' role='' />
-    <tag k='from' v='Novolíšeňská' />
-    <tag k='maxlat' v='49.2143401' />
-    <tag k='maxlon' v='16.6664802' />
-    <tag k='minlat' v='49.2017797' />
-    <tag k='minlon' v='16.6882002' />
-    <tag k='name' v='Trasa N: Novolíšeňská ⇒ Růženin dvůr' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa N' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Růženin dvůr' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-206' action='modify' visible='true'>
-    <member type='node' ref='-25874' role='stop_entry_only' />
-    <member type='node' ref='-2902715' role='stop' />
-    <member type='node' ref='-9970611' role='stop' />
-    <member type='node' ref='-2301642' role='stop' />
-    <member type='node' ref='-8555868' role='stop' />
-    <member type='node' ref='-2884429' role='stop' />
-    <member type='node' ref='-8497023' role='stop' />
-    <member type='node' ref='-8463070' role='stop' />
-    <member type='node' ref='-25887' role='stop' />
-    <member type='node' ref='-2914447' role='stop' />
-    <member type='node' ref='-2474217' role='stop' />
-    <member type='node' ref='-8681470' role='stop' />
-    <member type='node' ref='-8710548' role='stop' />
-    <member type='node' ref='-8763128' role='stop' />
-    <member type='node' ref='-2861885' role='stop_exit_only' />
-    <member type='way' ref='-630' role='' />
-    <member type='way' ref='-627' role='' />
-    <member type='way' ref='-8011' role='' />
-    <member type='way' ref='-6357' role='' />
-    <member type='way' ref='-6361' role='' />
-    <member type='way' ref='-5804' role='' />
-    <member type='way' ref='-6278' role='' />
-    <member type='way' ref='-4657' role='' />
-    <member type='way' ref='-4660' role='' />
-    <member type='way' ref='-4663' role='' />
-    <member type='way' ref='-7963' role='' />
-    <member type='way' ref='-8326' role='' />
-    <tag k='from' v='Vozovna Medlánky' />
-    <tag k='maxlat' v='49.2357557' />
-    <tag k='maxlon' v='16.555447' />
-    <tag k='minlat' v='49.1934172' />
-    <tag k='minlon' v='16.5892558' />
-    <tag k='name' v='Trasa A: Vozovna Medlánky ⇒ Anthropos' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa A' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Anthropos' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-222' action='modify' visible='true'>
-    <member type='node' ref='-2861885' role='stop_entry_only' />
-    <member type='node' ref='-2717132' role='stop' />
-    <member type='node' ref='-8717895' role='stop' />
-    <member type='node' ref='-8692433' role='stop' />
-    <member type='node' ref='-8628181' role='stop' />
-    <member type='node' ref='-25884' role='stop' />
-    <member type='node' ref='-8426592' role='stop' />
-    <member type='node' ref='-8467459' role='stop' />
-    <member type='node' ref='-8508795' role='stop' />
-    <member type='node' ref='-28865' role='stop' />
-    <member type='node' ref='-8555868' role='stop' />
-    <member type='node' ref='-9917184' role='stop' />
-    <member type='node' ref='-9960045' role='stop' />
-    <member type='node' ref='-2906169' role='stop' />
+  <relation id='-101500' action='modify' visible='true'>
+    <member type='node' ref='-25883' role='stop_entry_only' />
+    <member type='node' ref='-25858' role='stop' />
+    <member type='node' ref='-7192182' role='stop' />
+    <member type='node' ref='-7192205' role='stop' />
     <member type='node' ref='-25874' role='stop_exit_only' />
-    <member type='way' ref='-8326' role='' />
-    <member type='way' ref='-7963' role='' />
-    <member type='way' ref='-4663' role='' />
-    <member type='way' ref='-4660' role='' />
-    <member type='way' ref='-4657' role='' />
-    <member type='way' ref='-6278' role='' />
-    <member type='way' ref='-6283' role='' />
-    <member type='way' ref='-6361' role='' />
-    <member type='way' ref='-6363' role='' />
+    <member type='way' ref='-617' role='' />
+    <member type='way' ref='-4975' role='' />
+    <member type='way' ref='-624' role='' />
+    <member type='way' ref='-620' role='' />
+    <member type='way' ref='-8007' role='' />
+    <member type='way' ref='-614' role='' />
     <member type='way' ref='-8213' role='' />
     <member type='way' ref='-8217' role='' />
     <member type='way' ref='-627' role='' />
     <member type='way' ref='-630' role='' />
-    <tag k='from' v='Anthropos' />
+    <tag k='from' v='Královo Pole, nádraží' />
     <tag k='maxlat' v='49.2357557' />
-    <tag k='maxlon' v='16.555447' />
-    <tag k='minlat' v='49.1934172' />
-    <tag k='minlon' v='16.5892558' />
-    <tag k='name' v='Trasa A: Anthropos ⇒ Vozovna Medlánky' />
+    <tag k='maxlon' v='16.5844319' />
+    <tag k='minlat' v='49.2279035' />
+    <tag k='minlon' v='16.5955987' />
+    <tag k='name' v='Trasa S: Královo Pole, nádraží ⇒ Vozovna Medlánky' />
     <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa A' />
+    <tag k='ref' v='Trasa S' />
     <tag k='route' v='bus' />
     <tag k='to' v='Vozovna Medlánky' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-240' action='modify' visible='true'>
-    <member type='node' ref='-3608945' role='stop_entry_only' />
-    <member type='node' ref='-5071772' role='stop_exit_only' />
-    <member type='way' ref='-6372' role='' />
-    <member type='way' ref='-4660' role='' />
-    <member type='way' ref='-8401' role='' />
-    <member type='way' ref='-6376' role='' />
-    <member type='way' ref='-8335' role='' />
-    <member type='way' ref='-6563' role='' />
-    <tag k='from' v='Přívrat' />
-    <tag k='maxlat' v='49.2187545' />
-    <tag k='maxlon' v='16.5676065' />
-    <tag k='minlat' v='49.1935563' />
-    <tag k='minlon' v='16.5773223' />
-    <tag k='name' v='Trasa P: Přívrat ⇒ Pisárky' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa P' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Pisárky' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-250' action='modify' visible='true'>
-    <member type='node' ref='-2914447' role='stop_entry_only' />
-    <member type='node' ref='-2474217' role='stop' />
-    <member type='node' ref='-8681470' role='stop' />
-    <member type='node' ref='-8710548' role='stop' />
-    <member type='node' ref='-8763128' role='stop' />
-    <member type='node' ref='-2861885' role='stop' />
-    <member type='node' ref='-7192168' role='stop' />
-    <member type='node' ref='-5382358' role='stop' />
-    <member type='node' ref='-8838688' role='stop' />
-    <member type='node' ref='-8860663' role='stop' />
-    <member type='node' ref='-5662079' role='stop' />
-    <member type='node' ref='-8892573' role='stop' />
-    <member type='node' ref='-7134506' role='stop' />
-    <member type='node' ref='-6100579' role='stop_exit_only' />
-    <member type='way' ref='-8326' role='' />
-    <member type='way' ref='-6565' role='' />
-    <member type='way' ref='-6575' role='' />
-    <member type='way' ref='-7550' role='' />
-    <member type='way' ref='-7487' role='' />
-    <member type='way' ref='-7395' role='' />
-    <tag k='from' v='Vozovna Komín' />
-    <tag k='maxlat' v='49.2144499' />
-    <tag k='maxlon' v='16.555447' />
-    <tag k='minlat' v='49.1885382' />
-    <tag k='minlon' v='16.6135579' />
-    <tag k='name' v='Trasa K: Vozovna Komín ⇒ Hlavní nádraží' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa K' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Hlavní nádraží' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-269' action='modify' visible='true'>
-    <member type='node' ref='-6331418' role='stop_entry_only' />
-    <member type='node' ref='-6392969' role='stop' />
-    <member type='node' ref='-7130290' role='stop' />
-    <member type='node' ref='-8881384' role='stop' />
-    <member type='node' ref='-7146354' role='stop' />
-    <member type='node' ref='-8867671' role='stop' />
-    <member type='node' ref='-8819928' role='stop' />
-    <member type='node' ref='-7162511' role='stop' />
-    <member type='node' ref='-7181974' role='stop' />
-    <member type='node' ref='-2861885' role='stop' />
-    <member type='node' ref='-2717132' role='stop' />
-    <member type='node' ref='-8717895' role='stop' />
-    <member type='node' ref='-8692433' role='stop' />
-    <member type='node' ref='-8628181' role='stop' />
-    <member type='node' ref='-25884' role='stop_exit_only' />
-    <member type='way' ref='-7397' role='' />
-    <member type='way' ref='-7487' role='' />
-    <member type='way' ref='-7489' role='' />
-    <member type='way' ref='-6575' role='' />
-    <member type='way' ref='-6565' role='' />
-    <member type='way' ref='-8326' role='' />
-    <member type='way' ref='-7963' role='' />
-    <tag k='from' v='Hlavní nádraží' />
-    <tag k='maxlat' v='49.2144499' />
-    <tag k='maxlon' v='16.555447' />
-    <tag k='minlat' v='49.1885382' />
-    <tag k='minlon' v='16.6135579' />
-    <tag k='name' v='Trasa K: Hlavní nádraží ⇒ Vozovna Komín' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa K' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Vozovna Komín' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-287' action='modify' visible='true'>
-    <member type='node' ref='-5071772' role='stop_entry_only' />
-    <member type='node' ref='-3608945' role='stop_exit_only' />
-    <member type='way' ref='-6563' role='' />
-    <member type='way' ref='-8335' role='' />
-    <member type='way' ref='-8337' role='' />
-    <member type='way' ref='-8401' role='' />
-    <member type='way' ref='-4660' role='' />
-    <member type='way' ref='-6372' role='' />
-    <tag k='from' v='Pisárky' />
-    <tag k='maxlat' v='49.2187545' />
-    <tag k='maxlon' v='16.5676065' />
-    <tag k='minlat' v='49.1935563' />
-    <tag k='minlon' v='16.5773223' />
-    <tag k='name' v='Trasa P: Pisárky ⇒ Přívrat' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa P' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Přívrat' />
-    <tag k='type' v='route' />
-  </relation>
-  <relation id='-298' action='modify' visible='true'>
-    <member type='node' ref='-23675693' role='stop_entry_only' />
-    <member type='node' ref='-23544282' role='stop' />
-    <member type='node' ref='-11379788' role='stop' />
-    <member type='node' ref='-10011880' role='stop_exit_only' />
-    <member type='way' ref='-9188' role='' />
-    <member type='way' ref='-9115' role='' />
-    <member type='way' ref='-9186' role='' />
-    <member type='way' ref='-9253' role='' />
-    <member type='way' ref='-9143' role='' />
-    <tag k='from' v='Kamenný vrch' />
-    <tag k='maxlat' v='49.18002' />
-    <tag k='maxlon' v='16.5456127' />
-    <tag k='minlat' v='49.1642876' />
-    <tag k='minlon' v='16.5713787' />
-    <tag k='name' v='Trasa D: Kamenný vrch ⇒ Dunajská ⇒ Kamenný vrch' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa D' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Kamenný vrch' />
-    <tag k='type' v='route' />
-    <tag k='via' v='Dunajská' />
-  </relation>
-  <relation id='-317' action='modify' visible='true'>
-    <member type='node' ref='-23675693' role='stop_entry_only' />
-    <member type='node' ref='-11379788' role='stop' />
-    <member type='node' ref='-23817759' role='stop' />
-    <member type='node' ref='-19461341' role='stop' />
-    <member type='node' ref='-19997655' role='stop' />
-    <member type='node' ref='-20489947' role='stop' />
-    <member type='node' ref='-15538488' role='stop' />
-    <member type='node' ref='-23293698' role='stop' />
-    <member type='node' ref='-23222818' role='stop' />
-    <member type='node' ref='-23158771' role='stop' />
-    <member type='node' ref='-23127564' role='stop' />
-    <member type='node' ref='-23045441' role='stop_exit_only' />
-    <member type='way' ref='-9394' role='' />
-    <member type='way' ref='-9143' role='' />
-    <member type='way' ref='-9253' role='' />
-    <member type='way' ref='-9255' role='' />
-    <member type='way' ref='-9115' role='' />
-    <member type='way' ref='-9313' role='' />
-    <tag k='from' v='Kamenný vrch' />
-    <tag k='maxlat' v='49.1798629' />
-    <tag k='maxlon' v='16.5456127' />
-    <tag k='minlat' v='49.165964' />
-    <tag k='minlon' v='16.5863996' />
-    <tag k='name' v='Trasa G: Kamenný vrch ⇒ Gruzínská' />
-    <tag k='public_transport:version' v='2' />
-    <tag k='ref' v='Trasa G' />
-    <tag k='route' v='bus' />
-    <tag k='to' v='Gruzínská' />
     <tag k='type' v='route' />
   </relation>
 </osm>
