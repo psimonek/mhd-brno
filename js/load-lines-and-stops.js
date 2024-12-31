@@ -5,9 +5,10 @@ function loadLinesAndStops(lineRef) {
 	var entityArray = []; //Vytvoříme Array pro relace pro fitBounding
 	
 	if (lineRef === "Rež") {
-		var xmlData = 'linky.osm';
+		var xmlData = "/lines-data/rezijni.osm";
 	} else {
-	    var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;node(w)["public_transport"="stop_position"];out geom;';
+		var overpassUrl = "/lines-data/" + lineRef + ".json"; // Vytvoření URL pro JSON soubor
+	    //var overpassUrl = 'https://overpass-api.de/api/interpreter?data=[out:json];relation["network"="IDS JMK"]["ref"="' + lineRef + '"]["type"!="disused:route"](49.0928,16.4067,49.3211,16.7953);out geom;>;node(w)["public_transport"="stop_position"];out geom;';
 	}
     
 	// Otevření detailu linky při volání výpisu.
