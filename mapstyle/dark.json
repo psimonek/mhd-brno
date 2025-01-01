@@ -21,7 +21,7 @@
     {
       "id": "background",
       "type": "background",
-      "paint": {"background-color": "rgba(14, 31, 48, 1)"}
+      "paint": {"background-color": "rgba(44, 53, 62, 1)"}
     },
     {
       "id": "landcover-glacier",
@@ -29,9 +29,53 @@
       "source": "openmaptiles",
       "source-layer": "landcover",
       "filter": ["==", ["get", "subclass"], "glacier"],
+      "layout": {"visibility": "visible"},
       "paint": {
         "fill-color": "#fff",
         "fill-opacity": ["interpolate", ["linear"], ["zoom"], 0, 0.9, 10, 0.3]
+      }
+    },
+    {
+      "id": "Plantaze",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landcover",
+      "filter": [
+        "all",
+        ["in", "subclass", "orchard", "plant_nursery", "vineyard"]
+      ],
+      "layout": {"visibility": "visible"},
+      "paint": {
+        "fill-color": "rgba(96, 194, 96, 1)",
+        "fill-opacity": [
+          "interpolate",
+          ["exponential", 1.8],
+          ["zoom"],
+          9,
+          0.1,
+          12,
+          0.2
+        ]
+      }
+    },
+    {
+      "id": "Farmland",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landcover",
+      "filter": ["all", ["==", "subclass", "farmland"]],
+      "layout": {"visibility": "visible"},
+      "paint": {
+        "fill-color": "rgba(132, 132, 109, 1)",
+        "fill-opacity": [
+          "interpolate",
+          ["exponential", 1.8],
+          ["zoom"],
+          9,
+          0.1,
+          12,
+          0.2
+        ]
       }
     },
     {
@@ -52,12 +96,12 @@
           "interpolate",
           ["linear"],
           ["zoom"],
-          12,
-          "hsla(30,19%,90%,0.4)",
           16,
-          "hsla(30,19%,90%,0.2)"
+          "hsla(30,19%,0%,0.8)",
+          18,
+          "hsla(30,9%,90%,0.2)"
         ],
-        "fill-opacity": 0
+        "fill-opacity": 0.2
       }
     },
     {
@@ -156,7 +200,7 @@
       "filter": ["==", ["geometry-type"], "Polygon"],
       "layout": {"visibility": "visible"},
       "paint": {
-        "fill-color": "rgba(101, 110, 94,.1)",
+        "fill-color": "rgba(104, 238, 0, 0.1)",
         "fill-opacity": [
           "interpolate",
           ["exponential", 1.8],
@@ -177,8 +221,8 @@
       "layout": {"visibility": "visible"},
       "paint": {
         "fill-antialias": ["step", ["zoom"], false, 9, true],
-        "fill-color": "rgba(3, 244, 139, 1)",
-        "fill-opacity": 0.05,
+        "fill-color": "rgba(0, 104, 55, 1)",
+        "fill-opacity": 0.3,
         "fill-outline-color": "hsla(0,0%,0%,0.03)"
       }
     },
@@ -188,8 +232,8 @@
       "source": "openmaptiles",
       "source-layer": "landcover",
       "filter": ["==", ["get", "class"], "grass"],
-      "layout": {"visibility": "none"},
-      "paint": {"fill-color": "#d8e8c8", "fill-opacity": 1}
+      "layout": {"visibility": "visible"},
+      "paint": {"fill-color": "rgba(0, 255, 130, 1)", "fill-opacity": 0.15}
     },
     {
       "id": "landcover-grass-park",
@@ -197,7 +241,7 @@
       "source": "openmaptiles",
       "source-layer": "park",
       "filter": ["==", ["get", "class"], "public_park"],
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {"fill-color": "rgba(56, 75, 27, 1)", "fill-opacity": 0.8}
     },
     {
@@ -438,7 +482,7 @@
           16,
           "#dfdbd7"
         ],
-        "fill-opacity": 0.05
+        "fill-opacity": 0.15
       }
     },
     {
@@ -626,7 +670,7 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(126, 93, 66, 1)",
+        "line-color": "rgba(124, 139, 159, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -638,7 +682,7 @@
           7,
           1.5,
           20,
-          22
+          26
         ]
       }
     },
@@ -655,21 +699,21 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "#e9ac77",
-        "line-dasharray": [0.5, 0.25],
+        "line-opacity": ["interpolate", ["linear"], ["zoom"], 4, 0, 5, 1],
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          5,
-          0.4,
-          6,
-          0.6,
           7,
+          0,
+          8,
+          0.6,
+          9,
           1.5,
           20,
-          22
-        ]
+          28
+        ],
+        "line-color": "rgba(163, 178, 135, 1)"
       }
     },
     {
@@ -855,17 +899,19 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(60, 50, 34, 1)",
+        "line-color": {
+          "stops": [[16, "rgba(86, 96, 110, 1)"], [17, "rgba(47, 60, 75, 1)"]]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          6.5,
+          8.5,
           0,
-          7,
+          9,
           0.5,
           20,
-          18
+          25
         ]
       }
     },
@@ -882,18 +928,24 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "#ffdaa6",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(94, 102, 78, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          6.5,
+          8.5,
           0,
-          7,
+          9,
           0.5,
           20,
-          18
-        ]
+          25
+        ],
+        "line-opacity": 1
       }
     },
     {
@@ -1140,21 +1192,21 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
-        "line-opacity": 1,
+        "line-opacity": ["interpolate", ["linear"], ["zoom"], 4, 0, 5, 1],
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          12,
-          1,
-          13,
-          3,
-          14,
-          4,
+          7,
+          0,
+          8,
+          0.6,
+          9,
+          1.5,
           20,
-          15
-        ]
+          13
+        ],
+        "line-color": "rgba(163, 178, 135, 1)"
       }
     },
     {
@@ -1194,7 +1246,7 @@
           14,
           4,
           20,
-          15
+          22
         ]
       }
     },
@@ -1212,7 +1264,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "rgba(70, 70, 70, 1)",
@@ -1280,7 +1332,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": "rgba(124, 139, 159, 1)",
         "line-opacity": ["interpolate", ["linear"], ["zoom"], 7, 0, 8, 1],
         "line-width": [
           "interpolate",
@@ -1293,7 +1345,7 @@
           9,
           1.5,
           20,
-          22
+          27
         ]
       }
     },
@@ -1315,20 +1367,20 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
-        "line-opacity": ["interpolate", ["linear"], ["zoom"], 5, 0, 6, 1],
+        "line-color": "rgba(124, 139, 159, 1)",
+        "line-opacity": ["interpolate", ["linear"], ["zoom"], 7, 0, 8, 1],
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          5,
-          0,
-          6,
-          0.6,
           7,
+          0,
+          8,
+          0.6,
+          9,
           1.5,
           20,
-          22
+          27
         ]
       }
     },
@@ -1355,18 +1407,16 @@
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          4,
-          0,
-          5,
-          0.4,
-          6,
-          0.6,
           7,
+          0,
+          8,
+          0.6,
+          9,
           1.5,
           20,
-          22
+          28
         ],
-        "line-color": "rgba(147, 83, 3, 1)"
+        "line-color": "rgba(163, 178, 135, 1)"
       }
     },
     {
@@ -1413,7 +1463,12 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(163, 178, 135, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1453,7 +1508,12 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(110,110,110, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(124, 139, 159, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1465,7 +1525,7 @@
           14,
           2.5,
           20,
-          11.5
+          20
         ]
       }
     },
@@ -1486,7 +1546,12 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(70, 70, 70, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(96, 112, 135, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-opacity": 1,
         "line-width": [
           "interpolate",
@@ -1496,8 +1561,10 @@
           0,
           14,
           2.5,
+          16,
+          5,
           20,
-          11.5
+          25
         ]
       }
     },
@@ -1518,7 +1585,12 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(110, 110, 110, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(124, 139, 159, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1528,7 +1600,7 @@
           8,
           0.5,
           20,
-          13
+          20
         ]
       }
     },
@@ -1550,7 +1622,12 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(124, 139, 159, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1560,7 +1637,7 @@
           9,
           0.5,
           20,
-          18
+          25
         ],
         "line-opacity": 1
       }
@@ -1583,18 +1660,24 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(124, 139, 159, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          6.5,
+          8.5,
           0,
-          7,
+          9,
           0.5,
           20,
-          18
-        ]
+          25
+        ],
+        "line-opacity": 1
       }
     },
     {
@@ -1616,18 +1699,24 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(163, 178, 135, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          6.5,
+          8.5,
           0,
-          7,
+          9,
           0.5,
           20,
-          18
-        ]
+          25
+        ],
+        "line-opacity": 1
       }
     },
     {
@@ -1654,7 +1743,7 @@
           4
         ],
         "line-gap-width": 2,
-        "line-opacity": 0.8
+        "line-opacity": 0.6
       }
     },
     {
@@ -1670,7 +1759,7 @@
         ["match", ["get", "brunnel"], ["tunnel"], false, true]
       ],
       "paint": {
-        "line-color": "rgba(252, 252, 252, 0.77)",
+        "line-color": "rgba(252, 252, 252, 0.5)",
         "line-dasharray": [0.2, 8],
         "line-width": [
           "interpolate",
@@ -1804,21 +1893,21 @@
       ],
       "layout": {"line-join": "round", "visibility": "visible"},
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
-        "line-opacity": 1,
+        "line-opacity": ["interpolate", ["linear"], ["zoom"], 4, 0, 5, 1],
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          12,
-          1,
-          13,
-          3,
-          14,
-          4,
+          7,
+          0,
+          8,
+          0.6,
+          9,
+          1.5,
           20,
-          19
-        ]
+          13
+        ],
+        "line-color": "rgba(163, 178, 135, 1)"
       }
     },
     {
@@ -1840,7 +1929,7 @@
       ],
       "layout": {"line-join": "round", "visibility": "visible"},
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": "rgba(110,110,110, 1)",
         "line-opacity": 1,
         "line-width": [
           "interpolate",
@@ -1853,7 +1942,7 @@
           14,
           4,
           20,
-          19
+          22
         ]
       }
     },
@@ -1870,20 +1959,16 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(110, 110, 110, 1)",
+        "line-color": "rgba(124, 139, 159, 1)",
         "line-opacity": 1,
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          5,
-          0.4,
-          7,
-          0.6,
           8,
           1.5,
           20,
-          21
+          17
         ]
       }
     },
@@ -1900,7 +1985,7 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": "rgba(124, 139, 159, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1929,20 +2014,21 @@
       ],
       "layout": {"line-join": "round", "visibility": "visible"},
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
+        "line-opacity": ["interpolate", ["linear"], ["zoom"], 4, 0, 5, 1],
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          5,
-          0.4,
-          6,
-          0.6,
           7,
+          0,
+          8,
+          0.6,
+          9,
           1.5,
           20,
-          26
-        ]
+          28
+        ],
+        "line-color": "rgba(163, 178, 135, 1)"
       }
     },
     {
@@ -1956,22 +2042,26 @@
         ["==", ["get", "brunnel"], "bridge"],
         ["match", ["get", "class"], ["minor", "service", "track"], true, false]
       ],
-      "layout": {"line-cap": "butt", "line-join": "round"},
+      "layout": {
+        "line-cap": "butt",
+        "line-join": "round",
+        "visibility": "none"
+      },
       "paint": {
-        "line-color": "rgba(75,75,75, 1)",
-        "line-opacity": ["interpolate", ["linear"], ["zoom"], 12, 0, 12.5, 1],
+        "line-color": "rgba(110,110,110, 1)",
+        "line-opacity": 1,
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
           12,
-          0.5,
-          13,
           1,
+          13,
+          3,
           14,
-          6,
+          4,
           20,
-          24
+          22
         ]
       }
     },
@@ -2039,7 +2129,12 @@
       ],
       "layout": {"line-join": "round", "visibility": "visible"},
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(163, 178, 135, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -2074,7 +2169,12 @@
       ],
       "layout": {"line-join": "round", "visibility": "visible"},
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(124, 139, 159, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -2086,7 +2186,7 @@
           14,
           2.5,
           20,
-          11.5
+          20
         ]
       }
     },
@@ -2103,7 +2203,12 @@
       ],
       "layout": {"line-cap": "round", "line-join": "round"},
       "paint": {
-        "line-color": "rgba(60,60,60, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(96, 112, 135, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-opacity": 1,
         "line-width": [
           "interpolate",
@@ -2113,8 +2218,10 @@
           0,
           14,
           2.5,
+          16,
+          5,
           20,
-          11.5
+          25
         ]
       }
     },
@@ -2131,7 +2238,9 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(110, 110, 110, 1)",
+        "line-color": {
+          "stops": [[16, "rgba(124, 139, 159, 1)"], [17, "rgba(12, 15, 19, 1)"]]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -2141,7 +2250,7 @@
           8,
           0.5,
           20,
-          13
+          20
         ]
       }
     },
@@ -2158,18 +2267,24 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(120, 90, 59, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(124, 139, 159, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          6.5,
+          8.5,
           0,
-          7,
+          9,
           0.5,
           20,
-          18
-        ]
+          25
+        ],
+        "line-opacity": 1
       }
     },
     {
@@ -2185,18 +2300,24 @@
       ],
       "layout": {"line-join": "round"},
       "paint": {
-        "line-color": "rgba(147, 83, 3, 1)",
+        "line-color": {
+          "stops": [
+            [16.5, "rgba(163, 178, 135, 1)"],
+            [16.6, "rgba(12, 15, 19, 1)"]
+          ]
+        },
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
           ["zoom"],
-          6.5,
+          8.5,
           0,
-          7,
+          9,
           0.5,
           20,
-          18
-        ]
+          25
+        ],
+        "line-opacity": 1
       }
     },
     {
@@ -2210,7 +2331,7 @@
         ["==", ["get", "class"], "rail"]
       ],
       "paint": {
-        "line-color": "#bbb",
+        "line-color": "rgba(124, 124, 124, 1)",
         "line-width": [
           "interpolate",
           ["exponential", 1.4],
@@ -2372,7 +2493,10 @@
         "icon-opacity": 1,
         "text-halo-color": "rgba(0, 0, 0, 1)",
         "text-color": "rgba(255, 255, 255, 0)",
-        "icon-color": "rgba(255, 255, 255, 1)"
+        "icon-color": "#000000",
+        "text-opacity": 1,
+        "text-halo-width": 0,
+        "text-halo-blur": 0
       }
     },
     {
@@ -2657,7 +2781,7 @@
       ],
       "layout": {
         "icon-image": ["to-string", ["get", "class"]],
-        "icon-size": 1,
+        "icon-size": 0.8,
         "text-anchor": "left",
         "text-field": [
           "case",
@@ -2666,7 +2790,7 @@
           ["coalesce", ["get", "name_en"], ["get", "name"]]
         ],
         "text-font": ["Noto Sans Italic"],
-        "text-size": 18,
+        "text-size": 15,
         "text-padding": 2,
         "text-keep-upright": false,
         "text-offset": [0.7, 0],
@@ -2803,7 +2927,8 @@
         "text-font": ["Noto Sans Regular"],
         "text-rotation-alignment": "viewport",
         "text-size": 10
-      }
+      },
+      "paint": {"text-opacity": 1, "icon-opacity": 0.5}
     },
     {
       "id": "highway-shield-us-interstate",
