@@ -29,7 +29,8 @@ body.black-mode .leaflet-container .leaflet-control-attribution {
 	background-color: rgba(0, 0, 0, 0.3) !important;
 	color: #888 !important;
 	}
-.dark-mode {
+.dark-mode,
+body.black-mode .zoom-info  {
     filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(100%);
 }
 .line-pink {
@@ -228,4 +229,18 @@ body, html {
 #show-stops:disabled + label {
   opacity: 0.3 !important;
   cursor: not-allowed;
+}
+.zoom-info {
+	position: absolute;
+	top: 10px;
+	left: 50%;
+	transform: translateX(-50%);
+	background: rgba(255, 255, 255, 0.8);
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 1.5em;
+	display: none;
+	transition: opacity 0.5s ease;
+	opacity: 0;
+	z-index: 1000;
 }

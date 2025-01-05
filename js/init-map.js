@@ -12,7 +12,8 @@ var map = L.map('map', {
     scrollWheelZoom: false,
     smoothWheelZoom: true,
     smoothSensitivity: 5,
-	rotate: true
+	rotate: true,
+	maxZoom: 19
 	//touchRotate: true
 }).setView([49.1951, 16.6068], 13); // Souřadnice Brna
 
@@ -101,3 +102,30 @@ map.on('baselayerchange', function(e) {
 		tooltips.removeFrom(map);
     }
 });
+// Element pro zobrazení zoomu
+var zoomInfo = document.getElementById('zoomInfo');
+var zoomTimeout; // Proměnná pro uchování ID časovače
+
+// Funkce pro zobrazení zoomu
+function showZoom() {
+	var zoomLevel = Math.round((map.getZoom())/0.19); // Procentuální vyjádření zvětšení, když 19 je 100 %.
+	zoomInfo.innerHTML = 'Zvětšení: ' + zoomLevel + ' %';
+	zoomInfo.style.display = 'block';
+	zoomInfo.style.opacity = 1;
+
+	// Zrušení předchozího časovače, pokud existuje
+	if (zoomTimeout) {
+		clearTimeout(zoomTimeout);
+	}
+
+	// Skrýt zoom po 3 sekundách
+	zoomTimeout = setTimeout(function() {
+		zoomInfo.style.opacity = 0;
+		setTimeout(function() {
+			zoomInfo.style.display = 'none';
+		}, 500); // Čas pro plynulé zmizení
+	}, 3000);
+}
+
+// Přidání event listeneru pro změnu zoomu
+map.on('zoomend', showZoom);
