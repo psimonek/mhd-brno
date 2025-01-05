@@ -108,8 +108,9 @@ var zoomTimeout; // Proměnná pro uchování ID časovače
 
 // Funkce pro zobrazení zoomu
 function showZoom() {
-	var zoomLevel = Math.round((map.getZoom())/0.19); // Procentuální vyjádření zvětšení, když 19 je 100 %.
-	zoomInfo.innerHTML = 'Zvětšení: ' + zoomLevel + ' %';
+	var zoomLevelRough = map.getZoom()/0.19; // Procentuální vyjádření zvětšení, když 19 je 100 %.
+	var zoomLevel = Math.round(zoomLevelRough/5)*5; // Pro zjednodušení skáče zoom po násobku 5.
+	zoomInfo.innerHTML = 'Zvětšení ' + zoomLevel + ' %';
 	zoomInfo.style.display = 'block';
 	zoomInfo.style.opacity = 1;
 
