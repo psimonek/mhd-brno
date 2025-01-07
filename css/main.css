@@ -238,7 +238,7 @@ body, html {
 	background: rgba(255, 255, 255, 0.8);
 	padding: 10px;
 	border-radius: 5px;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	display: none;
 	transition: opacity 0.5s ease;
 	opacity: 0;
