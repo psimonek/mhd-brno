@@ -47,7 +47,7 @@ function getLocation() {
         } else {
             map.stopLocate();
             document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
-            document.getElementById('expand').style.display = 'none'; // Zrušíme efekt expand tolerance polohy
+            document.getElementById('blink').style.display = 'none'; // Zrušíme efekt blink tolerance polohy
             document.getElementById('fixedArrow').style.visibility = 'hidden'; // Zrušíme šipku
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
@@ -83,7 +83,7 @@ function showPosition(e) {
     
     if (zoomlevel < 16) {
 		document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
-		document.getElementById('expand').style.display = 'none'; // Zrušíme efekt expand tolerance polohy    	
+		document.getElementById('blink').style.display = 'none'; // Zrušíme efekt blink tolerance polohy    	
     } else {
 		switch (zoomlevel) {
 			case 19:
@@ -105,17 +105,15 @@ function showPosition(e) {
 		console.log('scaleToMeters : ' + scaleToMeters);
 		console.log('accuracyCircle : ' + accuracyCircle);
 		if (accuracyCircle > 35) {
-			document.getElementById('expand').style.display = 'none'; // Pro jistotu pro resetování animace, i když se zdá, že to nepomáhá
 			document.getElementById('static-circle').style.width = accuracyCircle + 'px';
 			document.getElementById('static-circle').style.height = accuracyCircle + 'px';
-			document.getElementById('expand').style.width = accuracyCircle + 'px';
-			document.getElementById('expand').style.height = accuracyCircle + 'px';
-			document.getElementById('expand').style.transform = 'translate(-50%, -50%)'; // Pro jistotu znovu nastavení pozice, i když se zdá, že to nepomáhá
+			document.getElementById('blink').style.width = accuracyCircle + 'px';
+			document.getElementById('blink').style.height = accuracyCircle + 'px';
 			document.getElementById('static-circle').style.display = 'block'; // Zobrazíme kružnici tolerance polohy
-			document.getElementById('expand').style.display = 'block'; // Zobrazíme efekt expand tolerance polohy
+			document.getElementById('blink').style.display = 'block'; // Zobrazíme efekt blink tolerance polohy
 		} else {
 			document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
-			document.getElementById('expand').style.display = 'none'; // Zrušíme efekt expand tolerance polohy    	
+			document.getElementById('blink').style.display = 'none'; // Zrušíme efekt blink tolerance polohy    	
 		}
 	}
 
