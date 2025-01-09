@@ -244,3 +244,45 @@ body, html {
 	opacity: 0;
 	z-index: 1000;
 }
+/* Styly pro expandující kružnici pro zobrazení přesnosti polohy */
+#expand {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background: rgba(255,87,0,.5);
+	box-shadow: 0 0 0 rgba(255, 0, 0, .5);
+	animation: expand 2s infinite;
+	transform: translate(-50%, -50%);
+	z-index: 1000; /* Z-index pro pulzující kružnici */
+	display: none;
+}
+#static-circle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 600px;
+	height: 600px;
+	border-radius: 50%;
+	border: 3px solid rgba(255,87,0,.5); /* Barva hrany */
+	background: transparent; /* Průhledný vnitřek */
+	transform: translate(-50%, -50%);
+	z-index: 1001; /* Z-index pro statickou kružnici */
+	display: none;
+}
+@keyframes expand {
+	0% {
+		transform: translate(-50%, -50%) scale(0);
+		opacity: 1;
+	}
+	100% {
+		transform: translate(-50%, -50%) scale(1.3);
+		opacity: 0;
+	}
+}
+#expand {
+	animation-timing-function: ease-out; /* Přidání vyhlazení */
+}
+/* Konec stylu expand efektu */

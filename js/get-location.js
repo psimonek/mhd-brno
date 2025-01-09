@@ -43,10 +43,12 @@ function getLocation() {
             tracking = true; // Nastavení stavu sledování na true
             requestWakeLock();
 			map.setZoom(18);
-            document.getElementById('fixedArrow').style.visibility = 'visible';
+            document.getElementById('fixedArrow').style.visibility = 'visible'; // Zobrazíme šipku
         } else {
             map.stopLocate();
-            document.getElementById('fixedArrow').style.visibility = 'hidden'; // Zrušíme stacionární šipku
+            document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
+            document.getElementById('expand').style.display = 'none'; // Zrušíme efekt expand tolerance polohy
+            document.getElementById('fixedArrow').style.visibility = 'hidden'; // Zrušíme šipku
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
@@ -67,6 +69,8 @@ function showPosition(e) {
     var accuracy = e.accuracy !== null ? e.accuracy : 0;
     var speed = e.speed !== null ? e.speed : 0;
     var zoomlevel = map.getZoom();
+    
+    var scaleToMeters = 0;
 
     var deltaHeading = Math.abs(heading - previousHeading);
     cumulativeDeltaHeading += deltaHeading;
@@ -76,6 +80,44 @@ function showPosition(e) {
     updateValues(Math.round(accuracy), Math.round(heading), Math.round(speed), Math.round(cumulativeDeltaHeading));
 
     map.setView(([lat, lon]), map.getZoom(), { animate: true, pan: { duration: 2 }});
+    
+    if (zoomlevel < 16) {
+		document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
+		document.getElementById('expand').style.display = 'none'; // Zrušíme efekt expand tolerance polohy    	
+    } else {
+		switch (zoomlevel) {
+			case 19:
+				scaleToMeters = 3.3444816054;
+				break;
+			case 18:
+				scaleToMeters = 1.6722408027;
+				break;
+			case 17:
+				scaleToMeters = 0.837520938;
+				break;
+			case 16:
+				scaleToMeters = 0.4185851821;
+				break;
+			default:
+				scaleToMeters = 0;
+		}	
+		var accuracyCircle = (Math.round(scaleToMeters * accuracy))*2;
+		console.log('scaleToMeters : ' + scaleToMeters);
+		console.log('accuracyCircle : ' + accuracyCircle);
+		if (accuracyCircle > 35) {
+			document.getElementById('expand').style.display = 'none'; // Pro jistotu pro resetování animace, i když se zdá, že to nepomáhá
+			document.getElementById('static-circle').style.width = accuracyCircle + 'px';
+			document.getElementById('static-circle').style.height = accuracyCircle + 'px';
+			document.getElementById('expand').style.width = accuracyCircle + 'px';
+			document.getElementById('expand').style.height = accuracyCircle + 'px';
+			document.getElementById('expand').style.transform = 'translate(-50%, -50%)'; // Pro jistotu znovu nastavení pozice, i když se zdá, že to nepomáhá
+			document.getElementById('static-circle').style.display = 'block'; // Zobrazíme kružnici tolerance polohy
+			document.getElementById('expand').style.display = 'block'; // Zobrazíme efekt expand tolerance polohy
+		} else {
+			document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
+			document.getElementById('expand').style.display = 'none'; // Zrušíme efekt expand tolerance polohy    	
+		}
+	}
 
 	var arrowElement = document.querySelector('.arrow-position'); // Načítáme šipku z dokumentu pro pozdější rotaci.
 

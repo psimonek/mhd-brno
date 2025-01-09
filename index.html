@@ -268,10 +268,15 @@
 		
     </script>
 
-	<!-- Přidání statické šipky pro mapy OSM a SAT -->
-	<div id="fixedArrow" style="position: absolute; top: 50%; left: 50%; transform: translate(-15px, -15px); width: 30px; height: 30px; visibility: hidden; z-index: 1000;">
-		<svg class="arrow-position" width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,87,0,0.5)" stroke="rgb(255,87,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-			<polygon points="12 2 2 22 12 18 22 22 12 2" />
+	<!-- Přidání šipky určení polohy na střed obrazovky do mapy -->
+	<div id="expand"></div>
+	<div id="static-circle"></div> <!-- Přidání statické kružnice -->
+	<div id="fixedArrow" style="position: absolute; top: 50%; left: 50%; transform: translate(-15px, -15px); width: 30px; height: 30px; visibility: hidden; z-index: 1003;">
+		<svg class="arrow-position" width="30" height="30" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+			<!-- Bílý obrys -->
+			<polygon points="16 4 4 28 16 22 28 28 16 4" fill="none" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+			<!-- Původní šipka -->
+			<polygon points="16 6 6 26 16 20 26 26 16 6" fill="rgba(255,87,0,0.5)" stroke="rgb(255,87,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 		</svg>
 	</div>
     	
