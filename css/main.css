@@ -283,7 +283,4 @@ body, html {
 		opacity: 0.1;
 	}
 }
-#blink {
-	animation-timing-function: ease; /* Přidání vyhlazení */
-}
 /* Konec stylu blink efektu */

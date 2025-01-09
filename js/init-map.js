@@ -9,9 +9,6 @@ var arrowIcon = L.divIcon({
 });
 
 var map = L.map('map', {
-    scrollWheelZoom: false,
-    smoothWheelZoom: true,
-    smoothSensitivity: 5,
 	rotate: true,
 	maxZoom: 19
 	//touchRotate: true
