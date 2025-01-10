@@ -496,7 +496,7 @@ function loadLinesAndStops(lineRef) {
 							        dataVrstvyZast.eachLayer(function(layer) {
 							      		if (layer._leaflet_id == valueId) {
 											// Zvětšení a vystředění mapy na daný bod
-											map.setView(L.latLng(layer._latlng.lat, layer._latlng.lng), 18); // 18 je úroveň přiblížení
+											map.setView(L.latLng(layer._latlng.lat, layer._latlng.lng),); // 18 je úroveň přiblížení (nyní není aplikováno, původně bylo .....layer._latlng.lng),18);  )
 											var popup = L.popup()
 											    .setLatLng(L.latLng(layer._latlng.lat, layer._latlng.lng))
 											    .setContent(layer._popup._content)
