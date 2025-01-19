@@ -81,16 +81,16 @@
             <!-- top aligned tabs -->
             <ul role="tablist">
                 <li><a href="#home" role="tab"><i class="fa fa-bars active"></i></a></li>
-                <li style="padding-top:10px;"><a href="#tram" role="tab"><img src = "img/tram.svg" width="80%"></a></li>
-                <li style="padding-top:10px;"><a href="#trolejbus" role="tab"><img src = "img/trolleybus.svg" width="70%"></a></li>
-                <li style="padding-top:10px;"><a href="#bus" role="tab"><img src = "img/bus.svg" width="63%"></a></li>
-                <li style="padding-top:10px;"><a href="#info" role="tab"><img src = "img/route.svg" width="65%"></a></li>
+                <li class="svg-centering-li"><a href="#tram" role="tab"><img class="svg-centering-img svg-img" src = "img/tram.svg" style="width:26px;margin:7px;"></a></li>
+                <li class="svg-centering-li"><a href="#trolejbus" role="tab"><img class="svg-centering-img svg-img" src = "img/trolleybus.svg" style="width:22px;margin:9px;"></a></li>
+                <li class="svg-centering-li"><a href="#bus" role="tab"><img class="svg-centering-img svg-img" src = "img/bus.svg" style="width:20px;margin:10px;"></a></li>
+                <li class="svg-centering-li"><a href="#info" role="tab"><img class="svg-centering-img svg-img" src = "img/route.svg" style="width:20px;margin:10px;"></a></li>
                 <!--<li style="padding-top:10px;"><a href="#novinky" role="tab"><img src = "img/info.svg" width="65%"></a></li>-->
             </ul>
 
             <!-- bottom aligned tabs -->
             <ul role="tablist">
-                <li><a href="http://github.com/psimonek/mhd-brno.git"><i class="fa fa-github"></i></a></li>
+                <li><a href="https://github.com/psimonek/mhd-brno.git"><i class="fa fa-github"></i></a></li>
             </ul>
         </div>
 
@@ -101,20 +101,16 @@
                     Mapa linek MHD v Brně
                     <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
                 </h1>
-				<h2><strong>Novinka v aplikaci (1.1.2025)</strong></h2>
-				<p>Trasy linek jsou nyní uložené lokálně, tedy nehrozí poškození dat cizími osobami a přenos je nyní rychlejší.</p>
-				<h3>Funkce webu</h3>
-                <p>Tento web zobrazuje na mapě linky MHD v Brně dle vašeho výběru, tedy trasy tramvají, trolejbusů a autobusů, včetně zastávek.</p>
-				<p>Pokud tento panel překrývá celou obrazovku a nevidíte mapu, klikněte v pravém horním rohu na šipku sbalení <i class="fa fa-caret-left"></i> nebo vlevo na ikonu <img style="width: 1em;" src = "img/map.svg"></p>
-				<h3>Funkce mapy</h3>
-				<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <img style="width: 1em;" src = "img/route.svg"> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
-				<p>Velké číslo linky v mapě se zobrazuje na výchozí první zastávce dané varianty. Kruhové značky zobrazují místo zastavení na zastávce.</p>
-				<h3>Zdroje dat</h3>
-				<p>Jako tvůrce tohoto webu zároveň udržuji i aktuálnost vedení linek MHD v Brně v open-source mapách <a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>, ze kterých tento web přebírá veškerá data. Tento projekt udržují dobrovolníci, proto je nelze považovat za bezchybné a zcela spolehlivé.</p>
-				<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších než 2 měsíce.</p>
-				<p><i>Poslední aktualizace dat: 1.1.2025</i></p>
-				<p>S <i class='fa fa-heart'></i> k dopravě a technologiím vyrobil @psimonek.</p>
-				<p><input style="margin-right: 0.75em;" type="checkbox" id="show-debugging" /><label for="show-debugging"><i>Zobrazit hodnoty ze senzorů</i></label></p>
+				<p>Vítá vás aplikace MHD-BRNO určená pro řidiče Dopravního podniku města Brna a.s., která zobrazuje všechny linky a jejich varianty.</p>
+				<p style="font-size:1.2em"><strong><span style="font-size:2.5em;vertical-align: middle;">☜</span>  Začněte výběrem linky a její varianty</strong></p>
+				<p>Po výběru varianty linky klikněte na ikonu mapy, abyste viděli trasu v mapě. Vlevo najdete více ikon, jako např. nápovědu nebo instrukce pro přidání aplikace na plochu vašeho telefonu.<p>
+				<h3>Poslední aktualizace</h3>
+				<p>Stav linek aktuální k datu: 1.1.2025</p>
+				<p>18.1.2025 - Změna vzhledu menu aplikace, vyčištěné chybné styly ikon v menu, vytvořená nápověda, změněná úvodní obrazovka.</p>
+				<p>5.1.2025 - Při zapnutých polohových službách se při nepřesné poloze telefonu zobrazí kružnice ukazující přesnost polohy. Pokud se kružnice neukazuje, je přesnost polohy vyšší, než 8 m. Další změnou je zvýrazněná šipka ukazující polohu a změněné velikosti prvků pro lepší čitelnost.</p>
+				<p>20.12.2024 - Do seznamů linek autobusů přidány režijní jízdy se zaměstnanci.</p>
+				<p>10.12.2024 - Všechna data linek jsou nyní jako lokální soubory, aby se zabránilo zničení dat jinými uživateli OpenStreetMap. Benefitem je zároveň zrychlení aplikace.</p>
+				<p>8.12.2024 - Pro stahování dat linek pomocí Overpass z OSM vytvořená Python3 aplikace 'get-lines2json' přidaná do projektu na GitHub.</p>
             </div>
             
             <div class="leaflet-sidebar-pane" id="tram">
@@ -305,14 +301,14 @@
 	
 	<script>
 	    // Vytvoření sidebaru a přidání do mapy (plugin leaflet-sidebar-v2-master)
-        var sidebar = L.control.sidebar({ container: 'sidebar', autopan: true })
+        var sidebar = L.control.sidebar({ container: 'sidebar', autopan: false })
             .addTo(map)
             .open('home');
         
         // Přidání tlačítka na zavření mapy
         sidebar.addPanel({
             id: 'map',
-            tab: '<li style="padding-top: 10px;"><a href="#map" role="tab"><img src = "img/map.svg" width="65%"></a></li>',
+            tab: '<li class="svg-centering-li"><a href="#map" role="tab"><img class="svg-centering-img svg-img" src = "img/map.svg" style="width:20px;margin:10px"</a></li>',
             button: function (event) { sidebar.close(); }
         });    
 
@@ -321,11 +317,35 @@
             tab: '<span style="color:#cccccc">⎯</span>',
             button: function (event) { sidebar.close(); }
         });  
-
+        
+        var panelContentAppHelp = {
+            id: 'help',                     // UID, used to access the panel
+            tab: '<li class="svg-centering-li"><a href="#app" role="tab"><img class="svg-img" src = "img/question.svg" style="width:24px;margin:8px"></a></li>',  // content can be passed as HTML string,
+            pane: `
+					<h3>Funkce webu</h3>
+					<p>Aplikace je určená pro řidiče MHD v DPMB jako pomocník pro zobrazení správných tras a navigování po trase.</p>
+					<p>Tato webová aplikace zobrazuje na mapě linky MHD v Brně provozované DPMB dle vašeho výběru, tedy trasy tramvají, trolejbusů a autobusů, včetně zastávek.</p>
+					<p>Pokud tento panel překrývá celou obrazovku a nevidíte mapu, klikněte v pravém horním rohu na šipku sbalení <i class="fa fa-caret-left"></i> nebo vlevo na ikonu <img class="svg-img" style="width: 1em;" src = "img/map.svg"></p>
+					<h3>Funkce mapy</h3>
+					<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <img class="svg-img" style="width: 1em;" src = "img/route.svg"> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
+					<p>Velké číslo linky v mapě se zobrazuje na výchozí první zastávce dané varianty. Kruhové značky zobrazují místo zastavení na zastávce.</p>
+					<h3>Navigace po trase</h3>
+					<p>Aplikace nemá vestavěnou klasickou navigaci z bodu A do bodu B, ale umožňuje jet podle polohy a trasy linky. Jednoduše vyberte trasu linky po které chcete jet, zobrazte mapu, a poté klikněte vpravo na ikonu šipky a povolte sdílení polohy (pokud to zařízení vyžaduje). Mapa se vystředí na vaši polohu. Jak se budete pohybovat, mapa se bude plynule posouvat a otáčet ve směru vaší jízdy. Získáte tak jasný přehled o tom, zda jedete správně a kdy bude následovat zastávka.</p>
+					<h3>Zdroje dat</h3>
+					<p>Jako tvůrce tohoto webu zároveň udržuji i aktuálnost vedení linek MHD v Brně v open-source mapách <a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>, ze kterých tento web přebírá veškerá data. Tento projekt udržují dobrovolníci, proto je nelze považovat za bezchybné a zcela spolehlivé.</p>
+					<p>Data nezahrnují krátkodobé výluky, ale změny tras při výlukách delších než 2 měsíce.</p>
+					<p>S <i class='fa fa-heart'></i> k dopravě a technologiím vyrobil @psimonek.</p>
+					<p><input style="margin-right: 0.75em;" type="checkbox" id="show-debugging" /><label for="show-debugging"><i>Zobrazit hodnoty ze senzorů pro ladění</i></label></p>
+            `,
+            title: 'Nápověda',              // an optional pane header
+            position: 'top'                  // optional vertical alignment, defaults to 'top'
+        };
+		sidebar.addPanel(panelContentAppHelp);
+		
         var panelContentApp = {
             id: 'app',                     // UID, used to access the panel
-            tab: '<li style="padding-top:8px;"><a href="#app" role="tab"><img src = "img/download.svg" width="65%"></a></li>',  // content can be passed as HTML string,
-            pane: '<p>Tento web využívá technologii uložení aplikace do mobilního telefonu bez nutnosti instalace z Google Play nebo Apple App Store.<p/><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/apple.svg"><span style="vertical-align:middle;">Instalace pro iOS</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Safari</b>.</p><p>2. Ťukněte v adresním řádku na <b>ikonu sdílení</b> <img style="width:1em;" src="img/ios-share.png"></p><p>3. Vyberte položku <b>Přidat na domovskou obrazovku</b> <img style="width:1em;" src="img/ios-add.png"><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/android.svg"><span style="vertical-align:middle;">Instalace pro Android</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Chrome</b> nebo <b>Firefox</b>.</p><p>2. Ťukněte v adresním řádku na <b>tři tečky</b> <img style="width:1em;" src="img/android-dots.svg"></p><p>3. Vyberte položku <b>Instalovat aplikaci</b> <img style="width:1em;" src="img/android-install.svg"></p>',
+            tab: '<li class="svg-centering-li"><a href="#app" role="tab"><img class="svg-img" src = "img/download.svg" style="width:20px;margin:10px"></a></li>',  // content can be passed as HTML string,
+            pane: '<p>Tento web využívá technologii uložení aplikace do mobilního telefonu bez nutnosti instalace z Google Play nebo Apple App Store.<p/><h3><img class="svg-img" style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/apple.svg"><span style="vertical-align:middle;">Instalace pro iOS</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Safari</b>.</p><p>2. Ťukněte v adresním řádku na <b>ikonu sdílení</b> <img style="width:1em;" src="img/ios-share.png"></p><p>3. Vyberte položku <b>Přidat na domovskou obrazovku</b> <img class="svg-img" style="width:1em;" src="img/ios-add.png"><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/android.svg"><span style="vertical-align:middle;">Instalace pro Android</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Chrome</b> nebo <b>Firefox</b>.</p><p>2. Ťukněte v adresním řádku na <b>tři tečky</b> <img class="svg-img" style="width:1em;" src="img/android-dots.svg"></p><p>3. Vyberte položku <b>Instalovat aplikaci</b> <img class="svg-img" style="width:1em;" src="img/android-install.svg"></p>',
             title: 'Mobilní aplikace',              // an optional pane header
             position: 'top'                  // optional vertical alignment, defaults to 'top'
         };
@@ -398,20 +418,20 @@
                         if (activeLayerName === "mapLibreDark" || activeLayerName === "mapLibreBright") {
                             path.setAttribute('stroke', 'rgb(255, 150, 255)'); // růžová
 							// U růžové cesty musíme změnit i text linky v matě (na začátku trasy)
-                            const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                            const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type-line');
                             mapWindows.forEach(mapWindow => {
                                 mapWindow.classList.add('line-pink');
                             });
                         } else {
                             path.setAttribute('stroke', 'rgb(220, 220, 220)'); // bílá
-							const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+							const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type-line');
                             mapWindows.forEach(mapWindow => {
                                 mapWindow.classList.remove('line-pink');
 							});
                         }
                     } else if (currentStroke === 'rgb(37, 91, 218)') {
                         path.setAttribute('stroke', 'rgb(0, 180, 255)'); // modrá
-						const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+						const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type-line');
                         mapWindows.forEach(mapWindow => {
                             mapWindow.classList.remove('line-pink');
 						});
@@ -424,7 +444,7 @@
                         path.setAttribute('stroke', 'rgb(37, 91, 218)'); // modrá
                     } else if (currentStroke === 'rgb(255, 150, 255)') {
 						// Při změně dark na light odstranit růžový nápis čísla linky v mapě 
-                        const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type');
+                        const mapWindows = document.querySelectorAll('.leaflet-marker-icon.text-labels.night-type-line');
                         mapWindows.forEach(mapWindow => {
                             mapWindow.classList.remove('line-pink');
                         });
@@ -435,7 +455,7 @@
 
             if (isDarkMode) {
                 document.body.classList.add('black-mode');
-                const elementsOnScreen = document.querySelectorAll('.leaflet-sidebar, .leaflet-top.leaflet-right, .leaflet-top.leaflet-left'); 
+                const elementsOnScreen = document.querySelectorAll('.leaflet-top.leaflet-right, .leaflet-top.leaflet-left'); // vynechán .leaflet-sidebar, 
                 elementsOnScreen.forEach(element => {
                     element.classList.add('dark-mode');
                 });

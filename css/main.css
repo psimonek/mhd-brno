@@ -14,29 +14,80 @@ body.black-mode {
 body.black-mode .stop-tooltip {
 	filter: invert(10%) hue-rotate(0deg) brightness(100%) contrast(100%);
 }
+
+/* Staré, již nepoužívané styly (Nastavení bílé barvy textu nutno invertovat invertované)
+
 sidebar.dark-mode h1,
 sidebar.dark-mode h2,
 sidebar.dark-mode h3,
 sidebar.dark-mode h4,
 sidebar.dark-mode h5,
 sidebar.dark-mode p {
-    color: black; /* Nastavení bílé barvy textu nutno invertovat invertované*/
+    color: black;
 }
+*/
+
+/* Nový přístup k tmavému režimu */
+body.black-mode .leaflet-sidebar * {
+    color: white !important; 
+	}
+body.black-mode .leaflet-sidebar-tabs,
+body.black-mode .leaflet-sidebar-content,
+body.black-mode .detail-linky   {
+    background-color: #222 !important; 
+	}
+body.black-mode .detail-linky a:hover {
+    background-color: #444 !important;
+	}
+body.black-mode .detail-linky.highlight-color {
+    background-color: #555 !important;
+    border-color: white !important;
+	}
+body.black-mode .zastavka {
+	background-color: #222 !important;
+	}
+body.black-mode .zastavka a:hover {
+	background-color: #444 !important;
+	}
+body.black-mode .leaflet-sidebar-tabs > li > a:hover, body.black-mode .leaflet-sidebar-tabs > ul > li > a:hover {
+	background-color: #444 !important;
+	}
 body.black-mode .leaflet-container {
 	background-color: black;
 	}
 body.black-mode .leaflet-container .leaflet-control-attribution {
 	background-color: rgba(0, 0, 0, 0.3) !important;
 	color: #888 !important;
-	}
+	} 
 .dark-mode,
-body.black-mode .zoom-info  {
+body.black-mode .zoom-info,
+body.black-mode .svg-img  {
     filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(100%);
 }
+body.black-mode .leaflet-sidebar {
+  box-shadow: 0 1px 5px rgba(255, 255, 255, 0.65); 
+  }
+  @media (min-width: 768px) {
+    body.black-mode .leaflet-sidebar {
+      border-radius: 4px; 
+      }
+      body.black-mode .leaflet-sidebar.leaflet-touch {
+        border: 2px solid rgba(255, 255, 255, 0.2); 
+        } 
+    }
+body.black-mode .leaflet-sidebar-left.leaflet-touch {
+  box-shadow: none;
+  border-right: 2px solid rgba(255, 255, 255, 0.2); 
+  }
+body.black-mode .leaflet-sidebar-right.leaflet-touch {
+  box-shadow: none;
+  border-left: 2px solid rgba(255, 255, 255, 0.2); 
+  }
 .line-pink {
 	color: rgb(177, 80, 177) !important;
 	border-color: rgb(177, 80, 177) !important;
 	}
+
 /* Konec tmavého režimu */
 
 body, html {
@@ -65,14 +116,14 @@ body, html {
 }
 .group-content li a {
     text-decoration: none;
-    color: black;
+    color: white;
     text-align: center;
     display: block; /* Zajištění, že odkaz zabírá celou šířku položky */
-	padding: 6px; /* Vnitřní okraje pro odkazy */
-	font-size: 14px;
+	padding: 4px; /* Vnitřní okraje pro odkazy */
+	font-size: 18px;
 }
 .group-content li a:hover {
-    background-color: #ffff;
+    opacity: 0.8;
 }
 .text-labels {
 	width: 50px !important;
@@ -128,9 +179,7 @@ body, html {
 	color: rgb(37, 91, 218);
 }
 .bus-type {
-	border: 5px solid rgba(37, 91, 218, 0.4);
-	background-color: rgba(37, 91, 218, 0.3);
-	color: rgb(37, 91, 218);
+	background-color: rgb(44,137,200);
 	font-weight: 500;
 }
 .trolleybus-type-line {
@@ -138,9 +187,7 @@ body, html {
 	color: rgb(7, 172, 0);
 }
 .trolleybus-type {
-	border: 5px solid rgba(7, 172, 0, 0.4);
-	background-color: rgba(7, 172, 0, 0.3);
-	color: rgb(7, 172, 0);
+	background-color: rgb(0,128,51);
 	font-weight: 500;
 }
 .tram-type-line {
@@ -148,9 +195,7 @@ body, html {
 	color: rgb(255, 20, 20);
 }
 .tram-type {
-	border: 5px solid rgba(255, 20, 20, 0.4);
-	background-color: rgba(255, 20, 20, 0.3);
-	color: rgb(255, 20, 20);
+	background-color: rgb(226,30,35);
 	font-weight: 500;
 }
 .night-type-line {
@@ -158,9 +203,7 @@ body, html {
 	color: rgb(0, 0, 0);
 }
 .night-type {
-	border: 5px solid rgba(0, 0, 0, 0.4);
-	background-color: rgba(0, 0, 0, 0.3);
-	color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0);
 	font-weight: 500;
 }
 .rez-type-line {
@@ -168,13 +211,10 @@ body, html {
 	color: rgb(255, 128, 0);
 }
 .rez-type {
-	border: 5px solid rgba(255, 128, 0, 0.4);
-	background-color: rgba(255, 128, 0, 0.3);
-	color: rgb(255, 128, 0);
+	background-color: rgb(238,126,30);
 	font-weight: 500;
 }
 .menu-border {
-	border-width: 2px;
 	border-radius: 6px;
 }
 .highlight-color {
@@ -244,7 +284,7 @@ body, html {
 	opacity: 0;
 	z-index: 1000;
 }
-/* Styly pro klikající kružnici pro zobrazení přesnosti polohy */
+/* Styly pro klikající kružnici pro zobrazení přesnosti polohy - #static-circle nyní nepoužíváme */
 #blink {
 	position: absolute;
 	top: 50%;
@@ -254,7 +294,7 @@ body, html {
 	border-radius: 50%;
 	background: rgba(255,87,0,1);
 	box-shadow: 0 0 0 rgba(255, 0, 0, .5);
-	animation: blink 2s infinite;
+	animation: blink 3s infinite;
 	transform: translate(-50%, -50%);
 	z-index: 1000; /* Z-index pro pulzující kružnici */
 	display: none;
@@ -274,13 +314,25 @@ body, html {
 }
 @keyframes blink {
 	0% {
-		opacity: 0.1;
+		opacity: .1;
 	}
 	50% {
-		opacity: .2;
+		opacity: .3;
 	}
 	100% {
-		opacity: 0.1;
+		opacity: .1;
 	}
 }
 /* Konec stylu blink efektu */
+/* Dále vystřeďujeme v Leaflet Sidebar V2 SVG ikony. Jejich velikost a margin je ale v index.html jako inline styl, 
+protože každý obrázek je jinak velký */ 
+.svg-centering-li {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.svg-centering-img {
+	height: auto;
+	display: block;
+	vertical-align: middle;
+}

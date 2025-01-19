@@ -109,7 +109,7 @@ function showPosition(e) {
 			document.getElementById('static-circle').style.height = accuracyCircle + 'px';
 			document.getElementById('blink').style.width = accuracyCircle + 'px';
 			document.getElementById('blink').style.height = accuracyCircle + 'px';
-			document.getElementById('static-circle').style.display = 'block'; // Zobrazíme kružnici tolerance polohy
+			document.getElementById('static-circle').style.display = 'none'; // Rozhodl jsem se nezobrazovat kružnici, jen blikání. Zobrazíme kružnici tolerance polohy
 			document.getElementById('blink').style.display = 'block'; // Zobrazíme efekt blink tolerance polohy
 		} else {
 			document.getElementById('static-circle').style.display = 'none'; // Zrušíme kružnici tolerance polohy
