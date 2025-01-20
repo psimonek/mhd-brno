@@ -83,7 +83,7 @@ map.on('baselayerchange', function(e) {
         if (tooltips.getLayers().length === 0) {
 			
 		} else {
-			if (stopscheckbox.checked) {
+			if (stopscheckbox.checked && map.getZoom() > 15) {
                 tooltips.addTo(map);
             }
 		}
