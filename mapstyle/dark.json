@@ -1780,6 +1780,33 @@
       }
     },
     {
+      "id": "railway-transit",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "minzoom": 13,
+      "filter": [
+        "all",
+        ["==", ["geometry-type"], "LineString"],
+        ["==", ["get", "class"], "transit"],
+        ["match", ["get", "brunnel"], ["tunnel"], false, true]
+      ],
+      "paint": {
+        "line-color": "rgba(242, 6, 10, 0.4)",
+        "line-width": [
+          "interpolate",
+          ["exponential", 1.4],
+          ["zoom"],
+          14,
+          1,
+          20,
+          4
+        ],
+        "line-gap-width": 2,
+        "line-opacity": 1
+      }
+    },
+    {
       "id": "railway-transit-hatching",
       "type": "line",
       "source": "openmaptiles",
@@ -2272,43 +2299,6 @@
       }
     },
     {
-      "id": "bridge-secondary-tertiary",
-      "type": "line",
-      "source": "openmaptiles",
-      "source-layer": "transportation",
-      "filter": [
-        "all",
-        ["==", ["get", "brunnel"], "bridge"],
-        ["match", ["get", "class"], ["secondary", "tertiary"], true, false],
-        ["!=", ["get", "ramp"], 1]
-      ],
-      "layout": {"line-join": "round"},
-      "paint": {
-        "line-color": [
-          "interpolate",
-          ["linear"],
-          ["zoom"],
-          15,
-          "rgba(122, 138, 162, 1)",
-          16,
-          "rgba(98, 112, 132, 1)",
-          16.5,
-          "rgba(27, 31, 38, 1)"
-        ],
-        "line-width": [
-          "interpolate",
-          ["exponential", 1.2],
-          ["zoom"],
-          6.5,
-          0,
-          8,
-          0.5,
-          20,
-          20
-        ]
-      }
-    },
-    {
       "id": "bridge-trunk-primary",
       "type": "line",
       "source": "openmaptiles",
@@ -2434,30 +2424,40 @@
       }
     },
     {
-      "id": "railway-transit",
+      "id": "bridge-secondary-tertiary",
       "type": "line",
       "source": "openmaptiles",
       "source-layer": "transportation",
-      "minzoom": 13,
       "filter": [
         "all",
-        ["==", ["geometry-type"], "LineString"],
-        ["==", ["get", "class"], "transit"],
-        ["match", ["get", "brunnel"], ["tunnel"], false, true]
+        ["==", ["get", "brunnel"], "bridge"],
+        ["match", ["get", "class"], ["secondary", "tertiary"], true, false],
+        ["!=", ["get", "ramp"], 1]
       ],
+      "layout": {"line-join": "round", "visibility": "visible"},
       "paint": {
-        "line-color": "rgba(242, 6, 10, 0.4)",
+        "line-color": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          15,
+          "rgba(122, 138, 162, 1)",
+          16,
+          "rgba(98, 112, 132, 1)",
+          16.5,
+          "rgba(27, 31, 38, 1)"
+        ],
         "line-width": [
           "interpolate",
-          ["exponential", 1.4],
+          ["exponential", 1.2],
           ["zoom"],
-          14,
-          1,
+          6.5,
+          0,
+          8,
+          0.5,
           20,
-          4
-        ],
-        "line-gap-width": 2,
-        "line-opacity": 1
+          20
+        ]
       }
     },
     {
