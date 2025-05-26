@@ -16,7 +16,7 @@ function loadLinesAndStops(lineRef) {
 	
 	var resetDiv = document.getElementById("resetLayers");
 	resetDiv.innerHTML = "";
-    var textToAddReset = '<p><a onClick="loadLinesAndStops(\'' + lineRef + '\');" href="#">Zobrazit všechny varianty (resetovat výběr)</a></p>'; // Získáme text, který chceme přidat.
+    var textToAddReset = '<p style="display: flex; align-items: center;"><a onClick="loadLinesAndStops(\'' + lineRef + '\');" href="#" style="display: flex; align-items: center;"><img class="svg-img" src="img/reset.svg" alt="Go back Icon" style="margin-right: 8px; height: 24px; width: 24px;">Zobrazit všechny varianty (resetovat výběr)</a></p>'; // Získáme text, který chceme přidat.
     resetDiv.innerHTML = textToAddReset;
 
 	if (lineRef === "Rež") {
@@ -174,7 +174,7 @@ function loadLinesAndStops(lineRef) {
 	
 						detailDivZast.innerHTML = ''; // vymazaní obsahu div.
 						
-						detailDivZast.innerHTML += "<h3>Zastávky vybrané varianty linky</h3><p>Režijní linky jsou neveřejné a slouží pouze pro služební potřeby DPMB.</p>";
+						detailDivZast.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/zastavka.svg" alt="Bus stop Icon" style="margin-right: 8px; height: 24px; width: 24px;">Zastávky vybrané varianty linky</h4>`;
 						var dataVrstvy = hladiny[lyr];
 									
 						// Předpokládáme, že jmenohladiny je vrstva s různými typy
@@ -294,6 +294,34 @@ function loadLinesAndStops(lineRef) {
 		        // Získání reference na <div> s ID "detailLinky"
 				var detailDiv = document.getElementById("detailLinky");
 		        detailDiv.innerHTML = ''; // Vymazání obsahu div id="detailLinky"
+		        
+		        // Získání reference na <div> s ID "diversions"
+				var diversionsDiv = document.getElementById("diversions");
+		        diversionsDiv.innerHTML = ''; // Vymazání obsahu div id="diversions"
+		        
+				// Načtení výluk
+				const urlDiversions = 'get-diversions/diversions.json';
+				
+				// Načtení JSON souboru
+				fetch(urlDiversions)
+					.then(response => {
+						if (!response.ok) {
+							throw new Error('Síťová odpověď nebyla v pořádku');
+						}
+						return response.json();
+					})
+					.then(data => {
+						// Procházení jednotlivých bloků v JSON
+						data.Diversions.forEach(item => {
+							// Kontrola, zda "AffectedLines" obsahuje přesnou hodnotu vybrané linky (lineRef)
+							const affectedLines = item.AffectedLines.split(',').map(line => line.trim());
+							if (affectedLines.includes(lineRef) && item.IsValid) {
+								diversionsDiv.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/alert.svg" alt="Alert Icon" style="margin-right: 8px; height: 24px; width: 24px;">${item.Number}: ${item.Title}</h4><p>Platnost: ${item.ValidFrom} - ${item.ValidTo}<br>Linky: ${item.AffectedLines}</p>${item.PublicText}`;
+							}
+						});
+					})
+					.catch(error => console.error('Chyba při načítání JSON:', error));	        
+		        
 		        // Získání reference na <div> s ID "detail-linky-zastavky"
 				var detailDivZast = document.getElementById("detail-linky-zastavky");
 		        detailDivZast.innerHTML = ''; // Vymazání obsahu div id="detail-linky-zastávky"
@@ -430,8 +458,9 @@ function loadLinesAndStops(lineRef) {
 						function addStoptoDiv(lyr) {
 		
 							detailDivZast.innerHTML = ''; // vymazaní obsahu div.
+							//diversionsDiv.innerHTML = ''; // Vymazání obsahu div id=diversions
 							
-							detailDivZast.innerHTML += "<h3>Zastávky vybrané varianty linky</h3>";
+							detailDivZast.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/zastavka.svg" alt="Bus stop Icon" style="margin-right: 8px; height: 24px; width: 24px;">Zastávky vybrané varianty linky</h4>`;
 							var dataVrstvy = hladiny[lyr];
 										
 							// Předpokládáme, že jmenohladiny je vrstva s různými typy
