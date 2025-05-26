@@ -24,4 +24,4 @@ jobs:
           pip install requests
 
       - name: Run script
-        run: python get-directions/get_diversions.py  
+        run: python get-diversions/get-diversions.py  
