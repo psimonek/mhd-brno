@@ -1,0 +1,26 @@
+name: Get Diversions
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Spouští se každé 3 hodiny
+
+jobs:
+  save_diversions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run script
+        run: python get-directions/get_diversions.py  
