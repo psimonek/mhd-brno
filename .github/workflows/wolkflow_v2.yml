@@ -1,4 +1,5 @@
-Name: Get Diversions v2
+name: Get Diversions v2
+
 on:
   #schedule:
   #  - cron: '0 */3 * * *'  # Spouští se každé 3 hodiny
@@ -32,9 +33,13 @@ jobs:
       - name: Run script
         run: python hidden-data/get-diversions/get-diversions_v2.py  
 
-      - name: Move diversions_v2.json to public directory
+      - name: Move diversions.json to public directory
         run: mv diversions_v2.json get-diversions/diversions_v2.json  # Přesun souboru do veřejné složky
 
       - name: Commit and push changes
         run: |
           git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add -f get-diversions/diversions_v2.json  # Upravena cesta k souboru
+          git commit -m "Update diversions_v2.json" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/psimonek/mhd-brno.git HEAD:main
