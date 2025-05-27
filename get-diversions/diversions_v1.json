@@ -203,9 +203,9 @@
       "Latitude": 49.172877,
       "Longitude": 16.623824,
       "ValidFrom": "15.05.2025 06:00",
-      "ValidTo": "31.05.2025 20:00",
+      "ValidTo": "27.05.2025 11:00",
       "IsValid": true,
-      "PublicText": "<p>Z důvodu realizace výkopových prací je <strong>od 6:00 ve čtvrtek 15. května 2025 do ukončení prací </strong>(předpoklad do 31. května 2025) zastávka <strong>Sazenice </strong>pro linky 40, 48, x49, 64, 67, 74 a N95 ve směru do centra přeložena<strong> </strong>přibližně o 120 metrů vzad.</p>\n",
+      "PublicText": "<p><span><span><span><span>Zastávka Sazenice pro linky </span></span></span></span>40, 48, x49, 64, 67, 74 a N95<span><span><span><span> byla vrácena do své původní polohy.</span></span></span></span></p>\n\n<p><s>Z důvodu realizace výkopových prací je <strong>od 6:00 ve čtvrtek 15. května 2025 do ukončení prací </strong>(předpoklad do 31. května 2025) zastávka <strong>Sazenice </strong>pro linky 40, 48, x49, 64, 67, 74 a N95 ve směru do centra přeložena<strong> </strong>přibližně o 120 metrů vzad.</s></p>\n",
       "PrivateText": "",
       "Type": "Z",
       "AffectedLines": "40, 48, x49, 64, 67, 74, N95"
