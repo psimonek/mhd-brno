@@ -842,5 +842,5 @@
     }
   ],
   "Warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
-  "FromCache": true
+  "FromCache": false
 }
