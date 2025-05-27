@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: psimonek/hidden-data
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.YML_TOKEN }}
           path: hidden-data
           ref: main
 
