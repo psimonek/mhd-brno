@@ -199,7 +199,7 @@
     {
       "DiversionID": 30700,
       "Number": "",
-      "Title": "Dočasné přeložení zastávky Sazenice směr centrum",
+      "Title": "Dočasné přeložení zastávky Sazenice směr centrum – UKONČENO",
       "Latitude": 49.172877,
       "Longitude": 16.623824,
       "ValidFrom": "15.05.2025 06:00",
@@ -633,13 +633,13 @@
     {
       "DiversionID": 29216,
       "Number": "",
-      "Title": "Dočasné přeložení zastávky Raisova",
+      "Title": "Dočasné přeložení zastávky Raisova – UKONČENO",
       "Latitude": 49.181938,
       "Longitude": 16.56253,
       "ValidFrom": "03.03.2025 07:00",
-      "ValidTo": "30.05.2025 20:00",
+      "ValidTo": "26.05.2025 08:00",
       "IsValid": true,
-      "PublicText": "<p>Z důvodu stavebních úprav je <strong>od 7:00 hod. </strong><strong>3. března 2025 </strong><strong>do ukončení prací </strong>(předpoklad <strong>květen</strong> <strong>2025</strong>) dočasně přeložena zastávka <strong>Raisova</strong><strong> </strong>linek 25, 26 a N95:</p>\n\n<p>• ve směru do centra přibližně o 190 metrů vzad.<br />\n• ve směru z centra přibližně o 230 metrů vpřed.</p>\n\n<p> </p>\n",
+      "PublicText": "<p><span><span><span><span>Zastávka Raisova pro linky 25, 26 a N95 ve směru<strong> z centra byla vrácena do své původní polohy.</strong> Zastávka ve směru <strong>do centra je přeložena přibližně o 40 metrů vpřed.</strong></span></span></span></span></p>\n\n<p><s>Z důvodu stavebních úprav je <strong>od 7:00 hod. </strong><strong>3. března 2025 </strong><strong>do ukončení prací </strong>(předpoklad <strong>květen</strong> <strong>2025</strong>) dočasně přeložena zastávka <strong>Raisova</strong><strong> </strong>linek 25, 26 a N95:</s></p>\n\n<p><s>• ve směru do centra přibližně o 190 metrů vzad.<br />\n• ve směru z centra přibližně o 230 metrů vpřed.</s></p>\n\n<p> </p>\n",
       "PrivateText": "",
       "Type": "Z",
       "AffectedLines": "25, 26, N95"
