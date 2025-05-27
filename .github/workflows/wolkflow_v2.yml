@@ -19,6 +19,7 @@ jobs:
           repository: psimonek/hidden-data
           token: ${{ secrets.GITHUB_TOKEN }}
           path: hidden-data
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v2
