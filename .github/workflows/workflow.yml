@@ -37,7 +37,6 @@ jobs:
           git commit -m "Update diversions.json" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/psimonek/mhd-brno.git HEAD:main
 
-name: Get Diversions V2
 
 on:
   #schedule:
