@@ -141,20 +141,6 @@
       "AffectedLines": "64, x64"
     },
     {
-      "DiversionID": 30635,
-      "Number": "V2505-025",
-      "Title": "Výluka tramvají do Modřic",
-      "Latitude": 49.1271381667,
-      "Longitude": 16.6047056667,
-      "ValidFrom": "18.05.2025 00:00",
-      "ValidTo": "31.08.2025 23:15",
-      "IsValid": true,
-      "PublicText": "<p><span><span><span>Z důvodu rekonstrukce tramvajové tratě bude od ranních výjezdů <strong>v neděli 18. května 2025 do ukončení prací</strong> (předpoklad do konce srpna 2025) vyloučen provoz tramvají v úseku <strong>Bohunická – Modřice, smyčka</strong>. </span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Tramvajová linka 2</strong> pojede pouze v trase <strong>Vojenská nemocnice – Ústřední hřbitov - smyčka / Bohunická</strong>.</span></span></span><br />\n<span><span><span>• Ukončení v zastávce Vojenská nemocnice je zavedeno z důvodu souběžně probíhající <a href=\"https://www.dpmb.cz/node/30633/\"><strong class=\"blue\">výluky tramvají v ulici Zábrdovické</strong></a>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> </strong>Náhradní doprava v úseku <strong>Bohunická – Modřice, smyčka</strong> bude zajištěna <strong>mimořádnou autobusovou</strong> <strong>linkou x2</strong>.<br />\n• Zastávku <strong>Bohunická</strong> obslouží pro výstup i nástup v ulici Bohunické (zastávka linek 50 a E50 směr Bohunice). <br />\n• Ve směru z centra dále obslouží zastávky <strong>Ořechovská</strong> (zastávka linky N96), znovu <strong>Ořechovská</strong>, <strong>Moravanské lány</strong>, <strong>Moravanská</strong>, <strong>Modřická cihelna</strong> (zastávky náhradní dopravy na obslužné komunikaci při východní straně ulice Vídeňské), <strong>Modřice, Brněnská</strong> (běžná autobusová zastávka směr Modřice) a <strong>Modřice, smyčka</strong>.<br />\n• Ve směru do centra obslouží zastávky <strong>Modřice, smyčka</strong> (zastávka linky N94), <strong>Modřice, Brněnská</strong> (běžná autobusová zastávka směr Modřice), <strong>Modřická cihelna</strong>, <strong>Moravanská</strong>, <strong>Moravanské lány</strong>, <strong>Ořechovská</strong> (zastávky náhradní dopravy na obslužné komunikaci při východní straně ulice Vídeňské) a <strong>Bohunická</strong>.<br />\n• Zastávka <strong>Modřice, Tyršova</strong> nebude touto linkou obsluhována.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Regionální autobusové linky 501 a 502</strong> budou celodenně ukončeny v zastávce <strong>Ústřední hřbitov</strong>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2505-025_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n\n<p> </p>\n",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "2, x2"
-    },
-    {
       "DiversionID": 91,
       "Number": "VP 2505-223",
       "Title": "Brno, ulice Zábrdovická",
@@ -167,6 +153,20 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "201"
+    },
+    {
+      "DiversionID": 30635,
+      "Number": "V2505-025",
+      "Title": "Výluka tramvají do Modřic",
+      "Latitude": 49.1271381667,
+      "Longitude": 16.6047056667,
+      "ValidFrom": "18.05.2025 00:00",
+      "ValidTo": "31.08.2025 23:15",
+      "IsValid": true,
+      "PublicText": "<p><span><span><span>Z důvodu rekonstrukce tramvajové tratě bude od ranních výjezdů <strong>v neděli 18. května 2025 do ukončení prací</strong> (předpoklad do konce srpna 2025) vyloučen provoz tramvají v úseku <strong>Bohunická – Modřice, smyčka</strong>. </span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Tramvajová linka 2</strong> pojede pouze v trase <strong>Vojenská nemocnice – Ústřední hřbitov - smyčka / Bohunická</strong>.</span></span></span><br />\n<span><span><span>• Ukončení v zastávce Vojenská nemocnice je zavedeno z důvodu souběžně probíhající <a href=\"https://www.dpmb.cz/node/30633/\"><strong class=\"blue\">výluky tramvají v ulici Zábrdovické</strong></a>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> </strong>Náhradní doprava v úseku <strong>Bohunická – Modřice, smyčka</strong> bude zajištěna <strong>mimořádnou autobusovou</strong> <strong>linkou x2</strong>.<br />\n• Zastávku <strong>Bohunická</strong> obslouží pro výstup i nástup v ulici Bohunické (zastávka linek 50 a E50 směr Bohunice). <br />\n• Ve směru z centra dále obslouží zastávky <strong>Ořechovská</strong> (zastávka linky N96), znovu <strong>Ořechovská</strong>, <strong>Moravanské lány</strong>, <strong>Moravanská</strong>, <strong>Modřická cihelna</strong> (zastávky náhradní dopravy na obslužné komunikaci při východní straně ulice Vídeňské), <strong>Modřice, Brněnská</strong> (běžná autobusová zastávka směr Modřice) a <strong>Modřice, smyčka</strong>.<br />\n• Ve směru do centra obslouží zastávky <strong>Modřice, smyčka</strong> (zastávka linky N94), <strong>Modřice, Brněnská</strong> (běžná autobusová zastávka směr Modřice), <strong>Modřická cihelna</strong>, <strong>Moravanská</strong>, <strong>Moravanské lány</strong>, <strong>Ořechovská</strong> (zastávky náhradní dopravy na obslužné komunikaci při východní straně ulice Vídeňské) a <strong>Bohunická</strong>.<br />\n• Zastávka <strong>Modřice, Tyršova</strong> nebude touto linkou obsluhována.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Regionální autobusové linky 501 a 502</strong> budou celodenně ukončeny v zastávce <strong>Ústřední hřbitov</strong>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2505-025_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n\n<p> </p>\n",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "2, x2"
     },
     {
       "DiversionID": 30633,
@@ -197,20 +197,6 @@
       "AffectedLines": "404"
     },
     {
-      "DiversionID": 30700,
-      "Number": "",
-      "Title": "Dočasné přeložení zastávky Sazenice směr centrum – UKONČENO",
-      "Latitude": 49.172877,
-      "Longitude": 16.623824,
-      "ValidFrom": "15.05.2025 06:00",
-      "ValidTo": "27.05.2025 11:00",
-      "IsValid": true,
-      "PublicText": "<p><span><span><span><span>Zastávka Sazenice pro linky </span></span></span></span>40, 48, x49, 64, 67, 74 a N95<span><span><span><span> byla vrácena do své původní polohy.</span></span></span></span></p>\n\n<p><s>Z důvodu realizace výkopových prací je <strong>od 6:00 ve čtvrtek 15. května 2025 do ukončení prací </strong>(předpoklad do 31. května 2025) zastávka <strong>Sazenice </strong>pro linky 40, 48, x49, 64, 67, 74 a N95 ve směru do centra přeložena<strong> </strong>přibližně o 120 metrů vzad.</s></p>\n",
-      "PrivateText": "",
-      "Type": "Z",
-      "AffectedLines": "40, 48, x49, 64, 67, 74, N95"
-    },
-    {
       "DiversionID": 98,
       "Number": "PO 2505-056",
       "Title": "Sokolnice, ul. Zámecká",
@@ -223,20 +209,6 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "151"
-    },
-    {
-      "DiversionID": 70,
-      "Number": "VP 2505-219",
-      "Title": "Brno, Dlážděná",
-      "Latitude": 49.204981,
-      "Longitude": 16.487088,
-      "ValidFrom": "12.05.2025 00:00",
-      "ValidTo": "13.06.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka<font color=\"#009240\"><strong> 161</strong></font>:\u00A0V pracovních dnech s výjimkou spojů 80 a 81 jede mezi Brnem-Bystrcí a Troubskem-Veselkou obousměrným odklonem po Staré dálnici s obsluhou zastávek Brno, Štouračova a Brno, Adamcova. Spoje 80, 81 a všechny spoje v nepracovních dnech jedou z Veselky do Žebětína a opačně obousměrným odklonem přes Starou dálnici a Kohoutovickou. Konečnou zastávkou od Veselky je Křivánkovo náměstí, výchozí zastávkou směr Veselka je Helenčina. Pro cesty z Brna-Žebětína a Brna-Bystrce do oblasti Troubska a Popůvek využijte linku<font color=\"#2C89C8\"><strong> 52</strong></font> s přestupem na linku<font color=\"#009240\"><strong> 161</strong></font> v zastávce Wollmannova, případně s pěším přesunem mezi zastávkami Ondrouškova a Adamcova, nebo trasu přes Kohoutovice k Nemocnici Bohunice a dále návaznými regionálními linkami. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "161"
     },
     {
       "DiversionID": 30239,
@@ -267,6 +239,20 @@
       "AffectedLines": "933, 934"
     },
     {
+      "DiversionID": 70,
+      "Number": "VP 2505-219",
+      "Title": "Brno, Dlážděná",
+      "Latitude": 49.204981,
+      "Longitude": 16.487088,
+      "ValidFrom": "12.05.2025 00:00",
+      "ValidTo": "13.06.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linka<font color=\"#009240\"><strong> 161</strong></font>:\u00A0V pracovních dnech s výjimkou spojů 80 a 81 jede mezi Brnem-Bystrcí a Troubskem-Veselkou obousměrným odklonem po Staré dálnici s obsluhou zastávek Brno, Štouračova a Brno, Adamcova. Spoje 80, 81 a všechny spoje v nepracovních dnech jedou z Veselky do Žebětína a opačně obousměrným odklonem přes Starou dálnici a Kohoutovickou. Konečnou zastávkou od Veselky je Křivánkovo náměstí, výchozí zastávkou směr Veselka je Helenčina. Pro cesty z Brna-Žebětína a Brna-Bystrce do oblasti Troubska a Popůvek využijte linku<font color=\"#2C89C8\"><strong> 52</strong></font> s přestupem na linku<font color=\"#009240\"><strong> 161</strong></font> v zastávce Wollmannova, případně s pěším přesunem mezi zastávkami Ondrouškova a Adamcova, nebo trasu přes Kohoutovice k Nemocnici Bohunice a dále návaznými regionálními linkami. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "161"
+    },
+    {
       "DiversionID": 97,
       "Number": "2505 Pohořelice, náměstí",
       "Title": "Pohořelice, náměstí - směr Brno",
@@ -295,20 +281,6 @@
       "AffectedLines": "550, 585"
     },
     {
-      "DiversionID": 83,
-      "Number": "Knínice, horní zastávka",
-      "Title": "Knínice, horní zastávka v obou směrech",
-      "Latitude": 49.539664,
-      "Longitude": 16.702797,
-      "ValidFrom": "05.05.2025 00:00",
-      "ValidTo": "31.10.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "251"
-    },
-    {
       "DiversionID": 81,
       "Number": "Tasovice, rozc. 1.0",
       "Title": "Tasovice, rozc. 1.0 (v obou směrech)",
@@ -321,6 +293,20 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "257"
+    },
+    {
+      "DiversionID": 83,
+      "Number": "Knínice, horní zastávka",
+      "Title": "Knínice, horní zastávka v obou směrech",
+      "Latitude": 49.539664,
+      "Longitude": 16.702797,
+      "ValidFrom": "05.05.2025 00:00",
+      "ValidTo": "31.10.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "251"
     },
     {
       "DiversionID": 86,
@@ -393,20 +379,6 @@
       "AffectedLines": "570"
     },
     {
-      "DiversionID": 53,
-      "Number": "VP 2504-217",
-      "Title": "Zaječí",
-      "Latitude": 48.873324,
-      "Longitude": 16.766646,
-      "ValidFrom": "07.04.2025 00:00",
-      "ValidTo": "13.12.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "550"
-    },
-    {
       "DiversionID": 48,
       "Number": "Břeclav, Charvatská Nová Ves, Lednická",
       "Title": "Zastávka Břeclav, Charvatská Nová Ves, Lednická",
@@ -419,6 +391,20 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "561, 562, 569, 570"
+    },
+    {
+      "DiversionID": 53,
+      "Number": "VP 2504-217",
+      "Title": "Zaječí",
+      "Latitude": 48.873324,
+      "Longitude": 16.766646,
+      "ValidFrom": "07.04.2025 00:00",
+      "ValidTo": "13.12.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "550"
     },
     {
       "DiversionID": 29695,
@@ -435,20 +421,6 @@
       "AffectedLines": "N97"
     },
     {
-      "DiversionID": 24,
-      "Number": "VP 2504-213",
-      "Title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
-      "Latitude": 49.085623,
-      "Longitude": 16.167830,
-      "ValidFrom": "01.04.2025 00:00",
-      "ValidTo": "31.10.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka<font color=\"#009240\"><strong> 441</strong></font>\u00A0- většina spojů, které jedou dále než do zastávky Dukovany, obec, zde v této zastávce budou dočasně končit, resp. v opačném směru dočasně začínat. Spoje 81, 82, 21 pojedou po obousměrné objízdné trase přes Rouchovany a Dukovany, EDU až do zastávky Hrotovice, resp. v opačném směru budou v Hrotovicích i nadále začínat.\u00A0Spoj 24 bude mezi Hrotovicemi a Rouchovany vynechávat zastávky Slavětice a Dukovany, EDU a pojede napřímo po silnicích II/152 a II/399.\u00A0Obousměrná objízdná trasa mezi zastávkami Dukovany, obec až Dukovany, EDU povede po silnicích II/392, III/39220, II/396, III/15249, MÚK jaderné elektrárny Dukovany a sil. II/152 přes obce Horní Dubňany, Rešice a Rouchovany. Spoje budou na objízdné trase vynechávat zastávky Dukovany, rozc. 2.0 a Rouchovany, učiliště..<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- spoj 25 dočasně prodloužen z Rouchovan až do Hrotovic, zaveden dočasný vratný spoj 28 v úseku Hrotovice - Rouchovany.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 2 dočasně vynechává zastávku Dukovany, rozc. 2.0 a jede po obousměrné objízdné trase po MÚK jaderné elektrárny Dukovany, jako jezdí pravidelně spoj 1 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "441, 442, 812"
-    },
-    {
       "DiversionID": 45,
       "Number": "PO 2504-025",
       "Title": "Kuřim, Zámecká",
@@ -461,6 +433,20 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "302, 312"
+    },
+    {
+      "DiversionID": 24,
+      "Number": "VP 2504-213",
+      "Title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
+      "Latitude": 49.085623,
+      "Longitude": 16.167830,
+      "ValidFrom": "01.04.2025 00:00",
+      "ValidTo": "31.10.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linka<font color=\"#009240\"><strong> 441</strong></font>\u00A0- většina spojů, které jedou dále než do zastávky Dukovany, obec, zde v této zastávce budou dočasně končit, resp. v opačném směru dočasně začínat. Spoje 81, 82, 21 pojedou po obousměrné objízdné trase přes Rouchovany a Dukovany, EDU až do zastávky Hrotovice, resp. v opačném směru budou v Hrotovicích i nadále začínat.\u00A0Spoj 24 bude mezi Hrotovicemi a Rouchovany vynechávat zastávky Slavětice a Dukovany, EDU a pojede napřímo po silnicích II/152 a II/399.\u00A0Obousměrná objízdná trasa mezi zastávkami Dukovany, obec až Dukovany, EDU povede po silnicích II/392, III/39220, II/396, III/15249, MÚK jaderné elektrárny Dukovany a sil. II/152 přes obce Horní Dubňany, Rešice a Rouchovany. Spoje budou na objízdné trase vynechávat zastávky Dukovany, rozc. 2.0 a Rouchovany, učiliště..<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- spoj 25 dočasně prodloužen z Rouchovan až do Hrotovic, zaveden dočasný vratný spoj 28 v úseku Hrotovice - Rouchovany.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 2 dočasně vynechává zastávku Dukovany, rozc. 2.0 a jede po obousměrné objízdné trase po MÚK jaderné elektrárny Dukovany, jako jezdí pravidelně spoj 1 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "441, 442, 812"
     },
     {
       "DiversionID": 38,
@@ -519,20 +505,6 @@
       "AffectedLines": "31, 33, 47, 67, 77, N89, N94, N95, N96, N98"
     },
     {
-      "DiversionID": 33,
-      "Number": "PO 2503-019",
-      "Title": "Brno, viadukt Křenová",
-      "Latitude": 49.191619,
-      "Longitude": 16.614997,
-      "ValidFrom": "25.03.2025 00:00",
-      "ValidTo": "31.08.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linky<font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Noční spoje jedou odklonem bez dopadu na obsluhu zastávek. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "602, 701, 702"
-    },
-    {
       "DiversionID": 30,
       "Number": "VP 2503-209",
       "Title": "Brno, viadukt Křenová",
@@ -547,18 +519,18 @@
       "AffectedLines": "48, 74"
     },
     {
-      "DiversionID": 31,
-      "Number": "PO 2503-017",
-      "Title": "Kunštát, náměstí (terminál veřejné autobusové dopravy)",
-      "Latitude": 49.507272,
-      "Longitude": 16.519790,
-      "ValidFrom": "24.03.2025 00:00",
-      "ValidTo": "22.06.2025 23:59",
+      "DiversionID": 33,
+      "Number": "PO 2503-019",
+      "Title": "Brno, viadukt Křenová",
+      "Latitude": 49.191619,
+      "Longitude": 16.614997,
+      "ValidFrom": "25.03.2025 00:00",
+      "ValidTo": "31.08.2025 23:59",
       "IsValid": true,
-      "PublicText": "Z důvodu pokračování stavebních prací na pozemních komunikacích v Kunštátu\u00A0nebude možná obsluha dopravního terminálu\u00A0autobusové dopravy Kunštát, náměstí.<br/><br/> Linky<font color=\"#009240\"><strong> 256</strong></font>, <font color=\"#009240\"><strong> 276</strong></font> a <font color=\"#009240\"><strong>301</strong></font>\u00A0obslouží zastávky dočasných polohách v prostoru náměstí Krále Jiřího (nástupiště č. 1 a 2) a náměstí Československého Červeného kříže (nástupiště č. 3 a 4) stejným způsobem, jako za\u00A0provozního řešení před zprovozněním nového dopravního terminálu:. NÁSTUPIŠTĚ č. 1\u00A0pro linky. 256\u00A0směr Rozseč nad Kunštátem - Olešnice,, 276\u00A0směr Hluboké u Kunštátu,, 301\u00A0Olešnice (- Bystré).. NÁSTUPIŠTĚ č. 2\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Rozseče nad Kunštátem nebo spoje výchozí z Kunštátu),, 276\u00A0směr Letovice (výstup od Hlubokého u Kunštátu),, 301\u00A0směr Brno, Královo Pole.. NÁSTUPIŠTĚ č. 3\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Sulíkova),, 276\u00A0směr Hluboké u Kunštátu (výstup od Letovic). NÁSTUPIŠTĚ č. 4\u00A0pro linky. 256\u00A0směr Sulíkov - Olešnice,, 276\u00A0směr Letovice. Pro usnadnění přestupů mezi linkou<font color=\"#009240\"><strong> 276</strong></font> a linkami<font color=\"#009240\"><strong> 256</strong></font> a <font color=\"#009240\"><strong>301</strong></font> bude linka<font color=\"#009240\"><strong> 276</strong></font> zastavovat v uzlu Kunštát, náměstí dvakrát v obou směrech jízdy, vyjma spojů zde ukončených. . ",
+      "PublicText": "Linky<font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Noční spoje jedou odklonem bez dopadu na obsluhu zastávek. ",
       "PrivateText": "",
       "Type": "V",
-      "AffectedLines": "256, 276, 301"
+      "AffectedLines": "602, 701, 702"
     },
     {
       "DiversionID": 32,
@@ -573,6 +545,20 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "542, 551"
+    },
+    {
+      "DiversionID": 31,
+      "Number": "PO 2503-017",
+      "Title": "Kunštát, náměstí (terminál veřejné autobusové dopravy)",
+      "Latitude": 49.507272,
+      "Longitude": 16.519790,
+      "ValidFrom": "24.03.2025 00:00",
+      "ValidTo": "22.06.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Z důvodu pokračování stavebních prací na pozemních komunikacích v Kunštátu\u00A0nebude možná obsluha dopravního terminálu\u00A0autobusové dopravy Kunštát, náměstí.<br/><br/> Linky<font color=\"#009240\"><strong> 256</strong></font>, <font color=\"#009240\"><strong> 276</strong></font> a <font color=\"#009240\"><strong>301</strong></font>\u00A0obslouží zastávky dočasných polohách v prostoru náměstí Krále Jiřího (nástupiště č. 1 a 2) a náměstí Československého Červeného kříže (nástupiště č. 3 a 4) stejným způsobem, jako za\u00A0provozního řešení před zprovozněním nového dopravního terminálu:. NÁSTUPIŠTĚ č. 1\u00A0pro linky. 256\u00A0směr Rozseč nad Kunštátem - Olešnice,, 276\u00A0směr Hluboké u Kunštátu,, 301\u00A0Olešnice (- Bystré).. NÁSTUPIŠTĚ č. 2\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Rozseče nad Kunštátem nebo spoje výchozí z Kunštátu),, 276\u00A0směr Letovice (výstup od Hlubokého u Kunštátu),, 301\u00A0směr Brno, Královo Pole.. NÁSTUPIŠTĚ č. 3\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Sulíkova),, 276\u00A0směr Hluboké u Kunštátu (výstup od Letovic). NÁSTUPIŠTĚ č. 4\u00A0pro linky. 256\u00A0směr Sulíkov - Olešnice,, 276\u00A0směr Letovice. Pro usnadnění přestupů mezi linkou<font color=\"#009240\"><strong> 276</strong></font> a linkami<font color=\"#009240\"><strong> 256</strong></font> a <font color=\"#009240\"><strong>301</strong></font> bude linka<font color=\"#009240\"><strong> 276</strong></font> zastavovat v uzlu Kunštát, náměstí dvakrát v obou směrech jízdy, vyjma spojů zde ukončených. . ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "256, 276, 301"
     },
     {
       "DiversionID": 23,
@@ -629,20 +615,6 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "602"
-    },
-    {
-      "DiversionID": 29216,
-      "Number": "",
-      "Title": "Dočasné přeložení zastávky Raisova – UKONČENO",
-      "Latitude": 49.181938,
-      "Longitude": 16.56253,
-      "ValidFrom": "03.03.2025 07:00",
-      "ValidTo": "26.05.2025 08:00",
-      "IsValid": true,
-      "PublicText": "<p><span><span><span><span>Zastávka Raisova pro linky 25, 26 a N95 ve směru<strong> z centra byla vrácena do své původní polohy.</strong> Zastávka ve směru <strong>do centra je přeložena přibližně o 40 metrů vpřed.</strong></span></span></span></span></p>\n\n<p><s>Z důvodu stavebních úprav je <strong>od 7:00 hod. </strong><strong>3. března 2025 </strong><strong>do ukončení prací </strong>(předpoklad <strong>květen</strong> <strong>2025</strong>) dočasně přeložena zastávka <strong>Raisova</strong><strong> </strong>linek 25, 26 a N95:</s></p>\n\n<p><s>• ve směru do centra přibližně o 190 metrů vzad.<br />\n• ve směru z centra přibližně o 230 metrů vpřed.</s></p>\n\n<p> </p>\n",
-      "PrivateText": "",
-      "Type": "Z",
-      "AffectedLines": "25, 26, N95"
     },
     {
       "DiversionID": 11,
