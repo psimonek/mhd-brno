@@ -9,7 +9,7 @@
       "ValidFrom": "22.05.2025 07:00",
       "ValidTo": "15.06.2025 20:00",
       "IsValid": true,
-      "PublicText": "<p>Z důvodu rekonstrukce povrchu komunikace<strong> </strong>je<strong> od 7:00 hod. ve čtvrtek 22. května 2025 do ukončení prací</strong> (pro směr do centra přibližně do 28. května 2025, pro směr z centra přibližně do 15. června 2025) přeložena zastávka <strong>Jemelkova</strong> line 69 a N96 v obou směrech:</p>\n\n<p>• směr Starý Lískovec, smyčka <strong>cca o 190 metrů vpřed </strong>na rampu po odbočení z ul. Jihlavské</p>\n\n<p>• směr Bosonohy <strong>cca o 35 metrů vpřed</strong></p>\n\n<p> </p>\n\n<p>Pro regionální autobusové linky <strong>161</strong>, <strong>402</strong>, <strong>404</strong> a <strong>405</strong> je zastávka <strong>Jemelkova </strong>v obou směrech dočasně zrušena.</p>\n",
+      "PublicText": "<p>Z důvodu rekonstrukce povrchu komunikace<strong> </strong>je<strong> od 7:00 hod. ve čtvrtek 22. května 2025 do ukončení prací</strong> (přibližně do 15. června 2025) přeložena zastávka <strong>Jemelkova</strong> line 69 a N96 v obou směrech:</p>\n\n<p>• směr Starý Lískovec, smyčka do ulice Chironovy na úroveň autopůjčovny RENT – <em>schéma <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2505-029b_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p>• směr Bosonohy <strong>cca o 35 metrů vpřed</strong></p>\n\n<p> </p>\n\n<p>Pro regionální autobusové linky <strong>161</strong>, <strong>402</strong>, <strong>404</strong> a <strong>405</strong> je zastávka <strong>Jemelkova </strong>v obou směrech dočasně zrušena.</p>\n",
       "PrivateText": "",
       "Type": "Z",
       "AffectedLines": "69, N96, 161, 402, 404, 405"
@@ -814,5 +814,5 @@
     }
   ],
   "Warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
-  "FromCache": true
+  "FromCache": false
 }
