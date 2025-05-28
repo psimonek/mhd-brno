@@ -1,6 +1,20 @@
 {
   "Diversions": [
     {
+      "DiversionID": 30966,
+      "Number": "V2505-030",
+      "Title": "Výluka autobusů u nádraží Královo Pole",
+      "Latitude": 49.229236,
+      "Longitude": 16.596141,
+      "ValidFrom": "30.05.2025 00:00",
+      "ValidTo": "04.06.2025 23:59",
+      "IsValid": false,
+      "PublicText": "<p>Z důvodu opravy povrchu komunikace bude <strong>od pátku 30. května 2025 do středy 4. června 2025</strong> uzavřen nájezd z ulice Kosmovy do ulice Sportovní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> ve směru do Soběšic a <strong>autobusové linky E56, 72</strong>, <strong>84</strong> <strong>a 304 </strong>ve směru Nemocnice Bohunice / Lesná / NC Královo Pole pojedou odklonem ulicí Božetěchovou, kde obslouží přeloženou zastávku <strong>Královo Pole, nádraží</strong>.<br />\n• <strong>Linka E56 </strong>navíc obslouží  pro nástup i zastávku <strong>Královo Pole, nádraží</strong> společná s linkou 30 směr Semilasso.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávku <strong>Královo Pole, nádraží </strong>v ulici Kosmově nelze po dobu výluky obsloužit.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2505-030_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "30, E56, 72, 84, 304"
+    },
+    {
       "DiversionID": 30818,
       "Number": "",
       "Title": "Dočasné přeložení zastávky Jemelkova",
