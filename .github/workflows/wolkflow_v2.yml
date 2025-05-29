@@ -2,8 +2,8 @@ name: Get Diversions v2
 
 on:
   #schedule:
-  #  - cron: '0 */3 * * *'  # Spouští se každé 3 hodiny
-  workflow_dispatch:  # Přidá možnost manuálního spuštění
+  #  - cron: '1 * * * *'  # Spouští se v 1. minutě každé hodiny
+  workflow_dispatch:  # Přidává možnost manuálního spuštění
 
 jobs:
   save_diversions:
