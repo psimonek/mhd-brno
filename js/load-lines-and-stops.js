@@ -300,7 +300,7 @@ function loadLinesAndStops(lineRef) {
 		        diversionsDiv.innerHTML = ''; // Vymazání obsahu div id="diversions"
 		        
 				// Načtení výluk
-				const urlDiversions = 'get-diversions/diversions_v2.json';
+				const urlDiversions = 'get-diversions/diversions_v1.json';
 				
 				// Načtení JSON souboru
 				fetch(urlDiversions)
