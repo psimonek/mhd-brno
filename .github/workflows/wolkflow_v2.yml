@@ -1,8 +1,8 @@
 name: Get Diversions v2
 
 on:
-  #schedule:
-  #  - cron: '1 * * * *'  # Spouští se v 1. minutě každé hodiny
+  schedule:
+    - cron: '1 * * * *'  # Spouští se v 1. minutě každé hodiny
   workflow_dispatch:  # Přidává možnost manuálního spuštění
 
 jobs:
