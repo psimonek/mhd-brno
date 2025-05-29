@@ -828,5 +828,5 @@
     }
   ],
   "Warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizovan\u00E9 stahov\u00E1n\u00ED dat nen\u00ED povolen\u00E9, pro p\u0159\u00EDstup k API kontaktujte DPMB.",
-  "FromCache": false
+  "FromCache": true
 }
