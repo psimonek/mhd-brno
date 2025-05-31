@@ -526,23 +526,6 @@
       ]
     },
     {
-      "id": 58,
-      "number": "VP 2505-051",
-      "title": "žel. trať Mikulov na Moravě – Hrušovany n.J.-Šanov",
-      "latitude": 48.818763,
-      "longitude": 16.457388,
-      "validFrom": "2025-05-01T09:00:00+02:00",
-      "validTo": "2025-05-31T14:35:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S8</strong></font> budou v úseku Břeclav – Hrušovany n.Jev.-Šanov nahrazeny autobusy náhradní dopravy\u00A0(NAD) jedoucí jako linka xS8.. V úseku Břeclav - Novosedly jsou spoje vedeny souběžně s vlaky bez návaznosti na autobusy\u00A0náhradní dopravy.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S8",
-        "xS8"
-      ]
-    },
-    {
       "id": 56,
       "number": "VP 2504-050",
       "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
@@ -593,22 +576,6 @@
       ]
     },
     {
-      "id": 42,
-      "number": "VP 2504-217",
-      "title": "Zaječí",
-      "latitude": 48.873324,
-      "longitude": 16.766646,
-      "validFrom": "2025-04-07T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "550"
-      ]
-    },
-    {
       "id": 39,
       "number": "Břeclav, Charvatská Nová Ves, Lednická",
       "title": "Zastávka Břeclav, Charvatská Nová Ves, Lednická",
@@ -625,6 +592,22 @@
         "562",
         "569",
         "570"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "VP 2504-217",
+      "title": "Zaječí",
+      "latitude": 48.873324,
+      "longitude": 16.766646,
+      "validFrom": "2025-04-07T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "550"
       ]
     },
     {
@@ -762,23 +745,6 @@
       ]
     },
     {
-      "id": 25,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
-      ]
-    },
-    {
       "id": 29,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
@@ -797,21 +763,20 @@
       ]
     },
     {
-      "id": 26,
-      "number": "PO 2503-017",
-      "title": "Kunštát, náměstí (terminál veřejné autobusové dopravy)",
-      "latitude": 49.507272,
-      "longitude": 16.519790,
-      "validFrom": "2025-03-24T00:00:00+01:00",
-      "validTo": "2025-06-22T23:59:00+02:00",
+      "id": 25,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu pokračování stavebních prací na pozemních komunikacích v Kunštátu\u00A0nebude možná obsluha dopravního terminálu\u00A0autobusové dopravy Kunštát, náměstí.<br/><br/> Linky<font color=\"#009240\"><strong> 256</strong></font>, <font color=\"#009240\"><strong> 276</strong></font> a <font color=\"#009240\"><strong>301</strong></font>\u00A0obslouží zastávky dočasných polohách v prostoru náměstí Krále Jiřího (nástupiště č. 1 a 2) a náměstí Československého Červeného kříže (nástupiště č. 3 a 4) stejným způsobem, jako za\u00A0provozního řešení před zprovozněním nového dopravního terminálu:. NÁSTUPIŠTĚ č. 1\u00A0pro linky. 256\u00A0směr Rozseč nad Kunštátem - Olešnice,, 276\u00A0směr Hluboké u Kunštátu,, 301\u00A0Olešnice (- Bystré).. NÁSTUPIŠTĚ č. 2\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Rozseče nad Kunštátem nebo spoje výchozí z Kunštátu),, 276\u00A0směr Letovice (výstup od Hlubokého u Kunštátu),, 301\u00A0směr Brno, Královo Pole.. NÁSTUPIŠTĚ č. 3\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Sulíkova),, 276\u00A0směr Hluboké u Kunštátu (výstup od Letovic). NÁSTUPIŠTĚ č. 4\u00A0pro linky. 256\u00A0směr Sulíkov - Olešnice,, 276\u00A0směr Letovice. Pro usnadnění přestupů mezi linkou<font color=\"#009240\"><strong> 276</strong></font> a linkami<font color=\"#009240\"><strong> 256</strong></font> a <font color=\"#009240\"><strong>301</strong></font> bude linka<font color=\"#009240\"><strong> 276</strong></font> zastavovat v uzlu Kunštát, náměstí dvakrát v obou směrech jízdy, vyjma spojů zde ukončených. . ",
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "256",
-        "276",
-        "301"
+        "48",
+        "74"
       ]
     },
     {
@@ -829,6 +794,24 @@
       "affectedLines": [
         "542",
         "551"
+      ]
+    },
+    {
+      "id": 26,
+      "number": "PO 2503-017",
+      "title": "Kunštát, náměstí (terminál veřejné autobusové dopravy)",
+      "latitude": 49.507272,
+      "longitude": 16.519790,
+      "validFrom": "2025-03-24T00:00:00+01:00",
+      "validTo": "2025-06-22T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu pokračování stavebních prací na pozemních komunikacích v Kunštátu\u00A0nebude možná obsluha dopravního terminálu\u00A0autobusové dopravy Kunštát, náměstí.<br/><br/> Linky<font color=\"#009240\"><strong> 256</strong></font>, <font color=\"#009240\"><strong> 276</strong></font> a <font color=\"#009240\"><strong>301</strong></font>\u00A0obslouží zastávky dočasných polohách v prostoru náměstí Krále Jiřího (nástupiště č. 1 a 2) a náměstí Československého Červeného kříže (nástupiště č. 3 a 4) stejným způsobem, jako za\u00A0provozního řešení před zprovozněním nového dopravního terminálu:. NÁSTUPIŠTĚ č. 1\u00A0pro linky. 256\u00A0směr Rozseč nad Kunštátem - Olešnice,, 276\u00A0směr Hluboké u Kunštátu,, 301\u00A0Olešnice (- Bystré).. NÁSTUPIŠTĚ č. 2\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Rozseče nad Kunštátem nebo spoje výchozí z Kunštátu),, 276\u00A0směr Letovice (výstup od Hlubokého u Kunštátu),, 301\u00A0směr Brno, Královo Pole.. NÁSTUPIŠTĚ č. 3\u00A0pro linky. 256\u00A0směr Boskovice (pro spoje jedoucí od Sulíkova),, 276\u00A0směr Hluboké u Kunštátu (výstup od Letovic). NÁSTUPIŠTĚ č. 4\u00A0pro linky. 256\u00A0směr Sulíkov - Olešnice,, 276\u00A0směr Letovice. Pro usnadnění přestupů mezi linkou<font color=\"#009240\"><strong> 276</strong></font> a linkami<font color=\"#009240\"><strong> 256</strong></font> a <font color=\"#009240\"><strong>301</strong></font> bude linka<font color=\"#009240\"><strong> 276</strong></font> zastavovat v uzlu Kunštát, náměstí dvakrát v obou směrech jízdy, vyjma spojů zde ukončených. . ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "256",
+        "276",
+        "301"
       ]
     },
     {
