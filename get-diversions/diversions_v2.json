@@ -1,6 +1,23 @@
 {
   "diversions": [
     {
+      "id": 109,
+      "number": "PO 2505-069",
+      "title": "Znojmo, Nám. Komenského",
+      "latitude": 48.856698,
+      "longitude": 16.052010,
+      "validFrom": "2025-05-31T07:00:00+02:00",
+      "validTo": "2025-05-31T18:00:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 806</strong></font> a <font color=\"#009240\"><strong>807</strong></font>\u00A0jedou od zastávky Pražská, Kolonka do zastávky Nám. Komenského odklonem přes zastávku Nám. Svobody, lázně. Vynechávají zastávky Nám. Svobody, horní brána a Horní náměstí. V opačném směru jedou po své pravidelné trase.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "806",
+        "807"
+      ]
+    },
+    {
       "id": 43,
       "number": "PO 2505-067",
       "title": "Slavkov u Brna, Palackého náměstí",
