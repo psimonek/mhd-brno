@@ -334,6 +334,23 @@ function loadLinesAndStops(lineRef) {
 								diversionsDiv.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/alert.svg" alt="Alert Icon" style="margin-right: 8px; height: 24px; width: 24px;">${item.number}: ${item.title}</h4><p>Platnost: ${validFromDate.toLocaleString('cs-CZ', options)} - ${validToDate.toLocaleString('cs-CZ', options)}<br>Linky: ${item.affectedLines.join(', ')}</p>${item.publicTextHtml}`;
 							}
 						});
+						data.diversions.forEach(item => {
+							// Převod ISO času na lokální
+							const validFromDate = new Date(item.validFrom);
+							const validToDate = new Date(item.validTo);
+							// Formátování data bez sekund
+							const options = {
+								year: 'numeric',
+								month: '2-digit',
+								day: '2-digit',
+								hour: '2-digit',
+								minute: '2-digit',
+								hour12: false // 24hodinový formát
+							};
+							if (item.affectedLines.includes(lineRef) && !item.isValid) {
+								diversionsDiv.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/alert_inactive2.svg" alt="Inactive Alert Icon" style="margin-right: 8px; height: 24px; width: 24px;">${item.number}: ${item.title}</h4><p>Platnost: ${validFromDate.toLocaleString('cs-CZ', options)} - ${validToDate.toLocaleString('cs-CZ', options)}<br>Linky: ${item.affectedLines.join(', ')}</p>${item.publicTextHtml}`;
+							}
+						});
 					})
 					.catch(error => console.error('Chyba při načítání JSON:', error));	        
 		        

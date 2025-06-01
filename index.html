@@ -84,6 +84,7 @@
                 <li class="svg-centering-li"><a href="#tram" role="tab"><img class="svg-centering-img svg-img" src = "img/tram.svg" style="width:26px;margin:7px;"></a></li>
                 <li class="svg-centering-li"><a href="#trolejbus" role="tab"><img class="svg-centering-img svg-img" src = "img/trolleybus.svg" style="width:22px;margin:9px;"></a></li>
                 <li class="svg-centering-li"><a href="#bus" role="tab"><img class="svg-centering-img svg-img" src = "img/bus.svg" style="width:20px;margin:10px;"></a></li>
+                <li class="svg-centering-li"><a href="#diversions-tab" role="tab"><img class="svg-centering-img svg-img" src = "img/alert_icon.svg" style="width:20px;margin:10px;"></a></li>
                 <li class="svg-centering-li"><a href="#info" role="tab"><img class="svg-centering-img svg-img" src = "img/route.svg" style="width:20px;margin:10px;"></a></li>
                 <!--<li style="padding-top:10px;"><a href="#novinky" role="tab"><img src = "img/info.svg" width="65%"></a></li>-->
             </ul>
@@ -229,6 +230,152 @@
                 </ul>
             </div>
             
+            <div class="leaflet-sidebar-pane" id="diversions-tab">
+				<h1 class="leaflet-sidebar-header">
+					Výluky
+					<span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
+				</h1>
+				<p>Zde jsou uvedené všechny výluky v rámci IDS JMK. Aktualizováno každou hodinu. Filtrujte výsledky pomocí ikon níže:</p>
+				<div class="diversions-icon-container">
+					<div id="diversions-all" class="diversions-icon-item">
+						<img src="img/alert_icon.svg" alt="Alert icon">
+						<div>Všechny</div>
+					</div>
+					<div id="diversions-current" class="diversions-icon-item">
+						<img src="img/alert.svg" alt="Alert icon">
+						<div>Aktuální</div>
+					</div>
+					<div id="diversions-future" class="diversions-icon-item">
+						<img src="img/alert_inactive2.svg" alt="Inactive Alert icon">
+						<div>Budoucí</div>
+					</div>
+					<div id="diversions-date" class="diversions-icon-item">
+						<div style="align-items: center; display: block; vertical-align: middle; height: 36px;"><input type="date" id="date-picker" style="margin: 0 auto;"></div>
+						<div>Podle data</div>
+					</div>
+				</div>
+			
+				<div id="diversions-list"></div>
+			
+				<script>
+					var diversionsList = document.getElementById("diversions-list");
+					diversionsList.innerHTML = '';
+					
+					const urlDiversions = 'get-diversions/diversions_v2.json';
+					let diversionsData = [];
+					
+					fetch(urlDiversions)
+						.then(response => {
+							if (!response.ok) {
+								throw new Error('Síťová odpověď nebyla v pořádku');
+							}
+							return response.json();
+						})
+						.then(data => {
+							diversionsData = data.diversions;
+							displayDiversions(diversionsData); // Zobrazit všechny výluky na začátku
+						})
+						.catch(error => console.error('Chyba při načítání JSON:', error));
+					
+					function displayDiversions(diversions) {
+						diversionsList.innerHTML = ''; // Vymazání obsahu
+						diversions.forEach(item => {
+							const validFromDate = new Date(item.validFrom);
+							const validToDate = new Date(item.validTo);
+							const options = {
+								year: 'numeric',
+								month: '2-digit',
+								day: '2-digit',
+								hour: '2-digit',
+								minute: '2-digit',
+								hour12: false
+							};
+					
+							// Vytvoření nadpisu a podrobností
+							const diversionItem = document.createElement('div');
+							diversionItem.classList.add('diversion-item');
+					
+							const header = document.createElement('h4');
+							header.style.marginBottom = '0px';
+							header.style.display = 'flex';
+							header.style.alignItems = 'center';
+							header.style.cursor = 'pointer'; // Změna kurzoru na ruku
+							if (item.isValid) {
+								header.innerHTML = `<img src="img/alert.svg" alt="Alert Icon" style="margin-right: 6px; height: 14px; width: 14px;">${item.number}: ${item.title}`;
+							} else {
+								header.innerHTML = `<img src="img/alert_inactive2.svg" alt="Alert inactive Icon" style="margin-right: 6px; height: 14px; width: 14px;">${item.number}: ${item.title}`;
+							};
+					
+							// Přidání platnosti a linek jako součást nadpisu
+							const validityInfo = document.createElement('p');
+							validityInfo.style.marginTop = '0px';
+							validityInfo.style.marginLeft = '0px';
+							validityInfo.style.cursor = 'pointer'; // Změna kurzoru na ruku
+							validityInfo.innerHTML = `Platnost: ${validFromDate.toLocaleString('cs-CZ', options)} - ${validToDate.toLocaleString('cs-CZ', options)}<br>Linky: ${item.affectedLines.join(', ')}`;
+					
+							// Vytvoření podrobností
+							const details = document.createElement('p');
+							details.style.display = 'none'; // Skryté podrobnosti
+							details.innerHTML = `${item.publicTextHtml}`;
+							
+							const hrDelimiter = document.createElement('p');
+							hrDelimiter.innerHTML = `<hr style="border: .5px solid #ddd;">`;
+					
+							// Přidání události kliknutí na nadpis
+							header.onclick = function() {
+								if (details.style.display === 'none') {
+									details.style.display = 'block'; // Zobrazit podrobnosti
+								} else {
+									details.style.display = 'none'; // Skrýt podrobnosti
+								}
+							};
+							validityInfo.onclick = function() {
+								if (details.style.display === 'none') {
+									details.style.display = 'block'; // Zobrazit podrobnosti
+								} else {
+									details.style.display = 'none'; // Skrýt podrobnosti
+								}
+							};
+					
+							// Přidání nadpisu, platnosti a podrobností do divu
+							diversionItem.appendChild(header);
+							diversionItem.appendChild(validityInfo);
+							diversionItem.appendChild(details);
+							diversionItem.appendChild(hrDelimiter);
+							diversionsList.appendChild(diversionItem);
+						});
+					}
+					
+					document.getElementById("diversions-all").onclick = function() {
+						document.getElementById("date-picker").value = ''; // Resetování výběru data
+						displayDiversions(diversionsData);
+					};
+					
+					document.getElementById("diversions-current").onclick = function() {
+						document.getElementById("date-picker").value = ''; // Resetování výběru data					
+						const currentDiversions = diversionsData.filter(item => item.isValid);
+						displayDiversions(currentDiversions);
+					};
+					
+					document.getElementById("diversions-future").onclick = function() {
+						document.getElementById("date-picker").value = ''; // Resetování výběru data
+						const today = new Date();
+						const futureDiversions = diversionsData.filter(item => new Date(item.validFrom) > today);
+						displayDiversions(futureDiversions);
+					};
+					
+					document.getElementById("date-picker").onchange = function() {
+						const selectedDateObj = new Date(this.value);
+						const filteredDiversions = diversionsData.filter(item => {
+							const validFrom = new Date(item.validFrom);
+							const validTo = new Date(item.validTo);
+							return validFrom <= selectedDateObj && validTo >= selectedDateObj;
+						});
+						displayDiversions(filteredDiversions);
+					};
+				</script>
+			</div>
+        
             <div class="leaflet-sidebar-pane" id="info">
                 <h1 class="leaflet-sidebar-header">
                     Podrobnosti o lince

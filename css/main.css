@@ -336,3 +336,18 @@ protože každý obrázek je jinak velký */
 	display: block;
 	vertical-align: middle;
 }
+/* Stylování ikon v záložce Výluky */
+.diversions-icon-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 20px;
+}
+.diversions-icon-item {
+	text-align: center;
+	cursor: pointer;
+}
+.diversions-icon-item img {
+	width: 32px; /* Nastavte velikost ikony */
+	height: 32px;
+}
