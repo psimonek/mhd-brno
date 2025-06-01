@@ -1,6 +1,160 @@
 {
   "Diversions": [
     {
+      "DiversionID": 31040,
+      "Number": "",
+      "Title": "V\u00FDluka tramvaj\u00ED pod viaduktem u hlavn\u00EDho n\u00E1dra\u017E\u00ED",
+      "Latitude": 49.191795,
+      "Longitude": 16.614402,
+      "ValidFrom": "07.06.2025 07:00",
+      "ValidTo": "08.06.2025 20:30",
+      "IsValid": false,
+      "PublicText": "\u003Cp\u003EO v\u00EDkendu \u003Cstrong\u003E7. a 8. \u010Dervna 2025\u003C/strong\u003E je p\u0159edpokl\u00E1d\u00E1na realizace dal\u0161\u00ED etapy v\u00FDluky tramvajov\u00E9ho provozu pod viaduktem K\u0159enov\u00E1 u hlavn\u00EDho n\u00E1dra\u017E\u00ED. Oproti p\u0159edchoz\u00EDm term\u00EDn\u016Fm je trv\u00E1n\u00ED omezen\u00ED pl\u00E1nov\u00E1no \u003Cstrong\u003Eod 7:00 do 20:30 hod.\u003C/strong\u003E a dotkne se linek\u003Cstrong\u003E 8, 9, 10, 12 \u003C/strong\u003Ea\u003Cstrong\u003E 40\u003C/strong\u003E. Vzhledem k soub\u011Bhu s dlouhodob\u00FDmi v\u00FDlukami dojde u vybran\u00FDch linek k drobn\u00FDm zm\u011Bn\u00E1m v pl\u00E1novan\u00FDch opat\u0159en\u00EDch.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002282a3a754-7376-4ed1-acab-e935dec1a956\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E Podrobn\u00E9 informace o v\u00FDluce budou v p\u0159\u00EDpad\u011B jej\u00ED realizace zve\u0159ejn\u011Bny v t\u00FDdnu p\u0159ed jej\u00EDm zah\u00E1jen\u00EDm na webu \u003Ca href=\u0022https://www.dpmb.cz/\u0022 target=\u0022_blank\u0022\u003Ewww.dpmb.cz\u003C/a\u003E a rozes\u00EDl\u00E1ny registrovan\u00FDm u\u017Eivatel\u016Fm prost\u0159ednictv\u00EDm slu\u017Eby \u003Ca href=\u0022https://www.dpmb.cz/form/odber-newsletteru\u0022 target=\u0022_blank\u0022\u003ENewsletter\u003C/a\u003E\u003C/em\u003E.\u003C/p\u003E\n",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "8, 9, 10, 12, 40"
+    },
+    {
+      "DiversionID": 75,
+      "Number": "PO 2506-074",
+      "Title": "Div\u00E1ky, st\u0159ed obce",
+      "Latitude": 48.989252,
+      "Longitude": 16.788416,
+      "ValidFrom": "06.06.2025 12:00",
+      "ValidTo": "08.06.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Zast\u00E1vky Div\u00E1ky, Ob\u00DA budou p\u0159elo\u017Eeny n\u00E1sledovn\u011B:.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 522\u003C/strong\u003E\u003C/font\u003E\u00A0- zast\u00E1vka pro oba sm\u011Bry p\u0159elo\u017Eena ke k\u0159i\u017Eovatce silnic na \u0160itbo\u0159ice x Boleradice x Kurd\u011Bjov pod z\u00E1mkem.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 612\u003C/strong\u003E\u003C/font\u003E\u00A0- zast\u00E1vka sm\u011Br Boleradice beze zm\u011Bny, zast\u00E1vka sm\u011Br \u0160itbo\u0159ice p\u0159elo\u017Eena na hlavn\u00ED silnici II/381 naproti zast\u00E1vky sm\u011Br Boleradice. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "522, 612"
+    },
+    {
+      "DiversionID": 106,
+      "Number": "PO 2506-073",
+      "Title": "k\u0159i\u017Eovatka Doln\u00ED Dunajovice, rozc. na sil. I/52",
+      "Latitude": 48.851564,
+      "Longitude": 16.609770,
+      "ValidFrom": "06.06.2025 08:15",
+      "ValidTo": "06.06.2025 15:15",
+      "IsValid": false,
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 105\u003C/strong\u003E\u003C/font\u003E (jen sm\u011Br do Brna)\u00A0- v\u0161echny spoje jedouc\u00ED do Doln\u00EDch Dunajovic pojedou sm\u011Brem do obce Doln\u00ED Dunajovice odklonem po obj\u00EDzdn\u00E9 trase. V\u0161echny zast\u00E1vky z\u016Fstanou standardn\u011B obslou\u017Eeny.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 540\u003C/strong\u003E\u003C/font\u003E (spoje do Doln\u00EDch Dunajovic)\u00A0-\u00A0v\u0161echny spoje jedouc\u00ED do Doln\u00EDch Dunajovic pojedou sm\u011Brem do obce Doln\u00ED Dunajovice odklonem po obj\u00EDzdn\u00E9 trase. V\u0161echny zast\u00E1vky z\u016Fstanou standardn\u011B obslou\u017Eeny.. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "105, 540"
+    },
+    {
+      "DiversionID": 20,
+      "Number": "PO 2506-072",
+      "Title": "I/50 K\u0159i\u017Eanovice",
+      "Latitude": 0.000000,
+      "Longitude": 0.000000,
+      "ValidFrom": "03.06.2025 09:30",
+      "ValidTo": "31.08.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 632\u003C/strong\u003E\u003C/font\u003E:\u00A0Zast\u00E1vka Hod\u011Bjice, rozc. 1.0 je pro oba sm\u011Bry p\u0159elo\u017Eena do ulice Fenstarov\u00E9 p\u0159ibli\u017En\u011B na \u00FArove\u0148 \u010Derpac\u00ED stanice Eurobit. Zast\u00E1vka K\u0159i\u017Eanovice, \u017Eel. st. je pro sm\u011Br z Bu\u010Dovic do Slavkova nahrazena do\u010Dasnou zast\u00E1vkou K\u0159i\u017Eanovice, u p\u0159ejezdu.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 640\u003C/strong\u003E\u003C/font\u003E:\u00A0Ve sm\u011Bru do Ra\u0161ovic jede po obj\u00EDzdn\u00E9 trase s obsluhou v\u0161ech st\u00E1l\u00FDch zast\u00E1vek. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "632, 640"
+    },
+    {
+      "DiversionID": 31084,
+      "Number": "",
+      "Title": "Do\u010Dasn\u00E9 p\u0159elo\u017Een\u00ED zast\u00E1vky Vlastimila Pecha",
+      "Latitude": 49.179378666667,
+      "Longitude": 16.662740666667,
+      "ValidFrom": "02.06.2025 10:00",
+      "ValidTo": "24.08.2025 23:59",
+      "IsValid": false,
+      "PublicText": "\u003Cp\u003EZ d\u016Fvodu rekonstrukce povrch\u016F\u003Cstrong\u003E \u003C/strong\u003Ebude\u003Cstrong\u003E od 10:00 hod. v pond\u011Bl\u00ED 2. \u010Dervna 2025 do ukon\u010Den\u00ED prac\u00ED\u003C/strong\u003E (p\u0159edpoklad do 24. srpna 2025) p\u0159elo\u017Eena zast\u00E1vka \u003Cstrong\u003EVlastimila Pecha \u003C/strong\u003Epro linky E50, E75 a 77 ve sm\u011Bru na Are\u00E1l Slatina \u003Cstrong\u003Ecca o 130 metr\u016F vzad\u003C/strong\u003E.\u003C/p\u003E\n",
+      "PrivateText": "",
+      "Type": "Z",
+      "AffectedLines": "E50, E75, 77"
+    },
+    {
+      "DiversionID": 110,
+      "Number": "VP 2506-227",
+      "Title": "Prost\u011Bjov, Wolkerova a \u00DAjezd",
+      "Latitude": 49.469686,
+      "Longitude": 17.117386,
+      "ValidFrom": "02.06.2025 00:00",
+      "ValidTo": "10.08.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 755\u003C/strong\u003E\u003C/font\u003E:\u003Cbr/\u003E\u003Cbr/\u003E\u00A0Linka ve sm\u011Bru do Prost\u011Bjova jede jednosm\u011Brn\u00FDm odklonem ul. Brn\u011Bnsk\u00E1 \u2013\u00A0 Wolkerova\u00A0 \u2013 Doln\u00ED \u2013 Leteck\u00E1 - Pra\u017Esk\u00E1. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "755"
+    },
+    {
+      "DiversionID": 99,
+      "Number": "PO 2506-071",
+      "Title": "Str\u00E1\u017Enice, ul. Bo\u017Eeny Hrejsov\u00E9",
+      "Latitude": 48.903334,
+      "Longitude": 17.317722,
+      "ValidFrom": "02.06.2025 00:00",
+      "ValidTo": "13.06.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Vybran\u00E9 spoje linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 911\u003C/strong\u003E\u003C/font\u003E obsluhuj\u00EDc\u00ED zast\u00E1vku Str\u00E1\u017Enice, \u00DAprkova\u00A0budou obsluhovat do\u010Dasn\u011B zast\u00E1vku linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 665\u003C/strong\u003E\u003C/font\u003E Str\u00E1\u017Enice, n\u00E1m. 17. listopadu.\u00A0Ve sm\u011Bru Hodon\u00EDn budou obsluhovat zast\u00E1vku linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 665\u003C/strong\u003E\u003C/font\u003E sm\u011Br Bzenec - Kyjov, ve sm\u011Bru do Vesel\u00ED nad Moravou budou obsluhovat zast\u00E1vku linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 665\u003C/strong\u003E\u003C/font\u003E sm\u011Br Str\u00E1\u017Enice, aut. st.. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "911"
+    },
+    {
+      "DiversionID": 64,
+      "Number": "VP 2506-226",
+      "Title": "Mikulov-B\u0159ez\u00ED, silnice II/414",
+      "Latitude": 48.815964,
+      "Longitude": 16.595578,
+      "ValidFrom": "02.06.2025 00:00",
+      "ValidTo": "31.07.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 174\u003C/strong\u003E\u003C/font\u003E\u00A0- sm\u011Br do Mikulova pojede mezi zast\u00E1vkami B\u0159ez\u00ED a Mikulov, Brn\u011Bnsk\u00E1 jednosm\u011Brn\u00FDm odklonem po silnic\u00EDch II/414, III/4146, III/4147, I/52 a II/421 p\u0159es obec Doln\u00ED Dunajovice. Ve sm\u011Bru Drnholec pojede po sv\u00E9 pravideln\u00E9 trase opravovan\u00FDm \u00FAsekem silnice II/414 mezi Mikulovem a obc\u00ED B\u0159ez\u00ED. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "174"
+    },
+    {
+      "DiversionID": 111,
+      "Number": "PO 2506-070",
+      "Title": "Prost\u011Bjov, ul. Jan\u00E1\u010Dkova I",
+      "Latitude": 49.474231,
+      "Longitude": 17.128404,
+      "ValidFrom": "02.06.2025 00:00",
+      "ValidTo": "06.07.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Z d\u016Fvodu opravy vozovky a zast\u00E1vek v prostoru p\u0159edn\u00E1dra\u017E\u00ED bude omezen provoz v ulici Jan\u00E1\u010Dkov\u011B v Prost\u011Bjov\u011B. Dopravn\u00ED opat\u0159en\u00ED pro linky v z\u00E1vazku Jihomoravsk\u00E9ho kraje:.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u00A0729261. v\u00FDstup\u00A0u provizorn\u00ED zast\u00E1vky v ul. Jan\u00E1\u010Dkov\u011B (u k\u0159i\u017Eovatky s ul. Svatoplukovou),, .\u003Cbr/\u003E\u003Cbr/\u003E Linka\u00A0729755 \u2013 spoj 63. beze zm\u011Bny trasy, v\u00FDstup i nad\u00E1le v termin\u00E1lu MHD,, .\u003Cbr/\u003E\u003Cbr/\u003E Linka\u00A0729755 \u2013 spoj 66. obj\u00EDzdn\u00E1 trasa\u00A0po ulic\u00EDch Vrahovick\u00E1 \u2013 P\u0159emyslovka \u2013 Svatoplukova \u2013 Jan\u00E1\u010Dkova. . Uveden\u00E9 linky a spoje pojedou podle platn\u00E9ho j\u00EDzdn\u00EDho \u0159\u00E1du.. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "261, 755"
+    },
+    {
+      "DiversionID": 112,
+      "Number": "Okrouhl\u00E1, horn\u00ED konec",
+      "Title": "Okrouhl\u00E1, horn\u00ED konec sm\u011Br Boskovice",
+      "Latitude": 49.510865,
+      "Longitude": 16.738170,
+      "ValidFrom": "02.06.2025 00:00",
+      "ValidTo": "06.06.2025 23:59",
+      "IsValid": false,
+      "PublicText": "Z d\u016Fvodu v\u00FDstavby optick\u00E9 s\u00EDt\u011B bude do\u010Dasn\u011B p\u0159elo\u017Eena zast\u00E1vka Okrouhl\u00E1, horn\u00ED konec pro linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 262\u003C/strong\u003E\u003C/font\u003E p\u0159ibli\u017En\u011B o 50 metr\u016F vzad. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "262"
+    },
+    {
+      "DiversionID": 104,
+      "Number": "VP 2506-061",
+      "Title": "\u017Eel. tra\u0165. Brno hl.n. - Brno-Horn\u00ED Her\u0161pice(N)",
+      "Latitude": 49.183057,
+      "Longitude": 16.607230,
+      "ValidFrom": "01.06.2025 08:30",
+      "ValidTo": "29.08.2025 17:30",
+      "IsValid": true,
+      "PublicText": "Z d\u016Fvodu zv\u00FD\u0161en\u00ED propustnosti a eliminace p\u0159edpokl\u00E1dan\u00E9ho zpo\u017Ed\u011Bn\u00ED budou v\u00FDlukov\u00E9 j\u00EDzdn\u00ED \u0159\u00E1dy na link\u00E1ch\u00A0S4, xS4, xS4D, S2, xS2, S41, S3, S6, R8, R12, R13\u00A0s upraven\u00FDmi \u010Dasov\u00FDmi \u00FAdaji. N\u011Bkter\u00E9 vlaky linky\u00A0S4 a S41\u00A0budou v\u00FDchoz\u00ED/kon\u010D\u00EDc\u00ED v\u00A0Brn\u011B doln\u00EDm n\u00E1dra\u017E\u00ED\u00A0s n\u00E1vazn\u00FDmi autobusy linky\u00A0xS4D\u00A0od/k zast\u00E1vce u Brna hl.n.. V pracovn\u00EDch dnech\u00A0budou vlaky\u00A0S4/4819, 4821, 4823, 4825 a 4827\u00A0ukon\u010Deny ve stanici\u00A0Brno-Horn\u00ED Her\u0161pice. Pro cestuj\u00EDc\u00ED jedouc\u00ED t\u011Bmito vlaky do stanice Brno hl.n. bude zaji\u0161t\u011Bna n\u00E1hradn\u00ED autobusov\u00E1 doprava v \u00FAseku\u00A0St\u0159elice - Brno hl.n.. N\u011Bkter\u00E9 vlaky\u00A0linky S2\u00A0budou nahrazeny autobusy n\u00E1hradn\u00ED dopravy (NAD) jedouc\u00EDmi podle v\u00FDlukov\u00E9ho j\u00EDzdn\u00EDho \u0159\u00E1du\u00A0linky xS2\u00A0v \u00FAseku\u00A0Brno hl.n. - Brno-Chrlice.. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "S4, xS4, xS4D, S2, xS2, S41, S3, S6, R13"
+    },
+    {
       "DiversionID": 30966,
       "Number": "V2505-030",
       "Title": "V\u00FDluka autobus\u016F u n\u00E1dra\u017E\u00ED Kr\u00E1lovo Pole",
@@ -8,11 +162,53 @@
       "Longitude": 16.596141,
       "ValidFrom": "30.05.2025 00:00",
       "ValidTo": "03.06.2025 23:59",
-      "IsValid": false,
+      "IsValid": true,
       "PublicText": "\u003Cp\u003EZ d\u016Fvodu opravy povrchu komunikace bude \u003Cstrong\u003Eod p\u00E1tku 30. kv\u011Btna 2025 do \u00FAter\u00FD 3. \u010Dervna 2025\u003C/strong\u003E uzav\u0159en n\u00E1jezd z ulice Kosmovy do ulice Sportovn\u00ED.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cstrong\u003E Trolejbusov\u00E1 linka 30\u003C/strong\u003E ve sm\u011Bru do Sob\u011B\u0161ic a \u003Cstrong\u003Eautobusov\u00E9 linky E56, 72\u003C/strong\u003E, \u003Cstrong\u003E84\u003C/strong\u003E \u003Cstrong\u003Ea 304 \u003C/strong\u003Eve sm\u011Bru Nemocnice Bohunice / Lesn\u00E1 / NC Kr\u00E1lovo Pole pojedou odklonem ulic\u00ED Bo\u017Eet\u011Bchovou, kde obslou\u017E\u00ED p\u0159elo\u017Eenou zast\u00E1vku \u003Cstrong\u003EKr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 \u003Cstrong\u003ELinka E56 \u003C/strong\u003Enav\u00EDc obslou\u017E\u00ED  pro n\u00E1stup i zast\u00E1vku \u003Cstrong\u003EKr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED\u003C/strong\u003E spole\u010Dn\u00E1 s linkou 30 sm\u011Br Semilasso.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022b2d6d691-c35d-4b6e-be2d-98f2754298c0\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Zast\u00E1vku \u003Cstrong\u003EKr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED \u003C/strong\u003Ev ulici Kosmov\u011B nelze po dobu v\u00FDluky obslou\u017Eit.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E Sch\u00E9ma dopravn\u00EDch opat\u0159en\u00ED \u2013 \u003Ca href=\u0022https://dpmb.cz/sites/default/files/infotabule/info_v2505-030_web.pdf\u0022 target=\u0022_blank\u0022\u003Eke sta\u017Een\u00ED\u003C/a\u003E\u003C/em\u003E\u003C/p\u003E\n",
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "30, E56, 72, 84, 304"
+    },
+    {
+      "DiversionID": 100,
+      "Number": "PO 2505-068",
+      "Title": "Brno, n\u00E1jezd z ul. Kosmovy do ul. Sportovn\u00ED",
+      "Latitude": 49.229173,
+      "Longitude": 16.596555,
+      "ValidFrom": "29.05.2025 23:15",
+      "ValidTo": "04.06.2025 04:00",
+      "IsValid": true,
+      "PublicText": "Z d\u016Fvodu etapov\u00E9\u00A0opravy silnice I/43 v Brn\u011B v ul. Sportovn\u00ED\u00A0a na ramp\u011B pro v\u00FDjezd z ulice Kosmovy do ulice Sportovn\u00ED\u00A0na silnici \u010D. I/43 nebude mo\u017En\u00E1 j\u00EDzda ve\u0161ker\u00E9 silni\u010Dn\u00ED dopravy t\u00EDmto \u00FAsekem. Pro autobusy a trolejbusy nebude mo\u017En\u00E1 j\u00EDzda k n\u00E1stupi\u0161ti \u010D. 7 v uzlu Brno, Kr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED. N\u00E1stupi\u0161t\u011B \u010D. 7 bude do\u010Dasn\u011B p\u0159elo\u017Eeno do ul. Bo\u017Eet\u011Bchovy za k\u0159i\u017Eovatku s ul. Kosmovou.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 304\u003C/strong\u003E\u003C/font\u003E\u00A0(spoje b\u011B\u017En\u011B veden\u00E9 a\u017E do zast\u00E1vky\u00A0NC Kr\u00E1lovo Pole)\u00A0pojede jednosm\u011Brn\u00FDm odklonem ulic\u00ED Bo\u017Eet\u011Bchovou podle platn\u00E9ho j\u00EDzdn\u00EDho \u0159\u00E1du. Zast\u00E1vku\u00A0Kr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED - n\u00E1stupi\u0161t\u011B \u010D. 7\u00A0obslou\u017E\u00ED v p\u0159elo\u017Een\u00E9 provizorn\u00ED pozici\u00A0v ul. Bo\u017Eet\u011Bchov\u011B\u00A0za k\u0159i\u017Eovatkou s ul. Kosmovou (p\u0159ibli\u017En\u011B v \u00FArovni objektu Bo\u017Eet\u011Bchova 194/17). Na odklonov\u00E9 trase neobslou\u017E\u00ED \u017E\u00E1dn\u00E9 n\u00E1cestn\u00E9 zast\u00E1vky. Pojede podle platn\u00E9ho j\u00EDzdn\u00EDho \u0159\u00E1du.\u003Cbr/\u003E\u003Cbr/\u003E Linky\u003Cfont color=\u0022#008033\u0022\u003E\u003Cstrong\u003E 30\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 72\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E84\u003C/strong\u003E\u003C/font\u003E\u00A0pojedou ve sm\u011Bru Sob\u011B\u0161ice / Lesn\u00E1 popsan\u00FDm odklonem ulic\u00ED Bo\u017Eet\u011Bchovou, kde obslou\u017E\u00ED do\u010Dasn\u011B p\u0159elo\u017Eenou zast\u00E1vku Kr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED - n\u00E1stupi\u0161t\u011B \u010D. 7.\u003Cbr/\u003E\u003Cbr/\u003E Linka E56\u00A0pojede ve sm\u011Bru Pis\u00E1rky popsan\u00FDm odklonem ulic\u00ED Bo\u017Eet\u011Bchovou,\u00A0zast\u00E1vky Kr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED obslou\u017E\u00ED p\u0159i j\u00EDzd\u011B sm\u011Br Pis\u00E1rky 2\u00D7\u00A0n\u00E1sledovn\u011B:. I.\u00A0v\u00FDchoz\u00ED zast\u00E1vkou bude n\u00E1stupi\u0161t\u011B \u010D. 6 (spole\u010Dn\u011B s linkami \u010D. 30, 41, 42, 70 a 72 sm\u011Br Semilasso),, II.\u00A0n\u00E1stupi\u0161t\u011B \u010D. 7 v p\u0159elo\u017Een\u00E9 poloze v ul. Bo\u017Eet\u011Bchov\u011B za k\u0159i\u017Eovatkou s ul. Kosmovou. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "301, 304"
+    },
+    {
+      "DiversionID": 108,
+      "Number": "Pa\u010Dlavice sm\u011Br Morkovice",
+      "Title": "Pa\u010Dlavice sm\u011Br Morkovice",
+      "Latitude": 49.259755,
+      "Longitude": 17.168356,
+      "ValidFrom": "26.05.2025 00:00",
+      "ValidTo": "13.06.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 753\u003C/strong\u003E\u003C/font\u003E\u00A0obslou\u017E\u00ED Pa\u010Dlavice sm\u011Br Morkovice asi 70 metr\u016F na\u00A0\u201Eostr\u016Fvek\u201C. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "753"
+    },
+    {
+      "DiversionID": 101,
+      "Number": "Boleradice, ZD",
+      "Title": "Zast\u00E1vka Boleradice, ZD",
+      "Latitude": 48.963011,
+      "Longitude": 16.825630,
+      "ValidFrom": "26.05.2025 00:00",
+      "ValidTo": "04.07.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Zast\u00E1vka Boleradice, ZD bude posunuta o cca 100 metr\u016F sm\u011Br centrum obce za k\u0159i\u017Eovatku s m\u00EDstn\u00ED komunikac\u00ED.. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "541"
     },
     {
       "DiversionID": 30818,
@@ -29,7 +225,21 @@
       "AffectedLines": "69, N96, 161, 402, 404, 405"
     },
     {
-      "DiversionID": 112,
+      "DiversionID": 102,
+      "Number": "2505 Brno, Jemelkova II",
+      "Title": "Brno, Jemelkova - sm\u011Br centrum",
+      "Latitude": 49.173147,
+      "Longitude": 16.548715,
+      "ValidFrom": "22.05.2025 00:00",
+      "ValidTo": "15.06.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Zast\u00E1vka Brno, Jemelkova je ve sm\u011Bru z regionu do centra Brna do\u010Dasn\u011B zru\u0161ena. Z\u00E1rove\u0148 plat\u00ED zru\u0161en\u00ED zast\u00E1vky v opa\u010Dn\u00E9m sm\u011Bru. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "161, 402, 404, 405"
+    },
+    {
+      "DiversionID": 94,
       "Number": "VP 2505-225",
       "Title": "Doman\u00EDn 2. etapa",
       "Latitude": 49.001084,
@@ -43,35 +253,7 @@
       "AffectedLines": "664, 665, 666, 667, 932, 933, 934"
     },
     {
-      "DiversionID": 26,
-      "Number": "2505 Vy\u0161kov, Tyr\u0161ova II",
-      "Title": "Vy\u0161kov, Tyr\u0161ova - sm\u011Br do centra",
-      "Latitude": 49.278494,
-      "Longitude": 17.006753,
-      "ValidFrom": "19.05.2025 00:00",
-      "ValidTo": "01.06.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Zast\u00E1vka Vy\u0161kov, Tyr\u0161ova je pro sm\u011Br do centra p\u0159esunuta cca o 40 metr\u016F vp\u0159ed k domu \u010D. 25. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "742, 743, 744, 752, 753, 754"
-    },
-    {
-      "DiversionID": 109,
-      "Number": "PO 2505-063",
-      "Title": "Ti\u0161nov, Kuk\u00FDrna",
-      "Latitude": 49.352505,
-      "Longitude": 16.425446,
-      "ValidFrom": "19.05.2025 00:00",
-      "ValidTo": "20.07.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 333\u003C/strong\u003E\u003C/font\u003E jede mezi \u017Eelezni\u010Dn\u00ED stanic\u00ED, resp. zast. N\u00E1dra\u017En\u00ED a zast\u00E1vkou Lomnick\u00E1 jednosm\u011Brn\u00FDm odklonem (pouze ven z m\u011Bsta Ti\u0161nova) ulic\u00ED Drbalova. V\u0161echny spoje obslou\u017E\u00ED n\u00E1hradn\u00ED zast\u00E1vku Ti\u0161nov, Riegrova um\u00EDst\u011Bnou v ulici Drbalova (u sokolovny) jako n\u00E1hradu za st\u00E1lou zast\u00E1vku Riegrova a zru\u0161enou zast\u00E1vku Kuk\u00FDrna. Sm\u011Br do centra m\u011Bsta beze zm\u011Bny, pouze zast\u00E1vka Ti\u0161nov, Kuk\u00FDrna p\u0159elo\u017Eena cca 100m v\u00FD\u0161e. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "333"
-    },
-    {
-      "DiversionID": 105,
+      "DiversionID": 88,
       "Number": "VP 2505-058",
       "Title": "\u017Eel. tra\u0165. jedna kolej Svitavy \u2013 Letovice(N)",
       "Latitude": 49.613324,
@@ -85,21 +267,35 @@
       "AffectedLines": "S22, xS22"
     },
     {
-      "DiversionID": 82,
-      "Number": "2505 Brno, Jemelkova I",
-      "Title": "Brno, Jemelkova - sm\u011Br Bosonohy",
-      "Latitude": 49.173147,
-      "Longitude": 16.548715,
+      "DiversionID": 92,
+      "Number": "PO 2505-063",
+      "Title": "Ti\u0161nov, Kuk\u00FDrna",
+      "Latitude": 49.352505,
+      "Longitude": 16.425446,
       "ValidFrom": "19.05.2025 00:00",
-      "ValidTo": "22.06.2025 23:59",
+      "ValidTo": "20.07.2025 23:59",
       "IsValid": true,
-      "PublicText": "Zast\u00E1vka Brno, Jemelkova je ve sm\u011Bru z centra Brna do regionu do\u010Dasn\u011B zru\u0161ena. ",
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 333\u003C/strong\u003E\u003C/font\u003E jede mezi \u017Eelezni\u010Dn\u00ED stanic\u00ED, resp. zast. N\u00E1dra\u017En\u00ED a zast\u00E1vkou Lomnick\u00E1 jednosm\u011Brn\u00FDm odklonem (pouze ven z m\u011Bsta Ti\u0161nova) ulic\u00ED Drbalova. V\u0161echny spoje obslou\u017E\u00ED n\u00E1hradn\u00ED zast\u00E1vku Ti\u0161nov, Riegrova um\u00EDst\u011Bnou v ulici Drbalova (u sokolovny) jako n\u00E1hradu za st\u00E1lou zast\u00E1vku Riegrova a zru\u0161enou zast\u00E1vku Kuk\u00FDrna. Sm\u011Br do centra m\u011Bsta beze zm\u011Bny, pouze zast\u00E1vka Ti\u0161nov, Kuk\u00FDrna p\u0159elo\u017Eena cca 100m v\u00FD\u0161e. ",
       "PrivateText": "",
       "Type": "V",
-      "AffectedLines": "69, N96, 161, 402, 404, 405"
+      "AffectedLines": "333"
     },
     {
-      "DiversionID": 58,
+      "DiversionID": 33,
+      "Number": "PO 2505-062",
+      "Title": "Slavkov u Brna, okru\u017En\u00ED k\u0159i\u017Eovatka v centru II",
+      "Latitude": 49.150780,
+      "Longitude": 16.876373,
+      "ValidFrom": "19.05.2025 00:00",
+      "ValidTo": "02.06.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 106\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 601\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 630\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 631\u003C/strong\u003E\u003C/font\u003E:\u00A0Jedou ve Slavkov\u011B u Brna odklonem bez dopadu na obsluhu zast\u00E1vek. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "106, 601, 630, 631"
+    },
+    {
+      "DiversionID": 45,
       "Number": "VP 2505-224",
       "Title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SM\u011ARU",
       "Latitude": 48.762749,
@@ -113,18 +309,32 @@
       "AffectedLines": "585"
     },
     {
-      "DiversionID": 37,
-      "Number": "PO 2505-062",
-      "Title": "Slavkov u Brna, okru\u017En\u00ED k\u0159i\u017Eovatka v centru II",
-      "Latitude": 49.150780,
-      "Longitude": 16.876373,
+      "DiversionID": 24,
+      "Number": "2505 Vy\u0161kov, Tyr\u0161ova II",
+      "Title": "Vy\u0161kov, Tyr\u0161ova - sm\u011Br do centra",
+      "Latitude": 49.278494,
+      "Longitude": 17.006753,
       "ValidFrom": "19.05.2025 00:00",
-      "ValidTo": "02.06.2025 23:59",
+      "ValidTo": "01.06.2025 23:59",
       "IsValid": true,
-      "PublicText": "Linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 106\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 601\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 630\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 631\u003C/strong\u003E\u003C/font\u003E:\u00A0Jedou ve Slavkov\u011B u Brna odklonem bez dopadu na obsluhu zast\u00E1vek. ",
+      "PublicText": "Zast\u00E1vka Vy\u0161kov, Tyr\u0161ova je pro sm\u011Br do centra p\u0159esunuta cca o 40 metr\u016F vp\u0159ed k domu \u010D. 25. ",
       "PrivateText": "",
       "Type": "V",
-      "AffectedLines": "106, 601, 630, 631"
+      "AffectedLines": "742, 743, 744, 752, 753, 754"
+    },
+    {
+      "DiversionID": 103,
+      "Number": "2505 Brno, Jemelkova I",
+      "Title": "Brno, Jemelkova - sm\u011Br Bosonohy",
+      "Latitude": 49.173147,
+      "Longitude": 16.548715,
+      "ValidFrom": "19.05.2025 00:00",
+      "ValidTo": "15.06.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Zast\u00E1vka Brno, Jemelkova je ve sm\u011Bru z centra Brna do regionu do\u010Dasn\u011B zru\u0161ena. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "69, N96, 161, 402, 404, 405"
     },
     {
       "DiversionID": 30634,
@@ -155,7 +365,7 @@
       "AffectedLines": "64, x64"
     },
     {
-      "DiversionID": 91,
+      "DiversionID": 74,
       "Number": "VP 2505-223",
       "Title": "Brno, ulice Z\u00E1brdovick\u00E1",
       "Latitude": 49.201325,
@@ -197,7 +407,7 @@
       "AffectedLines": "2, 3, 25, 27, 55, 58, 64, x64, 78, N97, N99, 201"
     },
     {
-      "DiversionID": 111,
+      "DiversionID": 93,
       "Number": "2505 St\u0159elice, \u017Eel. stanice I",
       "Title": "St\u0159elice, \u017Eelezni\u010Dn\u00ED stanice - oba sm\u011Bry",
       "Latitude": 49.155889,
@@ -211,7 +421,7 @@
       "AffectedLines": "404"
     },
     {
-      "DiversionID": 98,
+      "DiversionID": 82,
       "Number": "PO 2505-056",
       "Title": "Sokolnice, ul. Z\u00E1meck\u00E1",
       "Latitude": 49.190344,
@@ -239,21 +449,7 @@
       "AffectedLines": "52, N98, 161"
     },
     {
-      "DiversionID": 101,
-      "Number": "T\u011Bmice, rest.",
-      "Title": "T\u011Bmice, rest. - oba sm\u011Bry ",
-      "Latitude": 49.000324,
-      "Longitude": 17.263813,
-      "ValidFrom": "12.05.2025 00:00",
-      "ValidTo": "31.05.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Zast\u00E1vka\u00A0T\u011Bmice, rest.\u00A0je\u00A0pro linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 933\u003C/strong\u003E\u003C/font\u003E sm\u011Br Vesel\u00ED a linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 934\u003C/strong\u003E\u003C/font\u003E sm\u011Br Bzenec p\u0159elo\u017Eena p\u0159ed d\u016Fm \u010D. 76,\u00A0pro linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 933\u003C/strong\u003E\u003C/font\u003E sm\u011Br \u017Deravice a linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 934\u003C/strong\u003E\u003C/font\u003E sm\u011Br \u017Deravice p\u0159elo\u017Eena p\u0159ed d\u016Fm 135,\u00A0pro linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 934\u003C/strong\u003E\u003C/font\u003E jedouc\u00ED p\u0159es Doman\u00EDn obslou\u017E\u00ED i \u010D\u00EDslo 39 a 95. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "933, 934"
-    },
-    {
-      "DiversionID": 70,
+      "DiversionID": 55,
       "Number": "VP 2505-219",
       "Title": "Brno, Dl\u00E1\u017Ed\u011Bn\u00E1",
       "Latitude": 49.204981,
@@ -267,7 +463,7 @@
       "AffectedLines": "161"
     },
     {
-      "DiversionID": 97,
+      "DiversionID": 81,
       "Number": "2505 Poho\u0159elice, n\u00E1m\u011Bst\u00ED",
       "Title": "Poho\u0159elice, n\u00E1m\u011Bst\u00ED - sm\u011Br Brno",
       "Latitude": 48.980847,
@@ -281,7 +477,7 @@
       "AffectedLines": "104, 105, 108"
     },
     {
-      "DiversionID": 84,
+      "DiversionID": 67,
       "Number": "Mikulov, Bezru\u010Dova",
       "Title": "Zast\u00E1vka Mikulov, Bezru\u010Dova - pouze ve sm\u011Bru Milovice / Mikulov, \u017Di\u017Ekova",
       "Latitude": 48.812502,
@@ -295,21 +491,7 @@
       "AffectedLines": "550, 585"
     },
     {
-      "DiversionID": 81,
-      "Number": "Tasovice, rozc. 1.0",
-      "Title": "Tasovice, rozc. 1.0 (v obou sm\u011Brech)",
-      "Latitude": 49.511055,
-      "Longitude": 16.434882,
-      "ValidFrom": "05.05.2025 00:00",
-      "ValidTo": "29.06.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Z d\u016Fvodu sanace skaln\u00EDch st\u011Bn nad komunikac\u00ED I/19 a jej\u00ED \u010D\u00E1ste\u010Dn\u00E9 uzav\u00EDrky\u00A0v k\u0159i\u017Eovatce se silnic\u00ED sm\u011Br Tasovice bude p\u0159esunuta zast\u00E1vka Tasovice, rozc. 1.0 v obou sm\u011Brech na silnici I/19 o cca 120 m bl\u00ED\u017Ee obci Hodon\u00EDn u Kun\u0161t\u00E1tu. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "257"
-    },
-    {
-      "DiversionID": 83,
+      "DiversionID": 66,
       "Number": "Kn\u00EDnice, horn\u00ED zast\u00E1vka",
       "Title": "Kn\u00EDnice, horn\u00ED zast\u00E1vka v obou sm\u011Brech",
       "Latitude": 49.539664,
@@ -323,7 +505,7 @@
       "AffectedLines": "251"
     },
     {
-      "DiversionID": 86,
+      "DiversionID": 69,
       "Number": "Pam\u011Btice, samota",
       "Title": "Pam\u011Btice, samota v obou sm\u011Brech",
       "Latitude": 49.546942,
@@ -337,21 +519,21 @@
       "AffectedLines": "253, 277"
     },
     {
-      "DiversionID": 74,
-      "Number": "VP 2505-051",
-      "Title": "\u017Eel. tra\u0165 Mikulov na Morav\u011B \u2013 Hru\u0161ovany n.J.-\u0160anov",
-      "Latitude": 48.818763,
-      "Longitude": 16.457388,
-      "ValidFrom": "01.05.2025 09:00",
-      "ValidTo": "31.05.2025 14:35",
+      "DiversionID": 65,
+      "Number": "Tasovice, rozc. 1.0",
+      "Title": "Tasovice, rozc. 1.0 (v obou sm\u011Brech)",
+      "Latitude": 49.511055,
+      "Longitude": 16.434882,
+      "ValidFrom": "05.05.2025 00:00",
+      "ValidTo": "29.06.2025 23:59",
       "IsValid": true,
-      "PublicText": "Vlaky linky\u003Cfont color=\u0022#800000\u0022\u003E\u003Cstrong\u003E S8\u003C/strong\u003E\u003C/font\u003E budou v \u00FAseku B\u0159eclav \u2013 Hru\u0161ovany n.Jev.-\u0160anov nahrazeny autobusy n\u00E1hradn\u00ED dopravy\u00A0(NAD) jedouc\u00ED jako linka xS8.. V \u00FAseku B\u0159eclav - Novosedly jsou spoje vedeny soub\u011B\u017En\u011B s vlaky bez n\u00E1vaznosti na autobusy\u00A0n\u00E1hradn\u00ED dopravy.. ",
+      "PublicText": "Z d\u016Fvodu sanace skaln\u00EDch st\u011Bn nad komunikac\u00ED I/19 a jej\u00ED \u010D\u00E1ste\u010Dn\u00E9 uzav\u00EDrky\u00A0v k\u0159i\u017Eovatce se silnic\u00ED sm\u011Br Tasovice bude p\u0159esunuta zast\u00E1vka Tasovice, rozc. 1.0 v obou sm\u011Brech na silnici I/19 o cca 120 m bl\u00ED\u017Ee obci Hodon\u00EDn u Kun\u0161t\u00E1tu. ",
       "PrivateText": "",
       "Type": "V",
-      "AffectedLines": "S8, xS8"
+      "AffectedLines": "257"
     },
     {
-      "DiversionID": 71,
+      "DiversionID": 56,
       "Number": "VP 2504-050",
       "Title": "\u017Eel. tra\u0165 v \u00FAseku Brno-Kr\u00E1lovo Pole \u2013 Brno-Malom\u011B\u0159ice jedna kolej",
       "Latitude": 49.274245,
@@ -365,35 +547,21 @@
       "AffectedLines": "S3, R9, R8"
     },
     {
-      "DiversionID": 30144,
-      "Number": "",
-      "Title": "Do\u010Dasn\u00E9 p\u0159elo\u017Een\u00ED zast\u00E1vky Horsk\u00E1",
-      "Latitude": 49.2216211667,
-      "Longitude": 16.579517,
-      "ValidFrom": "22.04.2025 06:30",
-      "ValidTo": "31.05.2025 20:00",
+      "DiversionID": 97,
+      "Number": "Lysovice, kult.d\u016Fm",
+      "Title": "Lysovice, kult.d\u016Fm",
+      "Latitude": 49.218981,
+      "Longitude": 16.973920,
+      "ValidFrom": "28.04.2025 00:00",
+      "ValidTo": "01.07.2025 23:59",
       "IsValid": true,
-      "PublicText": "\u003Cp\u003EZ d\u016Fvodu v\u00FDkopov\u00FDch prac\u00ED\u003Cstrong\u003E \u003C/strong\u003Ebude\u003Cstrong\u003E od 6:30 hod. v \u00FAter\u00FD 22. dubna 2025 do ukon\u010Den\u00ED prac\u00ED\u003C/strong\u003E (p\u0159edpoklad do 31. kv\u011Btna 2025) p\u0159elo\u017Eena zast\u00E1vka \u003Cstrong\u003EHorsk\u00E1\u003C/strong\u003E pro linku 72 v obou sm\u011Brech:\u003C/p\u003E\n\n\u003Cp\u003E\u2022 sm\u011Br Kr\u00E1lovo Pole, n\u00E1dra\u017E\u00ED \u003Cstrong\u003Ecca o 125 metr\u016F vzad\u003C/strong\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u2022 sm\u011Br Technologick\u00FD park \u003Cstrong\u003Ecca o 135 metr\u016F vp\u0159ed\u003C/strong\u003E\u003C/p\u003E\n",
-      "PrivateText": "",
-      "Type": "Z",
-      "AffectedLines": "72"
-    },
-    {
-      "DiversionID": 49,
-      "Number": "ZAS Klentnice",
-      "Title": "Zast\u00E1vka Klentnice - pouze ve sm\u011Bru Mikulov",
-      "Latitude": 48.846438,
-      "Longitude": 16.644774,
-      "ValidFrom": "22.04.2025 00:00",
-      "ValidTo": "31.05.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Zast\u00E1vka Klentnice - POUZE VE SM\u011ARU MIKULOV bude posunuta o cca 40 metr\u016F zp\u011Bt.. ",
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 751\u003C/strong\u003E\u003C/font\u003E\u00A0neobslou\u017E\u00ED Lysovice, kult.d\u016Fm. ",
       "PrivateText": "",
       "Type": "V",
-      "AffectedLines": "570"
+      "AffectedLines": "751"
     },
     {
-      "DiversionID": 48,
+      "DiversionID": 39,
       "Number": "B\u0159eclav, Charvatsk\u00E1 Nov\u00E1 Ves, Lednick\u00E1",
       "Title": "Zast\u00E1vka B\u0159eclav, Charvatsk\u00E1 Nov\u00E1 Ves, Lednick\u00E1",
       "Latitude": 48.766981,
@@ -407,7 +575,7 @@
       "AffectedLines": "561, 562, 569, 570"
     },
     {
-      "DiversionID": 53,
+      "DiversionID": 42,
       "Number": "VP 2504-217",
       "Title": "Zaje\u010D\u00ED",
       "Latitude": 48.873324,
@@ -435,21 +603,7 @@
       "AffectedLines": "N97"
     },
     {
-      "DiversionID": 45,
-      "Number": "PO 2504-025",
-      "Title": "Ku\u0159im, Z\u00E1meck\u00E1",
-      "Latitude": 49.295513,
-      "Longitude": 16.522880,
-      "ValidFrom": "01.04.2025 00:00",
-      "ValidTo": "31.08.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Z d\u016Fvodu jednosm\u011Brn\u00E9 uzav\u00EDrky ulice Z\u00E1meck\u00E1 v Ku\u0159imi pojedou spoje\u00A0linek\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 302\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E312\u003C/strong\u003E\u003C/font\u003E\u00A0do centra Ku\u0159imi jednosm\u011Brn\u00FDm odklonem ulic\u00ED K\u0159\u00ED\u017Ekovsk\u00E9ho. M\u00EDsto zast\u00E1vky Ku\u0159im, z\u00E1mek zastav\u00ED na zast\u00E1vce Ku\u0159im, fara. Ve sm\u011Bru z Ku\u0159imi autobusy standardn\u011B obslou\u017E\u00ED zast\u00E1vku Ku\u0159im, z\u00E1mek. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "302, 312"
-    },
-    {
-      "DiversionID": 24,
+      "DiversionID": 23,
       "Number": "VP 2504-213",
       "Title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
       "Latitude": 49.085623,
@@ -464,6 +618,20 @@
     },
     {
       "DiversionID": 38,
+      "Number": "PO 2504-025",
+      "Title": "Ku\u0159im, Z\u00E1meck\u00E1",
+      "Latitude": 49.295513,
+      "Longitude": 16.522880,
+      "ValidFrom": "01.04.2025 00:00",
+      "ValidTo": "31.08.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Z d\u016Fvodu jednosm\u011Brn\u00E9 uzav\u00EDrky ulice Z\u00E1meck\u00E1 v Ku\u0159imi pojedou spoje\u00A0linek\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 302\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E312\u003C/strong\u003E\u003C/font\u003E\u00A0do centra Ku\u0159imi jednosm\u011Brn\u00FDm odklonem ulic\u00ED K\u0159\u00ED\u017Ekovsk\u00E9ho. M\u00EDsto zast\u00E1vky Ku\u0159im, z\u00E1mek zastav\u00ED na zast\u00E1vce Ku\u0159im, fara. Ve sm\u011Bru z Ku\u0159imi autobusy standardn\u011B obslou\u017E\u00ED zast\u00E1vku Ku\u0159im, z\u00E1mek. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "302, 312"
+    },
+    {
+      "DiversionID": 34,
       "Number": "VP 2503-212",
       "Title": "Ti\u0161nov, n\u00E1m\u011Bst\u00ED M\u00EDru",
       "Latitude": 49.348891,
@@ -477,7 +645,7 @@
       "AffectedLines": "153, 311, 312, 331, 332, 333, 334, 336"
     },
     {
-      "DiversionID": 34,
+      "DiversionID": 30,
       "Number": "VP 2503-211",
       "Title": "Drasenhofen, silnice B7 v pr\u016Ftahu m\u011Bstem",
       "Latitude": 48.754633,
@@ -491,7 +659,7 @@
       "AffectedLines": "555, 570, 588"
     },
     {
-      "DiversionID": 35,
+      "DiversionID": 31,
       "Number": "PO 2503-021",
       "Title": "Dr\u00E1sov, ul. Malhostovick\u00E1",
       "Latitude": 49.331833,
@@ -519,21 +687,7 @@
       "AffectedLines": "31, 33, 47, 67, 77, N89, N94, N95, N96, N98"
     },
     {
-      "DiversionID": 30,
-      "Number": "VP 2503-209",
-      "Title": "Brno, viadukt K\u0159enov\u00E1",
-      "Latitude": 49.191619,
-      "Longitude": 16.614997,
-      "ValidFrom": "25.03.2025 00:00",
-      "ValidTo": "31.08.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 48\u003C/strong\u003E\u003C/font\u003E:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zast\u00E1vky Brno, Han\u00E1ck\u00E1. Spoj 334 posunut na 0:28 ze zast\u00E1vky Prace, to\u010Dna. Na tento spoj nov\u011B nenavazuje linka N95!.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 74\u003C/strong\u003E\u003C/font\u003E:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zast\u00E1vky \u00DAjezd u Brna, M\u011B\u00DA. Spoje 259 a 327 posunuty na 23:46 ze zast\u00E1vky Brno, Han\u00E1ck\u00E1. Spoje 260 a 328 posunuty na 0:01 ze zast\u00E1vky \u00DAjezd u Brna, M\u011B\u00DA. Ostatn\u00ED spoje linek\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 48\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E74\u003C/strong\u003E\u003C/font\u003E beze zm\u011Bny.. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "48, 74"
-    },
-    {
-      "DiversionID": 33,
+      "DiversionID": 29,
       "Number": "PO 2503-019",
       "Title": "Brno, viadukt K\u0159enov\u00E1",
       "Latitude": 49.191619,
@@ -547,7 +701,21 @@
       "AffectedLines": "602, 701, 702"
     },
     {
-      "DiversionID": 32,
+      "DiversionID": 25,
+      "Number": "VP 2503-209",
+      "Title": "Brno, viadukt K\u0159enov\u00E1",
+      "Latitude": 49.191619,
+      "Longitude": 16.614997,
+      "ValidFrom": "25.03.2025 00:00",
+      "ValidTo": "31.08.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linka\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 48\u003C/strong\u003E\u003C/font\u003E:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zast\u00E1vky Brno, Han\u00E1ck\u00E1. Spoj 334 posunut na 0:28 ze zast\u00E1vky Prace, to\u010Dna. Na tento spoj nov\u011B nenavazuje linka N95!.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 74\u003C/strong\u003E\u003C/font\u003E:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zast\u00E1vky \u00DAjezd u Brna, M\u011B\u00DA. Spoje 259 a 327 posunuty na 23:46 ze zast\u00E1vky Brno, Han\u00E1ck\u00E1. Spoje 260 a 328 posunuty na 0:01 ze zast\u00E1vky \u00DAjezd u Brna, M\u011B\u00DA. Ostatn\u00ED spoje linek\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 48\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E74\u003C/strong\u003E\u003C/font\u003E beze zm\u011Bny.. ",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "48, 74"
+    },
+    {
+      "DiversionID": 27,
       "Number": "PO 2503-018",
       "Title": "Velk\u00E9 Pavlovice, n\u00E1m\u011Bst\u00ED 9. kv\u011Btna (u domu \u010D. p. 566/3)",
       "Latitude": 48.904533,
@@ -561,7 +729,7 @@
       "AffectedLines": "542, 551"
     },
     {
-      "DiversionID": 31,
+      "DiversionID": 26,
       "Number": "PO 2503-017",
       "Title": "Kun\u0161t\u00E1t, n\u00E1m\u011Bst\u00ED (termin\u00E1l ve\u0159ejn\u00E9 autobusov\u00E9 dopravy)",
       "Latitude": 49.507272,
@@ -575,13 +743,13 @@
       "AffectedLines": "256, 276, 301"
     },
     {
-      "DiversionID": 23,
+      "DiversionID": 22,
       "Number": "PO 2503-016",
       "Title": "Trst\u011Bnice, silnice II/398",
       "Latitude": 48.986872,
       "Longitude": 16.195095,
       "ValidFrom": "17.03.2025 00:00",
-      "ValidTo": "15.06.2025 23:59",
+      "ValidTo": "22.06.2025 23:59",
       "IsValid": true,
       "PublicText": "Linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 444\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E811\u003C/strong\u003E\u003C/font\u003E\u00A0- ve\u0161ker\u00E9 spoje, kter\u00E9 jedou v \u00FAseku mezi zast\u00E1vkami Trst\u011Bnice a Vi\u0161\u0148ov\u00E9, n\u00E1m. pojedou odklonem po obousm\u011Brn\u00E9 obj\u00EDzdn\u00E9 trase po silnic\u00EDch III/3981 a II/400.. ",
       "PrivateText": "",
@@ -589,7 +757,7 @@
       "AffectedLines": "444, 811"
     },
     {
-      "DiversionID": 20,
+      "DiversionID": 18,
       "Number": "PO 2503-015",
       "Title": "Mikulov, ul. Piarist\u016F",
       "Latitude": 48.803104,
@@ -603,7 +771,7 @@
       "AffectedLines": "105, 174, 540, 550, 570, 585"
     },
     {
-      "DiversionID": 21,
+      "DiversionID": 19,
       "Number": "\u010Cern\u00E1 Hora, Na \u0160krku AKTUALIZOV\u00C1NO",
       "Title": "\u010Cern\u00E1 Hora, Na \u0160krku v obou sm\u011Brech",
       "Latitude": 49.414746,
@@ -617,7 +785,7 @@
       "AffectedLines": "235, 250"
     },
     {
-      "DiversionID": 10,
+      "DiversionID": 9,
       "Number": "VP 2503-206",
       "Title": "Dra\u017Eovice",
       "Latitude": 49.193386,
@@ -629,20 +797,6 @@
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "602"
-    },
-    {
-      "DiversionID": 11,
-      "Number": "VP 2503-204",
-      "Title": "\u017Dat\u010Dany",
-      "Latitude": 49.088539,
-      "Longitude": 16.734624,
-      "ValidFrom": "03.03.2025 00:00",
-      "ValidTo": "31.05.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 151\u003C/strong\u003E\u003C/font\u003E:\u00A0Vynech\u00E1v\u00E1 v\u0161emi spoji \u00DAjezd u Brna, v \u017Dat\u010Danech obsluhuje pouze zast\u00E1vku \u017Dat\u010Dany, u ml\u00FDna v jej\u00ED p\u0159elo\u017Een\u00E9 poloze u s\u00FDpky. Mezi zast\u00E1vkami M\u011Bn\u00EDn, u pomn\u00EDku a Sokolnice, \u017Eel. st. jede p\u0159es Telnici, kde obslou\u017E\u00ED zast\u00E1vku v ulici Palack\u00E9ho. Pro cestu sm\u011Br \u00DAjezd u Brna a opa\u010Dn\u011B lze vyu\u017E\u00EDt spoje linek\u003Cfont color=\u0022#2C89C8\u0022\u003E\u003Cstrong\u003E 74\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 610\u003C/strong\u003E\u003C/font\u003E, \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 611\u003C/strong\u003E\u003C/font\u003E a \u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E612\u003C/strong\u003E\u003C/font\u003E.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 612\u003C/strong\u003E\u003C/font\u003E:\u00A0Jede ve v\u00FDlukov\u00E9 trase \u00DAjezd u Brna - Sokolnice - Telnice - \u017Dat\u010Dany - Moutnice - Nesva\u010Dilka - T\u011B\u0161any - \u0160itbo\u0159ice - Div\u00E1ky - Boleradice. V \u017Dat\u010Danech obsluhuje zast\u00E1vku \u017Dat\u010Dany, u ml\u00FDna p\u0159elo\u017Eenou k s\u00FDpce na spojovac\u00ED komunikaci mezi silnicemi II/380 a II/416. Vybran\u00E9 \u0161koln\u00ED spoje obsluhuj\u00ED zast\u00E1vku \u017Dat\u010Dany, \u0161kola a \u017Dat\u010Dany, u ml\u00FDna v jej\u00ED st\u00E1l\u00E9 poloze. Vybran\u00E9 spoje jsou ze Sokolnic vedeny do \u00DAjezdu u Brna jako n\u00E1hrada linky\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 151\u003C/strong\u003E\u003C/font\u003E.\u003Cbr/\u003E\u003Cbr/\u003E Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 522\u003C/strong\u003E\u003C/font\u003E:\u00A0Posun \u0161koln\u00EDho spoje 101 z ob\u011Bhov\u00FDch d\u016Fvod\u016F.. ",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "151, 522, 612"
     },
     {
       "DiversionID": 29070,
@@ -659,7 +813,7 @@
       "AffectedLines": "49, E50, N94"
     },
     {
-      "DiversionID": 17,
+      "DiversionID": 15,
       "Number": "VP 2502-022",
       "Title": "\u017Eel. tra\u0165. Gre\u0161lov\u00E9-M\u00FDto \u2013 Mor. Bud\u011Bjovice",
       "Latitude": 49.009726,
@@ -673,32 +827,32 @@
       "AffectedLines": "S81, xS81"
     },
     {
+      "DiversionID": 14,
+      "Number": "VP 2502-201",
+      "Title": "Jaroslavice, ul. Znojemsk\u00E1 - sesuv svahu",
+      "Latitude": 48.757451,
+      "Longitude": 16.227649,
+      "ValidFrom": "17.02.2025 00:00",
+      "ValidTo": "13.12.2025 23:59",
+      "IsValid": true,
+      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 820\u003C/strong\u003E\u003C/font\u003E\u00A0- ve\u0161ker\u00E9 spoje pojedou v \u00FAseku mezi zast\u00E1vkami Slup resp. Slup, Oleksovi\u010Dky, u mostu a\u017E Hr\u00E1dek, kult. d\u016Fm pop\u0159\u00EDpad\u011B a\u017E Jaroslavice odklonem po obousm\u011Brn\u00E9 obj\u00EDzdn\u00E9 trase po silnic\u00EDch III/3978, III/40842, II/408 pop\u0159\u00EDpad\u011B i II/397 p\u0159es obce Strachotice a Valtrovice. Ve Hr\u00E1dku budou z\u0159\u00EDzeny do\u010Dasn\u00E9 zast\u00E1vky Hr\u00E1dek, kult. d\u016Fm tak\u00E9 na silnici II/397\u00A0pobl\u00ED\u017E okru\u017En\u00ED k\u0159i\u017Eovatky silnic II/408xII/397 p\u0159ibli\u017En\u011B p\u0159ed domem \u010D.p. 32 pro linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 820\u003C/strong\u003E\u003C/font\u003E IDS JMK.",
+      "PrivateText": "",
+      "Type": "V",
+      "AffectedLines": "820, 821, 104"
+    },
+    {
       "DiversionID": 28763,
       "Number": "V2502-002",
       "Title": "V\u00FDluka autobus\u016F v ulici \u0160\u00E1malov\u011B",
       "Latitude": 49.198762,
       "Longitude": 16.631874,
       "ValidFrom": "17.02.2025 00:00",
-      "ValidTo": "31.05.2025 23:59",
+      "ValidTo": "13.06.2025 23:59",
       "IsValid": true,
-      "PublicText": "\u003Cp\u003EZ d\u016Fvodu rekonstrukce podjezdu \u017Eelezni\u010Dn\u00ED trati je \u003Cstrong\u003Eod pond\u011Bl\u00ED 17. \u00FAnora 2025 do ukon\u010Den\u00ED prac\u00ED\u003C/strong\u003E (p\u0159edpoklad \u003Cstrong\u003Ekonec kv\u011Btna 2025\u003C/strong\u003E) uzav\u0159ena \u010D\u00E1st ulice \u0160\u00E1malovy.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Autobusov\u00E1 \u003Cstrong\u003Elinka 64\u003C/strong\u003E jede v \u00FAseku \u003Cstrong\u003EStar\u00E1 osada \u2013 Geislerova\u003C/strong\u003E odklonem ulicemi Gajdo\u0161ovou, T\u00E1borskou, Dul\u00E1nek/Kl\u00EDny, J\u00EDlkovou, \u0160\u00E1malovou a Geislerovou.\u003Cbr /\u003E\n\u2022 Vynech\u00E1v\u00E1 tak zast\u00E1vky \u003Cstrong\u003EKuldova\u003C/strong\u003E a \u003Cstrong\u003ETom\u00E1\u0161kova\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 Na odklonov\u00E9 trase obsluhuje zast\u00E1vky \u003Cstrong\u003EGajdo\u0161ova\u003C/strong\u003E,\u003Cstrong\u003E Otakara \u0160ev\u010D\u00EDka\u003C/strong\u003E,\u003Cstrong\u003E Mo\u0161nova\u003C/strong\u003E (sm\u011Br Chrlice) / \u003Cstrong\u003EBuzkova\u003C/strong\u003E (sm\u011Br \u010Cerven\u00FD p\u00EDsek), \u003Cstrong\u003EJ\u00EDlkova\u003C/strong\u003E a \u003Cstrong\u003EUzav\u0159en\u00E1\u003C/strong\u003E.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022b2d6d691-c35d-4b6e-be2d-98f2754298c0\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E \u003Cstrong\u003EZm\u011Bny zast\u00E1vek:\u003C/strong\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EKuldova \u003C/strong\u003E\u2013 obousm\u011Brn\u011B bez obsluhy linkou 64\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003ETom\u00E1\u0161kova \u003C/strong\u003E\u2013 obousm\u011Brn\u011B bez obsluhy\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EUzav\u0159en\u00E1\u003C/strong\u003E \u2013 v obou sm\u011Brech p\u0159elo\u017Eena za k\u0159i\u017Eovatku J\u00EDlkova \u00D7 \u0160\u00E1malova\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EJ\u00EDlkova \u003C/strong\u003E\u2013 obsluhovan\u00E1 obousm\u011Brn\u011B v opa\u010Dn\u00E9m sm\u011Bru (viz sch\u00E9ma)\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EMo\u0161nova \u003C/strong\u003E\u2013 obsluhov\u00E1na ve sm\u011Bru do Chrlic\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EGeislerova \u003C/strong\u003E\u2013 v obou sm\u011Brech p\u0159elo\u017Eena za k\u0159i\u017Eovatku Geislerova \u00D7 T\u00E1borsk\u00E1\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E Sch\u00E9ma dopravn\u00EDch opat\u0159en\u00ED \u2013 \u003Ca href=\u0022https://dpmb.cz/sites/default/files/infotabule/info_v2502-002_web.pdf\u0022 target=\u0022_blank\u0022\u003Eke sta\u017Een\u00ED\u003C/a\u003E\u003C/em\u003E\u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E J\u00EDzdn\u00ED \u0159\u00E1dy dot\u010Den\u00FDch linek budou k dispozici v sekci \u003Ca href=\u0022https://www.dpmb.cz/jizdni-rady-zastavek-linek\u0022\u003EJ\u00EDzdn\u00ED \u0159\u00E1dy\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n",
+      "PublicText": "\u003Cp\u003EZ d\u016Fvodu rekonstrukce podjezdu \u017Eelezni\u010Dn\u00ED trati je \u003Cstrong\u003Eod pond\u011Bl\u00ED 17. \u00FAnora 2025 do ukon\u010Den\u00ED prac\u00ED\u003C/strong\u003E (p\u0159edpoklad do poloviny \u010Dervna 2025) uzav\u0159ena \u010D\u00E1st ulice \u0160\u00E1malovy.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Autobusov\u00E1 \u003Cstrong\u003Elinka 64\u003C/strong\u003E jede v \u00FAseku \u003Cstrong\u003EStar\u00E1 osada \u2013 Geislerova\u003C/strong\u003E odklonem ulicemi Gajdo\u0161ovou, T\u00E1borskou, Dul\u00E1nek/Kl\u00EDny, J\u00EDlkovou, \u0160\u00E1malovou a Geislerovou.\u003Cbr /\u003E\n\u2022 Vynech\u00E1v\u00E1 tak zast\u00E1vky \u003Cstrong\u003EKuldova\u003C/strong\u003E a \u003Cstrong\u003ETom\u00E1\u0161kova\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 Na odklonov\u00E9 trase obsluhuje zast\u00E1vky \u003Cstrong\u003EGajdo\u0161ova\u003C/strong\u003E,\u003Cstrong\u003E Otakara \u0160ev\u010D\u00EDka\u003C/strong\u003E,\u003Cstrong\u003E Mo\u0161nova\u003C/strong\u003E (sm\u011Br Chrlice) / \u003Cstrong\u003EBuzkova\u003C/strong\u003E (sm\u011Br \u010Cerven\u00FD p\u00EDsek), \u003Cstrong\u003EJ\u00EDlkova\u003C/strong\u003E a \u003Cstrong\u003EUzav\u0159en\u00E1\u003C/strong\u003E.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022b2d6d691-c35d-4b6e-be2d-98f2754298c0\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E \u003Cstrong\u003EZm\u011Bny zast\u00E1vek:\u003C/strong\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EKuldova \u003C/strong\u003E\u2013 obousm\u011Brn\u011B bez obsluhy linkou 64\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003ETom\u00E1\u0161kova \u003C/strong\u003E\u2013 obousm\u011Brn\u011B bez obsluhy\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EUzav\u0159en\u00E1\u003C/strong\u003E \u2013 v obou sm\u011Brech p\u0159elo\u017Eena za k\u0159i\u017Eovatku J\u00EDlkova \u00D7 \u0160\u00E1malova\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EJ\u00EDlkova \u003C/strong\u003E\u2013 obsluhovan\u00E1 obousm\u011Brn\u011B v opa\u010Dn\u00E9m sm\u011Bru (viz sch\u00E9ma)\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EMo\u0161nova \u003C/strong\u003E\u2013 obsluhov\u00E1na ve sm\u011Bru do Chrlic\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EGeislerova \u003C/strong\u003E\u2013 v obou sm\u011Brech p\u0159elo\u017Eena za k\u0159i\u017Eovatku Geislerova \u00D7 T\u00E1borsk\u00E1\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E Sch\u00E9ma dopravn\u00EDch opat\u0159en\u00ED \u2013 \u003Ca href=\u0022https://dpmb.cz/sites/default/files/infotabule/info_v2502-002_web.pdf\u0022 target=\u0022_blank\u0022\u003Eke sta\u017Een\u00ED\u003C/a\u003E\u003C/em\u003E\u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E J\u00EDzdn\u00ED \u0159\u00E1dy dot\u010Den\u00FDch linek budou k dispozici v sekci \u003Ca href=\u0022https://www.dpmb.cz/jizdni-rady-zastavek-linek\u0022\u003EJ\u00EDzdn\u00ED \u0159\u00E1dy\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n",
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "64"
-    },
-    {
-      "DiversionID": 16,
-      "Number": "VP 2502-201",
-      "Title": "Jaroslavice, ul. Znojemsk\u00E1 - sesuv svahu",
-      "Latitude": 48.757451,
-      "Longitude": 16.227649,
-      "ValidFrom": "17.02.2025 00:00",
-      "ValidTo": "29.06.2025 23:59",
-      "IsValid": true,
-      "PublicText": "Linka\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 820\u003C/strong\u003E\u003C/font\u003E\u00A0- ve\u0161ker\u00E9 spoje pojedou v \u00FAseku mezi zast\u00E1vkami Slup resp. Slup, Oleksovi\u010Dky, u mostu a\u017E Hr\u00E1dek, kult. d\u016Fm pop\u0159\u00EDpad\u011B a\u017E Jaroslavice odklonem po obousm\u011Brn\u00E9 obj\u00EDzdn\u00E9 trase po silnic\u00EDch III/3978, III/40842, II/408 pop\u0159\u00EDpad\u011B i II/397 p\u0159es obce Strachotice a Valtrovice. Ve Hr\u00E1dku budou z\u0159\u00EDzeny do\u010Dasn\u00E9 zast\u00E1vky Hr\u00E1dek, kult. d\u016Fm tak\u00E9 na silnici II/397\u00A0pobl\u00ED\u017E okru\u017En\u00ED k\u0159i\u017Eovatky silnic II/408xII/397 p\u0159ibli\u017En\u011B p\u0159ed domem \u010D.p. 32 pro linku\u003Cfont color=\u0022#009240\u0022\u003E\u003Cstrong\u003E 820\u003C/strong\u003E\u003C/font\u003E IDS JMK.",
-      "PrivateText": "",
-      "Type": "V",
-      "AffectedLines": "820, 821, 104"
     },
     {
       "DiversionID": 28766,
@@ -707,15 +861,15 @@
       "Latitude": 49.135633,
       "Longitude": 16.615675,
       "ValidFrom": "16.02.2025 23:30",
-      "ValidTo": "31.05.2025 23:59",
+      "ValidTo": "15.09.2025 23:59",
       "IsValid": true,
-      "PublicText": "\u003Cp\u003EZ d\u016Fvodu 4. etapy rekonstrukce in\u017Een\u00FDrsk\u00FDch s\u00EDt\u00ED je od \u003Cstrong\u003E23:30 v ned\u011Bli 16. \u00FAnora 2025\u003C/strong\u003E \u003Cstrong\u003Edo ukon\u010Den\u00ED prac\u00ED\u003C/strong\u003E (p\u0159edpoklad konec kv\u011Btna 2025) zcela vylou\u010Den provoz v \u010D\u00E1sti ulice Masarykovy v Mod\u0159ic\u00EDch.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Autobusov\u00E1 \u003Cstrong\u003Elinka 49\u003C/strong\u003E je v provozu pouze v \u00FAseku \u003Cstrong\u003E\u00DAzk\u00E1 \u2013 P\u0159\u00EDz\u0159enice, smy\u010Dka\u003C/strong\u003E.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022fc4dd07b-c8f7-46d9-9dbc-626086b3714a\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E N\u00E1hradn\u00ED dopravu zaji\u0161\u0165uje autobusov\u00E1 \u003Cstrong\u003Elinka x49 v trase Kom\u00E1rov \u2013 Horn\u00ED Her\u0161pice \u2013 P\u0159\u00EDz\u0159enice \u2013 Mod\u0159ice, Olympia (\u2013 Dv\u016Fr v lese)\u003C/strong\u003E. Linka jede po trase a zast\u00E1vk\u00E1ch linky 49 s v\u00FDjimkou obousm\u011Brn\u00E9ho odklonu v \u00FAseku \u003Cstrong\u003EP\u0159\u00EDz\u0159enice \u2013 Mod\u0159ice, Masarykova\u003C/strong\u003E ulicemi Moravanskou, V\u00EDde\u0148skou, Brn\u011Bnskou, N\u00E1dra\u017En\u00ED a Husovou.\u003Cbr /\u003E\n\u2022 Vynech\u00E1v\u00E1 tak zast\u00E1vky \u003Cstrong\u003EJezern\u00ED\u003C/strong\u003E, \u003Cstrong\u003EMod\u0159ick\u00E1\u003C/strong\u003E a \u003Cstrong\u003EMod\u0159ice, \u017Di\u017Ekova\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 Na odklonov\u00E9 trase nav\u00EDc obsluhuje zast\u00E1vky \u003Cstrong\u003EMoravansk\u00E1, Mod\u0159ick\u00E1 cihelna, Mod\u0159ice, Brn\u011Bnsk\u00E1, Mod\u0159ice, smy\u010Dka, Mod\u0159ice, \u017Eelezni\u010Dn\u00ED stanice\u003C/strong\u003E (n\u00E1stupi\u0161t\u011B 5 a 6 v ulici Husov\u011B) a \u003Cstrong\u003EMod\u0159ice, Husova\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 Ve sm\u011Bru do Kom\u00E1rova jede v \u00FAseku Horn\u00ED Her\u0161pice \u2013 Kom\u00E1rov p\u0159es zast\u00E1vky \u003Cstrong\u003EHn\u011Bvkovsk\u00E9ho \u003C/strong\u003Ea \u003Cstrong\u003ESazenice\u003C/strong\u003E. Zast\u00E1vku \u003Cstrong\u003EHorn\u00ED Her\u0161pice \u003C/strong\u003Eobsluhuje v p\u0159elo\u017Een\u00E9 poloze v ulici Sokolov\u011B.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E No\u010Dn\u00ED autobusov\u00E1 \u003Cstrong\u003Elinka N94\u003C/strong\u003E jede v \u00FAseku \u003Cstrong\u003EP\u0159\u00EDz\u0159enice \u2013 Mod\u0159ice, Masarykova\u003C/strong\u003E obousm\u011Brn\u00FDm odklonem po stejn\u00E9 trase a zast\u00E1vk\u00E1ch jako linka x49.\u003Cbr /\u003E\n\u2022 \u010C\u00E1st spoj\u016F linky je ukon\u010Dena v termin\u00E1lu \u003Cstrong\u003EMod\u0159ice, \u017Eelezni\u010Dn\u00ED stanice\u003C/strong\u003E (odjezd z n\u00E1stupi\u0161t\u011B 4).\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022e4b7c0ba-8762-481e-9ccd-098e280c4d65\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Pro cesty do a z Mod\u0159ic lze vyu\u017E\u00EDt tak\u00E9 \u017Eelezni\u010Dn\u00ED \u003Cstrong\u003Elinku S3\u003C/strong\u003E, tramvajovou \u003Cstrong\u003Elinku 2\u003C/strong\u003E nebo region\u00E1ln\u00ED autobusov\u00E9 \u003Cstrong\u003Elinky 509 a 510\u003C/strong\u003E s p\u0159estupem v zast\u00E1vk\u00E1ch \u003Cstrong\u003EMod\u0159ice, smy\u010Dka\u003C/strong\u003E a \u003Cstrong\u003EMod\u0159ice, \u017Eelezni\u010Dn\u00ED stanice\u003C/strong\u003E.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E Sch\u00E9ma dopravn\u00EDch opat\u0159en\u00ED \u003C/em\u003E \u2013 \u003Ca href=\u0022https://dpmb.cz/sites/default/files/infotabule/info_v2502-004_web.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cem\u003Eke sta\u017Een\u00ED\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E J\u00EDzdn\u00ED \u0159\u00E1dy dot\u010Den\u00FDch linek budou k dispozici v sekci \u003Ca href=\u0022https://www.dpmb.cz/jizdni-rady-zastavek-linek\u0022\u003EJ\u00EDzdn\u00ED \u0159\u00E1dy\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
+      "PublicText": "\u003Cp\u003EZ d\u016Fvodu 4. etapy rekonstrukce in\u017Een\u00FDrsk\u00FDch s\u00EDt\u00ED je od \u003Cstrong\u003E23:30 v ned\u011Bli 16. \u00FAnora 2025\u003C/strong\u003E \u003Cstrong\u003Edo ukon\u010Den\u00ED prac\u00ED\u003C/strong\u003E (p\u0159edpoklad do poloviny z\u00E1\u0159\u00ED 2025) zcela vylou\u010Den provoz v \u010D\u00E1sti ulice Masarykovy v Mod\u0159ic\u00EDch.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Autobusov\u00E1 \u003Cstrong\u003Elinka 49\u003C/strong\u003E je v provozu pouze v \u00FAseku \u003Cstrong\u003E\u00DAzk\u00E1 \u2013 P\u0159\u00EDz\u0159enice, smy\u010Dka\u003C/strong\u003E.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022fc4dd07b-c8f7-46d9-9dbc-626086b3714a\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E N\u00E1hradn\u00ED dopravu zaji\u0161\u0165uje autobusov\u00E1 \u003Cstrong\u003Elinka x49 v trase Kom\u00E1rov \u2013 Horn\u00ED Her\u0161pice \u2013 P\u0159\u00EDz\u0159enice \u2013 Mod\u0159ice, Olympia (\u2013 Dv\u016Fr v lese)\u003C/strong\u003E. Linka jede po trase a zast\u00E1vk\u00E1ch linky 49 s v\u00FDjimkou obousm\u011Brn\u00E9ho odklonu v \u00FAseku \u003Cstrong\u003EP\u0159\u00EDz\u0159enice \u2013 Mod\u0159ice, Masarykova\u003C/strong\u003E ulicemi Moravanskou, V\u00EDde\u0148skou, Brn\u011Bnskou, N\u00E1dra\u017En\u00ED a Husovou.\u003Cbr /\u003E\n\u2022 Vynech\u00E1v\u00E1 tak zast\u00E1vky \u003Cstrong\u003EJezern\u00ED\u003C/strong\u003E, \u003Cstrong\u003EMod\u0159ick\u00E1\u003C/strong\u003E a \u003Cstrong\u003EMod\u0159ice, \u017Di\u017Ekova\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 Na odklonov\u00E9 trase nav\u00EDc obsluhuje zast\u00E1vky \u003Cstrong\u003EMoravansk\u00E1, Mod\u0159ick\u00E1 cihelna, Mod\u0159ice, Brn\u011Bnsk\u00E1, Mod\u0159ice, smy\u010Dka, Mod\u0159ice, \u017Eelezni\u010Dn\u00ED stanice\u003C/strong\u003E (n\u00E1stupi\u0161t\u011B 5 a 6 v ulici Husov\u011B) a \u003Cstrong\u003EMod\u0159ice, Husova\u003C/strong\u003E.\u003Cbr /\u003E\n\u2022 Ve sm\u011Bru do Kom\u00E1rova jede v \u00FAseku Horn\u00ED Her\u0161pice \u2013 Kom\u00E1rov p\u0159es zast\u00E1vky \u003Cstrong\u003EHn\u011Bvkovsk\u00E9ho \u003C/strong\u003Ea \u003Cstrong\u003ESazenice\u003C/strong\u003E. Zast\u00E1vku \u003Cstrong\u003EHorn\u00ED Her\u0161pice \u003C/strong\u003Eobsluhuje v p\u0159elo\u017Een\u00E9 poloze v ulici Sokolov\u011B.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u002291942a3b-47db-456f-b278-54ed4d56192f\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E No\u010Dn\u00ED autobusov\u00E1 \u003Cstrong\u003Elinka N94\u003C/strong\u003E jede v \u00FAseku \u003Cstrong\u003EP\u0159\u00EDz\u0159enice \u2013 Mod\u0159ice, Masarykova\u003C/strong\u003E obousm\u011Brn\u00FDm odklonem po stejn\u00E9 trase a zast\u00E1vk\u00E1ch jako linka x49.\u003Cbr /\u003E\n\u2022 \u010C\u00E1st spoj\u016F linky je ukon\u010Dena v termin\u00E1lu \u003Cstrong\u003EMod\u0159ice, \u017Eelezni\u010Dn\u00ED stanice\u003C/strong\u003E (odjezd z n\u00E1stupi\u0161t\u011B 4).\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022e4b7c0ba-8762-481e-9ccd-098e280c4d65\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E Pro cesty do a z Mod\u0159ic lze vyu\u017E\u00EDt tak\u00E9 \u017Eelezni\u010Dn\u00ED \u003Cstrong\u003Elinku S3\u003C/strong\u003E, tramvajovou \u003Cstrong\u003Elinku 2\u003C/strong\u003E nebo region\u00E1ln\u00ED autobusov\u00E9 \u003Cstrong\u003Elinky 509 a 510\u003C/strong\u003E s p\u0159estupem v zast\u00E1vk\u00E1ch \u003Cstrong\u003EMod\u0159ice, smy\u010Dka\u003C/strong\u003E a \u003Cstrong\u003EMod\u0159ice, \u017Eelezni\u010Dn\u00ED stanice\u003C/strong\u003E.\u003C/p\u003E\n\n\u003Cp\u003E \u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E Sch\u00E9ma dopravn\u00EDch opat\u0159en\u00ED \u003C/em\u003E \u2013 \u003Ca href=\u0022https://dpmb.cz/sites/default/files/infotabule/info_v2502-004_web.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cem\u003Eke sta\u017Een\u00ED\u003C/em\u003E\u003C/a\u003E\u003C/p\u003E\n\n\u003Cdrupal-media data-align=\u0022left\u0022 data-entity-type=\u0022media\u0022 data-entity-uuid=\u0022081d77d8-0e25-42e5-805f-a4a5b5daf1ca\u0022 data-view-mode=\u0022\u0022\u003E\u003C/drupal-media\u003E\n\n\u003Cp\u003E\u003Cem\u003E J\u00EDzdn\u00ED \u0159\u00E1dy dot\u010Den\u00FDch linek budou k dispozici v sekci \u003Ca href=\u0022https://www.dpmb.cz/jizdni-rady-zastavek-linek\u0022\u003EJ\u00EDzdn\u00ED \u0159\u00E1dy\u003C/a\u003E.\u003C/em\u003E\u003C/p\u003E\n",
       "PrivateText": "",
       "Type": "V",
       "AffectedLines": "49, x49, N94"
     },
     {
-      "DiversionID": 15,
+      "DiversionID": 13,
       "Number": "PO 2502-010",
       "Title": "Dob\u0161ice, ul. Znojemsk\u00E1",
       "Latitude": 48.849326,
@@ -729,7 +883,7 @@
       "AffectedLines": "803"
     },
     {
-      "DiversionID": 13,
+      "DiversionID": 11,
       "Number": "PO 2502-011",
       "Title": "Valtice, ulice Sobotn\u00ED (termin\u00E1l Valtice, aut. st.)",
       "Latitude": 48.742707,
@@ -743,7 +897,7 @@
       "AffectedLines": "555, 571, 585"
     },
     {
-      "DiversionID": 9,
+      "DiversionID": 8,
       "Number": "PO 2501-006",
       "Title": "Hru\u0161ovany u Brna, ul. Masarykova",
       "Latitude": 49.038571,
@@ -757,7 +911,7 @@
       "AffectedLines": "154, 521"
     },
     {
-      "DiversionID": 8,
+      "DiversionID": 7,
       "Number": "PO 2501-005",
       "Title": "Tav\u00EDkovice, pr\u016Ftah a silnice III/39914 - etapa II.",
       "Latitude": 49.030901,
@@ -771,7 +925,7 @@
       "AffectedLines": "158, 443, 812"
     },
     {
-      "DiversionID": 5,
+      "DiversionID": 4,
       "Number": "PO 2409-156",
       "Title": "\u010Ceb\u00EDn - silnice III/38529 u obecn\u00EDho \u00FA\u0159adu",
       "Latitude": 49.312542,
