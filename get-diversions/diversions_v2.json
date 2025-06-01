@@ -1,6 +1,176 @@
 {
   "diversions": [
     {
+      "id": 31040,
+      "number": "",
+      "title": "Výluka tramvají pod viaduktem u hlavního nádraží",
+      "latitude": 49.191795,
+      "longitude": 16.614402,
+      "validFrom": "2025-06-07T07:00:00+02:00",
+      "validTo": "2025-06-08T20:30:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>O víkendu <strong>7. a 8. června 2025</strong> je předpokládána realizace další etapy výluky tramvajového provozu pod viaduktem Křenová u hlavního nádraží. Oproti předchozím termínům je trvání omezení plánováno <strong>od 7:00 do 20:30 hod.</strong> a dotkne se linek<strong> 8, 9, 10, 12 </strong>a<strong> 40</strong>. Vzhledem k souběhu s dlouhodobými výlukami dojde u vybraných linek k drobným změnám v plánovaných opatřeních.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "8",
+        "9",
+        "10",
+        "12",
+        "40"
+      ]
+    },
+    {
+      "id": 75,
+      "number": "PO 2506-074",
+      "title": "Diváky, střed obce",
+      "latitude": 48.989252,
+      "longitude": 16.788416,
+      "validFrom": "2025-06-06T12:00:00+02:00",
+      "validTo": "2025-06-08T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávky Diváky, ObÚ budou přeloženy následovně:.<br/><br/> Linka<font color=\"#009240\"><strong> 522</strong></font>\u00A0- zastávka pro oba směry přeložena ke křižovatce silnic na Šitbořice x Boleradice x Kurdějov pod zámkem.<br/><br/> Linka<font color=\"#009240\"><strong> 612</strong></font>\u00A0- zastávka směr Boleradice beze změny, zastávka směr Šitbořice přeložena na hlavní silnici II/381 naproti zastávky směr Boleradice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "522",
+        "612"
+      ]
+    },
+    {
+      "id": 106,
+      "number": "PO 2506-073",
+      "title": "křižovatka Dolní Dunajovice, rozc. na sil. I/52",
+      "latitude": 48.851564,
+      "longitude": 16.609770,
+      "validFrom": "2025-06-06T08:15:00+02:00",
+      "validTo": "2025-06-06T15:15:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 105</strong></font> (jen směr do Brna)\u00A0- všechny spoje jedoucí do Dolních Dunajovic pojedou směrem do obce Dolní Dunajovice odklonem po objízdné trase. Všechny zastávky zůstanou standardně obslouženy.<br/><br/> Linka<font color=\"#009240\"><strong> 540</strong></font> (spoje do Dolních Dunajovic)\u00A0-\u00A0všechny spoje jedoucí do Dolních Dunajovic pojedou směrem do obce Dolní Dunajovice odklonem po objízdné trase. Všechny zastávky zůstanou standardně obslouženy.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "105",
+        "540"
+      ]
+    },
+    {
+      "id": 20,
+      "number": "PO 2506-072",
+      "title": "I/50 Křižanovice",
+      "latitude": 0.000000,
+      "longitude": 0.000000,
+      "validFrom": "2025-06-03T09:30:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 632</strong></font>:\u00A0Zastávka Hodějice, rozc. 1.0 je pro oba směry přeložena do ulice Fenstarové přibližně na úroveň čerpací stanice Eurobit. Zastávka Křižanovice, žel. st. je pro směr z Bučovic do Slavkova nahrazena dočasnou zastávkou Křižanovice, u přejezdu.<br/><br/> Linka<font color=\"#009240\"><strong> 640</strong></font>:\u00A0Ve směru do Rašovic jede po objízdné trase s obsluhou všech stálých zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "632",
+        "640"
+      ]
+    },
+    {
+      "id": 31084,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Vlastimila Pecha",
+      "latitude": 49.179378666667,
+      "longitude": 16.662740666667,
+      "validFrom": "2025-06-02T10:00:00+02:00",
+      "validTo": "2025-08-24T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu rekonstrukce povrchů<strong> </strong>bude<strong> od 10:00 hod. v pondělí 2. června 2025 do ukončení prací</strong> (předpoklad do 24. srpna 2025) přeložena zastávka <strong>Vlastimila Pecha </strong>pro linky E50, E75 a 77 ve směru na Areál Slatina <strong>cca o 130 metrů vzad</strong>.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "E50",
+        "E75",
+        "77"
+      ]
+    },
+    {
+      "id": 110,
+      "number": "VP 2506-227",
+      "title": "Prostějov, Wolkerova a Újezd",
+      "latitude": 49.469686,
+      "longitude": 17.117386,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "755"
+      ]
+    },
+    {
+      "id": 99,
+      "number": "PO 2506-071",
+      "title": "Strážnice, ul. Boženy Hrejsové",
+      "latitude": 48.903334,
+      "longitude": 17.317722,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-06-13T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Vybrané spoje linky<font color=\"#009240\"><strong> 911</strong></font> obsluhující zastávku Strážnice, Úprkova\u00A0budou obsluhovat dočasně zastávku linky<font color=\"#009240\"><strong> 665</strong></font> Strážnice, nám. 17. listopadu.\u00A0Ve směru Hodonín budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Bzenec - Kyjov, ve směru do Veselí nad Moravou budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Strážnice, aut. st.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "911"
+      ]
+    },
+    {
+      "id": 64,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "174"
+      ]
+    },
+    {
+      "id": 111,
+      "number": "PO 2506-070",
+      "title": "Prostějov, ul. Janáčkova I",
+      "latitude": 49.474231,
+      "longitude": 17.128404,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-06T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261. výstup\u00A0u provizorní zastávky v ul. Janáčkově (u křižovatky s ul. Svatoplukovou),, .<br/><br/> Linka\u00A0729755 – spoj 63. beze změny trasy, výstup i nadále v terminálu MHD,, .<br/><br/> Linka\u00A0729755 – spoj 66. objízdná trasa\u00A0po ulicích Vrahovická – Přemyslovka – Svatoplukova – Janáčkova. . Uvedené linky a spoje pojedou podle platného jízdního řádu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261",
+        "755"
+      ]
+    },
+    {
+      "id": 112,
+      "number": "Okrouhlá, horní konec",
+      "title": "Okrouhlá, horní konec směr Boskovice",
+      "latitude": 49.510865,
+      "longitude": 16.738170,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-06-06T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu výstavby optické sítě bude dočasně přeložena zastávka Okrouhlá, horní konec pro linku<font color=\"#009240\"><strong> 262</strong></font> přibližně o 50 metrů vzad. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "262"
+      ]
+    },
+    {
       "id": 104,
       "number": "VP 2506-061",
       "title": "žel. trať. Brno hl.n. - Brno-Horní Heršpice(N)",
