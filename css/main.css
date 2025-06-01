@@ -87,6 +87,12 @@ body.black-mode .leaflet-sidebar-right.leaflet-touch {
 	color: rgb(177, 80, 177) !important;
 	border-color: rgb(177, 80, 177) !important;
 	}
+/* Přidání stylů pro input typu date v tmavém režimu */
+body.black-mode #date-picker {
+    color: #eee; /* Barva textu pro tmavý režim */
+    background-color: #333; /* Barva pozadí pro tmavý režim */
+    border: 1px solid white; /* Volitelně: přidání okraje pro lepší viditelnost */
+}
 
 /* Konec tmavého režimu */
 
