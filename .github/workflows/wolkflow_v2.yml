@@ -2,7 +2,7 @@ name: Get Diversions v2
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Spouští se po čtvrthodině každé hodiny 
+    - cron: '*/30 * * * *'  # Spouští se po 30 minutách 
   workflow_dispatch:  # Přidá možnost manuálního spuštění
 
 jobs:
