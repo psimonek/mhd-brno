@@ -259,7 +259,7 @@
 					</div>
 
 					<div id="diversions-search" class="diversions-icon-item">
-						<input type="text" id="search-input" placeholder="Hledat ve výlukách..." style="height: 20px;">
+						<input type="text" id="search-input" placeholder="Hledat ve výlukách..." style="height: 20px; text-align: center;">
 						<p style="margin-top: 6px;">Textové vyhledávání</p>
 					</div>
 				</div>
@@ -358,23 +358,27 @@
 					
 					document.getElementById("diversions-all").onclick = function() {
 						document.getElementById("date-picker").value = ''; // Resetování výběru data
+						document.getElementById("search-input").value = ''; // Resetování vyhledávání
 						displayDiversions(diversionsData);
 					};
 					
 					document.getElementById("diversions-current").onclick = function() {
-						document.getElementById("date-picker").value = ''; // Resetování výběru data					
+						document.getElementById("date-picker").value = ''; // Resetování výběru data
+						document.getElementById("search-input").value = ''; // Resetování vyhledávání					
 						const currentDiversions = diversionsData.filter(item => item.isValid);
 						displayDiversions(currentDiversions);
 					};
 					
 					document.getElementById("diversions-future").onclick = function() {
 						document.getElementById("date-picker").value = ''; // Resetování výběru data
+						document.getElementById("search-input").value = ''; // Resetování vyhledávání
 						const today = new Date();
 						const futureDiversions = diversionsData.filter(item => new Date(item.validFrom) > today);
 						displayDiversions(futureDiversions);
 					};
 					
 					document.getElementById("date-picker").onchange = function() {
+						document.getElementById("search-input").value = ''; // Resetování vyhledávání
 						const selectedDateObj = new Date(this.value);
 						const filteredDiversions = diversionsData.filter(item => {
 							const validFrom = new Date(item.validFrom);
@@ -386,14 +390,15 @@
 					
 					// Přidání události pro vyhledávací pole
 					document.getElementById("search-input").addEventListener("input", function() {
-					   const searchTerm = this.value.toLowerCase();
-					   const filteredDiversions = diversionsData.filter(item => {
+						document.getElementById("date-picker").value = ''; // Resetování výběru data
+						const searchTerm = this.value.toLowerCase();
+						const filteredDiversions = diversionsData.filter(item => {
 						   const titleMatch = item.title.toLowerCase().includes(searchTerm);
 						   const bodyMatch = item.publicTextHtml.toLowerCase().includes(searchTerm);
 						   const linesMatch = item.affectedLines.some(line => line.toLowerCase().includes(searchTerm));
 						   return titleMatch || bodyMatch || linesMatch;
-					   });
-					   displayDiversions(filteredDiversions);
+						});
+						displayDiversions(filteredDiversions);
 					});
 				</script>
 			</div>
