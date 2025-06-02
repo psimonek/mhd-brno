@@ -236,7 +236,7 @@
 					Výluky
 					<span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
 				</h1>
-				<p>Zde jsou uvedené všechny výluky v rámci IDS JMK. Aktualizováno každých 30 min. Filtrujte výsledky pomocí ikon níže:</p>
+				<p>Zde jsou uvedené všechny výluky v rámci IDS JMK. Aktualizováno každých 30 min. Filtrujte výsledky pomocí těchto možností:</p>
 				<div class="diversions-icon-container">
 					<div id="diversions-all" class="diversions-icon-item">
 						<img src="img/alert_icon.svg" alt="Alert icon">
@@ -250,11 +250,20 @@
 						<img src="img/alert_inactive2.svg" alt="Inactive Alert icon">
 						<div>Budoucí</div>
 					</div>
+				</div>
+				
+				<div class="diversions-icon-container">
 					<div id="diversions-date" class="diversions-icon-item">
-						<div style="align-items: center; display: block; vertical-align: middle; height: 36px;"><input type="date" id="date-picker" style="margin: 0 auto;"></div>
-						<div>Podle data</div>
+						<input type="date" id="date-picker" style="height: 20px;">
+						<p style="margin-top: 6px;">Podle data</p>
+					</div>
+
+					<div id="diversions-search" class="diversions-icon-item">
+						<input type="text" id="search-input" placeholder="Hledat ve výlukách..." style="height: 20px;">
+						<p style="margin-top: 6px;">Textové vyhledávání</p>
 					</div>
 				</div>
+
 			
 				<div id="diversions-list"></div>
 			
@@ -374,6 +383,18 @@
 						});
 						displayDiversions(filteredDiversions);
 					};
+					
+					// Přidání události pro vyhledávací pole
+					document.getElementById("search-input").addEventListener("input", function() {
+					   const searchTerm = this.value.toLowerCase();
+					   const filteredDiversions = diversionsData.filter(item => {
+						   const titleMatch = item.title.toLowerCase().includes(searchTerm);
+						   const bodyMatch = item.publicTextHtml.toLowerCase().includes(searchTerm);
+						   const linesMatch = item.affectedLines.some(line => line.toLowerCase().includes(searchTerm));
+						   return titleMatch || bodyMatch || linesMatch;
+					   });
+					   displayDiversions(filteredDiversions);
+					});
 				</script>
 			</div>
         
