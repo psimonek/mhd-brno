@@ -79,7 +79,7 @@
       "longitude": 16.662740666667,
       "validFrom": "2025-06-02T10:00:00+02:00",
       "validTo": "2025-08-24T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu rekonstrukce povrchů<strong> </strong>bude<strong> od 10:00 hod. v pondělí 2. června 2025 do ukončení prací</strong> (předpoklad do 24. srpna 2025) přeložena zastávka <strong>Vlastimila Pecha </strong>pro linky E50, E75 a 77 ve směru na Areál Slatina <strong>cca o 130 metrů vzad</strong>.</p>\n",
       "privateTextHtml": null,
       "type": "Z",
