@@ -97,7 +97,7 @@
       "longitude": 17.117386,
       "validFrom": "2025-06-02T00:00:00+02:00",
       "validTo": "2025-08-10T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
       "privateTextHtml": null,
       "type": "V",
@@ -113,7 +113,7 @@
       "longitude": 17.317722,
       "validFrom": "2025-06-02T00:00:00+02:00",
       "validTo": "2025-06-13T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vybrané spoje linky<font color=\"#009240\"><strong> 911</strong></font> obsluhující zastávku Strážnice, Úprkova\u00A0budou obsluhovat dočasně zastávku linky<font color=\"#009240\"><strong> 665</strong></font> Strážnice, nám. 17. listopadu.\u00A0Ve směru Hodonín budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Bzenec - Kyjov, ve směru do Veselí nad Moravou budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Strážnice, aut. st.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -129,7 +129,7 @@
       "longitude": 16.595578,
       "validFrom": "2025-06-02T00:00:00+02:00",
       "validTo": "2025-07-31T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
       "privateTextHtml": null,
       "type": "V",
@@ -145,7 +145,7 @@
       "longitude": 17.128404,
       "validFrom": "2025-06-02T00:00:00+02:00",
       "validTo": "2025-07-06T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261. výstup\u00A0u provizorní zastávky v ul. Janáčkově (u křižovatky s ul. Svatoplukovou),, .<br/><br/> Linka\u00A0729755 – spoj 63. beze změny trasy, výstup i nadále v terminálu MHD,, .<br/><br/> Linka\u00A0729755 – spoj 66. objízdná trasa\u00A0po ulicích Vrahovická – Přemyslovka – Svatoplukova – Janáčkova. . Uvedené linky a spoje pojedou podle platného jízdního řádu.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -162,7 +162,7 @@
       "longitude": 16.738170,
       "validFrom": "2025-06-02T00:00:00+02:00",
       "validTo": "2025-06-06T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu výstavby optické sítě bude dočasně přeložena zastávka Okrouhlá, horní konec pro linku<font color=\"#009240\"><strong> 262</strong></font> přibližně o 50 metrů vzad. ",
       "privateTextHtml": null,
       "type": "V",
@@ -326,36 +326,19 @@
       ]
     },
     {
-      "id": 88,
-      "number": "VP 2505-058",
-      "title": "žel. trať. jedna kolej Svitavy – Letovice(N)",
-      "latitude": 49.613324,
-      "longitude": 16.531420,
+      "id": 45,
+      "number": "VP 2505-224",
+      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
+      "latitude": 48.762749,
+      "longitude": 16.722338,
       "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-03T23:55:00+02:00",
+      "validTo": "2025-06-17T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, jsou v úseku\u00A0Svitavy - Letovice\u00A0některé vlaky linky<font color=\"#800000\"><strong> S22</strong></font>\u00A0odřeknuty a nahrazeny autobusy náhradní dopravy jedoucími jako linka xS2 podle výlukového jízdního řádu. Autobusy NAD pojedou po několika odlišných trasách. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "S22",
-        "xS22"
-      ]
-    },
-    {
-      "id": 92,
-      "number": "PO 2505-063",
-      "title": "Tišnov, Kukýrna",
-      "latitude": 49.352505,
-      "longitude": 16.425446,
-      "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-07-20T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede mezi železniční stanicí, resp. zast. Nádražní a zastávkou Lomnická jednosměrným odklonem (pouze ven z města Tišnova) ulicí Drbalova. Všechny spoje obslouží náhradní zastávku Tišnov, Riegrova umístěnou v ulici Drbalova (u sokolovny) jako náhradu za stálou zastávku Riegrova a zrušenou zastávku Kukýrna. Směr do centra města beze změny, pouze zastávka Tišnov, Kukýrna přeložena cca 100m výše. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "333"
+        "585"
       ]
     },
     {
@@ -378,40 +361,36 @@
       ]
     },
     {
-      "id": 45,
-      "number": "VP 2505-224",
-      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
-      "latitude": 48.762749,
-      "longitude": 16.722338,
+      "id": 92,
+      "number": "PO 2505-063",
+      "title": "Tišnov, Kukýrna",
+      "latitude": 49.352505,
+      "longitude": 16.425446,
       "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-17T23:59:00+02:00",
+      "validTo": "2025-07-20T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede mezi železniční stanicí, resp. zast. Nádražní a zastávkou Lomnická jednosměrným odklonem (pouze ven z města Tišnova) ulicí Drbalova. Všechny spoje obslouží náhradní zastávku Tišnov, Riegrova umístěnou v ulici Drbalova (u sokolovny) jako náhradu za stálou zastávku Riegrova a zrušenou zastávku Kukýrna. Směr do centra města beze změny, pouze zastávka Tišnov, Kukýrna přeložena cca 100m výše. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "585"
+        "333"
       ]
     },
     {
-      "id": 24,
-      "number": "2505 Vyškov, Tyršova II",
-      "title": "Vyškov, Tyršova - směr do centra",
-      "latitude": 49.278494,
-      "longitude": 17.006753,
+      "id": 88,
+      "number": "VP 2505-058",
+      "title": "žel. trať. jedna kolej Svitavy – Letovice(N)",
+      "latitude": 49.613324,
+      "longitude": 16.531420,
       "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-01T23:59:00+02:00",
+      "validTo": "2025-06-03T23:55:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, Tyršova je pro směr do centra přesunuta cca o 40 metrů vpřed k domu č. 25. ",
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, jsou v úseku\u00A0Svitavy - Letovice\u00A0některé vlaky linky<font color=\"#800000\"><strong> S22</strong></font>\u00A0odřeknuty a nahrazeny autobusy náhradní dopravy jedoucími jako linka xS2 podle výlukového jízdního řádu. Autobusy NAD pojedou po několika odlišných trasách. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "742",
-        "743",
-        "744",
-        "752",
-        "753",
-        "754"
+        "S22",
+        "xS22"
       ]
     },
     {
@@ -569,6 +548,22 @@
       ]
     },
     {
+      "id": 55,
+      "number": "VP 2505-219",
+      "title": "Brno, Dlážděná",
+      "latitude": 49.204981,
+      "longitude": 16.487088,
+      "validFrom": "2025-05-12T00:00:00+02:00",
+      "validTo": "2025-06-13T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 161</strong></font>:\u00A0V pracovních dnech s výjimkou spojů 80 a 81 jede mezi Brnem-Bystrcí a Troubskem-Veselkou obousměrným odklonem po Staré dálnici s obsluhou zastávek Brno, Štouračova a Brno, Adamcova. Spoje 80, 81 a všechny spoje v nepracovních dnech jedou z Veselky do Žebětína a opačně obousměrným odklonem přes Starou dálnici a Kohoutovickou. Konečnou zastávkou od Veselky je Křivánkovo náměstí, výchozí zastávkou směr Veselka je Helenčina. Pro cesty z Brna-Žebětína a Brna-Bystrce do oblasti Troubska a Popůvek využijte linku<font color=\"#2C89C8\"><strong> 52</strong></font> s přestupem na linku<font color=\"#009240\"><strong> 161</strong></font> v zastávce Wollmannova, případně s pěším přesunem mezi zastávkami Ondrouškova a Adamcova, nebo trasu přes Kohoutovice k Nemocnici Bohunice a dále návaznými regionálními linkami. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
+      ]
+    },
+    {
       "id": 30239,
       "number": "V2505-022",
       "title": "Výluka autobusů v ulici Dlážděné",
@@ -583,22 +578,6 @@
       "affectedLines": [
         "52",
         "N98",
-        "161"
-      ]
-    },
-    {
-      "id": 55,
-      "number": "VP 2505-219",
-      "title": "Brno, Dlážděná",
-      "latitude": 49.204981,
-      "longitude": 16.487088,
-      "validFrom": "2025-05-12T00:00:00+02:00",
-      "validTo": "2025-06-13T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 161</strong></font>:\u00A0V pracovních dnech s výjimkou spojů 80 a 81 jede mezi Brnem-Bystrcí a Troubskem-Veselkou obousměrným odklonem po Staré dálnici s obsluhou zastávek Brno, Štouračova a Brno, Adamcova. Spoje 80, 81 a všechny spoje v nepracovních dnech jedou z Veselky do Žebětína a opačně obousměrným odklonem přes Starou dálnici a Kohoutovickou. Konečnou zastávkou od Veselky je Křivánkovo náměstí, výchozí zastávkou směr Veselka je Helenčina. Pro cesty z Brna-Žebětína a Brna-Bystrce do oblasti Troubska a Popůvek využijte linku<font color=\"#2C89C8\"><strong> 52</strong></font> s přestupem na linku<font color=\"#009240\"><strong> 161</strong></font> v zastávce Wollmannova, případně s pěším přesunem mezi zastávkami Ondrouškova a Adamcova, nebo trasu přes Kohoutovice k Nemocnici Bohunice a dále návaznými regionálními linkami. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "161"
       ]
     },
@@ -684,24 +663,6 @@
       "type": "V",
       "affectedLines": [
         "257"
-      ]
-    },
-    {
-      "id": 56,
-      "number": "VP 2504-050",
-      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
-      "validFrom": "2025-04-30T16:00:00+02:00",
-      "validTo": "2025-06-01T23:55:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:.<br/><br/> Linka<font color=\"#800000\"><strong> S3</strong></font>:\u00A0V úseku\u00A0Brno hl.n. – Brno Královo Pole\u00A0budou některé vlaky odřeknuté a pojedou podle výlukového jízdního řádu linky<font color=\"#800000\"><strong> S3</strong></font>. Od vybraných vlaků bude v\u00A0pracovní dny z Brna-Králova Pole vedena posilová tramvajová\u00A0linka<font color=\"#0777C1\"><strong> P6</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:\u00A0Vlaky linky<font color=\"#800000\"><strong> R9</strong></font> pojedou podle výlukového jízdního řádu. Některé vlaky linky<font color=\"#800000\"><strong> R9</strong></font> budou mít prodloužený pobyt v Brně-Králově Poli a vlaky\u00A0R9/979 a 981\u00A0v\u00A0pracovní\u00A0dny zastaví v\u00A0Brně-Židenicích\u00A0a ukončí jízdu v\u00A0Brně- dolním nádraží..<br/><br/> Linka<font color=\"#800000\"><strong> R8</strong></font>:Nebude zajíždět do stanice Brno-Královo Pole a bude\u00A0výchozí/končící v Brně hl.n.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "R9",
-        "R8"
       ]
     },
     {
