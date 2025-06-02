@@ -326,6 +326,27 @@
       ]
     },
     {
+      "id": 103,
+      "number": "2505 Brno, Jemelkova I",
+      "title": "Brno, Jemelkova - směr Bosonohy",
+      "latitude": 49.173147,
+      "longitude": 16.548715,
+      "validFrom": "2025-05-19T00:00:00+02:00",
+      "validTo": "2025-06-15T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Jemelkova je ve směru z centra Brna do regionu dočasně zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "69",
+        "N96",
+        "161",
+        "402",
+        "404",
+        "405"
+      ]
+    },
+    {
       "id": 45,
       "number": "VP 2505-224",
       "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
@@ -339,41 +360,6 @@
       "type": "V",
       "affectedLines": [
         "585"
-      ]
-    },
-    {
-      "id": 33,
-      "number": "PO 2505-062",
-      "title": "Slavkov u Brna, okružní křižovatka v centru II",
-      "latitude": 49.150780,
-      "longitude": 16.876373,
-      "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-02T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 630</strong></font>, <font color=\"#009240\"><strong> 631</strong></font>:\u00A0Jedou ve Slavkově u Brna odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "601",
-        "630",
-        "631"
-      ]
-    },
-    {
-      "id": 92,
-      "number": "PO 2505-063",
-      "title": "Tišnov, Kukýrna",
-      "latitude": 49.352505,
-      "longitude": 16.425446,
-      "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-07-20T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede mezi železniční stanicí, resp. zast. Nádražní a zastávkou Lomnická jednosměrným odklonem (pouze ven z města Tišnova) ulicí Drbalova. Všechny spoje obslouží náhradní zastávku Tišnov, Riegrova umístěnou v ulici Drbalova (u sokolovny) jako náhradu za stálou zastávku Riegrova a zrušenou zastávku Kukýrna. Směr do centra města beze změny, pouze zastávka Tišnov, Kukýrna přeložena cca 100m výše. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "333"
       ]
     },
     {
@@ -394,24 +380,19 @@
       ]
     },
     {
-      "id": 103,
-      "number": "2505 Brno, Jemelkova I",
-      "title": "Brno, Jemelkova - směr Bosonohy",
-      "latitude": 49.173147,
-      "longitude": 16.548715,
+      "id": 92,
+      "number": "PO 2505-063",
+      "title": "Tišnov, Kukýrna",
+      "latitude": 49.352505,
+      "longitude": 16.425446,
       "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-15T23:59:00+02:00",
+      "validTo": "2025-07-20T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Jemelkova je ve směru z centra Brna do regionu dočasně zrušena. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede mezi železniční stanicí, resp. zast. Nádražní a zastávkou Lomnická jednosměrným odklonem (pouze ven z města Tišnova) ulicí Drbalova. Všechny spoje obslouží náhradní zastávku Tišnov, Riegrova umístěnou v ulici Drbalova (u sokolovny) jako náhradu za stálou zastávku Riegrova a zrušenou zastávku Kukýrna. Směr do centra města beze změny, pouze zastávka Tišnov, Kukýrna přeložena cca 100m výše. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "69",
-        "N96",
-        "161",
-        "402",
-        "404",
-        "405"
+        "333"
       ]
     },
     {
@@ -548,22 +529,6 @@
       ]
     },
     {
-      "id": 55,
-      "number": "VP 2505-219",
-      "title": "Brno, Dlážděná",
-      "latitude": 49.204981,
-      "longitude": 16.487088,
-      "validFrom": "2025-05-12T00:00:00+02:00",
-      "validTo": "2025-06-13T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 161</strong></font>:\u00A0V pracovních dnech s výjimkou spojů 80 a 81 jede mezi Brnem-Bystrcí a Troubskem-Veselkou obousměrným odklonem po Staré dálnici s obsluhou zastávek Brno, Štouračova a Brno, Adamcova. Spoje 80, 81 a všechny spoje v nepracovních dnech jedou z Veselky do Žebětína a opačně obousměrným odklonem přes Starou dálnici a Kohoutovickou. Konečnou zastávkou od Veselky je Křivánkovo náměstí, výchozí zastávkou směr Veselka je Helenčina. Pro cesty z Brna-Žebětína a Brna-Bystrce do oblasti Troubska a Popůvek využijte linku<font color=\"#2C89C8\"><strong> 52</strong></font> s přestupem na linku<font color=\"#009240\"><strong> 161</strong></font> v zastávce Wollmannova, případně s pěším přesunem mezi zastávkami Ondrouškova a Adamcova, nebo trasu přes Kohoutovice k Nemocnici Bohunice a dále návaznými regionálními linkami. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 30239,
       "number": "V2505-022",
       "title": "Výluka autobusů v ulici Dlážděné",
@@ -578,6 +543,22 @@
       "affectedLines": [
         "52",
         "N98",
+        "161"
+      ]
+    },
+    {
+      "id": 55,
+      "number": "VP 2505-219",
+      "title": "Brno, Dlážděná",
+      "latitude": 49.204981,
+      "longitude": 16.487088,
+      "validFrom": "2025-05-12T00:00:00+02:00",
+      "validTo": "2025-06-13T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 161</strong></font>:\u00A0V pracovních dnech s výjimkou spojů 80 a 81 jede mezi Brnem-Bystrcí a Troubskem-Veselkou obousměrným odklonem po Staré dálnici s obsluhou zastávek Brno, Štouračova a Brno, Adamcova. Spoje 80, 81 a všechny spoje v nepracovních dnech jedou z Veselky do Žebětína a opačně obousměrným odklonem přes Starou dálnici a Kohoutovickou. Konečnou zastávkou od Veselky je Křivánkovo náměstí, výchozí zastávkou směr Veselka je Helenčina. Pro cesty z Brna-Žebětína a Brna-Bystrce do oblasti Troubska a Popůvek využijte linku<font color=\"#2C89C8\"><strong> 52</strong></font> s přestupem na linku<font color=\"#009240\"><strong> 161</strong></font> v zastávce Wollmannova, případně s pěším přesunem mezi zastávkami Ondrouškova a Adamcova, nebo trasu přes Kohoutovice k Nemocnici Bohunice a dále návaznými regionálními linkami. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
         "161"
       ]
     },
@@ -633,6 +614,22 @@
       ]
     },
     {
+      "id": 65,
+      "number": "Tasovice, rozc. 1.0",
+      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
+      "latitude": 49.511055,
+      "longitude": 16.434882,
+      "validFrom": "2025-05-05T00:00:00+02:00",
+      "validTo": "2025-06-29T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "257"
+      ]
+    },
+    {
       "id": 69,
       "number": "Pamětice, samota",
       "title": "Pamětice, samota v obou směrech",
@@ -650,22 +647,6 @@
       ]
     },
     {
-      "id": 65,
-      "number": "Tasovice, rozc. 1.0",
-      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
-      "latitude": 49.511055,
-      "longitude": 16.434882,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-29T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "257"
-      ]
-    },
-    {
       "id": 97,
       "number": "Lysovice, kult.dům",
       "title": "Lysovice, kult.dům",
@@ -679,6 +660,22 @@
       "type": "V",
       "affectedLines": [
         "751"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "VP 2504-217",
+      "title": "Zaječí",
+      "latitude": 48.873324,
+      "longitude": 16.766646,
+      "validFrom": "2025-04-07T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "550"
       ]
     },
     {
@@ -701,22 +698,6 @@
       ]
     },
     {
-      "id": 42,
-      "number": "VP 2504-217",
-      "title": "Zaječí",
-      "latitude": 48.873324,
-      "longitude": 16.766646,
-      "validFrom": "2025-04-07T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "550"
-      ]
-    },
-    {
       "id": 29695,
       "number": "V2504-012",
       "title": "Výluka autobusů v ulici Anenské",
@@ -730,6 +711,23 @@
       "type": "V",
       "affectedLines": [
         "N97"
+      ]
+    },
+    {
+      "id": 38,
+      "number": "PO 2504-025",
+      "title": "Kuřim, Zámecká",
+      "latitude": 49.295513,
+      "longitude": 16.522880,
+      "validFrom": "2025-04-01T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "312"
       ]
     },
     {
@@ -748,23 +746,6 @@
         "441",
         "442",
         "812"
-      ]
-    },
-    {
-      "id": 38,
-      "number": "PO 2504-025",
-      "title": "Kuřim, Zámecká",
-      "latitude": 49.295513,
-      "longitude": 16.522880,
-      "validFrom": "2025-04-01T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "312"
       ]
     },
     {
