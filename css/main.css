@@ -358,3 +358,16 @@ protože každý obrázek je jinak velký */
 	width: 32px; /* Nastavte velikost ikony */
 	height: 32px;
 }
+        #date-picker,
+        #search-input {
+            height: 36px;
+            width: 80px;
+            padding: 0 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #333;
+            background-color: #e0e0e0;
+            text-align: center;
+            transition: border-color 0.3s, background-color 0.3s;
+        }
