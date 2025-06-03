@@ -361,6 +361,7 @@ protože každý obrázek je jinak velký */
         #date-picker,
         #search-input {
             height: 46px;
+            line-height: 46px;
             width: 80px;
             padding: 0 10px;
             border: 1px solid #ccc;
