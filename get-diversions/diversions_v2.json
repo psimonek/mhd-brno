@@ -223,26 +223,6 @@
       ]
     },
     {
-      "id": 30966,
-      "number": "V2505-030",
-      "title": "Výluka autobusů u nádraží Královo Pole - UKONČENO",
-      "latitude": 49.229236,
-      "longitude": 16.596141,
-      "validFrom": "2025-05-30T00:00:00+02:00",
-      "validTo": "2025-06-03T13:10:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>3. června 13:10: <strong>Výluka autobusů u nádraží Královo Pole je ukončena!</strong> Linky 30, E56, 72, 84 a 304 jedou již po svých běžných trasách a obsluhují standartní zastávky v uzlu Královo Pole, nádraží.<br />\n </p>\n\n<p>Z důvodu opravy povrchu komunikace bude od pátku 30. května 2025 do úterý 3. června 2025 uzavřen nájezd z ulice Kosmovy do ulice Sportovní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> ve směru do Soběšic a <strong>autobusové linky E56, 72</strong>, <strong>84</strong> <strong>a 304 </strong>ve směru Nemocnice Bohunice / Lesná / NC Královo Pole pojedou odklonem ulicí Božetěchovou, kde obslouží přeloženou zastávku <strong>Královo Pole, nádraží</strong>.<br />\n• <strong>Linka E56 </strong>navíc obslouží  pro nástup i zastávku <strong>Královo Pole, nádraží</strong> společná s linkou 30 směr Semilasso.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávku <strong>Královo Pole, nádraží </strong>v ulici Kosmově nelze po dobu výluky obsloužit.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2505-030_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30",
-        "E56",
-        "72",
-        "84",
-        "304"
-      ]
-    },
-    {
       "id": 100,
       "number": "PO 2505-068",
       "title": "Brno, nájezd z ul. Kosmovy do ul. Sportovní",
@@ -742,23 +722,6 @@
       ]
     },
     {
-      "id": 38,
-      "number": "PO 2504-025",
-      "title": "Kuřim, Zámecká",
-      "latitude": 49.295513,
-      "longitude": 16.522880,
-      "validFrom": "2025-04-01T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "312"
-      ]
-    },
-    {
       "id": 23,
       "number": "VP 2504-213",
       "title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
@@ -774,6 +737,23 @@
         "441",
         "442",
         "812"
+      ]
+    },
+    {
+      "id": 38,
+      "number": "PO 2504-025",
+      "title": "Kuřim, Zámecká",
+      "latitude": 49.295513,
+      "longitude": 16.522880,
+      "validFrom": "2025-04-01T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "312"
       ]
     },
     {
@@ -860,23 +840,6 @@
       ]
     },
     {
-      "id": 25,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
-      ]
-    },
-    {
       "id": 29,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
@@ -892,6 +855,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 25,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74"
       ]
     },
     {
@@ -1036,6 +1016,22 @@
       ]
     },
     {
+      "id": 28763,
+      "number": "V2502-002",
+      "title": "Výluka autobusů v ulici Šámalově",
+      "latitude": 49.198762,
+      "longitude": 16.631874,
+      "validFrom": "2025-02-17T00:00:00+01:00",
+      "validTo": "2025-06-13T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu rekonstrukce podjezdu železniční trati je <strong>od pondělí 17. února 2025 do ukončení prací</strong> (předpoklad do poloviny června 2025) uzavřena část ulice Šámalovy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Autobusová <strong>linka 64</strong> jede v úseku <strong>Stará osada – Geislerova</strong> odklonem ulicemi Gajdošovou, Táborskou, Dulánek/Klíny, Jílkovou, Šámalovou a Geislerovou.<br />\n• Vynechává tak zastávky <strong>Kuldova</strong> a <strong>Tomáškova</strong>.<br />\n• Na odklonové trase obsluhuje zastávky <strong>Gajdošova</strong>,<strong> Otakara Ševčíka</strong>,<strong> Mošnova</strong> (směr Chrlice) / <strong>Buzkova</strong> (směr Červený písek), <strong>Jílkova</strong> a <strong>Uzavřená</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Změny zastávek:</strong></p>\n\n<p><strong>Kuldova </strong>– obousměrně bez obsluhy linkou 64</p>\n\n<p><strong>Tomáškova </strong>– obousměrně bez obsluhy</p>\n\n<p><strong>Uzavřená</strong> – v obou směrech přeložena za křižovatku Jílkova × Šámalova</p>\n\n<p><strong>Jílkova </strong>– obsluhovaná obousměrně v opačném směru (viz schéma)</p>\n\n<p><strong>Mošnova </strong>– obsluhována ve směru do Chrlic</p>\n\n<p><strong>Geislerova </strong>– v obou směrech přeložena za křižovatku Geislerova × Táborská</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2502-002_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "64"
+      ]
+    },
+    {
       "id": 14,
       "number": "VP 2502-201",
       "title": "Jaroslavice, ul. Znojemská - sesuv svahu",
@@ -1051,22 +1047,6 @@
         "820",
         "821",
         "104"
-      ]
-    },
-    {
-      "id": 28763,
-      "number": "V2502-002",
-      "title": "Výluka autobusů v ulici Šámalově",
-      "latitude": 49.198762,
-      "longitude": 16.631874,
-      "validFrom": "2025-02-17T00:00:00+01:00",
-      "validTo": "2025-06-13T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu rekonstrukce podjezdu železniční trati je <strong>od pondělí 17. února 2025 do ukončení prací</strong> (předpoklad do poloviny června 2025) uzavřena část ulice Šámalovy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Autobusová <strong>linka 64</strong> jede v úseku <strong>Stará osada – Geislerova</strong> odklonem ulicemi Gajdošovou, Táborskou, Dulánek/Klíny, Jílkovou, Šámalovou a Geislerovou.<br />\n• Vynechává tak zastávky <strong>Kuldova</strong> a <strong>Tomáškova</strong>.<br />\n• Na odklonové trase obsluhuje zastávky <strong>Gajdošova</strong>,<strong> Otakara Ševčíka</strong>,<strong> Mošnova</strong> (směr Chrlice) / <strong>Buzkova</strong> (směr Červený písek), <strong>Jílkova</strong> a <strong>Uzavřená</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Změny zastávek:</strong></p>\n\n<p><strong>Kuldova </strong>– obousměrně bez obsluhy linkou 64</p>\n\n<p><strong>Tomáškova </strong>– obousměrně bez obsluhy</p>\n\n<p><strong>Uzavřená</strong> – v obou směrech přeložena za křižovatku Jílkova × Šámalova</p>\n\n<p><strong>Jílkova </strong>– obsluhovaná obousměrně v opačném směru (viz schéma)</p>\n\n<p><strong>Mošnova </strong>– obsluhována ve směru do Chrlic</p>\n\n<p><strong>Geislerova </strong>– v obou směrech přeložena za křižovatku Geislerova × Táborská</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2502-002_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n\n<p> </p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "64"
       ]
     },
     {
