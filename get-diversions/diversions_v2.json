@@ -62,7 +62,7 @@
       "longitude": 0.000000,
       "validFrom": "2025-06-03T09:30:00+02:00",
       "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 632</strong></font>:\u00A0Zastávka Hodějice, rozc. 1.0 je pro oba směry přeložena do ulice Fenstarové přibližně na úroveň čerpací stanice Eurobit. Zastávka Křižanovice, žel. st. je pro směr z Bučovic do Slavkova nahrazena dočasnou zastávkou Křižanovice, u přejezdu.<br/><br/> Linka<font color=\"#009240\"><strong> 640</strong></font>:\u00A0Ve směru do Rašovic jede po objízdné trase s obsluhou všech stálých zastávek. ",
       "privateTextHtml": null,
       "type": "V",
