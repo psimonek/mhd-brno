@@ -346,29 +346,32 @@ protože každý obrázek je jinak velký */
 /* Stylování ikon v záložce Výluky */
 .diversions-icon-container {
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: center;
 	align-items: center;
-	margin: 20px;
+	margin: 20px 0px;
 }
 .diversions-icon-item {
 	text-align: center;
 	cursor: pointer;
+	padding: 0px 12px;
+	
 }
 .diversions-icon-item img {
 	width: 32px; /* Nastavte velikost ikony */
 	height: 32px;
 }
-        #date-picker,
-        #search-input {
-            height: 36px;
-            line-height: 36px;
-            width: 80px;
-            padding: 0 10px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            font-size: 14px;
-            color: #333;
-            background-color: #e0e0e0;
-            text-align: center;
-            transition: border-color 0.3s, background-color 0.3s;
-        }
+#date-picker,
+#search-input {
+	height: 26px;
+	line-height: 26px;
+	padding: 0 10px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	color: #333;
+	background-color: #e0e0e0;
+	text-align: center;
+	transition: border-color 0.3s, background-color 0.3s;
+}
+#date-picker {width: 76px;}
+#search-input {width: 116px;}
+#diversions-date, #diversions-search {padding: 0px 6px !important;}
