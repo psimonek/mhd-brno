@@ -307,6 +307,8 @@ function loadLinesAndStops(lineRef) {
 				// Načtení výluk
 				const urlDiversions = 'get-diversions/diversions_v2.json';
 				
+				const today = new Date(); // Získání aktuálního data a času pro správné zobrazení aktuálnosti výluky
+				
 				// Načtení JSON souboru
 				fetch(urlDiversions)
 					.then(response => {
@@ -330,7 +332,7 @@ function loadLinesAndStops(lineRef) {
 								minute: '2-digit',
 								hour12: false // 24hodinový formát
 							};
-							if (item.affectedLines.includes(lineRef) && item.isValid) {
+							if (item.affectedLines.includes(lineRef) && (validFromDate <= today)) {
 								diversionsDiv.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/alert.svg" alt="Alert Icon" style="margin-right: 8px; height: 24px; width: 24px;">${item.number}: ${item.title}</h4><p>Platnost: ${validFromDate.toLocaleString('cs-CZ', options)} - ${validToDate.toLocaleString('cs-CZ', options)}<br>Linky: ${item.affectedLines.join(', ')}</p><p>${item.publicTextHtml}</p><hr style="border: .5px solid #ddd; margin: 20px 0;">`;
 							}
 						});
@@ -347,7 +349,7 @@ function loadLinesAndStops(lineRef) {
 								minute: '2-digit',
 								hour12: false // 24hodinový formát
 							};
-							if (item.affectedLines.includes(lineRef) && !item.isValid) {
+							if (item.affectedLines.includes(lineRef) && (validFromDate > today)) {
 								diversionsDiv.innerHTML += `<h4 style="display: flex; align-items: center;"><img src="img/alert_inactive2.svg" alt="Inactive Alert Icon" style="margin-right: 8px; height: 24px; width: 24px;">${item.number}: ${item.title}</h4><p>Platnost: ${validFromDate.toLocaleString('cs-CZ', options)} - ${validToDate.toLocaleString('cs-CZ', options)}<br>Linky: ${item.affectedLines.join(', ')}</p><p>${item.publicTextHtml}</p><hr style="border: .5px solid #ddd; margin: 20px 0;">`;
 							}
 						});
