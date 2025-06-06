@@ -71,30 +71,13 @@
       "longitude": 16.788416,
       "validFrom": "2025-06-06T12:00:00+02:00",
       "validTo": "2025-06-08T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávky Diváky, ObÚ budou přeloženy následovně:.<br/><br/> Linka<font color=\"#009240\"><strong> 522</strong></font>\u00A0- zastávka pro oba směry přeložena ke křižovatce silnic na Šitbořice x Boleradice x Kurdějov pod zámkem.<br/><br/> Linka<font color=\"#009240\"><strong> 612</strong></font>\u00A0- zastávka směr Boleradice beze změny, zastávka směr Šitbořice přeložena na hlavní silnici II/381 naproti zastávky směr Boleradice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "522",
         "612"
-      ]
-    },
-    {
-      "id": 31126,
-      "number": "V2506-031",
-      "title": "Krátkodobá výluka tramvají na náměstí Svobody",
-      "latitude": 49.195114,
-      "longitude": 16.60827,
-      "validFrom": "2025-06-06T09:30:00+02:00",
-      "validTo": "2025-06-06T12:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání slavnostní přísahy příslušníků Hasičského záchranného sboru bude <strong>v pátek 6. června 2025 od 9:30 do 12:00</strong> vyloučen provoz tramvají přes náměstí Svobody.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společnou s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase zastaví na zastávkách Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> pojede v úseku <strong>Moravské náměstí – Hlavní nádraží</strong> obousměrným odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak zastávky Česká, Náměstí Svobody a Zelný trh.<br />\n• Na odklonové trase obslouží zastávku Malinovského náměstí.<br />\n• Zastávka Hlavní nádraží bude přeložena na 5./6. kolej (nástupiště pod hotelem Grand).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-031_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek jsou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "4",
-        "9"
       ]
     },
     {
