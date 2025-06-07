@@ -202,22 +202,6 @@
       ]
     },
     {
-      "id": 31205,
-      "number": "Z2506-046",
-      "title": "FOOD FESTIVAL S MOROU – Technické muzeum",
-      "latitude": 49.2280465,
-      "longitude": 16.582285,
-      "validFrom": "2025-06-07T10:00:00+02:00",
-      "validTo": "2025-06-07T18:00:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>V sobotu <strong>7. června 2025</strong> bude k příležitosti výročí 200 let tradice výrobní značky MORA probíhat v prostorách Technického muzea v Brně společensko-kulturní akce \"FOOD FESTIVAL S MOROU\".</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> V době <strong>od 10:00 do 18:00</strong> budou v provozu historická vozidla sbírky Technického muzea v Brně v následujících trasách:<br />\n•<strong> </strong>Historické tramvaje<strong> </strong>v trase Klusáčkova – Jana Babáka – Skácelova – Technické muzeum – Technologický park.<br />\n• Historické trolejbusy v trase Česká – Šelepova – Slovanské náměstí – Srbská.<br />\n• Historické autobusy v trase  Česká – Šelepova – Slovanské náměstí – Skácelova – Technické muzeum – Technologický park.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Podrobný program včetně jízdních řádů historických vozidel naleznete na stránkách <a href=\"https://www.tmbrno.cz/akce/food-festival-s-morou/\" target=\"_blank\">Technického muzea Brno</a>.</p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "X"
-      ]
-    },
-    {
       "id": 31155,
       "number": "V2506-032",
       "title": "Výluka tramvají pod viaduktem u hlavního nádraží",
@@ -301,19 +285,19 @@
       ]
     },
     {
-      "id": 57,
-      "number": "VP 2506-226",
-      "title": "Mikulov-Březí, silnice II/414",
-      "latitude": 48.815964,
-      "longitude": 16.595578,
+      "id": 93,
+      "number": "PO 2506-071",
+      "title": "Strážnice, ul. Boženy Hrejsové",
+      "latitude": 48.903334,
+      "longitude": 17.317722,
       "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
+      "validTo": "2025-06-13T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "publicTextHtml": "Vybrané spoje linky<font color=\"#009240\"><strong> 911</strong></font> obsluhující zastávku Strážnice, Úprkova\u00A0budou obsluhovat dočasně zastávku linky<font color=\"#009240\"><strong> 665</strong></font> Strážnice, nám. 17. listopadu.\u00A0Ve směru Hodonín budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Bzenec - Kyjov, ve směru do Veselí nad Moravou budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Strážnice, aut. st.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "174"
+        "911"
       ]
     },
     {
@@ -366,19 +350,19 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2506-071",
-      "title": "Strážnice, ul. Boženy Hrejsové",
-      "latitude": 48.903334,
-      "longitude": 17.317722,
+      "id": 57,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
       "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-06-13T23:59:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Vybrané spoje linky<font color=\"#009240\"><strong> 911</strong></font> obsluhující zastávku Strážnice, Úprkova\u00A0budou obsluhovat dočasně zastávku linky<font color=\"#009240\"><strong> 665</strong></font> Strážnice, nám. 17. listopadu.\u00A0Ve směru Hodonín budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Bzenec - Kyjov, ve směru do Veselí nad Moravou budou obsluhovat zastávku linky<font color=\"#009240\"><strong> 665</strong></font> směr Strážnice, aut. st.. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "911"
+        "174"
       ]
     },
     {
@@ -406,22 +390,6 @@
       ]
     },
     {
-      "id": 102,
-      "number": "Pačlavice směr Morkovice",
-      "title": "Pačlavice směr Morkovice",
-      "latitude": 49.259755,
-      "longitude": 17.168356,
-      "validFrom": "2025-05-26T00:00:00+02:00",
-      "validTo": "2025-06-13T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>\u00A0obslouží Pačlavice směr Morkovice asi 70 metrů na\u00A0„ostrůvek“. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "753"
-      ]
-    },
-    {
       "id": 95,
       "number": "Boleradice, ZD",
       "title": "Zastávka Boleradice, ZD",
@@ -435,6 +403,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 102,
+      "number": "Pačlavice směr Morkovice",
+      "title": "Pačlavice směr Morkovice",
+      "latitude": 49.259755,
+      "longitude": 17.168356,
+      "validFrom": "2025-05-26T00:00:00+02:00",
+      "validTo": "2025-06-13T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>\u00A0obslouží Pačlavice směr Morkovice asi 70 metrů na\u00A0„ostrůvek“. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "753"
       ]
     },
     {
@@ -500,22 +484,6 @@
       ]
     },
     {
-      "id": 41,
-      "number": "VP 2505-224",
-      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
-      "latitude": 48.762749,
-      "longitude": 16.722338,
-      "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-17T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "585"
-      ]
-    },
-    {
       "id": 86,
       "number": "PO 2505-063",
       "title": "Tišnov, Kukýrna",
@@ -529,6 +497,22 @@
       "type": "V",
       "affectedLines": [
         "333"
+      ]
+    },
+    {
+      "id": 41,
+      "number": "VP 2505-224",
+      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
+      "latitude": 48.762749,
+      "longitude": 16.722338,
+      "validFrom": "2025-05-19T00:00:00+02:00",
+      "validTo": "2025-06-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "585"
       ]
     },
     {
@@ -755,20 +739,19 @@
       ]
     },
     {
-      "id": 62,
-      "number": "Pamětice, samota",
-      "title": "Pamětice, samota v obou směrech",
-      "latitude": 49.546942,
-      "longitude": 16.641326,
+      "id": 59,
+      "number": "Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka v obou směrech",
+      "latitude": 49.539664,
+      "longitude": 16.702797,
       "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-30T23:59:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu výstavby a rekonstrukce chodníků a rekonstrukce autobusových zastávek budou dočasně přeloženy zastávky Pamětice, samota:. směr Letovice přibližně o 50 metrů vzad,, směr Vanovice přibližně o 80 metrů vpřed. ",
+      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "253",
-        "277"
+        "251"
       ]
     },
     {
@@ -788,19 +771,20 @@
       ]
     },
     {
-      "id": 59,
-      "number": "Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka v obou směrech",
-      "latitude": 49.539664,
-      "longitude": 16.702797,
+      "id": 62,
+      "number": "Pamětice, samota",
+      "title": "Pamětice, samota v obou směrech",
+      "latitude": 49.546942,
+      "longitude": 16.641326,
       "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
+      "validTo": "2025-06-30T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
+      "publicTextHtml": "Z důvodu výstavby a rekonstrukce chodníků a rekonstrukce autobusových zastávek budou dočasně přeloženy zastávky Pamětice, samota:. směr Letovice přibližně o 50 metrů vzad,, směr Vanovice přibližně o 80 metrů vpřed. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "251"
+        "253",
+        "277"
       ]
     },
     {
@@ -820,6 +804,22 @@
       ]
     },
     {
+      "id": 37,
+      "number": "VP 2504-217",
+      "title": "Zaječí",
+      "latitude": 48.873324,
+      "longitude": 16.766646,
+      "validFrom": "2025-04-07T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "550"
+      ]
+    },
+    {
       "id": 35,
       "number": "Břeclav, Charvatská Nová Ves, Lednická",
       "title": "Zastávka Břeclav, Charvatská Nová Ves, Lednická",
@@ -836,22 +836,6 @@
         "562",
         "569",
         "570"
-      ]
-    },
-    {
-      "id": 37,
-      "number": "VP 2504-217",
-      "title": "Zaječí",
-      "latitude": 48.873324,
-      "longitude": 16.766646,
-      "validFrom": "2025-04-07T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "550"
       ]
     },
     {
@@ -1217,6 +1201,22 @@
       ]
     },
     {
+      "id": 9,
+      "number": "PO 2502-010",
+      "title": "Dobšice, ul. Znojemská",
+      "latitude": 48.849326,
+      "longitude": 16.081517,
+      "validFrom": "2025-02-10T00:00:00+01:00",
+      "validTo": "2025-06-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "803"
+      ]
+    },
+    {
       "id": 8,
       "number": "PO 2502-011",
       "title": "Valtice, ulice Sobotní (terminál Valtice, aut. st.)",
@@ -1232,22 +1232,6 @@
         "555",
         "571",
         "585"
-      ]
-    },
-    {
-      "id": 9,
-      "number": "PO 2502-010",
-      "title": "Dobšice, ul. Znojemská",
-      "latitude": 48.849326,
-      "longitude": 16.081517,
-      "validFrom": "2025-02-10T00:00:00+01:00",
-      "validTo": "2025-06-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "803"
       ]
     },
     {
