@@ -232,23 +232,6 @@
       ]
     },
     {
-      "id": 112,
-      "number": "VP 2506-062",
-      "title": "žel. trať v úseku Veselí nad Moravou – Strážnice",
-      "latitude": 48.921514,
-      "longitude": 17.334406,
-      "validFrom": "2025-06-09T08:00:00+02:00",
-      "validTo": "2025-06-10T14:05:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku Strážnice – Veselí nad Moravou po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S91",
-        "xS91"
-      ]
-    },
-    {
       "id": 31127,
       "number": "V2506-033",
       "title": "Výluka autobusů v ulici Renčově",
@@ -316,6 +299,23 @@
       ]
     },
     {
+      "id": 108,
+      "number": "PO 2506-070",
+      "title": "Prostějov, ul. Janáčkova I",
+      "latitude": 49.474231,
+      "longitude": 17.128404,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-06T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261. výstup\u00A0u provizorní zastávky v ul. Janáčkově (u křižovatky s ul. Svatoplukovou),, .<br/><br/> Linka\u00A0729755 – spoj 63. beze změny trasy, výstup i nadále v terminálu MHD,, .<br/><br/> Linka\u00A0729755 – spoj 66. objízdná trasa\u00A0po ulicích Vrahovická – Přemyslovka – Svatoplukova – Janáčkova. . Uvedené linky a spoje pojedou podle platného jízdního řádu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261",
+        "755"
+      ]
+    },
+    {
       "id": 107,
       "number": "VP 2506-227",
       "title": "Prostějov, Wolkerova a Újezd",
@@ -361,23 +361,6 @@
       "type": "V",
       "affectedLines": [
         "911"
-      ]
-    },
-    {
-      "id": 108,
-      "number": "PO 2506-070",
-      "title": "Prostějov, ul. Janáčkova I",
-      "latitude": 49.474231,
-      "longitude": 17.128404,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-06T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261. výstup\u00A0u provizorní zastávky v ul. Janáčkově (u křižovatky s ul. Svatoplukovou),, .<br/><br/> Linka\u00A0729755 – spoj 63. beze změny trasy, výstup i nadále v terminálu MHD,, .<br/><br/> Linka\u00A0729755 – spoj 66. objízdná trasa\u00A0po ulicích Vrahovická – Přemyslovka – Svatoplukova – Janáčkova. . Uvedené linky a spoje pojedou podle platného jízdního řádu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261",
-        "755"
       ]
     },
     {
@@ -754,22 +737,6 @@
       ]
     },
     {
-      "id": 59,
-      "number": "Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka v obou směrech",
-      "latitude": 49.539664,
-      "longitude": 16.702797,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251"
-      ]
-    },
-    {
       "id": 58,
       "number": "Tasovice, rozc. 1.0",
       "title": "Tasovice, rozc. 1.0 (v obou směrech)",
@@ -800,6 +767,22 @@
       "affectedLines": [
         "253",
         "277"
+      ]
+    },
+    {
+      "id": 59,
+      "number": "Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka v obou směrech",
+      "latitude": 49.539664,
+      "longitude": 16.702797,
+      "validFrom": "2025-05-05T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251"
       ]
     },
     {
