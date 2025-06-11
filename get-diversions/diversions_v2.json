@@ -35,6 +35,23 @@
       ]
     },
     {
+      "id": 31302,
+      "number": "V2506-035",
+      "title": "Výluka tramvají na náměstí Svobody",
+      "latitude": 49.195105,
+      "longitude": 16.608276,
+      "validFrom": "2025-06-14T09:45:00+02:00",
+      "validTo": "2025-06-15T18:15:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání tradiční Dopravní nostalgie bude vyloučen provoz pravidelných tramvajových linek přes náměstí Svobody:</p>\n\n<p>• <strong>v sobotu 14. června 2025 od 9:45 do 19:00</strong></p>\n\n<p>• <strong>v neděli 15. června 2025 od 12:45 do 18:15</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společnou s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase zastaví na zastávkách Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p> Omezení provozu se dotkne i <strong>tramvajové linky 8</strong> (ukončené na Hlavním nádraží v souvislosti s výlukou pod viadukty), která obslouží na <strong>Hlavním nádraží</strong> pro výstup zastávku na 2. koleji, na <strong>Malinovského náměstí</strong> obslouží pro nástup zastávku linek 2 a 7 směr Hlavní nádraží.<br />\n• Ostatní opatření zavedená v souvislosti s výlukou pod viadukty zůstávají v platnosti.</p>\n\n<p><br />\n<img alt=\"\" src=\"https://old.dpmb.cz/Data/Img/Image/DDI/no_tram13.png\" /></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> (ovlivněna výlukou pod viaduktem u hlavního nádraží) pojede ve směru na Lesnou v úseku Hlavní nádraží – Česká odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Zelný trh a Náměstí Svobody.<br />\n• Na odklonové trase obslouží zastávky Nové sady a Šilingrovo náměstí.<br />\n• Zastávku Česká obslouží společně s linkami 3, 5 a 6 v ulici Joštově.<br />\n• V opačném směru pojede ulicí Rooseveltovou dle platných opatření zavedených v souvislosti s výlukou pod viaduktem.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 12</strong> (ukončené na Hlavním nádraží v souvislosti s výlukou pod viadukty) pojede ve směru do centra v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak v tomto směru zastávky <strong>Šilingrovo náměstí</strong> a <strong>Nové sady</strong>.<br />\n• Na odklonové trase obslouží zastávku <strong>Malinovského náměstí</strong>.<br />\n• Zastávku <strong>Hlavní nádraží</strong> obslouží pro výstup i nástup na 1. koleji.<br />\n• V opačném směru pojede po aktuálně platné trase ulicí Husovou.<br />\n• Ostatní opatření zavedená v souvislosti s výlukou pod viadukty zůstávají v platnosti.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-035_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "4",
+        "9"
+      ]
+    },
+    {
       "id": 106,
       "number": "PO 2506-077",
       "title": "Rakvice, ulice Náměstí",
@@ -155,7 +172,7 @@
       "validFrom": "2025-06-13T14:45:00+02:00",
       "validTo": "2025-06-13T16:45:00+02:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu konání slavnostní přísahy příslušníků Policie České republiky bude <strong>v pátek 13. června 2025 od 14:45 do 16:45 </strong>vyloučen provoz tramvají přes náměstí Svobody.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společnou s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase zastaví na zastávkách Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> pojede v úseku <strong>Moravské náměstí – Hlavní nádraží</strong> obousměrným odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak zastávky Česká, Náměstí Svobody a Zelný trh.<br />\n• Na odklonové trase obslouží zastávku Malinovského náměstí.<br />\n• Zastávka Hlavní nádraží bude přeložena na 5./6. kolej (nástupiště pod hotelem Grand).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – bude doplněno</em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "publicTextHtml": "<p>Z důvodu konání slavnostní přísahy příslušníků Policie České republiky bude <strong>v pátek 13. června 2025 od 14:45 do 16:45 </strong>vyloučen provoz tramvají přes náměstí Svobody.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společnou s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase zastaví na zastávkách Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> pojede v úseku <strong>Moravské náměstí – Hlavní nádraží</strong> obousměrným odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak zastávky Česká, Náměstí Svobody a Zelný trh.<br />\n• Na odklonové trase obslouží zastávku Malinovského náměstí.<br />\n• Zastávka Hlavní nádraží bude přeložena na 5./6. kolej (nástupiště pod hotelem Grand).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-034_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -171,7 +188,7 @@
       "longitude": 17.282438,
       "validFrom": "2025-06-11T08:00:00+02:00",
       "validTo": "2025-06-13T14:15:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku Strážnice – Veselí nad Moravou po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -188,7 +205,7 @@
       "longitude": 16.450895,
       "validFrom": "2025-06-11T07:50:00+02:00",
       "validTo": "2025-06-11T14:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 311</strong></font>\u00A0pojede mezi Drásovem a Tišnovem obousměrným odklonem přes Hradčany. Vynechá zast. Tišnov, Trnec. Zastávka Drásov, náměstí přeložena k dočasné zastávce v ulici Nová (společně s linkou 320). ",
       "privateTextHtml": null,
       "type": "V",
