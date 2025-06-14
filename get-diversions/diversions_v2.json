@@ -311,7 +311,7 @@
       "longitude": 16.531524,
       "validFrom": "2025-06-14T18:00:00+02:00",
       "validTo": "2025-06-26T00:30:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Na\u00A0lince<font color=\"#009240\"><strong> 302</strong></font>\u00A0jsou v souvislosti s konáním ohňostrojů řazeny posilové spoje dle mimořádného jízdního řádu a bude platit následující organizace dopravy:. odjezdy autobusů z Kuřimi, žel.st. do Brna, Bystrce: od 19:23 v intervalu 30 minut do 21:23 a následně 21:48 a 22:13 hod., v nepracovních dnech jsou navíc spoje v 18:23 a v 19:53 hod. z Kuřimi, žel.st. zajištěny 2 autobusy,, spoje s odjezdy z Kuřimi, žel.st. do 20:53 hod. včetně jsou v Brně vedeny až do terminálu Zoologická zahrada, další spoje jsou již ukončeny v zastávce Brno, Pod Mniší horou, Ve středu 25.6.2025, tedy v\u00A0době částečné uzavírky silnice Kníničské, jsou všechny spoje ukončeny v zastávce Brno, Pod Mniší horou. Zastávka Pod Mniší horou směr Kuřim je během výluky přeložena blíže k lávce přes řeku Svratku., poslední pravidelný spoj linky<font color=\"#009240\"><strong> 302</strong></font> z Kuřimi do Brna bude ukončen již v zastávce Brno, Pod Mniší horou - spoj č. 33 v pracovních dnech, resp. spoj č. 219 v nepracovních dnech,, poslední pravidelný spoj linky<font color=\"#009240\"><strong> 302</strong></font> z Brna do Kuřimi bude výchozí až ze zastávky Brno, Pod Mniší horou - spoj č. 34 v pracovních dnech, resp. spoj č. 220 v nepracovních dnech,, odjezdy autobusů z Brna, Pod Mniší horou do Kuřimi, žel.st.: 22:59, 23:09, 23:24 a 23:39 hod.,, spoj s odjezdem ve 23:24 hod. z Brna pokračuje z Kuřimi přes Moravské Knínice, Chudčice, Sentice a Hradčany až do Tišnova,, spoj s odjezdem ve 23:39 hod. z Brna pokračuje z Kuřimi přes Čebín, Malhostovice a Drásov až do Tišnova,, noční spoje s odjezdem z Brna, U Luhu do Kuřimi v 0:30 a ve 2:30 hod. jsou vedeny pouze v noci ze soboty na neděli 14. 6./15. 6. a 21. 6./22. 6. 2025,\u00A0\u00A0, jsou zrušeny večerní garantované návaznosti linky<font color=\"#009240\"><strong> 302</strong></font> na tramvajovou linku<font color=\"#D40000\"><strong> 1</strong></font> a autobusovou linku<font color=\"#2C89C8\"><strong> 50</strong></font> v zastávce Zoologická zahrada,, . Na\u00A0lince<font color=\"#009240\"><strong> 303</strong></font>\u00A0jsou nad rámec běžného jízdního řádu rovněž zajištěny posilové spoje takto:. odjezdy autobusů z Veverské Bítýšky, nám. do Brna, Bystrce, Zoo\u00A0(v návaznosti na spoje linky<font color=\"#009240\"><strong> 153</strong></font> a linky<font color=\"#009240\"><strong> 312</strong></font> od Braníškova): 19:21 (přes Mečkov), 20:21 (přes Mečkov), 21:15 (přes Hvozdec) a 22:11 hod. (přes Mečkov), navíc spoj ve 20:21 hod. z Veverské Bítýšky, nám. je zajištěn 2 autobusy,, odjezd autobusu z Brna, Bystrce, Zoo přes Hvozdec do Veverské Bítýšky, nám.: 23:23 hod.\u00A0(navazuje linka<font color=\"#009240\"><strong> 312</strong></font> do Braníškova), před tímto spojem bude zařazen posilový autobus z Rakovecké přes Hvozdec do Veverské Bítýšky, nám. s odjezdem ve 23:11 hod. Pravidelný spoj č. 222\u00A0linky<font color=\"#009240\"><strong> 312</strong></font>\u00A0s odjezdem ve 23:48 hod. z Veverské Bítýšky do Lažánek bude v sobotu 14. 6. a 21. 6. 2025 prodloužen až do Braníškova\u00A0(v návaznosti na linku 303).. . ",
       "privateTextHtml": null,
       "type": "V",
@@ -387,22 +387,6 @@
         "8",
         "9",
         "12"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "PO 2506-077",
-      "title": "Rakvice, ulice Náměstí",
-      "latitude": 48.858277,
-      "longitude": 16.812519,
-      "validFrom": "2025-06-14T08:00:00+02:00",
-      "validTo": "2025-06-14T18:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Rakvice, kostel bude přesunuta do zastávky naproti kostelu v zálivu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "550"
       ]
     },
     {
@@ -557,22 +541,6 @@
       ]
     },
     {
-      "id": 54,
-      "number": "VP 2506-226",
-      "title": "Mikulov-Březí, silnice II/414",
-      "latitude": 48.815964,
-      "longitude": 16.595578,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "174"
-      ]
-    },
-    {
       "id": 105,
       "number": "PO 2506-070",
       "title": "Prostějov, ul. Janáčkova I",
@@ -587,6 +555,22 @@
       "affectedLines": [
         "261",
         "755"
+      ]
+    },
+    {
+      "id": 54,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "174"
       ]
     },
     {
@@ -708,22 +692,6 @@
       ]
     },
     {
-      "id": 40,
-      "number": "VP 2505-224",
-      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
-      "latitude": 48.762749,
-      "longitude": 16.722338,
-      "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-17T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "585"
-      ]
-    },
-    {
       "id": 79,
       "number": "PO 2505-063",
       "title": "Tišnov, Kukýrna",
@@ -758,6 +726,22 @@
         "402",
         "404",
         "405"
+      ]
+    },
+    {
+      "id": 40,
+      "number": "VP 2505-224",
+      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
+      "latitude": 48.762749,
+      "longitude": 16.722338,
+      "validFrom": "2025-05-19T00:00:00+02:00",
+      "validTo": "2025-06-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "585"
       ]
     },
     {
@@ -913,19 +897,20 @@
       ]
     },
     {
-      "id": 55,
-      "number": "Tasovice, rozc. 1.0",
-      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
-      "latitude": 49.511055,
-      "longitude": 16.434882,
+      "id": 59,
+      "number": "Pamětice, samota",
+      "title": "Pamětice, samota v obou směrech",
+      "latitude": 49.546942,
+      "longitude": 16.641326,
       "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-29T23:59:00+02:00",
+      "validTo": "2025-06-30T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
+      "publicTextHtml": "Z důvodu výstavby a rekonstrukce chodníků a rekonstrukce autobusových zastávek budou dočasně přeloženy zastávky Pamětice, samota:. směr Letovice přibližně o 50 metrů vzad,, směr Vanovice přibližně o 80 metrů vpřed. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "257"
+        "253",
+        "277"
       ]
     },
     {
@@ -945,20 +930,19 @@
       ]
     },
     {
-      "id": 59,
-      "number": "Pamětice, samota",
-      "title": "Pamětice, samota v obou směrech",
-      "latitude": 49.546942,
-      "longitude": 16.641326,
+      "id": 55,
+      "number": "Tasovice, rozc. 1.0",
+      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
+      "latitude": 49.511055,
+      "longitude": 16.434882,
       "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-30T23:59:00+02:00",
+      "validTo": "2025-06-29T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu výstavby a rekonstrukce chodníků a rekonstrukce autobusových zastávek budou dočasně přeloženy zastávky Pamětice, samota:. směr Letovice přibližně o 50 metrů vzad,, směr Vanovice přibližně o 80 metrů vpřed. ",
+      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "253",
-        "277"
+        "257"
       ]
     },
     {
@@ -1010,6 +994,23 @@
       ]
     },
     {
+      "id": 33,
+      "number": "PO 2504-025",
+      "title": "Kuřim, Zámecká",
+      "latitude": 49.295513,
+      "longitude": 16.522880,
+      "validFrom": "2025-04-01T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "312"
+      ]
+    },
+    {
       "id": 17,
       "number": "VP 2504-213",
       "title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
@@ -1025,23 +1026,6 @@
         "441",
         "442",
         "812"
-      ]
-    },
-    {
-      "id": 33,
-      "number": "PO 2504-025",
-      "title": "Kuřim, Zámecká",
-      "latitude": 49.295513,
-      "longitude": 16.522880,
-      "validFrom": "2025-04-01T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "312"
       ]
     },
     {
