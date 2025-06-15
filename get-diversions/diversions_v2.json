@@ -92,22 +92,6 @@
       ]
     },
     {
-      "id": 100,
-      "number": "PO 2506-084",
-      "title": "Skrchov",
-      "latitude": 49.580918,
-      "longitude": 16.550732,
-      "validFrom": "2025-06-17T00:00:00+02:00",
-      "validTo": "2025-06-22T23:59:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "Z důvodu opravy povrchů silnice I/43 na území obce Skrchov bude po dobu částečné uzavírky dočasně zrušena zastávka Skrchov, rozc. I. Spoje linky<font color=\"#009240\"><strong> 273</strong></font> ve směru do Letovic pojedou závlekem do zastávky Skrchov, točna a obslouží ji namísto dočasně zrušené zastávky Skrchov, rozc. I. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "273"
-      ]
-    },
-    {
       "id": 101,
       "number": "ZAS Stvolová",
       "title": "Stvolová (v obou směrech)",
@@ -117,6 +101,22 @@
       "validTo": "2025-06-22T23:59:00+02:00",
       "isValid": false,
       "publicTextHtml": "Z důvodu opravy povrchů silnice I/43 na území obce Stvolová (etapa opravy úseku v intravilánu obce od křižovatky s MK dále ve směru na Svitavy) budou po dobu částečné uzavírky (kyvadlový provoz) zastávky Stvolová přeloženy v obou směrech o cca 120 m blíže k Letovicím. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "273"
+      ]
+    },
+    {
+      "id": 100,
+      "number": "PO 2506-084",
+      "title": "Skrchov",
+      "latitude": 49.580918,
+      "longitude": 16.550732,
+      "validFrom": "2025-06-17T00:00:00+02:00",
+      "validTo": "2025-06-22T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu opravy povrchů silnice I/43 na území obce Skrchov bude po dobu částečné uzavírky dočasně zrušena zastávka Skrchov, rozc. I. Spoje linky<font color=\"#009240\"><strong> 273</strong></font> ve směru do Letovic pojedou závlekem do zastávky Skrchov, točna a obslouží ji namísto dočasně zrušené zastávky Skrchov, rozc. I. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -176,21 +176,19 @@
       ]
     },
     {
-      "id": 122,
-      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "latitude": 49.013275,
-      "longitude": 17.133822,
+      "id": 112,
+      "number": "Tišnov, Lomnická",
+      "title": "Tišnov, Lomnická (oba směry)",
+      "latitude": 49.355328,
+      "longitude": 16.428746,
       "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
+      "validTo": "2025-07-20T23:59:00+02:00",
       "isValid": false,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
+      "publicTextHtml": "Z důvodu stavebních prací na vodovodu v prostoru zastávky Tišnov, Lomnická bude zastávka v obou směrech přeložena o cca 100 m směrem do centra Tišnova. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "671",
-        "672",
-        "673"
+        "333"
       ]
     },
     {
@@ -227,19 +225,21 @@
       ]
     },
     {
-      "id": 112,
-      "number": "Tišnov, Lomnická",
-      "title": "Tišnov, Lomnická (oba směry)",
-      "latitude": 49.355328,
-      "longitude": 16.428746,
+      "id": 122,
+      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "latitude": 49.013275,
+      "longitude": 17.133822,
       "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-07-20T23:59:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": false,
-      "publicTextHtml": "Z důvodu stavebních prací na vodovodu v prostoru zastávky Tišnov, Lomnická bude zastávka v obou směrech přeložena o cca 100 m směrem do centra Tišnova. ",
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "333"
+        "671",
+        "672",
+        "673"
       ]
     },
     {
@@ -319,41 +319,6 @@
         "302",
         "303",
         "312"
-      ]
-    },
-    {
-      "id": 31300,
-      "number": "Z2506-047",
-      "title": "Dopravní nostalgie 2025",
-      "latitude": 49.194869,
-      "longitude": 16.60849,
-      "validFrom": "2025-06-14T10:00:00+02:00",
-      "validTo": "2025-06-15T18:15:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>O víkendu <strong>14. – 15. června 2025</strong> se v rámci festivalu Ignis Brunensis uskuteční tradiční Dopravní nostalgie za účasti retro vozidel Dopravního podniku města Brna, a. s., a historických vozidel ze sbírek Technického muzea v Brně.</p>\n\n<p> </p>\n\n<p><strong>Sobota 14. června 2025</strong></p>\n\n<p> </p>\n\n<p>• V době <strong>od 10:00 do 11:30</strong> se uskuteční výstava historických tramvají a autobusů na náměstí Svobody a trolejbusů v ulici Brandlově.<br />\n• V <strong>11:30</strong> vyrazí z náměstí Svobody do vozovny Pisárky konvoj vybraných tramvají a autobusů, následně se jednotlivá vozidla budou postupně řadit na příležitostné nostalgické linky:</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Koněspřežná tramvaj</strong> pojede v okružní trase <strong>Náměstí Svobody – Masarykova – Benešova – Rooseveltova – Rašínova – Náměstí Svobody</strong>.<br />\n• nástup a výstup pouze na náměstí Svobody<br />\n• interval: 60 minut<br />\n• jízdné: 300 Kč</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Parní tramvaj</strong> pojede v trase <strong>Náměstí Svobody – Rašínova –  Rooseveltova – Nádražní – Hybešova – Hlinky – Vozovna Pisárky</strong>, v opačném směru <strong>Vozovna Pisárky – Hlinky – Hybešova – Nádražní – Masarykova – Náměstí Svobody</strong>.<br />\n• nástup a výstup pouze na náměstí Svobody a ve vozovně Pisárky<br />\n• interval: 90 minut<br />\n• jednosměrné jízdné: 300 Kč, zpáteční jízdné: 500 Kč</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Elektrické tramvaje</strong> pojedou ve shodné trase s parní tramvají.<br />\n• nástup a výstup pouze na náměstí Svobody a ve vozovně Pisárky<br />\n• interval: 15 minut<br />\n• jednosměrné jízdné: 80 Kč, jízdenka na 2 jízdy: 150 Kč, zvýhodněná jízdenka na 6 jízd: 350 Kč (elektrické tramvaje, trolejbusy a autobusy)</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"4cf29938-4394-4795-a131-e3fa78880548\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusy</strong> pojedou v trase <strong>Česká – Kounicova – Botanická – Skácelova – Královopolská – Hlavní – Veslařská – Pisárky</strong>, v opačném směru <strong>Pisárky – Hlinky – Úvoz – Kotlářská – Pionýrská – Drobného – Milady Horákové – Česká</strong>.<br />\n• nástup a výstup pouze na České a v zastávce Pisárky<br />\n• interval: 15 minut<br />\n• jednosměrné jízdné: 80 Kč, jízdenka na 2 jízdy: 150 Kč, zvýhodněná jízdenka na 6 jízd: 350 Kč (elektrické tramvaje, trolejbusy a autobusy) </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusy </strong>pojedou v trase <strong>Náměstí Svobody – Milady Horákové – Drobného – Pionýrská – Kotlářská – Úvoz – Mendlovo náměstí – Křížkovského – Bauerova – Pisárky</strong>, v opačném směru <strong>Pisárky – Hlinky – Křížová – Vídeňská – Vojtova – Nové sady – Masarykova – Náměstí Svobody</strong>.<br />\n• nástup a výstup pouze na náměstí Svobody a v zastávce Pisárky<br />\n• interval: 15 minut<br />\n• jednosměrné jízdné: 80 Kč, jízdenka na 2 jízdy: 150 Kč, zvýhodněná jízdenka na 6 jízd: 350 Kč (elektrické tramvaje, trolejbusy a autobusy)</p>\n\n<p> </p>\n\n<p>Nostalgické linky budou v provozu přibližně do 18:00.</p>\n\n<p> </p>\n\n<p><strong>Neděle 15. června 2025</strong></p>\n\n<p><br />\nNostalgické linky budou v provozu od 13:00 do 17:45.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Koněspřežná tramvaj</strong> pojede v okružní trase Náměstí Svobody – Masarykova – Benešova – Rooseveltova – Rašínova – Náměstí Svobody.<br />\n• nástup a výstup pouze na náměstí Svobody<br />\n• interval: 60 minut<br />\n• jízdné: 300 Kč</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Parní tramvaj</strong> pojede v trase <strong>Náměstí Svobody – Hybešova – Václavská – Mendlovo náměstí</strong> a zpět.<br />\n• nástup a výstup pouze na náměstí Svobody a na Mendlově náměstí<br />\n• interval: 60 minut<br />\n• jednosměrné jízdné: 200 Kč, zpáteční jízdné: 300 Kč</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Elektrické tramvaje</strong> pojedou v okružní trase <strong>Náměstí Svobody – Rooseveltova – Cejl – Jugoslávská – Milady Horákové – Rooseveltova – Benešova – Náměstí Svobody</strong>.<br />\n• nástup a výstup pouze na náměstí Svobody<br />\n• interval: 15 minut<br />\n• jízdné: 80 Kč, jízdenka na 2 jízdy: 150 Kč, zvýhodněná jízdenka na 6 jízd: 350 Kč (jednu zvýhodněnou jízdenku je možné využít v sobotu i v neděli)</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády nostalgických linek – <a href=\"https://dpmb.cz/sites/default/files/infotabule/nostalgie_2025_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "X"
-      ]
-    },
-    {
-      "id": 31302,
-      "number": "V2506-035",
-      "title": "Výluka tramvají na náměstí Svobody",
-      "latitude": 49.195105,
-      "longitude": 16.608276,
-      "validFrom": "2025-06-14T09:45:00+02:00",
-      "validTo": "2025-06-15T18:15:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání tradiční Dopravní nostalgie bude vyloučen provoz pravidelných tramvajových linek přes náměstí Svobody:</p>\n\n<p>• <strong>v sobotu 14. června 2025 od 9:45 do 19:00</strong></p>\n\n<p>• <strong>v neděli 15. června 2025 od 12:45 do 18:15</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společnou s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase zastaví na zastávkách Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p> Omezení provozu se dotkne i <strong>tramvajové linky 8</strong> (ukončené na Hlavním nádraží v souvislosti s výlukou pod viadukty), která obslouží na <strong>Hlavním nádraží</strong> pro výstup zastávku na 2. koleji, na <strong>Malinovského náměstí</strong> obslouží pro nástup zastávku linek 2 a 7 směr Hlavní nádraží.<br />\n• Ostatní opatření zavedená v souvislosti s výlukou pod viadukty zůstávají v platnosti.</p>\n\n<p><br />\n<img alt=\"\" src=\"https://old.dpmb.cz/Data/Img/Image/DDI/no_tram13.png\" /></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> (ovlivněna výlukou pod viaduktem u hlavního nádraží) pojede ve směru na Lesnou v úseku Hlavní nádraží – Česká odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Zelný trh a Náměstí Svobody.<br />\n• Na odklonové trase obslouží zastávky Nové sady a Šilingrovo náměstí.<br />\n• Zastávku Česká obslouží společně s linkami 3, 5 a 6 v ulici Joštově.<br />\n• V opačném směru pojede ulicí Rooseveltovou dle platných opatření zavedených v souvislosti s výlukou pod viaduktem.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 12</strong> (ukončené na Hlavním nádraží v souvislosti s výlukou pod viadukty) pojede ve směru do centra v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak v tomto směru zastávky <strong>Šilingrovo náměstí</strong> a <strong>Nové sady</strong>.<br />\n• Na odklonové trase obslouží zastávku <strong>Malinovského náměstí</strong>.<br />\n• Zastávku <strong>Hlavní nádraží</strong> obslouží pro výstup i nástup na 1. koleji.<br />\n• V opačném směru pojede po aktuálně platné trase ulicí Husovou.<br />\n• Ostatní opatření zavedená v souvislosti s výlukou pod viadukty zůstávají v platnosti.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-035_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "4",
-        "8",
-        "9",
-        "12"
       ]
     },
     {
