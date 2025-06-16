@@ -131,7 +131,7 @@
       "longitude": 16.738851,
       "validFrom": "2025-06-16T07:00:00+02:00",
       "validTo": "2026-04-30T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Moutnice, u fary\u00A0je pro směr do Nesvačilky přesunuta cca 40 metrů vpřed k domu č. 246. ",
       "privateTextHtml": null,
       "type": "V",
