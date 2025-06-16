@@ -147,7 +147,7 @@
       "longitude": 16.653664,
       "validFrom": "2025-06-16T05:30:00+02:00",
       "validTo": "2025-07-20T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 509</strong></font>:\u00A0Zastávka Brno, Chrlice, smyčka obsluhována pouze spoji 363, 368, 373, 375, 377, 378 a 380. Ostatní spoje jedou odklonem a zastávku vynechávají. ",
       "privateTextHtml": null,
       "type": "V",
