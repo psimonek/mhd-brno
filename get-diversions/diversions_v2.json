@@ -57,6 +57,24 @@
       ]
     },
     {
+      "id": 31466,
+      "number": "V2506-038",
+      "title": "Výluka autobusů v ulici Karlově",
+      "latitude": 49.213487,
+      "longitude": 16.643814,
+      "validFrom": "2025-06-18T23:00:00+02:00",
+      "validTo": "2025-06-22T23:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu celoplošné opravy komunikace bude <strong>od 23:00 hod. ve středu 18. června 2025 nepřetržitě do 23:00 hod. v neděli 22. června 2025 </strong>neprůjezdná ulice Karlova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 57</strong> pojede v úseku <strong>Tomkovo náměstí – Proškovo náměstí</strong> obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávku Maloměřický most obslouží obousměrně na tramvajových zastávkách.<br />\n• Spoje běžně končící v zastávce Maloměřický most pojedou pouze do zastávky Merhautova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 75</strong> pojede v úseku <strong>Židenice, kasárna – Proškovo náměstí </strong>obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávku Maloměřický most obslouží obousměrně na tramvajových zastávkách.<br />\n• Ve směru na Starou osadu navíc obslouží zastávku Tomkovo náměstí (společnou s linkou 84).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N94</strong> pojede v úseku <strong>Tomkovo náměstí – Proškovo náměstí</strong> obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávky Tomkovo náměstí a Maloměřický most obslouží obousměrně na tramvajových zastávkách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-038_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek jsou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "57",
+        "75",
+        "N94"
+      ]
+    },
+    {
       "id": 118,
       "number": "VP 2506-064",
       "title": "žel. trať. jedna kolej Skalice n.Svit. - Letovice(N)",
@@ -172,6 +190,22 @@
       ]
     },
     {
+      "id": 97,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 122,
       "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
       "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
@@ -240,22 +274,6 @@
       "affectedLines": [
         "402",
         "405"
-      ]
-    },
-    {
-      "id": 97,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
@@ -423,6 +441,22 @@
       ]
     },
     {
+      "id": 104,
+      "number": "VP 2506-227",
+      "title": "Prostějov, Wolkerova a Újezd",
+      "latitude": 49.469686,
+      "longitude": 17.117386,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "755"
+      ]
+    },
+    {
       "id": 105,
       "number": "PO 2506-070",
       "title": "Prostějov, ul. Janáčkova I",
@@ -436,22 +470,6 @@
       "type": "V",
       "affectedLines": [
         "261",
-        "755"
-      ]
-    },
-    {
-      "id": 104,
-      "number": "VP 2506-227",
-      "title": "Prostějov, Wolkerova a Újezd",
-      "latitude": 49.469686,
-      "longitude": 17.117386,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-08-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "755"
       ]
     },
@@ -537,24 +555,19 @@
       ]
     },
     {
-      "id": 90,
-      "number": "2505 Brno, Jemelkova I",
-      "title": "Brno, Jemelkova - směr Bosonohy",
-      "latitude": 49.173147,
-      "longitude": 16.548715,
+      "id": 40,
+      "number": "VP 2505-224",
+      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
+      "latitude": 48.762749,
+      "longitude": 16.722338,
       "validFrom": "2025-05-19T00:00:00+02:00",
       "validTo": "2025-06-17T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Jemelkova je ve směru z centra Brna do regionu dočasně zrušena. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "69",
-        "N96",
-        "161",
-        "402",
-        "404",
-        "405"
+        "585"
       ]
     },
     {
@@ -574,19 +587,24 @@
       ]
     },
     {
-      "id": 40,
-      "number": "VP 2505-224",
-      "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
-      "latitude": 48.762749,
-      "longitude": 16.722338,
+      "id": 90,
+      "number": "2505 Brno, Jemelkova I",
+      "title": "Brno, Jemelkova - směr Bosonohy",
+      "latitude": 49.173147,
+      "longitude": 16.548715,
       "validFrom": "2025-05-19T00:00:00+02:00",
       "validTo": "2025-06-17T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 585</strong></font> pojede mezi Valticemi a Sedlecem - A POUZE V TOMTO SMĚRU - odklonem přes Lednici, bude na ní platit výlukový jízdní řád a nebudou během této výluky obsluhovány zastávky Valtice, bažantnice a Sedlec, sídliště. Toto opatření platí pouze ve směru Valtice - Mikulov, ve směru Mikulov - Valtice pojede linka po své běžné trase, ale bude mít přemístěnou zastávku Sedlec, sídliště VZAD.. ",
+      "publicTextHtml": "Zastávka Brno, Jemelkova je ve směru z centra Brna do regionu dočasně zrušena. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "585"
+        "69",
+        "N96",
+        "161",
+        "402",
+        "404",
+        "405"
       ]
     },
     {
@@ -631,22 +649,6 @@
       ]
     },
     {
-      "id": 62,
-      "number": "VP 2505-223",
-      "title": "Brno, ulice Zábrdovická",
-      "latitude": 49.201325,
-      "longitude": 16.634046,
-      "validFrom": "2025-05-18T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
-      ]
-    },
-    {
       "id": 30635,
       "number": "V2505-025",
       "title": "Výluka tramvají do Modřic",
@@ -661,6 +663,22 @@
       "affectedLines": [
         "2",
         "x2"
+      ]
+    },
+    {
+      "id": 62,
+      "number": "VP 2505-223",
+      "title": "Brno, ulice Zábrdovická",
+      "latitude": 49.201325,
+      "longitude": 16.634046,
+      "validFrom": "2025-05-18T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
       ]
     },
     {
