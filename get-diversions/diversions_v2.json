@@ -82,7 +82,7 @@
       "longitude": 16.579988,
       "validFrom": "2025-06-17T08:20:00+02:00",
       "validTo": "2025-06-24T13:40:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu nedostatečné kapacity trati jsou vybrané vlaky v úseku\u00A0Skalice n.S. - Letovice\u00A0a zpět nahrazeny náhradní autobusovou dopravou (NAD) dle výlukového jízdního řádu\u00A0linky xS2\u00A0a\u00A0 v úseku a v úseku\u00A0Letovice – Březová n.Svit.\u00A0jsou některé vlaky linky<font color=\"#800000\"><strong> S22</strong></font> odřeknuty a nahrazeny NAD jedoucí jako\u00A0linka xS22\u00A0podle\u00A0výlukového jízdního řádu.\u00A0Spoje linek NAD jsou vedeny po několika různých trasách. ",
       "privateTextHtml": null,
       "type": "V",
