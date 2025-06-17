@@ -112,22 +112,6 @@
       ]
     },
     {
-      "id": 50,
-      "number": "PO 2506-083",
-      "title": "Laa an der Thaya - náměstí, zastávky Laa a.d. Thaya, Stadtplatz",
-      "latitude": 48.720412,
-      "longitude": 16.384539,
-      "validFrom": "2025-06-17T06:00:00+02:00",
-      "validTo": "2025-06-17T16:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 104</strong></font>:\u00A0veškeré spoje, které mají na své pravidelné trase zastávku\u00A0Laa an der Thaya, Stadtplatz\u00A0ji budou vynechávat. Místo toho budou dočasně obsluhovat zastávku\u00A0Laa an der Thaya, Stadtfeldgasse, která se nachází na hlavní ulici\u00A0Staatsbahnstraße\u00A0směrem k vlakovému nádraží Laa a. d. Thaya, Bahnhof.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "104"
-      ]
-    },
-    {
       "id": 31465,
       "number": "V2506-037",
       "title": "Omezení dopravy v ulici Rebešovické",
@@ -443,22 +427,6 @@
       ]
     },
     {
-      "id": 54,
-      "number": "VP 2506-226",
-      "title": "Mikulov-Březí, silnice II/414",
-      "latitude": 48.815964,
-      "longitude": 16.595578,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "174"
-      ]
-    },
-    {
       "id": 104,
       "number": "VP 2506-227",
       "title": "Prostějov, Wolkerova a Újezd",
@@ -472,6 +440,22 @@
       "type": "V",
       "affectedLines": [
         "755"
+      ]
+    },
+    {
+      "id": 54,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "174"
       ]
     },
     {
@@ -573,6 +557,27 @@
       ]
     },
     {
+      "id": 90,
+      "number": "2505 Brno, Jemelkova I",
+      "title": "Brno, Jemelkova - směr Bosonohy",
+      "latitude": 49.173147,
+      "longitude": 16.548715,
+      "validFrom": "2025-05-19T00:00:00+02:00",
+      "validTo": "2025-06-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Jemelkova je ve směru z centra Brna do regionu dočasně zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "69",
+        "N96",
+        "161",
+        "402",
+        "404",
+        "405"
+      ]
+    },
+    {
       "id": 40,
       "number": "VP 2505-224",
       "title": "Silnice I/40 z Valtic do Sedlece - POUZE V TOMTO SMĚRU",
@@ -602,27 +607,6 @@
       "type": "V",
       "affectedLines": [
         "333"
-      ]
-    },
-    {
-      "id": 90,
-      "number": "2505 Brno, Jemelkova I",
-      "title": "Brno, Jemelkova - směr Bosonohy",
-      "latitude": 49.173147,
-      "longitude": 16.548715,
-      "validFrom": "2025-05-19T00:00:00+02:00",
-      "validTo": "2025-06-17T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Jemelkova je ve směru z centra Brna do regionu dočasně zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "69",
-        "N96",
-        "161",
-        "402",
-        "404",
-        "405"
       ]
     },
     {
@@ -778,22 +762,6 @@
       ]
     },
     {
-      "id": 56,
-      "number": "Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka v obou směrech",
-      "latitude": 49.539664,
-      "longitude": 16.702797,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251"
-      ]
-    },
-    {
       "id": 59,
       "number": "Pamětice, samota",
       "title": "Pamětice, samota v obou směrech",
@@ -824,6 +792,22 @@
       "type": "V",
       "affectedLines": [
         "257"
+      ]
+    },
+    {
+      "id": 56,
+      "number": "Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka v obou směrech",
+      "latitude": 49.539664,
+      "longitude": 16.702797,
+      "validFrom": "2025-05-05T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251"
       ]
     },
     {
@@ -993,6 +977,23 @@
       ]
     },
     {
+      "id": 19,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74"
+      ]
+    },
+    {
       "id": 24,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
@@ -1008,23 +1009,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 19,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
       ]
     },
     {
@@ -1187,6 +1171,22 @@
       ]
     },
     {
+      "id": 8,
+      "number": "PO 2502-010",
+      "title": "Dobšice, ul. Znojemská",
+      "latitude": 48.849326,
+      "longitude": 16.081517,
+      "validFrom": "2025-02-10T00:00:00+01:00",
+      "validTo": "2025-06-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "803"
+      ]
+    },
+    {
       "id": 7,
       "number": "PO 2502-011",
       "title": "Valtice, ulice Sobotní (terminál Valtice, aut. st.)",
@@ -1202,22 +1202,6 @@
         "555",
         "571",
         "585"
-      ]
-    },
-    {
-      "id": 8,
-      "number": "PO 2502-010",
-      "title": "Dobšice, ul. Znojemská",
-      "latitude": 48.849326,
-      "longitude": 16.081517,
-      "validFrom": "2025-02-10T00:00:00+01:00",
-      "validTo": "2025-06-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "803"
       ]
     },
     {
