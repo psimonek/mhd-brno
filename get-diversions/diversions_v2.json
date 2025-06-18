@@ -83,13 +83,33 @@
       "validFrom": "2025-06-18T23:00:00+02:00",
       "validTo": "2025-06-22T23:00:00+02:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu celoplošné opravy komunikace bude <strong>od 23:00 hod. ve středu 18. června 2025 nepřetržitě do 23:00 hod. v neděli 22. června 2025 </strong>neprůjezdná ulice Karlova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 57</strong> pojede v úseku <strong>Tomkovo náměstí – Proškovo náměstí</strong> obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávku Maloměřický most obslouží obousměrně na tramvajových zastávkách.<br />\n• Spoje běžně končící v zastávce Maloměřický most pojedou pouze do zastávky Merhautova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 75</strong> pojede v úseku <strong>Židenice, kasárna – Proškovo náměstí </strong>obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávku Maloměřický most obslouží obousměrně na tramvajových zastávkách.<br />\n• Ve směru na Starou osadu navíc obslouží zastávku Tomkovo náměstí (společnou s linkou 84).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N94</strong> pojede v úseku <strong>Tomkovo náměstí – Proškovo náměstí</strong> obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávky Tomkovo náměstí a Maloměřický most obslouží obousměrně na tramvajových zastávkách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-038_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek jsou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "publicTextHtml": "<p>Z důvodu celoplošné opravy komunikace bude <strong>od 23:00 hod. ve středu 18. června 2025 nepřetržitě do 23:00 hod. v neděli 22. června 2025 </strong>neprůjezdná ulice Karlova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 57</strong> pojede v úseku <strong>Tomkovo náměstí – Maloměřický most</strong> obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávku Maloměřický most obslouží obousměrně na tramvajových zastávkách.<br />\n• Spoje běžně končící v zastávce Maloměřický most pojedou pouze do zastávky Merhautova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 75</strong> pojede v úseku <strong>Židenice, kasárna – Maloměřický most </strong>obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávku Maloměřický most obslouží obousměrně na tramvajových zastávkách.<br />\n• Ve směru na Starou osadu navíc obslouží zastávku Tomkovo náměstí (společnou s linkou 84).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N94</strong> pojede v úseku <strong>Tomkovo náměstí – Maloměřický most </strong>obousměrným odklonem ulicí Valchařskou.<br />\n• Vynechá tak zastávky Karlova a Maloměřický most (v ul. Karlově).<br />\n• Zastávky Tomkovo náměstí a Maloměřický most obslouží obousměrně na tramvajových zastávkách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-038_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek jsou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "57",
         "75",
         "N94"
+      ]
+    },
+    {
+      "id": 31548,
+      "number": "",
+      "title": "Trvalé přeložení zastávky Výstaviště – hlavní vstup směr Mendlovo náměstí",
+      "latitude": 49.189421,
+      "longitude": 16.586668,
+      "validFrom": "2025-06-18T11:00:00+02:00",
+      "validTo": null,
+      "isValid": true,
+      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p><strong>  Od 11:00 hod. ve středu 18. června 2025 </strong>je zastávka<strong> Výstaviště – hlavní vstup</strong> pro linky <strong>25, 26, 37, 52 </strong>a <strong>N97</strong> ve směru na Mendlovo náměstí <strong>trvale přeložena</strong> přibližně o 230 metrů vpřed do ulice Veletržní poblíž Letohrádku Mitrovských.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "25",
+        "26",
+        "37",
+        "52",
+        "N97"
       ]
     },
     {
@@ -192,6 +212,22 @@
       ]
     },
     {
+      "id": 97,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 122,
       "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
       "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
@@ -243,22 +279,6 @@
       "type": "V",
       "affectedLines": [
         "333"
-      ]
-    },
-    {
-      "id": 97,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
@@ -427,20 +447,19 @@
       ]
     },
     {
-      "id": 105,
-      "number": "PO 2506-070",
-      "title": "Prostějov, ul. Janáčkova I",
-      "latitude": 49.474231,
-      "longitude": 17.128404,
+      "id": 54,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
       "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-06T23:59:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261. výstup\u00A0u provizorní zastávky v ul. Janáčkově (u křižovatky s ul. Svatoplukovou),, .<br/><br/> Linka\u00A0729755 – spoj 63. beze změny trasy, výstup i nadále v terminálu MHD,, .<br/><br/> Linka\u00A0729755 – spoj 66. objízdná trasa\u00A0po ulicích Vrahovická – Přemyslovka – Svatoplukova – Janáčkova. . Uvedené linky a spoje pojedou podle platného jízdního řádu.. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "261",
-        "755"
+        "174"
       ]
     },
     {
@@ -460,19 +479,20 @@
       ]
     },
     {
-      "id": 54,
-      "number": "VP 2506-226",
-      "title": "Mikulov-Březí, silnice II/414",
-      "latitude": 48.815964,
-      "longitude": 16.595578,
+      "id": 105,
+      "number": "PO 2506-070",
+      "title": "Prostějov, ul. Janáčkova I",
+      "latitude": 49.474231,
+      "longitude": 17.128404,
       "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
+      "validTo": "2025-07-06T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261. výstup\u00A0u provizorní zastávky v ul. Janáčkově (u křižovatky s ul. Svatoplukovou),, .<br/><br/> Linka\u00A0729755 – spoj 63. beze změny trasy, výstup i nadále v terminálu MHD,, .<br/><br/> Linka\u00A0729755 – spoj 66. objízdná trasa\u00A0po ulicích Vrahovická – Přemyslovka – Svatoplukova – Janáčkova. . Uvedené linky a spoje pojedou podle platného jízdního řádu.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "174"
+        "261",
+        "755"
       ]
     },
     {
