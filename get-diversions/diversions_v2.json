@@ -312,24 +312,6 @@
       ]
     },
     {
-      "id": 122,
-      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "latitude": 49.013275,
-      "longitude": 17.133822,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "671",
-        "672",
-        "673"
-      ]
-    },
-    {
       "id": 116,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
@@ -382,20 +364,21 @@
       ]
     },
     {
-      "id": 123,
-      "number": "PO 2506-082",
-      "title": "Popůvky I",
-      "latitude": 49.181759,
-      "longitude": 16.490479,
+      "id": 122,
+      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "latitude": 49.013275,
+      "longitude": 17.133822,
       "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-06-19T23:59:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 402</strong></font> a <font color=\"#009240\"><strong>405</strong></font>:\u00A0Projíždějí v Popůvkách po obousměrné objízdné trase, zastávku Popůvky, Vintrovna obsluhují\u00A0 u označníků linky<font color=\"#009240\"><strong> 161</strong></font> v ulici Chaloupky.\u00A0. ",
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "402",
-        "405"
+        "671",
+        "672",
+        "673"
       ]
     },
     {
@@ -547,22 +530,6 @@
       ]
     },
     {
-      "id": 54,
-      "number": "VP 2506-226",
-      "title": "Mikulov-Březí, silnice II/414",
-      "latitude": 48.815964,
-      "longitude": 16.595578,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "174"
-      ]
-    },
-    {
       "id": 105,
       "number": "PO 2506-070",
       "title": "Prostějov, ul. Janáčkova I",
@@ -593,6 +560,22 @@
       "type": "V",
       "affectedLines": [
         "755"
+      ]
+    },
+    {
+      "id": 54,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "174"
       ]
     },
     {
@@ -826,22 +809,6 @@
       ]
     },
     {
-      "id": 55,
-      "number": "Tasovice, rozc. 1.0",
-      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
-      "latitude": 49.511055,
-      "longitude": 16.434882,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-29T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "257"
-      ]
-    },
-    {
       "id": 59,
       "number": "Pamětice, samota",
       "title": "Pamětice, samota v obou směrech",
@@ -856,6 +823,22 @@
       "affectedLines": [
         "253",
         "277"
+      ]
+    },
+    {
+      "id": 55,
+      "number": "Tasovice, rozc. 1.0",
+      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
+      "latitude": 49.511055,
+      "longitude": 16.434882,
+      "validFrom": "2025-05-05T00:00:00+02:00",
+      "validTo": "2025-06-29T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "257"
       ]
     },
     {
@@ -1041,23 +1024,6 @@
       ]
     },
     {
-      "id": 19,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
-      ]
-    },
-    {
       "id": 24,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
@@ -1073,6 +1039,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 19,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74"
       ]
     },
     {
