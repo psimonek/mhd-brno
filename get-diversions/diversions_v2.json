@@ -108,7 +108,7 @@
       "longitude": 16.594532,
       "validFrom": "2025-06-21T00:00:00+02:00",
       "validTo": "2025-09-28T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p><strong>Od soboty 21. června 2025 </strong>bude vždy o víkendech a svátcích v provozu <strong>linka H4</strong>, jejíž provoz zajištuje historická tramvaj Dopravního podniku města Brna.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka H4 </strong>bude v provozu v trase <strong>Komenského náměstí – Česká – Náměstí Svobody – Zelný trh – Hlavní nádraží  – Nové sady – Hybešova – Václavská – Mendlovo náměstí</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Na lince H4 platí běžný tarif IDS JMK s výjimkou přepravy jízdních kol a nadměrných zavazadel, která není v historických vozidlech povolena. Provoz historické linky se předpokládá do neděle 28. září 2025.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> Jízdní řád linky H4 je k dispozici <em>v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "D",
