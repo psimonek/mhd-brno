@@ -155,23 +155,6 @@
       ]
     },
     {
-      "id": 109,
-      "number": "VP 2506-065",
-      "title": "žel. trať. Hrušovany u Brna - Židlochovice",
-      "latitude": 49.028821,
-      "longitude": 16.604668,
-      "validFrom": "2025-06-21T08:15:00+02:00",
-      "validTo": "2025-06-21T15:45:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S3</strong></font> budou v úseku\u00A0Hrušovany u Brna – Židlochovice\u00A0nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle jízdního řádu\u00A0linky xS3.",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3"
-      ]
-    },
-    {
       "id": 92,
       "number": "PO 2506-089",
       "title": "Ladná, silnice III/00221 u letiště",
@@ -253,30 +236,6 @@
       ]
     },
     {
-      "id": 90,
-      "number": "VP 2506-232",
-      "title": "Rally Hustopečsko",
-      "latitude": 48.959316,
-      "longitude": 16.770562,
-      "validFrom": "2025-06-20T16:00:00+02:00",
-      "validTo": "2025-06-21T16:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Vybrané spoje linek<font color=\"#009240\"><strong> 165</strong></font>, <font color=\"#009240\"><strong> 522</strong></font>, <font color=\"#009240\"><strong> 541</strong></font>, <font color=\"#009240\"><strong> 551</strong></font> a <font color=\"#009240\"><strong>612</strong></font> pojedou odlišně v části trasy kvůli uzavírkám silnic z důvodu pořádání závodu Agrotec Rally 2025. Budou také zřízeny 2 linky náhradní přepravy (x522, x612), které zajistí pořadatel závodu. PÁTEK 20. 06. 2025.<br/><br/> Linka<font color=\"#009240\"><strong> 522</strong></font>\u00A0- spoje 37, 39, 135, 43, 137 + 134, 38, 136, 42, 44 jedou mimo Kurdějov. Náhradní spoje zajistí mimořádná linka<font color=\"#009240\"><strong> x522</strong></font>., Linka<font color=\"#009240\"><strong> 541</strong></font>\u00A0- spoje 21, 23, 25 + 22, 24 nejedou přes Horní Bojanovice.\u00A0Náhradní spoje zajistí mimořádná linka<font color=\"#009240\"><strong> x522</strong></font>., Linka<font color=\"#009240\"><strong> 551</strong></font>\u00A0- spoje 23, 25, 27 + 24, 112, 26, 28 nejedou přes Němčičky. Tuto obec obslouží mimořádné spoje linky<font color=\"#009240\"><strong> 551</strong></font> v trase Velké Pavlovice - Němčičky, ZD a zpět.. SOBOTA 21. 06. 2025.<br/><br/> Linka<font color=\"#009240\"><strong> 165</strong></font>\u00A0- spoje 208 a 212 pojedou mimo zastávku Starovice, ZD., Linka<font color=\"#009240\"><strong> 522</strong></font>\u00A0- spoje 335, 207, 337, 211 + 208, 336, 212, 338 jedou mimo Nikolčice, Diváky a Kurdějov. Kurdějov obslouží mimořádné spoje linky<font color=\"#009240\"><strong> 522</strong></font> v trase Hustopeče - Kurdějov, most a zpět, do Divák bude zavedena mimořádná linka<font color=\"#009240\"><strong> x612</strong></font>, do Nikolčic pojedou speciální spoje linky<font color=\"#009240\"><strong> 612</strong></font>., Linka<font color=\"#009240\"><strong> 541</strong></font>\u00A0- spoje 201+203+204 nejedou přes obec Horní Bojanovice, tyto spoje zastaví pouze na přesunuté zastávce Horní Bojanovice, rozc. 1.0 u křižovatky se silnicí na V. Pavlovice nad obcí., Linka<font color=\"#009240\"><strong> 612</strong></font>\u00A0- spoje 105, 201, 107 + 202, 108, 204, 110 končí/začínají v Šitbořicích, neobsluhují tak obce Diváky a Boleradice. Ty obslouží mimořádná linka<font color=\"#009240\"><strong> x612</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "74",
-        "109",
-        "165",
-        "522",
-        "541",
-        "551",
-        "612",
-        "x522",
-        "x612"
-      ]
-    },
-    {
       "id": 42,
       "number": "PO 2506-085",
       "title": "Hrušovany nad Jevišovkou, náměstí Míru - slavnosti",
@@ -353,22 +312,6 @@
       ]
     },
     {
-      "id": 85,
-      "number": "ZAS Stvolová",
-      "title": "Stvolová (v obou směrech)",
-      "latitude": 49.589105,
-      "longitude": 16.543618,
-      "validFrom": "2025-06-17T00:00:00+02:00",
-      "validTo": "2025-06-22T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchů silnice I/43 na území obce Stvolová (etapa opravy úseku v intravilánu obce od křižovatky s MK dále ve směru na Svitavy) budou po dobu částečné uzavírky (kyvadlový provoz) zastávky Stvolová přeloženy v obou směrech o cca 120 m blíže k Letovicím. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "273"
-      ]
-    },
-    {
       "id": 84,
       "number": "PO 2506-084",
       "title": "Skrchov",
@@ -398,6 +341,22 @@
       "type": "V",
       "affectedLines": [
         "N95"
+      ]
+    },
+    {
+      "id": 85,
+      "number": "ZAS Stvolová",
+      "title": "Stvolová (v obou směrech)",
+      "latitude": 49.589105,
+      "longitude": 16.543618,
+      "validFrom": "2025-06-17T00:00:00+02:00",
+      "validTo": "2025-06-22T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy povrchů silnice I/43 na území obce Stvolová (etapa opravy úseku v intravilánu obce od křižovatky s MK dále ve směru na Svitavy) budou po dobu částečné uzavírky (kyvadlový provoz) zastávky Stvolová přeloženy v obou směrech o cca 120 m blíže k Letovicím. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "273"
       ]
     },
     {
@@ -465,22 +424,6 @@
       ]
     },
     {
-      "id": 116,
-      "number": "Lysovice, ObÚ",
-      "title": "Lysovice, ObÚ",
-      "latitude": 49.217748,
-      "longitude": 16.970479,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-07-20T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobslouží Lysovice, ObÚ. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "751"
-      ]
-    },
-    {
       "id": 108,
       "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
       "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
@@ -496,6 +439,22 @@
         "671",
         "672",
         "673"
+      ]
+    },
+    {
+      "id": 116,
+      "number": "Lysovice, ObÚ",
+      "title": "Lysovice, ObÚ",
+      "latitude": 49.217748,
+      "longitude": 16.970479,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-07-20T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobslouží Lysovice, ObÚ. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "751"
       ]
     },
     {
@@ -667,6 +626,22 @@
       ]
     },
     {
+      "id": 88,
+      "number": "VP 2506-227",
+      "title": "Prostějov, Wolkerova a Újezd",
+      "latitude": 49.469686,
+      "longitude": 17.117386,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "755"
+      ]
+    },
+    {
       "id": 45,
       "number": "VP 2506-226",
       "title": "Mikulov-Březí, silnice II/414",
@@ -696,22 +671,6 @@
       "type": "V",
       "affectedLines": [
         "261",
-        "755"
-      ]
-    },
-    {
-      "id": 88,
-      "number": "VP 2506-227",
-      "title": "Prostějov, Wolkerova a Újezd",
-      "latitude": 49.469686,
-      "longitude": 17.117386,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-08-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "755"
       ]
     },
@@ -946,22 +905,6 @@
       ]
     },
     {
-      "id": 46,
-      "number": "Tasovice, rozc. 1.0",
-      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
-      "latitude": 49.511055,
-      "longitude": 16.434882,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-29T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "257"
-      ]
-    },
-    {
       "id": 47,
       "number": "Knínice, horní zastávka",
       "title": "Knínice, horní zastávka v obou směrech",
@@ -975,6 +918,22 @@
       "type": "V",
       "affectedLines": [
         "251"
+      ]
+    },
+    {
+      "id": 46,
+      "number": "Tasovice, rozc. 1.0",
+      "title": "Tasovice, rozc. 1.0 (v obou směrech)",
+      "latitude": 49.511055,
+      "longitude": 16.434882,
+      "validFrom": "2025-05-05T00:00:00+02:00",
+      "validTo": "2025-06-29T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu sanace skalních stěn nad komunikací I/19 a její částečné uzavírky\u00A0v křižovatce se silnicí směr Tasovice bude přesunuta zastávka Tasovice, rozc. 1.0 v obou směrech na silnici I/19 o cca 120 m blíže obci Hodonín u Kunštátu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "257"
       ]
     },
     {
@@ -1145,6 +1104,23 @@
       ]
     },
     {
+      "id": 17,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74"
+      ]
+    },
+    {
       "id": 22,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
@@ -1160,23 +1136,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 17,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
       ]
     },
     {
@@ -1339,22 +1298,6 @@
       ]
     },
     {
-      "id": 8,
-      "number": "PO 2502-010",
-      "title": "Dobšice, ul. Znojemská",
-      "latitude": 48.849326,
-      "longitude": 16.081517,
-      "validFrom": "2025-02-10T00:00:00+01:00",
-      "validTo": "2025-06-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "803"
-      ]
-    },
-    {
       "id": 7,
       "number": "PO 2502-011",
       "title": "Valtice, ulice Sobotní (terminál Valtice, aut. st.)",
@@ -1370,6 +1313,22 @@
         "555",
         "571",
         "585"
+      ]
+    },
+    {
+      "id": 8,
+      "number": "PO 2502-010",
+      "title": "Dobšice, ul. Znojemská",
+      "latitude": 48.849326,
+      "longitude": 16.081517,
+      "validFrom": "2025-02-10T00:00:00+01:00",
+      "validTo": "2025-06-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "803"
       ]
     },
     {
