@@ -25,7 +25,7 @@
       "longitude": 16.536304,
       "validFrom": "2025-06-23T08:00:00+02:00",
       "validTo": "2025-08-18T23:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p><span><span>Od pondělí <strong>23. června 2025 od 08:00 hod. do ukončení prací</strong> (předpoklad 18.08.2025) bude z důvodu výkopových prací (rekonstrukce plynovodu) dočasně přeložena zastávka<strong> Žebětínská </strong>pro linky 52 a N90 v obou směrech následovně:</span></span></p>\n\n<ul>\n\t<li><span><span>směr centrum – cca o 185 metrů vzad </span></span></li>\n\t<li><span><span>směr z centra – cca o 225 metrů vpřed </span></span></li>\n</ul>\n\n<p> </p>\n",
       "privateTextHtml": null,
       "type": "Z",
