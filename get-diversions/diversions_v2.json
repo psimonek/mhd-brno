@@ -355,22 +355,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
       "id": 116,
       "number": "Lysovice, ObÚ",
       "title": "Lysovice, ObÚ",
@@ -384,6 +368,22 @@
       "type": "V",
       "affectedLines": [
         "751"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
       ]
     },
     {
@@ -412,7 +412,7 @@
       "longitude": 16.521658,
       "validFrom": "2025-06-14T18:30:00+02:00",
       "validTo": "2025-06-26T00:30:00+02:00",
-      "isValid": true,
+      "isValid": false,
       "publicTextHtml": "<p>V rámci festivalu Ignis Brunensis se uskuteční tradiční soutěžní přehlídka ohňostrojů nad hladinou Brněnské přehrady. Ohňostroje budou odpáleny <strong>v sobotu 14. června, ve středu 18. června, v sobotu 21. června a ve středu 25. června 2025 vždy ve 22:30</strong>. V uvedených dnech proto budou přijata následující opatření:</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Přibližně <strong>od 18:30</strong> bude posílen provoz na <strong>linkách 1, </strong><strong>30 a 50</strong> ve směru do Bystrce. Navíc budou v provozu posilové tramvajové linky <strong>P1</strong> v trase <strong>(Komárov –) Hlavní nádraží – Mendlovo náměstí – Pisárky – Vozovna Komín – Přístaviště – Ečerova </strong>a <strong>P9</strong> v trase <strong>Čertova rokle – Jugoslávská – Česká – Tábor – Vozovna Komín – Přístaviště – Rakovecká</strong>.<br />\n• Spoje linky 3 budou přibližně od 21:00 prodlouženy na Rakoveckou, od 22:00 pak budou spoje linek 3 a 12 prodlouženy na Ečerovu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Po ukončení ohňostroje bude posilován provoz na <strong>linkách 1, 3</strong><strong>, 12, 30 a 50</strong> ve směru z Bystrce a bude prodloužen přibližně <strong>do 0:30</strong>.<br />\n• V provozu budou i posilové tramvajové <strong>linky</strong> <strong>P1</strong> v trase <strong>Přístaviště – Vozovna Komín – Pisárky – Mendlovo náměstí – Hlavní nádraží</strong> a <strong>P9</strong> v trase <strong>Přístaviště – Vozovna Komín – Tábor – Česká – Jugoslávská – Čertova rokle</strong>.<br />\n• Navíc bude <strong>do 0:30 </strong>prodloužen i provoz na <strong>lince 8</strong>.<br />\n• Mimořádné posilové spoje budou zajištěny také na regionálních linkách 302 a 303.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu řazení posilových tramvají bude <strong>od 22:25 vyloučen provoz tramvají v úseku Ečerova – Přístaviště</strong> ve směru do centra. Zastávky Ečerova, Ondrouškova, Kubíčkova a Rakovecká nebudou v uvedeném směru obsluhovány, náhradou je možné využít noční autobusovou linku N98 (pozor, linka N98 pojede odklonem ulicí Odbojářskou), případně od smyčky Rakovecká pěším přesunem k zastávce Přístaviště. Ve směru na Ečerovu bude provoz tramvají zachován.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> V době <strong>od 22:15 do 0:15</strong> bude z důvodu uzavírky komunikací v oblasti Přístaviště noční <strong>linka N98</strong> ve směru k hlavnímu nádraží od zastávky Ondrouškova odkloněna ulicí Odbojářskou. Vynechá tak zastávky Kubíčkova, Rakovecká, Přístaviště a Zoologická zahrada, náhradou zastaví na zastávkách Wollmanova, Laštůvkova, Vondrákova a Náměstí 28. dubna.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> V době <strong>od 22:45 do 0:00</strong> bude pro veškerou silniční dopravu uzavřen kolejový přejezd u zastávky Kamenolom. Na spojích trolejbusové <strong>linky 30</strong> projíždějících touto oblastí pojedou parciální trolejbusy v úseku Lísky – Náměstí 28. dubna v obou směrech odklonem ulicí Kníničskou. Vynechají tak zastávky Podlesí a Kamenolom. Od zastávky Podlesí (přestup z tramvají od Bystrce) budou po ukončení ohňostroje řazeny posilové spoje linky 30 směr Královo Pole, nádraží. <strong>Ve středu 25. června budou posilové spoje z důvodu výluky Kníničská řazeny až od zastávky Svratecká. </strong>Regionální autobusová linka 302 bude odjíždět od zastávky Pod Mniší horou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> S ohledem na očekávanou nepravidelnost provozu bude v době <strong>od 22:30 do 0:15</strong> zrušena přestupní návaznost mezi <strong>linkami N89, N92, N93 a N98</strong> v zastávce Svratecká ve směru k hlavnímu nádraží.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření </em> – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_z2506-049_ignis_a.pdf\" target=\"_blank\"><em>ke stažení</em></a></p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -428,24 +428,6 @@
         "50",
         "302",
         "303"
-      ]
-    },
-    {
-      "id": 104,
-      "number": "ZDO 2506-005",
-      "title": "Brněnská přehrada a okolí",
-      "latitude": 49.227605,
-      "longitude": 16.531524,
-      "validFrom": "2025-06-14T18:00:00+02:00",
-      "validTo": "2025-06-26T00:30:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Na\u00A0lince<font color=\"#009240\"><strong> 302</strong></font>\u00A0jsou v souvislosti s konáním ohňostrojů řazeny posilové spoje dle mimořádného jízdního řádu a bude platit následující organizace dopravy:. odjezdy autobusů z Kuřimi, žel.st. do Brna, Bystrce: od 19:23 v intervalu 30 minut do 21:23 a následně 21:48 a 22:13 hod., v nepracovních dnech jsou navíc spoje v 18:23 a v 19:53 hod. z Kuřimi, žel.st. zajištěny 2 autobusy,, spoje s odjezdy z Kuřimi, žel.st. do 20:53 hod. včetně jsou v Brně vedeny až do terminálu Zoologická zahrada, další spoje jsou již ukončeny v zastávce Brno, Pod Mniší horou, Ve středu 25.6.2025, tedy v\u00A0době částečné uzavírky silnice Kníničské, jsou všechny spoje ukončeny v zastávce Brno, Pod Mniší horou. Zastávka Pod Mniší horou směr Kuřim je během výluky přeložena blíže k lávce přes řeku Svratku., poslední pravidelný spoj linky<font color=\"#009240\"><strong> 302</strong></font> z Kuřimi do Brna bude ukončen již v zastávce Brno, Pod Mniší horou - spoj č. 33 v pracovních dnech, resp. spoj č. 219 v nepracovních dnech,, poslední pravidelný spoj linky<font color=\"#009240\"><strong> 302</strong></font> z Brna do Kuřimi bude výchozí až ze zastávky Brno, Pod Mniší horou - spoj č. 34 v pracovních dnech, resp. spoj č. 220 v nepracovních dnech,, odjezdy autobusů z Brna, Pod Mniší horou do Kuřimi, žel.st.: 22:59, 23:09, 23:24 a 23:39 hod.,, spoj s odjezdem ve 23:24 hod. z Brna pokračuje z Kuřimi přes Moravské Knínice, Chudčice, Sentice a Hradčany až do Tišnova,, spoj s odjezdem ve 23:39 hod. z Brna pokračuje z Kuřimi přes Čebín, Malhostovice a Drásov až do Tišnova,, noční spoje s odjezdem z Brna, U Luhu do Kuřimi v 0:30 a ve 2:30 hod. jsou vedeny pouze v noci ze soboty na neděli 14. 6./15. 6. a 21. 6./22. 6. 2025,\u00A0\u00A0, jsou zrušeny večerní garantované návaznosti linky<font color=\"#009240\"><strong> 302</strong></font> na tramvajovou linku<font color=\"#D40000\"><strong> 1</strong></font> a autobusovou linku<font color=\"#2C89C8\"><strong> 50</strong></font> v zastávce Zoologická zahrada,, . Na\u00A0lince<font color=\"#009240\"><strong> 303</strong></font>\u00A0jsou nad rámec běžného jízdního řádu rovněž zajištěny posilové spoje takto:. odjezdy autobusů z Veverské Bítýšky, nám. do Brna, Bystrce, Zoo\u00A0(v návaznosti na spoje linky<font color=\"#009240\"><strong> 153</strong></font> a linky<font color=\"#009240\"><strong> 312</strong></font> od Braníškova): 19:21 (přes Mečkov), 20:21 (přes Mečkov), 21:15 (přes Hvozdec) a 22:11 hod. (přes Mečkov), navíc spoj ve 20:21 hod. z Veverské Bítýšky, nám. je zajištěn 2 autobusy,, odjezd autobusu z Brna, Bystrce, Zoo přes Hvozdec do Veverské Bítýšky, nám.: 23:23 hod.\u00A0(navazuje linka<font color=\"#009240\"><strong> 312</strong></font> do Braníškova), před tímto spojem bude zařazen posilový autobus z Rakovecké přes Hvozdec do Veverské Bítýšky, nám. s odjezdem ve 23:11 hod. Pravidelný spoj č. 222\u00A0linky<font color=\"#009240\"><strong> 312</strong></font>\u00A0s odjezdem ve 23:48 hod. z Veverské Bítýšky do Lažánek bude v sobotu 14. 6. a 21. 6. 2025 prodloužen až do Braníškova\u00A0(v návaznosti na linku 303).. . ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "303",
-        "312"
       ]
     },
     {
@@ -551,6 +533,22 @@
       ]
     },
     {
+      "id": 88,
+      "number": "VP 2506-227",
+      "title": "Prostějov, Wolkerova a Újezd",
+      "latitude": 49.469686,
+      "longitude": 17.117386,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "755"
+      ]
+    },
+    {
       "id": 89,
       "number": "PO 2506-070",
       "title": "Prostějov, ul. Janáčkova I",
@@ -564,22 +562,6 @@
       "type": "V",
       "affectedLines": [
         "261",
-        "755"
-      ]
-    },
-    {
-      "id": 88,
-      "number": "VP 2506-227",
-      "title": "Prostějov, Wolkerova a Újezd",
-      "latitude": 49.469686,
-      "longitude": 17.117386,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-08-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 755</strong></font>:<br/><br/>\u00A0Linka ve směru do Prostějova jede jednosměrným odklonem ul. Brněnská –\u00A0 Wolkerova\u00A0 – Dolní – Letecká - Pražská. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "755"
       ]
     },
@@ -814,6 +796,23 @@
       ]
     },
     {
+      "id": 50,
+      "number": "Pamětice, samota",
+      "title": "Pamětice, samota v obou směrech",
+      "latitude": 49.546942,
+      "longitude": 16.641326,
+      "validFrom": "2025-05-05T00:00:00+02:00",
+      "validTo": "2025-06-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu výstavby a rekonstrukce chodníků a rekonstrukce autobusových zastávek budou dočasně přeloženy zastávky Pamětice, samota:. směr Letovice přibližně o 50 metrů vzad,, směr Vanovice přibližně o 80 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "253",
+        "277"
+      ]
+    },
+    {
       "id": 46,
       "number": "Tasovice, rozc. 1.0",
       "title": "Tasovice, rozc. 1.0 (v obou směrech)",
@@ -843,23 +842,6 @@
       "type": "V",
       "affectedLines": [
         "251"
-      ]
-    },
-    {
-      "id": 50,
-      "number": "Pamětice, samota",
-      "title": "Pamětice, samota v obou směrech",
-      "latitude": 49.546942,
-      "longitude": 16.641326,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-06-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu výstavby a rekonstrukce chodníků a rekonstrukce autobusových zastávek budou dočasně přeloženy zastávky Pamětice, samota:. směr Letovice přibližně o 50 metrů vzad,, směr Vanovice přibližně o 80 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "253",
-        "277"
       ]
     },
     {
