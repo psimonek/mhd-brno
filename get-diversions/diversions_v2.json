@@ -430,7 +430,7 @@
       "longitude": 16.619514,
       "validFrom": "2025-06-28T06:00:00+02:00",
       "validTo": "2025-06-29T20:30:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu výměny kolejových objektů v křižovatce ulic Křenová a Dornych pojedou <strong>od 6:00 hod. v sobotu 28. června 2025 do 20:30 hod. v neděli 29. června 2025 </strong>autobusové <strong>linky 67, E76, N89, N96</strong> a <strong>N98</strong> ve směru z centra v úseku Hlavní nádraží – Masná odklonem ulicemi Cejl a Špitálkou.<br />\n• Zastávku <strong>Vlhká</strong> ve směru z centra tak obslouží v přeložené poloze o cca 100 metrů vpřed za křižovatkou ulic Křenové a Špitálky.</p>\n",
       "privateTextHtml": null,
       "type": "Z",
