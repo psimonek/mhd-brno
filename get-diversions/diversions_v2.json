@@ -458,26 +458,6 @@
       ]
     },
     {
-      "id": 31505,
-      "number": "V2506-041",
-      "title": "Omezení dopravy v ulici Elišky Přemyslovny",
-      "latitude": 49.164336,
-      "longitude": 16.565516,
-      "validFrom": "2025-06-23T04:30:00+02:00",
-      "validTo": "2025-06-27T22:30:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p><em>AKTUALIZACE: 27.6.2025: Výluka bude předčasně ukončena dnes, tj. 27.6.2025, ve 22:30. Noční autobusový provoz bude veden po standartních trasách.</em></p>\n\n<p>Z důvodu celoplošné opravy povrchu komunikace bude <strong>od 4:30 hod. v pondělí 23. června 2025. do ukončení prací</strong> (předpoklad do 29. června 2025) omezen průjezd ulicí Elišky Přemyslovny.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka E50</strong> pojede mezi zastávkami <strong>Starý Lískovec, smyčka – Humenná </strong>jednosměrným odklonem U hřiště, Kosmonautů a Osovou.<br />\n• Ve směru do Komárova tak vynechá zastávku Čermákova.<br />\n• Na odklonové trase obslouží zastávku Valašská.<br />\n• Ve směru do Kohoutovic pojede po běžné trase ulicí Elišky Přemyslovny.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 69</strong> pojede mezi zastávkami <strong>Starý Lískovec, smyčka – Osová</strong> jednosměrným odklonem ulicemi U hřiště a Kosmonautů.<br />\n• Ve směru na Osovou tak vynechá zastávky Točná, Čermákova, Svah a Kosmonautů.<br />\n• Na odklonové trase obslouží zastávky U hřiště (v přeložené poloze v ulici U Hřiště) a Valašskou.<br />\n• Ve směru do Bosonoh pojede po běžné trase ulicí Elišky Přemyslovny, vynechá však zastávku Svah. </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Noční autobusová linka N96</strong> pojede mezi zastávkami <strong>Dunajská – Humenná </strong>jednosměrným odklonem U hřiště, Kosmonautů a Osovou.<br />\n• Ve směru do centra tak vynechá zastávky Točná a Čermákova.<br />\n• Na odklonové trase obslouží zastávky U hřiště (v přeložené poloze v ulici U Hřiště) a Valašskou.<br />\n• Zastávku Svah ve směru do centra obslouží v přeložené poloze za křižovatkou s ulicí Osovou.<br />\n• Ve směru do Bosonoh pojede po běžné trase ulicí Elišky Přemyslovny, vynechá však zastávku Svah. </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Regionální autobusová linka 403</strong> pojede mezi zastávkami <strong>Pod dálnicí – Osová </strong>jednosměrným odklonem ulicemi U hřiště a Kosmonautů.<br />\n• Ve směru na Osovou tak vynechá zastávky Točná, Čermákova, Svah a Kosmonautů.<br />\n• Na odklonové trase obslouží zastávky U hřiště a Valašskou.<br />\n• Ve směru do Troubska pojede po běžné trase ulicí Elišky Přemyslovny, vynechá však zastávku Svah.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Regionální autobusová linka 502</strong> pojede obousměrně po běžné trase, ve směru do Ostopovic však vynechá zastávku Svah.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-041_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "E50",
-        "69",
-        "N96",
-        "403",
-        "502"
-      ]
-    },
-    {
       "id": 31504,
       "number": "V2506-040",
       "title": "Omezení dopravy v ulici Kníničské – 1. etapa",
@@ -628,37 +608,19 @@
       ]
     },
     {
-      "id": 97,
-      "number": "Tišnov, Lomnická",
-      "title": "Tišnov, Lomnická (oba směry)",
-      "latitude": 49.355328,
-      "longitude": 16.428746,
+      "id": 80,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
       "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-07-20T23:59:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací na vodovodu v prostoru zastávky Tišnov, Lomnická bude zastávka v obou směrech přeložena o cca 100 m směrem do centra Tišnova. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "333"
-      ]
-    },
-    {
-      "id": 110,
-      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "latitude": 49.013275,
-      "longitude": 17.133822,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "671",
-        "672",
-        "673"
+        "822"
       ]
     },
     {
@@ -682,19 +644,37 @@
       ]
     },
     {
-      "id": 80,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
+      "id": 110,
+      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "latitude": 49.013275,
+      "longitude": 17.133822,
       "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "822"
+        "671",
+        "672",
+        "673"
+      ]
+    },
+    {
+      "id": 97,
+      "number": "Tišnov, Lomnická",
+      "title": "Tišnov, Lomnická (oba směry)",
+      "latitude": 49.355328,
+      "longitude": 16.428746,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-07-20T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu stavebních prací na vodovodu v prostoru zastávky Tišnov, Lomnická bude zastávka v obou směrech přeložena o cca 100 m směrem do centra Tišnova. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
       ]
     },
     {
@@ -802,6 +782,22 @@
       ]
     },
     {
+      "id": 45,
+      "number": "VP 2506-226",
+      "title": "Mikulov-Březí, silnice II/414",
+      "latitude": 48.815964,
+      "longitude": 16.595578,
+      "validFrom": "2025-06-02T00:00:00+02:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "174"
+      ]
+    },
+    {
       "id": 87,
       "number": "PO 2506-070",
       "title": "Prostějov, ul. Janáčkova I",
@@ -816,22 +812,6 @@
       "affectedLines": [
         "261",
         "755"
-      ]
-    },
-    {
-      "id": 45,
-      "number": "VP 2506-226",
-      "title": "Mikulov-Březí, silnice II/414",
-      "latitude": 48.815964,
-      "longitude": 16.595578,
-      "validFrom": "2025-06-02T00:00:00+02:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font>\u00A0- směr do Mikulova pojede mezi zastávkami Březí a Mikulov, Brněnská jednosměrným odklonem po silnicích II/414, III/4146, III/4147, I/52 a II/421 přes obec Dolní Dunajovice. Ve směru Drnholec pojede po své pravidelné trase opravovaným úsekem silnice II/414 mezi Mikulovem a obcí Březí. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "174"
       ]
     },
     {
