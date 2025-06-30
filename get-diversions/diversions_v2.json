@@ -61,7 +61,7 @@
       "longitude": 16.576065,
       "validFrom": "2025-06-30T08:00:00+02:00",
       "validTo": "2025-08-31T23:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu rekonstrukce nástupní plochy je tramvajová zastávka <strong>ARENA BRNO</strong> ve směru do centra <strong>od 8:00 hod. v pondělí 30. června 2025 do ukončení prací</strong> (předpoklad do 31. srpna 2025) přeložena na nástupiště v tramvajové smyčce.</p>\n",
       "privateTextHtml": null,
       "type": "Z",
