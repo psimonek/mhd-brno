@@ -17,6 +17,23 @@
       ]
     },
     {
+      "id": 31981,
+      "number": "V2507-048",
+      "title": "Omezení dopravy v ulicích Poříčí a Opuštěná",
+      "latitude": 49.184769,
+      "longitude": 16.602715,
+      "validFrom": "2025-07-07T04:30:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p><span><span>Z důvodu rekonstrukce komunikace bude <strong>od 4:30 hod. v pondělí 7. července 2025 do ukončení prací</strong> (předpoklad do konce srpna 2025) omezen průjezd ulicemi Poříčí a Opuštěnou.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 44</strong> pojede v úseku <strong>Mendlovo náměstí – ÚAN Zvonařka</strong> odklonem ulicemi Václavskou, Hybešovou a Uhelnou.<br />\n• Vynechá tak zastávky <strong>Poříčí</strong> a <strong>Křídlovická</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Václavská,</strong> <strong>Hybešova </strong>a<strong> Soukenická</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><strong> Autobusová linka 84</strong> pojede v úseku <strong>Autobusové nádraží – Mendlovo náměstí</strong> odklonem ulicemi Trnitou, Úzkou, Hybešovou a Václavskou.<br />\n• Vynechá tak zastávky <strong>Opuštěná</strong>, <strong>Křídlovická</strong> a <strong>Poříčí</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Úzká, Soukenická, </strong><strong>Hybešova </strong>a <strong>Václavská</strong>.</span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2507-048.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "44",
+        "84"
+      ]
+    },
+    {
       "id": 31952,
       "number": "",
       "title": "Dočasné přeložení zastávky Ericha Roučky směr Areál Slatina",
@@ -159,6 +176,23 @@
       ]
     },
     {
+      "id": 96,
+      "number": "PO 2506-096",
+      "title": "Brno, rampa Sportovní ? Budovcova",
+      "latitude": 49.229881,
+      "longitude": 16.596705,
+      "validFrom": "2025-06-30T05:00:00+02:00",
+      "validTo": "2025-07-04T23:15:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "V návaznosti na postup stavebních prací v rámci přestavby železniční stanice Brno-Královo Pole dojde k dalšímu omezení v uzlu Královo Pole, nádraží v místě sjezdové rampy z ul. Sportovní do ul. Budovcovy k autobusovému nástupišti č. 3. Opatření na autobusové linky<font color=\"#2C89C8\"><strong> 44</strong></font> a <font color=\"#2C89C8\"><strong>72</strong></font>, které standardně obsluhují toto dočasně uzavřené nástupiště č. 3 připraví dopravce DPMB, a.s.<br/><br/> Linka<font color=\"#009240\"><strong> 304</strong></font>\u00A0(spoje výchozí ze zastávky NC Královo Pole)\u00A0pojede v úseku NC Královo Pole - Královo Pole, nádraží jednosměrným odklonem (pouze v uvedeném směru) ul. Křižíkova a Božetěchova. Na odklonové trase neobslouží žádné nácestné zastávky. Pojede podle platného jízdního řádu a obslouží všechny pravidelné zastávky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "301",
+        "304"
+      ]
+    },
+    {
       "id": 31698,
       "number": "V2506-046",
       "title": "Dočasné přeložení zastávky Královo Pole, nádraží",
@@ -174,23 +208,6 @@
         "44",
         "E56",
         "72"
-      ]
-    },
-    {
-      "id": 96,
-      "number": "PO 2506-096",
-      "title": "Brno, rampa Sportovní ? Budovcova",
-      "latitude": 49.229881,
-      "longitude": 16.596705,
-      "validFrom": "2025-06-30T05:00:00+02:00",
-      "validTo": "2025-07-04T23:15:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "V návaznosti na postup stavebních prací v rámci přestavby železniční stanice Brno-Královo Pole dojde k dalšímu omezení v uzlu Královo Pole, nádraží v místě sjezdové rampy z ul. Sportovní do ul. Budovcovy k autobusovému nástupišti č. 3. Opatření na autobusové linky<font color=\"#2C89C8\"><strong> 44</strong></font> a <font color=\"#2C89C8\"><strong>72</strong></font>, které standardně obsluhují toto dočasně uzavřené nástupiště č. 3 připraví dopravce DPMB, a.s.<br/><br/> Linka<font color=\"#009240\"><strong> 304</strong></font>\u00A0(spoje výchozí ze zastávky NC Královo Pole)\u00A0pojede v úseku NC Královo Pole - Královo Pole, nádraží jednosměrným odklonem (pouze v uvedeném směru) ul. Křižíkova a Božetěchova. Na odklonové trase neobslouží žádné nácestné zastávky. Pojede podle platného jízdního řádu a obslouží všechny pravidelné zastávky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "304"
       ]
     },
     {
@@ -1094,23 +1111,6 @@
       ]
     },
     {
-      "id": 30,
-      "number": "PO 2504-025",
-      "title": "Kuřim, Zámecká",
-      "latitude": 49.295513,
-      "longitude": 16.522880,
-      "validFrom": "2025-04-01T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "312"
-      ]
-    },
-    {
       "id": 16,
       "number": "VP 2504-213",
       "title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
@@ -1126,6 +1126,23 @@
         "441",
         "442",
         "812"
+      ]
+    },
+    {
+      "id": 30,
+      "number": "PO 2504-025",
+      "title": "Kuřim, Zámecká",
+      "latitude": 49.295513,
+      "longitude": 16.522880,
+      "validFrom": "2025-04-01T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "312"
       ]
     },
     {
@@ -1351,6 +1368,22 @@
       ]
     },
     {
+      "id": 8,
+      "number": "PO 2502-010",
+      "title": "Dobšice, ul. Znojemská",
+      "latitude": 48.849326,
+      "longitude": 16.081517,
+      "validFrom": "2025-02-10T00:00:00+01:00",
+      "validTo": "2025-07-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "803"
+      ]
+    },
+    {
       "id": 7,
       "number": "PO 2502-011",
       "title": "Valtice, ulice Sobotní (terminál Valtice, aut. st.)",
@@ -1366,22 +1399,6 @@
         "555",
         "571",
         "585"
-      ]
-    },
-    {
-      "id": 8,
-      "number": "PO 2502-010",
-      "title": "Dobšice, ul. Znojemská",
-      "latitude": 48.849326,
-      "longitude": 16.081517,
-      "validFrom": "2025-02-10T00:00:00+01:00",
-      "validTo": "2025-07-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 803</strong></font>\u00A0pojede mezi zastávkami Dobšice, sídliště a Dobšice, restaurace obousměrně odklonem ulicemi Za Školkou a Brněnská bez vlivu na zastávky.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "803"
       ]
     },
     {
