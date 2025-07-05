@@ -1,6 +1,26 @@
 {
   "diversions": [
     {
+      "id": 32040,
+      "number": "xxx",
+      "title": "Omezení provozu v křižovatce Křížová × Poříčí",
+      "latitude": 49.186796,
+      "longitude": 16.594922,
+      "validFrom": "2025-07-12T04:30:00+02:00",
+      "validTo": "2025-07-14T22:30:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu rekonstrukce křižovatky ulic Křížové a Poříčí nebude pravděpodobně <strong>o víkendu</strong> <strong>12. a 13. července 2025</strong> možný provoz tramvají v úseku od křižovatky ulic Křížové a Václavské po zastávku Celní. Až do <strong>pondělí 14. července 2025</strong> pak bude omezen i provoz autobusů v ulici Vídeňské. Omezení se dotkne <strong>tramvajových</strong> <strong>linek 2</strong> a <strong>6</strong>, které budou odkloněny ulicí Renneskou, <strong>tramvajové linky 5</strong>, která bude odkloněna a ukončena na Nových sadech a <strong>autobusových linek 62 </strong>a<strong> N91, </strong>které budou odkloněny pravděpodobně ulicí Vojtovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v nejbližších dnech na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "2",
+        "5",
+        "6",
+        "62",
+        "N91"
+      ]
+    },
+    {
       "id": 122,
       "number": "VP 2507-069",
       "title": "žel. trať. Znojmo – Mor. Budějovice",
