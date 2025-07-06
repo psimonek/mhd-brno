@@ -38,6 +38,23 @@
       ]
     },
     {
+      "id": 32029,
+      "number": "Z2507-054",
+      "title": "Posílení dopravy na festival Groove Brno 2025",
+      "latitude": 49.230431,
+      "longitude": 16.515959,
+      "validFrom": "2025-07-11T15:00:00+02:00",
+      "validTo": "2025-07-13T02:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p><span><span>Z důvodu konání festivalu Groove Brno 2025 bude v pátek 11. a v sobotu 12. července 2025 posílen provoz v oblasti brněnské přehrady.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> V době od 15:00 do 01:30 budou zavedeny <strong>mimořádné spoje lodní dopravy</strong> v úseku <strong>Bystrc – Kozí horka </strong>a zpět.</span></span><br />\n<span><span>• Ve směru z Bystrce budou mimořádné spoje od 15:00 do 19:30 odjíždět každých 45 minut, poté v 20:00, 20:22 a následně každých 30 minut až do 1:22.</span></span><br />\n<span><span>• Ve směru z Kozí horky budou mimořádné spoje odjíždět od 15:08 do 19:38 odjíždět každých 45 minut, poté v 20:08, 20:30 a následně každých 30 minut až do 1:30.<br />\n• Přeprava těmito mimořádnými spoji bude pro návštěvníky festivalu <strong>BEZPLATNÁ </strong>(na pravidelných spojích lodní dopravy bude v platnosti standardní tarif).</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Přibližně v době od 22:30 do 2:00 bude navíc v provozu <strong>posilová tramvajová linka P1 </strong>v trase <strong>Bystrc, Rakovecká – Přístaviště – Pisárky – Mendlovo náměstí – Hlavní nádraží </strong>v cca 30minutovém intervalu.</span></span></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "P1",
+        "loď"
+      ]
+    },
+    {
       "id": 122,
       "number": "VP 2507-069",
       "title": "žel. trať. Znojmo – Mor. Budějovice",
@@ -693,6 +710,22 @@
       ]
     },
     {
+      "id": 80,
+      "number": "Tišnov, Lomnická",
+      "title": "Tišnov, Lomnická (oba směry)",
+      "latitude": 49.355328,
+      "longitude": 16.428746,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-07-20T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu stavebních prací na vodovodu v prostoru zastávky Tišnov, Lomnická bude zastávka v obou směrech přeložena o cca 100 m směrem do centra Tišnova. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
+      ]
+    },
+    {
       "id": 93,
       "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
       "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
@@ -708,22 +741,6 @@
         "671",
         "672",
         "673"
-      ]
-    },
-    {
-      "id": 80,
-      "number": "Tišnov, Lomnická",
-      "title": "Tišnov, Lomnická (oba směry)",
-      "latitude": 49.355328,
-      "longitude": 16.428746,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-07-20T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací na vodovodu v prostoru zastávky Tišnov, Lomnická bude zastávka v obou směrech přeložena o cca 100 m směrem do centra Tišnova. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "333"
       ]
     },
     {
