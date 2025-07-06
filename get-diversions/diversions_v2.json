@@ -1,6 +1,26 @@
 {
   "diversions": [
     {
+      "id": 32052,
+      "number": "",
+      "title": "Posílení dopravy na Grand Prix České republiky 2025",
+      "latitude": 49.201003333333,
+      "longitude": 16.445768333333,
+      "validFrom": "2025-07-18T00:00:00+02:00",
+      "validTo": "2025-07-20T23:59:59+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání Grand Prix České republiky 2025 silničních motocyklů bude od pátku 18. do neděle 20. července 2025 posílen provoz k Masarykově okruhu.</p>\n\n<p> </p>\n\n<p>Předpokládá se zavedení následujících <strong>mimořádných bezplatných autobusových linek</strong>:<br />\n• <strong>Linka C </strong>v trase <strong><span><span>Nemocnice Bohunice – Svážná – Pražská – Troubsko, Veselka – Popůvky, Vintrovna – Kývalka, spojovací – Automotodrom, Start </span></span></strong><span><span>spojující závodní okruh s přestupním terminálem Nemocnice Bohunice</span></span><span><span>.</span></span><br />\n• <strong>Linka P </strong>v okružní trase <strong><span><span>Automotodrom, Start – Kývalka, spojovací – Popůvky, Vintrovna – Troubsko, Veselka (– Žebětín, Křivánkovo náměstí) – Parkoviště Stará dálnice – Žebětín, Chrpová – Žebětín, kemp – Tribuna D – Tribuny A, B, C – Hájenka na Šípu – Automotodrom, Start </span></span></strong><span><span>spojující závodní okruh s centrálním parkovištěm na Staré dálnici.</span></span><br />\n<strong><span><span>• </span></span></strong><span><span>V případě zřízení parkoviště na silnici I/23 bude zavedena i <strong>linka X </strong>v trase <strong>Parkoviště Rosice – Automotodrom, Start</strong>.</span></span></p>\n\n<p><br />\n<span><span>Dále se předpokládá posílení provozu na <strong>tramvajové lince 8</strong> v úseku <strong>Hlavní nádraží – Nemocnice Bohunice</strong> a také zřízení posilové <strong>tramvajové linky P6</strong> v trase <strong>(Královo Pole, nádraží –) Česká – Mendlovo náměstí – Nemocnice Bohunice</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o posílení provozu budou zveřejněny v nejbližších dnech na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "P6",
+        "8",
+        "C",
+        "P",
+        "X"
+      ]
+    },
+    {
       "id": 32051,
       "number": "xxx",
       "title": "Uzavírka ulice Tilhonovy",
@@ -41,8 +61,8 @@
       "id": 32029,
       "number": "Z2507-054",
       "title": "Posílení dopravy na festival Groove Brno 2025",
-      "latitude": 49.230431,
-      "longitude": 16.515959,
+      "latitude": 49.234193,
+      "longitude": 16.508266,
       "validFrom": "2025-07-11T15:00:00+02:00",
       "validTo": "2025-07-13T02:00:00+02:00",
       "isValid": false,
@@ -91,8 +111,8 @@
       "id": 31981,
       "number": "V2507-048",
       "title": "Omezení dopravy v ulicích Poříčí a Opuštěná",
-      "latitude": 49.184769,
-      "longitude": 16.602715,
+      "latitude": 49.183731,
+      "longitude": 16.608709,
       "validFrom": "2025-07-07T04:30:00+02:00",
       "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": false,
