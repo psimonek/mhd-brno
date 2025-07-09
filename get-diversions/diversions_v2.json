@@ -82,7 +82,7 @@
       "longitude": 15.849109,
       "validFrom": "2025-07-09T04:00:00+02:00",
       "validTo": "2025-07-18T13:30:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S81</strong></font> budou v úseku\u00A0Mor. Budějovice - Znojmo\u00A0nahrazeny autobusy náhradní dopravy (NAD), která bude organizována podle výlukového jízdního řádu jako linka xS81. ",
       "privateTextHtml": null,
       "type": "V",
