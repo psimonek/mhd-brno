@@ -21,6 +21,23 @@
       ]
     },
     {
+      "id": 31982,
+      "number": "V2507-049",
+      "title": "Omezení autobusů v ulici Královopolské",
+      "latitude": 16.5687486,
+      "longitude": 49.2147064,
+      "validFrom": "2025-07-14T05:00:00+02:00",
+      "validTo": "2025-08-17T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p><span><span>Z důvodu rekonstrukce vodovodu bude <strong>od 5:00 hod. v pondělí 7. července 2025 do ukončení prací</strong> (předpoklad do 17. srpna 2025) uzavřen vjezd do ulice Královpolské z Rosického náměstí.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusové linky 67 a 84</strong> pojedou ve směru do Králova Pole v úseku <strong>Vrázova – Přívrat</strong> odklonem ulicí Kroftovou.<br />\n• Vynechají tak zastávku <strong>Rosického náměstí</strong>.<br />\n• Na odklonové trase obslouží zastávku <strong>Vrázova</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2507-049_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "67",
+        "84"
+      ]
+    },
+    {
       "id": 32051,
       "number": "V2507-052",
       "title": "Uzavírka ulice Tilhonovy",
