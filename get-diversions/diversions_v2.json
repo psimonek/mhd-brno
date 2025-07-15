@@ -9,7 +9,7 @@
       "validFrom": "2025-07-19T09:00:00+02:00",
       "validTo": "2025-07-19T23:59:59+02:00",
       "isValid": false,
-      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu konání kulturní akce nebude možné <strong>od 9:00 do 0:00 hod. v sobotu 19. července 2025 </strong>obsloužit zastávku <strong>Studentská</strong>.<br />\n• <strong>Autobusová linka 40 </strong>bude ukončena již v zastávce Univerzitní kampus.</p>\n",
+      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu konání kulturní akce nebude možné <strong>od 9:00 do 0:00 hod. v sobotu 19. července 2025 </strong>obsloužit zastávku <strong>Studentská</strong>.<br />\n• <strong>Autobusová linka 40 </strong>bude ukončena již v zastávce <strong>Univerzitní kampus</strong>.</p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
