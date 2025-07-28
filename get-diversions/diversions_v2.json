@@ -8,7 +8,7 @@
       "longitude": 16.569813,
       "validFrom": "2025-07-29T00:00:00+02:00",
       "validTo": "2025-09-25T22:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu rekonstrukce vodovodu <strong>bude od úterý 29. července do ukončení prací</strong> (předpoklad druhá polovina září 2025) pro veškerou dopravu uzavřen sjezd od křižovatky ulic Hlinky × Pisárecká do ulice Žabovřeské.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka E56 </strong>ve směru do Králova Pole, nádraží vynechá zastávku <strong>Pisárky</strong>, kterou v příslušném směru nelze obsloužit.<br />\n• Ve směru Nemocnice Bohunice obslouží linka E56 zastávku Pisárky bez omezení.</p>\n",
       "privateTextHtml": null,
       "type": "V",
