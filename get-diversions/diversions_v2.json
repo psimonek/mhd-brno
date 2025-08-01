@@ -1,6 +1,109 @@
 {
   "diversions": [
     {
+      "id": 93,
+      "number": "PO 2508-125",
+      "title": "Velké Pavlovice, železniční přejezd P7139",
+      "latitude": 48.887648,
+      "longitude": 16.823680,
+      "validFrom": "2025-08-05T07:00:00+02:00",
+      "validTo": "2025-08-31T16:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 542</strong></font>\u00A0- spoje mezi velkými Pavlovicemi a Trkmanským Dvorem pojedou v tomto úseku obousměrně odklonem po silnicích III/42115 - II/425 - II/421 kolem Rakvic.<br/><br/> Linka<font color=\"#009240\"><strong> 550</strong></font> - pouze spoje 9+19\u00A0pojedou z Rakvic do Velkých Pavlovic odklonem po II/425 - II/421. Všechny zastávky zůstanou obsluhovány beze změny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "542",
+        "550"
+      ]
+    },
+    {
+      "id": 121,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
+      ]
+    },
+    {
+      "id": 118,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
+      ]
+    },
+    {
+      "id": 117,
+      "number": "PO 2508-122",
+      "title": "Znojmo, ul. Vídeňská",
+      "latitude": 48.852050,
+      "longitude": 16.052883,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-22T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 806</strong></font> a spoje 30, 42, 46 a 50 linky<font color=\"#009240\"><strong> 807</strong></font>\u00A0pojedou ve směru Cínová Hora a Přímětice od zastávky Železniční stanice odklonem ulicí 17. listopadu k zastávce Pontassievská. Opačný směr jedou po běžné trase bez odklonů.<br/><br/> Linky<font color=\"#009240\"><strong> 818</strong></font>, <font color=\"#009240\"><strong> 819</strong></font>, <font color=\"#009240\"><strong> 820</strong></font> a <font color=\"#009240\"><strong>821</strong></font>\u00A0ve směru do Znojma pojedou všemi spoji z ulice Vídeňské přímo k zastávce Znojmo, aut.nádr. ulicí Dr. Horákové.\u00A0Opačný směr jedou po běžné trase bez odklonů.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "806",
+        "807",
+        "818",
+        "819",
+        "820",
+        "821"
+      ]
+    },
+    {
+      "id": 97,
+      "number": "PO 2508-121",
+      "title": "Bučovice, Vyškovská",
+      "latitude": 49.152015,
+      "longitude": 17.003660,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 156</strong></font> a <font color=\"#009240\"><strong>644</strong></font>:\u00A0Jedou v Bučovicích odklonem, zastávka Bučovice, dům mládeže je přesunuta dále od centra Bučovic k domu č. 759. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "156",
+        "644"
+      ]
+    },
+    {
+      "id": 79,
+      "number": "Práče, ObÚ",
+      "title": "silnice III/41313 v obci Práče",
+      "latitude": 48.877006,
+      "longitude": 16.203858,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "835"
+      ]
+    },
+    {
       "id": 32557,
       "number": "V2508-069",
       "title": "Výluka tramvají na náměstí Svobody",
@@ -17,6 +120,22 @@
         "H4",
         "9",
         "10"
+      ]
+    },
+    {
+      "id": 120,
+      "number": "PO 2508-123",
+      "title": "Brno, ulice Rokytova",
+      "latitude": 49.206208,
+      "longitude": 16.643246,
+      "validFrom": "2025-08-02T00:00:00+02:00",
+      "validTo": "2025-08-03T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu úplné uzavírky ulice Rokytova v Brně pojedou všechny spoje linky<font color=\"#009240\"><strong> 201</strong></font> mezi zastávkami Brno, Prušánecká a Brno, Stará osada obousměrným odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 201</strong></font> obslouží všechny zastávky dle platných jízdních řádů. Na odklonové trase neobsluhuje žádné zastávky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
       ]
     },
     {
@@ -42,6 +161,77 @@
       ]
     },
     {
+      "id": 99,
+      "number": "VP 2508-074",
+      "title": "žel. trať. Brno hl.n. - Brno-Židenice jedna kolej(N)",
+      "latitude": 49.194841,
+      "longitude": 16.623924,
+      "validFrom": "2025-08-01T21:10:00+02:00",
+      "validTo": "2025-08-04T13:20:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu omezené propustnosti tratě pojedou vlaky\u00A0linek<font color=\"#800000\"><strong> S2</strong></font>, <font color=\"#800000\"><strong> R8</strong></font>, <font color=\"#800000\"><strong> R9</strong></font>, <font color=\"#800000\"><strong> R19</strong></font>, xS4D podle výlukových jízdních řádů.. Některé\u00A0vlaky linky\u00A0S2,<font color=\"#800000\"><strong> R9</strong></font>, <font color=\"#800000\"><strong> R19</strong></font>\u00A0budou výchozí/končící\u00A0v Brně dolním nádraží\u00A0s návaznými autobusy linky\u00A0xD\u00A0od/k zastávce u\u00A0Brna hl.n. Vlaky budou mimořádně zastavovat pro výstup/nástup v\u00A0Brně-Židenicích.<br/><br/> Linka<font color=\"#800000\"><strong> S2</strong></font>:V sobotu\u00A02.8.2025 a\u00A0neděli\u00A03.8.2025 pojedou vlaky z Brna-Maloměřic do Brna-Židenic po koleji T4, která\u00A0nemá nástupiště.\u00A0Proto budou vlaky ve směru do Brna v zastávce\u00A0Brno-Židenice projíždět\u00A0dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#800000\"><strong> R8</strong></font>:Po celou dobu výluky budou rychlíky této linky výchozí a končící v\u00A0Brně hl.n.\u00A0V úseku Brno hl.n. - Brno-Královo Pole použijí cestující náhradně vlaky\u00A0ČD linky<font color=\"#800000\"><strong> S3</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:Mezi stanicemi Brno hl.n. a Brno dolní nádraží bude zajištěna NAD..<br/><br/> Linka<font color=\"#800000\"><strong> R19</strong></font>:Z\u00A0Brna hl.n.\u00A0budou vlaky\u00A0uspíšeny\u00A0cca o 6 minut dle výlukového jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S2",
+        "R8",
+        "R9",
+        "R19",
+        "xS4D",
+        "xR8"
+      ]
+    },
+    {
+      "id": 101,
+      "number": "VP 2508-073",
+      "title": "žel. trať v úseku Veselí nad Moravou - Sudoměřice nad Moravou(N)",
+      "latitude": 48.880240,
+      "longitude": 17.282438,
+      "validFrom": "2025-08-01T08:00:00+02:00",
+      "validTo": "2025-08-13T16:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku\u00A0\u00A0Rohatec – Veselí nad Moravou\u00A0po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S91",
+        "xS91"
+      ]
+    },
+    {
+      "id": 100,
+      "number": "VP 2508-072",
+      "title": "žel. trať Zaječí - Kobylí na Moravě- Hodonín(N)",
+      "latitude": 48.912842,
+      "longitude": 16.831685,
+      "validFrom": "2025-08-01T07:00:00+02:00",
+      "validTo": "2025-08-31T16:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S52</strong></font> budou po dobu výluky v úseku Zaječí – Kobylí na Moravě - Hodonín nahrazeny\u00A0autobusy náhradní dopravy (NAD) jedoucí podle jízdního řádu linky xS52.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S52",
+        "xS52"
+      ]
+    },
+    {
+      "id": 119,
+      "number": "PO 2508-124",
+      "title": "Hrušovany u Brna, ul. Komenského",
+      "latitude": 49.037214,
+      "longitude": 16.591222,
+      "validFrom": "2025-08-01T00:00:00+02:00",
+      "validTo": "2025-08-24T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Hrušovany u Brna, žel.st. a Hrušovany u Brna, VÚZA odklonem ulicemi Masarykovou a Jana Koziny a po silnici III/41619 (obchvat Hrušovan). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "154"
+      ]
+    },
+    {
       "id": 32353,
       "number": "V2507-064",
       "title": "Omezení na lince E56 směr Královo Pole, nádraží ",
@@ -55,6 +245,25 @@
       "type": "V",
       "affectedLines": [
         "E56"
+      ]
+    },
+    {
+      "id": 109,
+      "number": "PO 2507-117",
+      "title": "Brno, Hlavní nádraží",
+      "latitude": 49.192106,
+      "longitude": 16.613528,
+      "validFrom": "2025-07-28T23:00:00+02:00",
+      "validTo": "2025-08-31T23:00:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 108</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Spoje obsluhující zastávku Brno, Hlavní nádraží zastaví pro výstup na zastávce č. 14 u 5. a 6. nástupiště. Nástup je v zastávce č. 10 u zdi před viaduktem. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "108",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -94,6 +303,54 @@
       ]
     },
     {
+      "id": 114,
+      "number": "Rozseč nad Kunštátem, hájenka",
+      "title": "Rozseč nad Kunštátem, hájenka (v obou směrech)",
+      "latitude": 49.521865,
+      "longitude": 16.453507,
+      "validFrom": "2025-07-28T07:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice I/19 v obci Rozseč nad Kunštátem budou přesunuty v obou směrech zastávky Rozseč nad Kunštátem, hájenka ve směru na Hodonín u Kunštátu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "256"
+      ]
+    },
+    {
+      "id": 113,
+      "number": "Rozseč nad Kunštátem",
+      "title": "Rozseč nad Kunštátem (v obou směrech)",
+      "latitude": 49.525543,
+      "longitude": 16.462444,
+      "validFrom": "2025-07-28T07:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice I/19 v obci Rozseč nad Kunštátem budou přesunuty v obou směrech zastávky Rozseč nad Kunštátem ve směru na Hodonín u Kunštátu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "256"
+      ]
+    },
+    {
+      "id": 111,
+      "number": "VP 2507-240",
+      "title": "II/395 Dolní Kounice - Moravské Bránice",
+      "latitude": 49.074316,
+      "longitude": 16.447864,
+      "validFrom": "2025-07-28T00:00:00+02:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "154"
+      ]
+    },
+    {
       "id": 32357,
       "number": "V2507-062",
       "title": "Omezení provozu na lince 25 v oblasti Židenic",
@@ -108,6 +365,43 @@
       "affectedLines": [
         "25",
         "x25"
+      ]
+    },
+    {
+      "id": 104,
+      "number": "PO 2507-118",
+      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
+      "latitude": 48.804178,
+      "longitude": 16.636094,
+      "validFrom": "2025-07-28T00:00:00+02:00",
+      "validTo": "2025-09-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "585"
+      ]
+    },
+    {
+      "id": 95,
+      "number": "VP 2507-241",
+      "title": "Drásov - Všechovice",
+      "latitude": 49.345925,
+      "longitude": 16.498079,
+      "validFrom": "2025-07-28T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavření silnice mezi Všechovicemi a Drásovem dochází k následujícím změnám jízdních řádů:.<br/><br/> Linka<font color=\"#009240\"><strong> 321</strong></font>:\u00A0výlukově vedena obousměrně v odklonově v trase Skalička - Všechovice - Unín - Rohozec - Tišnov, žel. st. (v úseku Unín - Tišnov, žel. st. zastavuje na všech zastávkách totožně s linkou 332). Spoje vedené až do / z Tišnova obsluhují v Uníně dočasné zastávky umístěné na silnici vedoucí do Všechovic. Krátké spoje Skalička - Unín obsluhují stálé zastávky společně s linkou<font color=\"#009240\"><strong> 332</strong></font>.\u00A0V\u00A0Tišnově pak vždy navazuje vlaková linka směr Kuřim - Brno a navíc je ve většině případů možnost přestupu i na linku<font color=\"#009240\"><strong> 311</strong></font> pro zachování spojení v\u00A0relaci Skalička (Všechovice) – Drásov. Krátké spoje Skalička – Všechovice – Unín jsou vedeny tak, že v\u00A0Uníně je zajištěna návaznost na dnešní linku<font color=\"#009240\"><strong> 332</strong></font> vedenou do Tišnova nebo naopak z Tišnova do Skaličky.<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font>:\u00A0převedeny spoje z linky<font color=\"#009240\"><strong> 321</strong></font> v relaci Sentice - Čebín. Časové polohy dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#009240\"><strong> 153</strong></font>: Časové posuny víkendových spojů v úseku Tišnov - Sentice dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#009240\"><strong> 331</strong></font>: Časový posun sobotního prvního ranního spoje Pejškov - Tišnov dle výlukového jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153",
+        "311",
+        "320",
+        "321",
+        "331",
+        "332"
       ]
     },
     {
@@ -128,6 +422,119 @@
         "x64",
         "75",
         "N99"
+      ]
+    },
+    {
+      "id": 62,
+      "number": "PO 2507-109",
+      "title": "Slatina-Střelice, silnice III/4003",
+      "latitude": 49.004300,
+      "longitude": 16.003904,
+      "validFrom": "2025-07-25T00:00:00+02:00",
+      "validTo": "2025-08-22T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 814</strong></font>\u00A0- pouze večerní spoj č. 122 pojede mezi zastávkami Slatina, ObÚ až Střelice, pož. zbroj. odklonem přes obec Rozkoš, v trase ostatních pravidelných spojů linky<font color=\"#009240\"><strong> 814</strong></font> IDS JMK. Objízdná trasa nemá vliv na zastávky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "814"
+      ]
+    },
+    {
+      "id": 112,
+      "number": "VP 2507-242",
+      "title": "Brno, Kníničská",
+      "latitude": 49.222699,
+      "longitude": 16.536326,
+      "validFrom": "2025-07-23T00:00:00+02:00",
+      "validTo": "2025-08-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Na základě rychlé změny organizace částečné uzavírky ulice Kníničské v Brně a změny organizace provozu v křižovatce u kamenolomu budou všechny spoje linky<font color=\"#009240\"><strong> 302</strong></font> ukončeny v zastávce Brno, Pod Mniší horou. Nebudou obsluhovat terminál Brno, ZOO. Zastávka Pod Mniší horou směr Kuřim přeložena k protější zastávce (co nejblíže lávce přes řeku vedoucí k terminálu Brno, ZOO). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302"
+      ]
+    },
+    {
+      "id": 94,
+      "number": "VP 2507-239",
+      "title": "Znojmo, Kasárna, křiž. I/38 a II/408",
+      "latitude": 48.886053,
+      "longitude": 16.003218,
+      "validFrom": "2025-07-21T00:00:00+02:00",
+      "validTo": "2025-11-27T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font>\u00A0vynechává zastávku Znojmo, Kasárna, rozcestí.<br/><br/> Linka<font color=\"#009240\"><strong> 825</strong></font>\u00A0jede z Přímětic přímo do Mramotic. Vybrané spoje jedou mezi zastávkami Znojmo, Přímětická rozcestí k Městskému lesíku a Znojmo, Mramotice, u čekárny přes Znojmo, Kasárna. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "825"
+      ]
+    },
+    {
+      "id": 103,
+      "number": "PO 2507-112",
+      "title": "Lednice, silnice III/42117 v křižovatce ulic Nejdecká x Mikulovská ",
+      "latitude": 48.799394,
+      "longitude": 16.793132,
+      "validFrom": "2025-07-21T00:00:00+02:00",
+      "validTo": "2025-08-21T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu havárie kanalizace budou přesunuty nebo zrušeny následující zastávky:\u00A0. Zastávka Lednice, hosp. družstvo přesunuta směr centrum obce hned za křižovatku se silnicí směr Sedlec/Mikulov k přechodu pro chodce., Zastávka Lednice, skleníky dočasně zrušena bez náhrady., Zastávka Lednice, Nejdek, rozc. 1.0 přemístěna na místní komunikaci spojující silnici Lednice - Bulhary a silnici Sedlec/Mikulov - Lednici u rozc. Nejdek hned za křižovatku se silniní Lednice - Bulhary. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "570"
+      ]
+    },
+    {
+      "id": 98,
+      "number": "2507 - Tišnov, Kukýrna",
+      "title": "Tišnov, Kukýrna směr do centra",
+      "latitude": 49.352484,
+      "longitude": 16.425404,
+      "validFrom": "2025-07-21T00:00:00+02:00",
+      "validTo": "2025-08-04T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu pokračujících stavebních prací v prostoru zastávky Tišnov, Kukýrna (směr do centra města) je zastávka nadále přeložena cca 100m zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
+      ]
+    },
+    {
+      "id": 105,
+      "number": "Tišnov, Lomnická",
+      "title": "Tišnov, Lomnická (směr do centra)",
+      "latitude": 49.355321,
+      "longitude": 16.428680,
+      "validFrom": "2025-07-21T00:00:00+02:00",
+      "validTo": "2025-08-04T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu pokračujících stavebních prací v prostoru zastávky Tišnov, Lomnická (směr do centra města) je zastávka dočasně zrušena.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
+      ]
+    },
+    {
+      "id": 96,
+      "number": "PO 2507-110",
+      "title": "Tišnov, Lomnická",
+      "latitude": 49.352505,
+      "longitude": 16.425446,
+      "validFrom": "2025-07-21T00:00:00+02:00",
+      "validTo": "2025-08-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede z Tišnova do Lomničky jednosměrným odklonem (pouze ve směru do Lomničky) ulicemi K Čimperku a Kuthanova. Zastávku Tišnov, Lomnická obslouží v přeložené poloze (v ulici Lomnická před uzavírkou). Směr z Lomničky do Tišnova bez omezení.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
       ]
     },
     {
@@ -183,6 +590,43 @@
       ]
     },
     {
+      "id": 86,
+      "number": "PO 2507-107",
+      "title": "Suchý",
+      "latitude": 49.481258,
+      "longitude": 16.761730,
+      "validFrom": "2025-07-15T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu výkopových prací na místních komunikacích v obci Suchý bude upraven provoz linek<font color=\"#009240\"><strong> 233</strong></font> a <font color=\"#009240\"><strong>261</strong></font> - autobusy jedou po hlavní silnici mimo místní komunikace. Zastávka Suchý je v obou směrech přeložena na hlavní silnici do jižní části obce. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "233",
+        "261"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "PO 2507-106",
+      "title": "Lysice, ul. Komenského",
+      "latitude": 49.452364,
+      "longitude": 16.537903,
+      "validFrom": "2025-07-14T07:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu etapové\u00A0výstavby multimodálního přestupního uzlu PARK & RIDE\u00A0při komunikaci č. II/376 v ulici Komenského v Lysicích dojde k částečné uzavírce této komunikace. Autobusové zastávky Lysice, pohostinství budou dočasně přeloženy na silnici III/3769 při náměstí Osvobození přibližně před dům č. p. 51. Autobusová nástupiště budou sloučena na dvě společná a směrově rozdělena:. NÁSTUPIŠTĚ č. 1\u00A0(při pravé straně komunikace při pohledu směrem na Žerůtky / Černou Horu). pro\u00A0linku<font color=\"#009240\"><strong> 235</strong></font>\u00A0směr Blansko,, pro\u00A0linku<font color=\"#009240\"><strong> 245</strong></font>\u00A0směr Kunice,, pro\u00A0linku<font color=\"#009240\"><strong> 257</strong></font>\u00A0směr Boskovice,, pro\u00A0linku<font color=\"#009240\"><strong> 301</strong></font>\u00A0směr Brno,, pro\u00A0linku<font color=\"#009240\"><strong> 313</strong></font>\u00A0směr Kuřim. NÁSTUPIŠTĚ č. 2\u00A0(při pravé straně komunikace při pohledu směrem k úřadu městyse / na Štěchov). pro\u00A0linky<font color=\"#009240\"><strong> 235</strong></font>, <font color=\"#009240\"><strong> 245</strong></font>\u00A0VÝSTUPNÍ,, pro\u00A0linku<font color=\"#009240\"><strong> 257</strong></font>\u00A0směr Olešnice,, pro\u00A0linku<font color=\"#009240\"><strong> 301</strong></font>\u00A0směr Bystré,, pro\u00A0linku<font color=\"#009240\"><strong> 313</strong></font>\u00A0směr Lysice, škola točna. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "235",
+        "245",
+        "257",
+        "301",
+        "313"
+      ]
+    },
+    {
       "id": 31982,
       "number": "V2507-049",
       "title": "Omezení autobusů v ulici Královopolské",
@@ -217,7 +661,7 @@
       ]
     },
     {
-      "id": 116,
+      "id": 72,
       "number": "PO 2507-104",
       "title": "Prostějov, ul. Janáčkova II",
       "latitude": 49.473984,
@@ -272,22 +716,6 @@
       ]
     },
     {
-      "id": 59,
-      "number": "PO 2507-100",
-      "title": "Dyje, silnice II/408",
-      "latitude": 48.852768,
-      "longitude": 16.113011,
-      "validFrom": "2025-07-01T00:00:00+02:00",
-      "validTo": "2025-08-15T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 821</strong></font>\u00A0- pojede mezi zastávkami\u00A0Dyje, u žel. přejezdu\u00A0a\u00A0Dobšice, rest.\u00A0ve směru do Znojma jednosměrně odklonem: po silnici II/408, po místní komunikaci kolem řeky Dyje spojující obce Dyje a Dobšice a po silnici I/53. Bude tak vynechávat bez náhrady zastávku\u00A0Dyje, cihelna (ve směru do Znojma).\u00A0Opačný směr ze Znojma do Hodonic jede po své pravidelné trase bez omezení. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "821"
-      ]
-    },
-    {
       "id": 9,
       "number": "PO 2507-101",
       "title": "Vyškov, Havlíčkova",
@@ -305,6 +733,22 @@
         "744",
         "753",
         "754"
+      ]
+    },
+    {
+      "id": 39,
+      "number": "PO 2507-100",
+      "title": "Dyje, silnice II/408",
+      "latitude": 48.852768,
+      "longitude": 16.113011,
+      "validFrom": "2025-07-01T00:00:00+02:00",
+      "validTo": "2025-08-15T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 821</strong></font>\u00A0- pojede mezi zastávkami\u00A0Dyje, u žel. přejezdu\u00A0a\u00A0Dobšice, rest.\u00A0ve směru do Znojma jednosměrně odklonem: po silnici II/408, po místní komunikaci kolem řeky Dyje spojující obce Dyje a Dobšice a po silnici I/53. Bude tak vynechávat bez náhrady zastávku\u00A0Dyje, cihelna (ve směru do Znojma).\u00A0Opačný směr ze Znojma do Hodonic jede po své pravidelné trase bez omezení. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "821"
       ]
     },
     {
@@ -340,25 +784,7 @@
       ]
     },
     {
-      "id": 100,
-      "number": "VP 2506-237",
-      "title": "Silnice III/4994 mezi Veselím nad Moravou a Kozojídkami",
-      "latitude": 48.931296,
-      "longitude": 17.399454,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky Kozojídky a Žeraviny budou přesunuty, linka<font color=\"#009240\"><strong> 931</strong></font> bude obsluhovat obce Žeraviny a Kozojídky v opačném pořadí, než ve standartním stavu. Na linkách\u00A0930,<font color=\"#009240\"><strong> 931</strong></font>, <font color=\"#009240\"><strong> 940</strong></font>\u00A0budou platit výlukové jízdní řády.. Zastávka Kozojídky bude přesunuta v obou směrech na silnici směr Hroznová Lhota za křižovatku se silnicí od Žeravin. Zastávka Žeraviny bude přesunuta na silnici směr Kozojídky\u00A0za křižovatku se silnicí směr Hroznová Lhota.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930",
-        "931",
-        "940"
-      ]
-    },
-    {
-      "id": 114,
+      "id": 70,
       "number": "VP 2506-236",
       "title": "Rozdrojovice, ul. Na Březině",
       "latitude": 49.255061,
@@ -372,57 +798,6 @@
       "affectedLines": [
         "302",
         "304"
-      ]
-    },
-    {
-      "id": 105,
-      "number": "VP 2506-067",
-      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-29T23:55:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Změna na lince<font color=\"#800000\"><strong> S3</strong></font> v pracovní dny:. \u00A0V úseku Brno-Královo Pole – Brno-Maloměřice, z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění,\u00A0nepojedou\u00A0vlaky linky\u00A0S3 končící/začínající v Brně-Králově Poli. Budou končící/začínající v\u00A0Brně hl.n.\u00A0dle výlukového jízdního řádu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3"
-      ]
-    },
-    {
-      "id": 112,
-      "number": "PO 2506-098",
-      "title": "Brno, Stará osada",
-      "latitude": 49.202587,
-      "longitude": 16.642216,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky terminálu Stará osada budou nástupiště pro linku<font color=\"#009240\"><strong> 201</strong></font> přesunuta do ulice Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Ochoz a Jedovnice\u00A0obslouží\u00A0nástupiště č. 11\u00A0v ulici Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Vojenská nemocnice\u00A0obslouží\u00A0nástupiště č. 9\u00A0v ulici Bubeníčkova. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
-      ]
-    },
-    {
-      "id": 98,
-      "number": "PO 2506-095",
-      "title": "Brno, Slatina I",
-      "latitude": 49.182208,
-      "longitude": 16.691322,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-12T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Zastávka Brno, Černovičky je pro směr z Brna do regionu přeložena do ulice Bělohorské ke stejnojmenné zastávce linek<font color=\"#2C89C8\"><strong> 72</strong></font>, <font color=\"#2C89C8\"><strong> 75</strong></font>, E76 a N89. Zastávka Brno, Slatina, sídliště je přeložena do ulice Holzovy mezi sjezd z Ostravské ulice a okružní křižovatku Slatina (naproti zastávce linky<font color=\"#2C89C8\"><strong> 78</strong></font> Brno, Slatina, rozcestí směr Líšeň). Ve směru z regionu do centra Brna jedou linky po své trase a obsluhují standardní zastávky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
       ]
     },
     {
@@ -471,7 +846,76 @@
       ]
     },
     {
-      "id": 110,
+      "id": 61,
+      "number": "VP 2506-067",
+      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
+      "latitude": 49.274245,
+      "longitude": 16.578369,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-29T23:55:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Změna na lince<font color=\"#800000\"><strong> S3</strong></font> v pracovní dny:. \u00A0V úseku Brno-Královo Pole – Brno-Maloměřice, z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění,\u00A0nepojedou\u00A0vlaky linky\u00A0S3 končící/začínající v Brně-Králově Poli. Budou končící/začínající v\u00A0Brně hl.n.\u00A0dle výlukového jízdního řádu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3"
+      ]
+    },
+    {
+      "id": 57,
+      "number": "VP 2506-237",
+      "title": "Silnice III/4994 mezi Veselím nad Moravou a Kozojídkami",
+      "latitude": 48.931296,
+      "longitude": 17.399454,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky Kozojídky a Žeraviny budou přesunuty, linka<font color=\"#009240\"><strong> 931</strong></font> bude obsluhovat obce Žeraviny a Kozojídky v opačném pořadí, než ve standartním stavu. Na linkách\u00A0930,<font color=\"#009240\"><strong> 931</strong></font>, <font color=\"#009240\"><strong> 940</strong></font>\u00A0budou platit výlukové jízdní řády.. Zastávka Kozojídky bude přesunuta v obou směrech na silnici směr Hroznová Lhota za křižovatku se silnicí od Žeravin. Zastávka Žeraviny bude přesunuta na silnici směr Kozojídky\u00A0za křižovatku se silnicí směr Hroznová Lhota.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930",
+        "931",
+        "940"
+      ]
+    },
+    {
+      "id": 56,
+      "number": "PO 2506-095",
+      "title": "Brno, Slatina I",
+      "latitude": 49.182208,
+      "longitude": 16.691322,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-09-12T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Zastávka Brno, Černovičky je pro směr z Brna do regionu přeložena do ulice Bělohorské ke stejnojmenné zastávce linek<font color=\"#2C89C8\"><strong> 72</strong></font>, <font color=\"#2C89C8\"><strong> 75</strong></font>, E76 a N89. Zastávka Brno, Slatina, sídliště je přeložena do ulice Holzovy mezi sjezd z Ostravské ulice a okružní křižovatku Slatina (naproti zastávce linky<font color=\"#2C89C8\"><strong> 78</strong></font> Brno, Slatina, rozcestí směr Líšeň). Ve směru z regionu do centra Brna jedou linky po své trase a obsluhují standardní zastávky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "601",
+        "602",
+        "701",
+        "702"
+      ]
+    },
+    {
+      "id": 68,
+      "number": "PO 2506-098",
+      "title": "Brno, Stará osada",
+      "latitude": 49.202587,
+      "longitude": 16.642216,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky terminálu Stará osada budou nástupiště pro linku<font color=\"#009240\"><strong> 201</strong></font> přesunuta do ulice Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Ochoz a Jedovnice\u00A0obslouží\u00A0nástupiště č. 11\u00A0v ulici Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Vojenská nemocnice\u00A0obslouží\u00A0nástupiště č. 9\u00A0v ulici Bubeníčkova. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
+      ]
+    },
+    {
+      "id": 66,
       "number": "PO 2506-099",
       "title": "Domašov, náměstí",
       "latitude": 49.245509,
@@ -521,7 +965,7 @@
       ]
     },
     {
-      "id": 102,
+      "id": 59,
       "number": "2506 Moutnice, u fary",
       "title": "Moutnice, u fary - směr Nesvačilka",
       "latitude": 49.050604,
@@ -537,23 +981,7 @@
       ]
     },
     {
-      "id": 63,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
-      "id": 85,
+      "id": 51,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
       "latitude": 48.884979,
@@ -573,7 +1001,7 @@
       ]
     },
     {
-      "id": 93,
+      "id": 54,
       "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
       "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
       "latitude": 49.013275,
@@ -591,7 +1019,23 @@
       ]
     },
     {
-      "id": 62,
+      "id": 41,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
+      "id": 40,
       "number": "Boskovice, Podlesí",
       "title": "Boskovice, Podlesí (pouze směr do Boskovic)",
       "latitude": 49.482401,
@@ -609,7 +1053,7 @@
       ]
     },
     {
-      "id": 76,
+      "id": 45,
       "number": "Bzenec, Přívoz směr Strážnice",
       "title": "Bzenec, Přívoz směr Strážnice",
       "latitude": 48.936276,
@@ -625,7 +1069,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "number": "PO 2506-072",
       "title": "I/50 Křižanovice",
       "latitude": 49.146064,
@@ -660,7 +1104,7 @@
       ]
     },
     {
-      "id": 69,
+      "id": 43,
       "number": "VP 2506-227",
       "title": "Prostějov, Wolkerova a Újezd",
       "latitude": 49.469686,
@@ -676,7 +1120,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 38,
       "number": "VP 2506-061",
       "title": "žel. trať. Brno hl.n. - Brno-Horní Heršpice(N)",
       "latitude": 49.183057,
@@ -741,6 +1185,22 @@
       ]
     },
     {
+      "id": 30,
+      "number": "VP 2505-223",
+      "title": "Brno, ulice Zábrdovická",
+      "latitude": 49.201325,
+      "longitude": 16.634046,
+      "validFrom": "2025-05-18T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
+      ]
+    },
+    {
       "id": 30635,
       "number": "V2505-025",
       "title": "Výluka tramvají do Modřic",
@@ -755,22 +1215,6 @@
       "affectedLines": [
         "2",
         "x2"
-      ]
-    },
-    {
-      "id": 41,
-      "number": "VP 2505-223",
-      "title": "Brno, ulice Zábrdovická",
-      "latitude": 49.201325,
-      "longitude": 16.634046,
-      "validFrom": "2025-05-18T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
       ]
     },
     {
@@ -801,7 +1245,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 32,
       "number": "PO 2505-056",
       "title": "Sokolnice, ul. Zámecká",
       "latitude": 49.190344,
@@ -817,7 +1261,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 31,
       "number": "2505 Pohořelice, náměstí",
       "title": "Pohořelice, náměstí - směr Brno",
       "latitude": 48.980847,
@@ -835,7 +1279,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 27,
       "number": "Knínice, horní zastávka",
       "title": "Knínice, horní zastávka v obou směrech",
       "latitude": 49.539664,
@@ -851,7 +1295,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 23,
       "number": "VP 2504-217",
       "title": "Zaječí",
       "latitude": 48.873324,
@@ -883,7 +1327,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 22,
       "number": "PO 2504-025",
       "title": "Kuřim, Zámecká",
       "latitude": 49.295513,
@@ -900,7 +1344,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 12,
       "number": "VP 2504-213",
       "title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
       "latitude": 49.085623,
@@ -918,7 +1362,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 19,
       "number": "VP 2503-212",
       "title": "Tišnov, náměstí Míru",
       "latitude": 49.348891,
@@ -941,7 +1385,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 16,
       "number": "VP 2503-211",
       "title": "Drasenhofen, silnice B7 v průtahu městem",
       "latitude": 48.754633,
@@ -985,23 +1429,6 @@
     },
     {
       "id": 15,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
-      ]
-    },
-    {
-      "id": 19,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
       "latitude": 49.191619,
@@ -1019,7 +1446,24 @@
       ]
     },
     {
-      "id": 17,
+      "id": 13,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74"
+      ]
+    },
+    {
+      "id": 14,
       "number": "PO 2503-018",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
       "latitude": 48.904533,
@@ -1036,7 +1480,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "number": "Černá Hora, Na Škrku PRODLOUŽENO",
       "title": "Černá Hora, Na Škrku v obou směrech",
       "latitude": 49.414746,
