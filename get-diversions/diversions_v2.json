@@ -206,7 +206,7 @@
       "longitude": 16.831685,
       "validFrom": "2025-08-01T07:00:00+02:00",
       "validTo": "2025-08-31T16:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S52</strong></font> budou po dobu výluky v úseku Zaječí – Kobylí na Moravě - Hodonín nahrazeny\u00A0autobusy náhradní dopravy (NAD) jedoucí podle jízdního řádu linky xS52.. ",
       "privateTextHtml": null,
       "type": "V",
