@@ -189,7 +189,7 @@
       "longitude": 17.282438,
       "validFrom": "2025-08-01T08:00:00+02:00",
       "validTo": "2025-08-13T16:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku\u00A0\u00A0Rohatec – Veselí nad Moravou\u00A0po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
       "privateTextHtml": null,
       "type": "V",
