@@ -146,7 +146,7 @@
       "longitude": 16.643246,
       "validFrom": "2025-08-02T00:00:00+02:00",
       "validTo": "2025-08-03T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu úplné uzavírky ulice Rokytova v Brně pojedou všechny spoje linky<font color=\"#009240\"><strong> 201</strong></font> mezi zastávkami Brno, Prušánecká a Brno, Stará osada obousměrným odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 201</strong></font> obslouží všechny zastávky dle platných jízdních řádů. Na odklonové trase neobsluhuje žádné zastávky. ",
       "privateTextHtml": null,
       "type": "V",
