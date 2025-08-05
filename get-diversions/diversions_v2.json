@@ -121,6 +121,40 @@
       ]
     },
     {
+      "id": 32584,
+      "number": "V2508-071",
+      "title": "Výluka autobusů mezi Lelekovicemi a Vranovem",
+      "latitude": 49.297159,
+      "longitude": 16.603172,
+      "validFrom": "2025-08-08T05:00:00+02:00",
+      "validTo": "2025-08-17T21:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy bude od zahájení provozu <strong>v pátek 8. srpna 2025 do neděle 17. srpna 2025</strong> pro veškerou dopravu uzavřena komunikace III/37917 mezi Lelekovicemi a Vranovem.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 41</strong> bude v provozu pouze v úseku <strong>Královo Pole, nádraží – Lelekovice, u kříže</strong>.<br />\n• Neobslouží tak zastávky <strong>Vranov, křižovatka</strong> a <strong>Vranov, myslivna</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Po dobu výluky budou níže uvedené spoje <strong>linky 57</strong> prodlouženy až do/z Vranova:<br />\n• Spoje z <strong>Maloměřického mostu</strong> v 7:13, 13:13 a 17:13 hod. a zpět z <strong>Vranova </strong>v 8:10, 14:10 a 18:06 hod. v pracovní dny.<br />\n• Spoj z <strong>Vranova </strong>v 8:06 hod. v nepracovní dny.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-071_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "41"
+      ]
+    },
+    {
+      "id": 32581,
+      "number": "V2508-070",
+      "title": "Omezení provozu autobusů v křižovatce Poříčí × Renneská",
+      "latitude": 49.184769,
+      "longitude": 16.602715,
+      "validFrom": "2025-08-07T23:00:00+02:00",
+      "validTo": "2025-08-15T23:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu pokračujících stavebních prací bude <strong>od 23:00 hod. ve čtvrtek 7. srpna 2025 do 23:00 hod. v pátek 15. srpna 2025</strong> omezen provoz autobusů v křižovatce ulic Poříčí, Renneské a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 40</strong> pojede ve směru do Bohunic v úseku <strong>Úzká – Holandská</strong> odklonem ulicemi Uhelnou a Poříčí.<br />\n• Neobslouží tak zastávky <strong>Soukenická </strong>a <strong>Křídlovická</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede nadále v úseku v úseku <strong>Celní – Hlavní nádraží </strong>obousměrným odklonem ulicemi Vídeňskou a Hybešovou po trase shodné s linkou N91.<br />\n• Neobslouží tak zastávky <strong>Vojtova</strong>, <strong>Křídlovická </strong>a <strong>Soukenická</strong>.<br />\n• Na odklonové trase obslouží všechny zastávky linky N91.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede v úseku <strong>Hlavní nádraží – Strážní</strong> odklonem ulicemi Uhelnou a Poříčí.<br />\n• Neobslouží tak zastávky <strong>Soukenická </strong>a <strong>Křídlovická</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-070_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40",
+        "N90",
+        "N96"
+      ]
+    },
+    {
       "id": 88,
       "number": "PO 2508-125",
       "title": "Velké Pavlovice, železniční přejezd P7139",
@@ -1206,22 +1240,6 @@
       ]
     },
     {
-      "id": 27,
-      "number": "VP 2505-223",
-      "title": "Brno, ulice Zábrdovická",
-      "latitude": 49.201325,
-      "longitude": 16.634046,
-      "validFrom": "2025-05-18T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
-      ]
-    },
-    {
       "id": 30635,
       "number": "V2505-025",
       "title": "Výluka tramvají do Modřic",
@@ -1236,6 +1254,22 @@
       "affectedLines": [
         "2",
         "x2"
+      ]
+    },
+    {
+      "id": 27,
+      "number": "VP 2505-223",
+      "title": "Brno, ulice Zábrdovická",
+      "latitude": 49.201325,
+      "longitude": 16.634046,
+      "validFrom": "2025-05-18T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
       ]
     },
     {
