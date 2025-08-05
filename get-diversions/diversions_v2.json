@@ -1,6 +1,22 @@
 {
   "diversions": [
     {
+      "id": 32635,
+      "number": "",
+      "title": "Dočasné přerušení provozu linky 62",
+      "latitude": 49.182042,
+      "longitude": 16.588057,
+      "validFrom": "2025-08-11T05:00:00+02:00",
+      "validTo": "2025-12-13T20:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu stavebních prací nebude <strong>od pondělí 11. srpna do ukončení prací</strong> (předpoklad do 13. prosince 2025) pro veškerou dopravu průjezdná část ulice Vinohrady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 62</strong> bude po dobu trvání stavebních prací mimo provoz.<br />\n• Zastávku <strong>Červený kopec</strong> nebude možné obsloužit.<br />\n• V úseku Mendlovo náměstí – Nemocnice Milosrdných bratří bude možné využít pravidelné tramvajové linky.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "62"
+      ]
+    },
+    {
       "id": 92,
       "number": "PO 2508-130",
       "title": "Velké Bílovice",
@@ -133,7 +149,8 @@
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "41"
+        "41",
+        "57"
       ]
     },
     {
@@ -188,22 +205,6 @@
       ]
     },
     {
-      "id": 121,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
       "id": 118,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -241,6 +242,38 @@
       ]
     },
     {
+      "id": 74,
+      "number": "Práče, ObÚ",
+      "title": "silnice III/41313 v obci Práče",
+      "latitude": 48.877006,
+      "longitude": 16.203858,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "835"
+      ]
+    },
+    {
+      "id": 121,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
+      ]
+    },
+    {
       "id": 97,
       "number": "PO 2508-121",
       "title": "Bučovice, Vyškovská",
@@ -255,22 +288,6 @@
       "affectedLines": [
         "156",
         "644"
-      ]
-    },
-    {
-      "id": 74,
-      "number": "Práče, ObÚ",
-      "title": "silnice III/41313 v obci Práče",
-      "latitude": 48.877006,
-      "longitude": 16.203858,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "835"
       ]
     },
     {
@@ -1662,7 +1679,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
