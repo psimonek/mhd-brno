@@ -17,6 +17,23 @@
       ]
     },
     {
+      "id": 32615,
+      "number": "V2508-072",
+      "title": "Výluka autobusů mezi Hvozdcem a Veverskou Bítýškou",
+      "latitude": 49.258731,
+      "longitude": 16.43177,
+      "validFrom": "2025-08-11T04:30:00+02:00",
+      "validTo": "2025-08-31T23:45:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy bude od zahájení provozu <strong>v pondělí 11. srpna do ukončení prací</strong> (předpoklad do 31. srpna 2025) bude pro veškerou dopravu uzavřena silnice III/3866 mezi Veverskou Bítýškou a Hvozdcem.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Regionální autobusová linka 153</strong> a spoje <strong>regionální autobusové linky 303</strong> běžně jedoucí přes Hvozdec pojedou v úseku <strong>Veverská Bítýška, náměstí – Hvozdec</strong> odklonem po silnici III/386.<br />\n• Zastávky<strong> Veverská Bítýška, sídliště</strong> a <strong>Veverská Bítýška, hájovna Na Hlince</strong> nebude možné obsloužit.<br />\n• Na odklonové trase obslouží všechny spoje zastávky <strong>Veverská Bítýška, rozcestí Mečkov</strong> a <strong>U Matky Boží</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-072_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Jízdní řády dotčených linek jsou k dispozici na portálu <a href=\"https://www.idsjmk.cz/timetables/links\" target=\"_blank\">IDS JMK.</a> </em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153",
+        "303"
+      ]
+    },
+    {
       "id": 92,
       "number": "PO 2508-130",
       "title": "Velké Bílovice",
@@ -221,27 +238,6 @@
       ]
     },
     {
-      "id": 117,
-      "number": "PO 2508-122",
-      "title": "Znojmo, ul. Vídeňská",
-      "latitude": 48.852050,
-      "longitude": 16.052883,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-22T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 806</strong></font> a spoje 30, 42, 46 a 50 linky<font color=\"#009240\"><strong> 807</strong></font>\u00A0pojedou ve směru Cínová Hora a Přímětice od zastávky Železniční stanice odklonem ulicí 17. listopadu k zastávce Pontassievská. Opačný směr jedou po běžné trase bez odklonů.<br/><br/> Linky<font color=\"#009240\"><strong> 818</strong></font>, <font color=\"#009240\"><strong> 819</strong></font>, <font color=\"#009240\"><strong> 820</strong></font> a <font color=\"#009240\"><strong>821</strong></font>\u00A0ve směru do Znojma pojedou všemi spoji z ulice Vídeňské přímo k zastávce Znojmo, aut.nádr. ulicí Dr. Horákové.\u00A0Opačný směr jedou po běžné trase bez odklonů.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "806",
-        "807",
-        "818",
-        "819",
-        "820",
-        "821"
-      ]
-    },
-    {
       "id": 74,
       "number": "Práče, ObÚ",
       "title": "silnice III/41313 v obci Práče",
@@ -255,6 +251,23 @@
       "type": "V",
       "affectedLines": [
         "835"
+      ]
+    },
+    {
+      "id": 97,
+      "number": "PO 2508-121",
+      "title": "Bučovice, Vyškovská",
+      "latitude": 49.152015,
+      "longitude": 17.003660,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 156</strong></font> a <font color=\"#009240\"><strong>644</strong></font>:\u00A0Jedou v Bučovicích odklonem, zastávka Bučovice, dům mládeže je přesunuta dále od centra Bučovic k domu č. 759. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "156",
+        "644"
       ]
     },
     {
@@ -274,20 +287,24 @@
       ]
     },
     {
-      "id": 97,
-      "number": "PO 2508-121",
-      "title": "Bučovice, Vyškovská",
-      "latitude": 49.152015,
-      "longitude": 17.003660,
+      "id": 117,
+      "number": "PO 2508-122",
+      "title": "Znojmo, ul. Vídeňská",
+      "latitude": 48.852050,
+      "longitude": 16.052883,
       "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-10T23:59:00+02:00",
+      "validTo": "2025-08-22T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 156</strong></font> a <font color=\"#009240\"><strong>644</strong></font>:\u00A0Jedou v Bučovicích odklonem, zastávka Bučovice, dům mládeže je přesunuta dále od centra Bučovic k domu č. 759. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 806</strong></font> a spoje 30, 42, 46 a 50 linky<font color=\"#009240\"><strong> 807</strong></font>\u00A0pojedou ve směru Cínová Hora a Přímětice od zastávky Železniční stanice odklonem ulicí 17. listopadu k zastávce Pontassievská. Opačný směr jedou po běžné trase bez odklonů.<br/><br/> Linky<font color=\"#009240\"><strong> 818</strong></font>, <font color=\"#009240\"><strong> 819</strong></font>, <font color=\"#009240\"><strong> 820</strong></font> a <font color=\"#009240\"><strong>821</strong></font>\u00A0ve směru do Znojma pojedou všemi spoji z ulice Vídeňské přímo k zastávce Znojmo, aut.nádr. ulicí Dr. Horákové.\u00A0Opačný směr jedou po běžné trase bez odklonů.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "156",
-        "644"
+        "806",
+        "807",
+        "818",
+        "819",
+        "820",
+        "821"
       ]
     },
     {
@@ -1257,6 +1274,22 @@
       ]
     },
     {
+      "id": 27,
+      "number": "VP 2505-223",
+      "title": "Brno, ulice Zábrdovická",
+      "latitude": 49.201325,
+      "longitude": 16.634046,
+      "validFrom": "2025-05-18T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
+      ]
+    },
+    {
       "id": 30635,
       "number": "V2505-025",
       "title": "Výluka tramvají do Modřic",
@@ -1271,22 +1304,6 @@
       "affectedLines": [
         "2",
         "x2"
-      ]
-    },
-    {
-      "id": 27,
-      "number": "VP 2505-223",
-      "title": "Brno, ulice Zábrdovická",
-      "latitude": 49.201325,
-      "longitude": 16.634046,
-      "validFrom": "2025-05-18T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu vyloučeného provozu tramvají v ulici Zábrdovická a Bubeníčkova s ukončením tramvajových linek<font color=\"#4AB95D\"><strong> 2</strong></font> a <font color=\"#009E9E\"><strong>3</strong></font> u Vojenské nemocnice bude linka<font color=\"#009240\"><strong> 201</strong></font> ze Staré osady prodloužena k Vojenské nemocnici. . Na odklonové trase obslouží zastávky Kuldova (dnešní výstupní zastávka Židenice, nádraží) a Vojenská nemocnice (v ulici Lazaretní při ústí do ulice Zábrdovické) - výstupní zastávka. Nástupní zastávka Vojenská nemocnice se bude nacházet v ulici Zábrdovická v bývalé zastávce linky<font color=\"#2C89C8\"><strong> 82</strong></font> (před domy č.p. 17/12 a 16/14) blíže ke Staré osadě. Ve směru na Starou osadu obslouží linka<font color=\"#009240\"><strong> 201</strong></font> dočasně zřízenou zastávku Kuldova (náhrada za vynechanou zastávku Židenice, nádraží) v ulici Bubeníčkova před křižovatkou s ulicí Václavkova. Dále pojedou autobusy linky<font color=\"#009240\"><strong> 201</strong></font> po pravidelné trase směr Jedovnice. Zastávka Židenice, nádraží v terminálu nebude po dobu výluky linkou<font color=\"#009240\"><strong> 201</strong></font> obsluhována. Provoz cyklospojů: nástup a výstup cestujících s koly bude možný v zastávce Vojenská nemocnice (náhrada za zastávku Židenice, nádraží). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
       ]
     },
     {
@@ -1399,6 +1416,23 @@
       ]
     },
     {
+      "id": 21,
+      "number": "PO 2504-025",
+      "title": "Kuřim, Zámecká",
+      "latitude": 49.295513,
+      "longitude": 16.522880,
+      "validFrom": "2025-04-01T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "312"
+      ]
+    },
+    {
       "id": 12,
       "number": "VP 2504-213",
       "title": "Dukovany, EDU - Dukovany, obec, silnice II/152",
@@ -1414,23 +1448,6 @@
         "441",
         "442",
         "812"
-      ]
-    },
-    {
-      "id": 21,
-      "number": "PO 2504-025",
-      "title": "Kuřim, Zámecká",
-      "latitude": 49.295513,
-      "longitude": 16.522880,
-      "validFrom": "2025-04-01T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "312"
       ]
     },
     {
@@ -1679,7 +1696,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
