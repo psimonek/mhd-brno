@@ -220,7 +220,7 @@
       "longitude": 16.603172,
       "validFrom": "2025-08-08T05:00:00+02:00",
       "validTo": "2025-08-17T21:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu opravy bude od zahájení provozu <strong>v pátek 8. srpna 2025 do neděle 17. srpna 2025</strong> pro veškerou dopravu uzavřena komunikace III/37917 mezi Lelekovicemi a Vranovem.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 41</strong> bude v provozu pouze v úseku <strong>Královo Pole, nádraží – Lelekovice, u kříže</strong>.<br />\n• Neobslouží tak zastávky <strong>Vranov, křižovatka</strong> a <strong>Vranov, myslivna</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Po dobu výluky budou níže uvedené spoje <strong>linky 57</strong> prodlouženy až do/z Vranova:<br />\n• Spoje z <strong>Maloměřického mostu</strong> v 7:13, 13:13 a 17:13 hod. a zpět z <strong>Vranova </strong>v 8:10, 14:10 a 18:06 hod. v pracovní dny.<br />\n• Spoj z <strong>Vranova </strong>v 8:06 hod. v nepracovní dny.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-071_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
