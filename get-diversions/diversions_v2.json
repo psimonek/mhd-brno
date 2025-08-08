@@ -170,7 +170,7 @@
       "longitude": 16.981605,
       "validFrom": "2025-08-09T00:00:00+02:00",
       "validTo": "2025-08-13T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Prušánky, ObÚ bude přesunuta na ulici Hlavní hned za křižovatkou s ulicí Hodonínská u domů č. p. 328 a 64.",
       "privateTextHtml": null,
       "type": "V",
