@@ -369,7 +369,7 @@
       "longitude": 16.880913,
       "validFrom": "2025-08-09T07:00:00+02:00",
       "validTo": "2025-08-09T20:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Břeclav, nám. TGM kostel bude přesunuta ve směru na autobusové nádraží na zastávku Břeclav, nám. TGM MěÚ, ve směru na Poštornou na zastávku Břeclav, 1. máje.",
       "privateTextHtml": null,
       "type": "V",
