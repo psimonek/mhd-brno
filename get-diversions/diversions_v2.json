@@ -329,26 +329,6 @@
       ]
     },
     {
-      "id": 78,
-      "number": "PO 2508-128",
-      "title": "Břeclav, nám. TGM (u zastávek nám. TGM kostel)",
-      "latitude": 48.759229,
-      "longitude": 16.880913,
-      "validFrom": "2025-08-09T07:00:00+02:00",
-      "validTo": "2025-08-09T20:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Břeclav, nám. TGM kostel bude přesunuta ve směru na autobusové nádraží na zastávku Břeclav, nám. TGM MěÚ, ve směru na Poštornou na zastávku Břeclav, 1. máje.",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "562",
-        "564",
-        "568",
-        "570",
-        "572"
-      ]
-    },
-    {
       "id": 127,
       "number": "2508 Lužice, pošta",
       "title": "Lužice, pošta - směr Břeclav",
@@ -515,6 +495,39 @@
       ]
     },
     {
+      "id": 87,
+      "number": "PO 2508-121",
+      "title": "Bučovice, Vyškovská",
+      "latitude": 49.152015,
+      "longitude": 17.003660,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 156</strong></font> a <font color=\"#009240\"><strong>644</strong></font>:\u00A0Jedou v Bučovicích odklonem, zastávka Bučovice, dům mládeže je přesunuta dále od centra Bučovic k domu č. 759. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "156",
+        "644"
+      ]
+    },
+    {
+      "id": 111,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
+      ]
+    },
+    {
       "id": 110,
       "number": "PO 2508-122",
       "title": "Znojmo, ul. Vídeňská",
@@ -536,19 +549,38 @@
       ]
     },
     {
-      "id": 111,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
+      "id": 61,
+      "number": "Práče, ObÚ",
+      "title": "silnice III/41313 v obci Práče",
+      "latitude": 48.877006,
+      "longitude": 16.203858,
       "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "153"
+        "835"
+      ]
+    },
+    {
+      "id": 122,
+      "number": "PO 2508-131",
+      "title": "Olešnice, náměstí",
+      "latitude": 49.557785,
+      "longitude": 16.422578,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-08-11T12:00:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0konání kulturní akce ,,Vavřinecká pouť v Olešnici 2025\u00A0nebude možné využívání prostranství náměstí Míru v Olešnici pro obraty a odstavování autobusů..<br/><br/> Linky<font color=\"#009240\"><strong> 256</strong></font>, <font color=\"#009240\"><strong> 257</strong></font>, <font color=\"#009240\"><strong> 275\u00A0a\u00A0301</strong></font>\u00A0provádí obrat v zastávce Olešnice, náměstí\u00A0jízdou ulicemi Obora, Tržní, Hliníky, Trpínská a zpět na náměstí Míru\u00A0k autobusovým zastávkám, případně alternativně v ulici Obora před Mlékárnou.\u00A0Zastávky Olešnice, náměstí zůstávají beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "256",
+        "257",
+        "275",
+        "301"
       ]
     },
     {
@@ -581,58 +613,6 @@
       "type": "V",
       "affectedLines": [
         "334"
-      ]
-    },
-    {
-      "id": 122,
-      "number": "PO 2508-131",
-      "title": "Olešnice, náměstí",
-      "latitude": 49.557785,
-      "longitude": 16.422578,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-11T12:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání kulturní akce ,,Vavřinecká pouť v Olešnici 2025\u00A0nebude možné využívání prostranství náměstí Míru v Olešnici pro obraty a odstavování autobusů..<br/><br/> Linky<font color=\"#009240\"><strong> 256</strong></font>, <font color=\"#009240\"><strong> 257</strong></font>, <font color=\"#009240\"><strong> 275\u00A0a\u00A0301</strong></font>\u00A0provádí obrat v zastávce Olešnice, náměstí\u00A0jízdou ulicemi Obora, Tržní, Hliníky, Trpínská a zpět na náměstí Míru\u00A0k autobusovým zastávkám, případně alternativně v ulici Obora před Mlékárnou.\u00A0Zastávky Olešnice, náměstí zůstávají beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "256",
-        "257",
-        "275",
-        "301"
-      ]
-    },
-    {
-      "id": 61,
-      "number": "Práče, ObÚ",
-      "title": "silnice III/41313 v obci Práče",
-      "latitude": 48.877006,
-      "longitude": 16.203858,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "835"
-      ]
-    },
-    {
-      "id": 87,
-      "number": "PO 2508-121",
-      "title": "Bučovice, Vyškovská",
-      "latitude": 49.152015,
-      "longitude": 17.003660,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 156</strong></font> a <font color=\"#009240\"><strong>644</strong></font>:\u00A0Jedou v Bučovicích odklonem, zastávka Bučovice, dům mládeže je přesunuta dále od centra Bučovic k domu č. 759. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "156",
-        "644"
       ]
     },
     {
@@ -739,6 +719,22 @@
       ]
     },
     {
+      "id": 105,
+      "number": "Rozseč nad Kunštátem",
+      "title": "Rozseč nad Kunštátem (v obou směrech)",
+      "latitude": 49.525543,
+      "longitude": 16.462444,
+      "validFrom": "2025-07-28T07:00:00+02:00",
+      "validTo": "2025-08-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice I/19 v obci Rozseč nad Kunštátem budou přesunuty v obou směrech zastávky Rozseč nad Kunštátem ve směru na Hodonín u Kunštátu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "256"
+      ]
+    },
+    {
       "id": 106,
       "number": "Rozseč nad Kunštátem, hájenka",
       "title": "Rozseč nad Kunštátem, hájenka (v obou směrech)",
@@ -773,19 +769,35 @@
       ]
     },
     {
-      "id": 105,
-      "number": "Rozseč nad Kunštátem",
-      "title": "Rozseč nad Kunštátem (v obou směrech)",
-      "latitude": 49.525543,
-      "longitude": 16.462444,
-      "validFrom": "2025-07-28T07:00:00+02:00",
-      "validTo": "2025-08-10T23:59:00+02:00",
+      "id": 95,
+      "number": "PO 2507-118",
+      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
+      "latitude": 48.804178,
+      "longitude": 16.636094,
+      "validFrom": "2025-07-28T00:00:00+02:00",
+      "validTo": "2025-09-05T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy silnice I/19 v obci Rozseč nad Kunštátem budou přesunuty v obou směrech zastávky Rozseč nad Kunštátem ve směru na Hodonín u Kunštátu. ",
+      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "256"
+        "585"
+      ]
+    },
+    {
+      "id": 103,
+      "number": "VP 2507-240",
+      "title": "II/395 Dolní Kounice - Moravské Bránice",
+      "latitude": 49.074316,
+      "longitude": 16.447864,
+      "validFrom": "2025-07-28T00:00:00+02:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "154"
       ]
     },
     {
@@ -824,38 +836,6 @@
       "affectedLines": [
         "25",
         "x25"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "VP 2507-240",
-      "title": "II/395 Dolní Kounice - Moravské Bránice",
-      "latitude": 49.074316,
-      "longitude": 16.447864,
-      "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2026-05-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "154"
-      ]
-    },
-    {
-      "id": 95,
-      "number": "PO 2507-118",
-      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
-      "latitude": 48.804178,
-      "longitude": 16.636094,
-      "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2025-09-05T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "585"
       ]
     },
     {
@@ -911,6 +891,22 @@
       ]
     },
     {
+      "id": 86,
+      "number": "PO 2507-110",
+      "title": "Tišnov, Lomnická",
+      "latitude": 49.352505,
+      "longitude": 16.425446,
+      "validFrom": "2025-07-21T00:00:00+02:00",
+      "validTo": "2025-08-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede z Tišnova do Lomničky jednosměrným odklonem (pouze ve směru do Lomničky) ulicemi K Čimperku a Kuthanova. Zastávku Tišnov, Lomnická obslouží v přeložené poloze (v ulici Lomnická před uzavírkou). Směr z Lomničky do Tišnova bez omezení.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
+      ]
+    },
+    {
       "id": 94,
       "number": "PO 2507-112",
       "title": "Lednice, silnice III/42117 v křižovatce ulic Nejdecká x Mikulovská ",
@@ -941,22 +937,6 @@
       "affectedLines": [
         "816",
         "825"
-      ]
-    },
-    {
-      "id": 86,
-      "number": "PO 2507-110",
-      "title": "Tišnov, Lomnická",
-      "latitude": 49.352505,
-      "longitude": 16.425446,
-      "validFrom": "2025-07-21T00:00:00+02:00",
-      "validTo": "2025-08-17T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> jede z Tišnova do Lomničky jednosměrným odklonem (pouze ve směru do Lomničky) ulicemi K Čimperku a Kuthanova. Zastávku Tišnov, Lomnická obslouží v přeložené poloze (v ulici Lomnická před uzavírkou). Směr z Lomničky do Tišnova bez omezení.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "333"
       ]
     },
     {
@@ -1185,22 +1165,6 @@
       ]
     },
     {
-      "id": 49,
-      "number": "VP 2506-067",
-      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-29T23:55:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Změna na lince<font color=\"#800000\"><strong> S3</strong></font> v pracovní dny:. \u00A0V úseku Brno-Královo Pole – Brno-Maloměřice, z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění,\u00A0nepojedou\u00A0vlaky linky\u00A0S3 končící/začínající v Brně-Králově Poli. Budou končící/začínající v\u00A0Brně hl.n.\u00A0dle výlukového jízdního řádu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3"
-      ]
-    },
-    {
       "id": 44,
       "number": "PO 2506-095",
       "title": "Brno, Slatina I",
@@ -1217,6 +1181,22 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 49,
+      "number": "VP 2506-067",
+      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
+      "latitude": 49.274245,
+      "longitude": 16.578369,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-29T23:55:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Změna na lince<font color=\"#800000\"><strong> S3</strong></font> v pracovní dny:. \u00A0V úseku Brno-Královo Pole – Brno-Maloměřice, z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění,\u00A0nepojedou\u00A0vlaky linky\u00A0S3 končící/začínající v Brně-Králově Poli. Budou končící/začínající v\u00A0Brně hl.n.\u00A0dle výlukového jízdního řádu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3"
       ]
     },
     {
