@@ -352,7 +352,7 @@
       "longitude": 17.340822,
       "validFrom": "2025-08-09T12:00:00+02:00",
       "validTo": "2025-08-09T19:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu pořádání kulturní akce Vnorovská desítka budou zastávky Vnorovy, Lidéřovice a Vnorovy, škola v uvedenou dobu bez obsluhy. Bude zřízena náhradní zastávka „Vnorovy, kopec“ v\u00A0blízkosti domů č. p. 187 a 664 na ulici Hlavní.",
       "privateTextHtml": null,
       "type": "V",
