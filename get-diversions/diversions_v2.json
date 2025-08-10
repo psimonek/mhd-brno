@@ -319,7 +319,7 @@
       "longitude": 16.891230,
       "validFrom": "2025-08-10T14:00:00+02:00",
       "validTo": "2025-08-10T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka\u00A0Velké Bílovice, kovárna pro linky<font color=\"#009240\"><strong> 542</strong></font> a <font color=\"#009240\"><strong>556</strong></font> - POUZE VE SMĚRU Moravský Žižkov - Břeclav / Hodonín přesunuta na ulici Čejkovskou poblíž křižovatky se silnicí směr Moravský Žižkov.. ",
       "privateTextHtml": null,
       "type": "V",
