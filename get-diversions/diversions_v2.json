@@ -203,7 +203,7 @@
       "longitude": 16.446211,
       "validFrom": "2025-08-11T08:30:00+02:00",
       "validTo": "2025-08-20T15:45:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#800000\"><strong> S41</strong></font>. Všechny vlaky budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), které bude organizována podle výlukového jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1840,7 +1840,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
