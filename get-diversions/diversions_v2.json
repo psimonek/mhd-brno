@@ -102,7 +102,7 @@
       "longitude": 16.788416,
       "validFrom": "2025-08-13T01:00:00+02:00",
       "validTo": "2025-08-18T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linky<font color=\"#009240\"><strong> 522</strong></font> a <font color=\"#009240\"><strong>612</strong></font>:\u00A0Nezajíždějí do prostoru před obecním řadem, zastávky Diváky, ObÚ jsou z tohoto prostoru přemístěny do náhradních poloh. ",
       "privateTextHtml": null,
       "type": "V",
