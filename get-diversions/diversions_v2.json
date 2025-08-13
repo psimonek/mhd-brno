@@ -145,9 +145,9 @@
       "validFrom": "2025-08-13T11:15:00+02:00",
       "validTo": null,
       "isValid": true,
-      "publicTextHtml": "<p>Testování korektního zobrazování výluk, prosíme cestující, aby tuto zprávu ignorovali. Děkujeme za pochopení.</p>\n",
+      "publicTextHtml": "<p>Testování korektního zobrazování výluk, prosíme cestující, aby tuto zprávu ignorovali. Děkujeme za pochopení.</p>\n\n<p>!@#$%^&*(()-=][¤;/\\>¨ů§)úp´=–\\><;°°`~</p>\n",
       "privateTextHtml": null,
-      "type": "V",
+      "type": "U",
       "affectedLines": [
         "62"
       ]
