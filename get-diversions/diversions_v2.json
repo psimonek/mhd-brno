@@ -126,7 +126,7 @@
       "longitude": 16.607230,
       "validFrom": "2025-08-13T21:40:00+02:00",
       "validTo": "2025-08-16T04:40:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodů betonářských prací v noční době, pojedou vlaky linky S4/4833,4835,4832,4834\u00A0na/z Brna dolního nádraží s návaznými autobusy linky\u00A0xS4D\u00A0od/k zastávce u Brna hl.n., podle výlukového jízdního řádu\u00A0linky xS4.. ",
       "privateTextHtml": null,
       "type": "V",
