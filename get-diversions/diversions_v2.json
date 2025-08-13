@@ -137,22 +137,6 @@
       ]
     },
     {
-      "id": 32778,
-      "number": "",
-      "title": "Testovací výluka",
-      "latitude": 49.235149,
-      "longitude": 16.468152,
-      "validFrom": "2025-08-13T11:15:00+02:00",
-      "validTo": null,
-      "isValid": true,
-      "publicTextHtml": "<p>Testování korektního zobrazování výluk, prosíme cestující, aby tuto zprávu ignorovali. Děkujeme za pochopení.</p>\n\n<p>!@#$%^&*(()-=][¤;/\\>¨ů§)úp´=–\\><;°°`~</p>\n",
-      "privateTextHtml": null,
-      "type": "U",
-      "affectedLines": [
-        "62"
-      ]
-    },
-    {
       "id": 97,
       "number": "PO 2508-140",
       "title": "Diváky, hody",
@@ -304,6 +288,22 @@
       ]
     },
     {
+      "id": 124,
+      "number": "PO 2508-135",
+      "title": "Pozořice, ul. V Zámku",
+      "latitude": 49.208978,
+      "longitude": 16.792342,
+      "validFrom": "2025-08-11T00:00:00+02:00",
+      "validTo": "2025-08-18T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>\u00A0pojede od zastávek Sivice nebo Pozořice, Jezera do zastávky Pozořice, Velké Lipky odklonem ulicemi Na Městečku, Holubická a Malé Lipky. Zastávku Pozořice, nám. obslouží v přesunuté poloze. Spoje ve směru od Sivic do zastávky Pozořice, Jezera jedou po pravidelné trase včetně obsluhy zastávky Pozořice, náměstí v ulici Holubické.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "702"
+      ]
+    },
+    {
       "id": 126,
       "number": "PO 2508-133",
       "title": "Prostějov, ul. Janáčkova III",
@@ -335,22 +335,6 @@
       "affectedLines": [
         "153",
         "303"
-      ]
-    },
-    {
-      "id": 124,
-      "number": "PO 2508-135",
-      "title": "Pozořice, ul. V Zámku",
-      "latitude": 49.208978,
-      "longitude": 16.792342,
-      "validFrom": "2025-08-11T00:00:00+02:00",
-      "validTo": "2025-08-18T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>\u00A0pojede od zastávek Sivice nebo Pozořice, Jezera do zastávky Pozořice, Velké Lipky odklonem ulicemi Na Městečku, Holubická a Malé Lipky. Zastávku Pozořice, nám. obslouží v přesunuté poloze. Spoje ve směru od Sivic do zastávky Pozořice, Jezera jedou po pravidelné trase včetně obsluhy zastávky Pozořice, náměstí v ulici Holubické.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "702"
       ]
     },
     {
@@ -1700,23 +1684,6 @@
       ]
     },
     {
-      "id": 12,
-      "number": "VP 2503-209",
-      "title": "Brno, viadukt Křenová",
-      "latitude": 49.191619,
-      "longitude": 16.614997,
-      "validFrom": "2025-03-25T00:00:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48",
-        "74"
-      ]
-    },
-    {
       "id": 14,
       "number": "PO 2503-019",
       "title": "Brno, viadukt Křenová",
@@ -1732,6 +1699,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 12,
+      "number": "VP 2503-209",
+      "title": "Brno, viadukt Křenová",
+      "latitude": 49.191619,
+      "longitude": 16.614997,
+      "validFrom": "2025-03-25T00:00:00+01:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Spoje 69 a 335 posunuty na 0:16 ze zastávky Brno, Hanácká. Spoj 334 posunut na 0:28 ze zastávky Prace, točna. Na tento spoj nově nenavazuje linka N95!.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Spoje 258 a 326 posunuty na 23:22 ze zastávky Újezd u Brna, MěÚ. Spoje 259 a 327 posunuty na 23:46 ze zastávky Brno, Hanácká. Spoje 260 a 328 posunuty na 0:01 ze zastávky Újezd u Brna, MěÚ. Ostatní spoje linek<font color=\"#2C89C8\"><strong> 48</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> beze změny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74"
       ]
     },
     {
