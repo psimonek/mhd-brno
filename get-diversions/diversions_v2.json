@@ -1,6 +1,29 @@
 {
   "diversions": [
     {
+      "id": 32779,
+      "number": "V2508-079",
+      "title": "Omezení autobusů a trolejbusů v Židenicích",
+      "latitude": 49.201927,
+      "longitude": 16.643078,
+      "validFrom": "2025-08-22T23:00:00+02:00",
+      "validTo": "2025-08-24T23:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu další etapy stavebních prací je <strong>o víkendu 23. a 24. srpna 2025 </strong>plánováno další omezení provozu v oblasti Židenic, během kterého nebude průjezdná křižovatka ulic Gajdošovy a Bubeníčkovy. Linky 27, x64, 75, N99 a 201 budou odkloněny ulicí Koperníkovou, linky 55, 58, 78 a N97 ulicemi Táborskou a Šámalovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "27",
+        "55",
+        "58",
+        "x64",
+        "78",
+        "N97",
+        "N99",
+        "201"
+      ]
+    },
+    {
       "id": 32663,
       "number": "V2508-077",
       "title": "Omezení dopravy v ulici Kníničské – III. etapa",
@@ -95,6 +118,22 @@
       ]
     },
     {
+      "id": 32778,
+      "number": "",
+      "title": "Testovací výluka",
+      "latitude": 49.235149,
+      "longitude": 16.468152,
+      "validFrom": "2025-08-13T11:15:00+02:00",
+      "validTo": null,
+      "isValid": true,
+      "publicTextHtml": "<p>Testování korektního zobrazování výluk, prosíme cestující, aby tuto zprávu ignorovali. Děkujeme za pochopení.</p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "62"
+      ]
+    },
+    {
       "id": 97,
       "number": "PO 2508-140",
       "title": "Diváky, hody",
@@ -112,19 +151,20 @@
       ]
     },
     {
-      "id": 82,
-      "number": "PO 2508-136",
-      "title": "Čejkovice, ul. Templářská",
-      "latitude": 48.905092,
-      "longitude": 16.943866,
+      "id": 85,
+      "number": "PO 2508-139",
+      "title": "Milovice, silnice II/421 (od křiž. se silnicí III/42123 do křiž. se silnicí III/42117)",
+      "latitude": 48.852447,
+      "longitude": 16.699150,
       "validFrom": "2025-08-13T00:00:00+02:00",
-      "validTo": "2025-08-21T23:59:00+02:00",
+      "validTo": "2025-08-18T10:00:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Čejkovice, u kostela bude přesunuta v obou směrech na ulici Masarykova v blízkosti kostela následovně:. Ve směru do Hodonína\u00A0do prostoru cca 30 metrů za cukrárnou., Ve směru do Čejče\u00A0do prostoru odstavné plochy mezi domy č. p. 155 a 156.. ",
+      "publicTextHtml": "Z důvodu pořádání kulturní akce Tradiční krojované hody Milovice bude zastávka Milovice, rest. v obou směrech přesunuta mimo obec na silnici směr Zaječí / Bulhary před výjezdem z obytné zóny u domu č. p. 229.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "913"
+        "550",
+        "570"
       ]
     },
     {
@@ -146,23 +186,6 @@
       ]
     },
     {
-      "id": 85,
-      "number": "PO 2508-139",
-      "title": "Milovice, silnice II/421 (od křiž. se silnicí III/42123 do křiž. se silnicí III/42117)",
-      "latitude": 48.852447,
-      "longitude": 16.699150,
-      "validFrom": "2025-08-13T00:00:00+02:00",
-      "validTo": "2025-08-18T10:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu pořádání kulturní akce Tradiční krojované hody Milovice bude zastávka Milovice, rest. v obou směrech přesunuta mimo obec na silnici směr Zaječí / Bulhary před výjezdem z obytné zóny u domu č. p. 229.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "550",
-        "570"
-      ]
-    },
-    {
       "id": 81,
       "number": "PO 2508-137",
       "title": "Moravský Žižkov, ul. Bílovská x Břeclavská x Prušánecká okolo zastávky Moravský Žižkov, křiž.",
@@ -177,6 +200,22 @@
       "affectedLines": [
         "542",
         "556"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "PO 2508-136",
+      "title": "Čejkovice, ul. Templářská",
+      "latitude": 48.905092,
+      "longitude": 16.943866,
+      "validFrom": "2025-08-13T00:00:00+02:00",
+      "validTo": "2025-08-21T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka\u00A0Čejkovice, u kostela bude přesunuta v obou směrech na ulici Masarykova v blízkosti kostela následovně:. Ve směru do Hodonína\u00A0do prostoru cca 30 metrů za cukrárnou., Ve směru do Čejče\u00A0do prostoru odstavné plochy mezi domy č. p. 155 a 156.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "913"
       ]
     },
     {
@@ -246,6 +285,22 @@
       ]
     },
     {
+      "id": 124,
+      "number": "PO 2508-135",
+      "title": "Pozořice, ul. V Zámku",
+      "latitude": 49.208978,
+      "longitude": 16.792342,
+      "validFrom": "2025-08-11T00:00:00+02:00",
+      "validTo": "2025-08-18T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>\u00A0pojede od zastávek Sivice nebo Pozořice, Jezera do zastávky Pozořice, Velké Lipky odklonem ulicemi Na Městečku, Holubická a Malé Lipky. Zastávku Pozořice, nám. obslouží v přesunuté poloze. Spoje ve směru od Sivic do zastávky Pozořice, Jezera jedou po pravidelné trase včetně obsluhy zastávky Pozořice, náměstí v ulici Holubické.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "702"
+      ]
+    },
+    {
       "id": 126,
       "number": "PO 2508-133",
       "title": "Prostějov, ul. Janáčkova III",
@@ -260,22 +315,6 @@
       "affectedLines": [
         "261",
         "755"
-      ]
-    },
-    {
-      "id": 124,
-      "number": "PO 2508-135",
-      "title": "Pozořice, ul. V Zámku",
-      "latitude": 49.208978,
-      "longitude": 16.792342,
-      "validFrom": "2025-08-11T00:00:00+02:00",
-      "validTo": "2025-08-18T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>\u00A0pojede od zastávek Sivice nebo Pozořice, Jezera do zastávky Pozořice, Velké Lipky odklonem ulicemi Na Městečku, Holubická a Malé Lipky. Zastávku Pozořice, nám. obslouží v přesunuté poloze. Spoje ve směru od Sivic do zastávky Pozořice, Jezera jedou po pravidelné trase včetně obsluhy zastávky Pozořice, náměstí v ulici Holubické.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "702"
       ]
     },
     {
@@ -1821,7 +1860,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
