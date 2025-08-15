@@ -43,6 +43,24 @@
       ]
     },
     {
+      "id": 32836,
+      "number": "V2508-078",
+      "title": "Omezení provozu autobusů v křižovatce Poříčí × Renneská – IV. etapa",
+      "latitude": 49.184348,
+      "longitude": 16.602787,
+      "validFrom": "2025-08-17T22:50:00+02:00",
+      "validTo": "2025-08-22T22:50:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p><span><span>Z důvodu pokračujících stavebních prací bude <strong>od 22:50 hod. v neděli 17. srpna 2025 do 22:50 hod. v pátek 22. srpna 2025</strong> probíhat další etapa omezení provozu autobusů v křižovatce ulic Poříčí, Renneské a Nové sady, během kterého dojde k dalším změnám organizace provozu.</span></span></p>\n\n<p> </p>\n\n<p><span><span><strong>Autobusová linka 40</strong> pojede v úseku <strong>Úzká – Holandská</strong> obousměrným odklonem ulicemi Uhelnou a Poříčí.<br />\n• Neobslouží tak zastávky <strong>Soukenická </strong>a <strong>Křídlovická</strong>.</span></span></p>\n\n<p> </p>\n\n<p><span><span><strong>Noční autobusová linka N90</strong> pojede nadále v úseku v úseku <strong>Celní – Hlavní nádraží </strong>obousměrným odklonem ulicemi Vídeňskou a Hybešovou po trase shodné s linkou N91.<br />\n• Neobslouží tak zastávky <strong>Vojtova</strong>, <strong>Křídlovická </strong>a <strong>Soukenická</strong>.<br />\n• Na odklonové trase obslouží všechny zastávky linky N91.</span></span></p>\n\n<p> </p>\n\n<p><strong><span><span>Noční autobusová linka N96</span></span></strong><span><span> pojede v úseku <strong>Hlavní nádraží – Strážní</strong> obousměrným odklonem ulicemi Uhelnou a Poříčí.<br />\n• Neobslouží tak zastávky <strong>Soukenická </strong>a <strong>Křídlovická</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-078_web.pdf\"><em>ke stažení</em></a></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40",
+        "N90",
+        "N96"
+      ]
+    },
+    {
       "id": 32750,
       "number": "V2508-077",
       "title": "Omezení dopravy v ulici Kníničské – III. etapa",
