@@ -198,26 +198,6 @@
       ]
     },
     {
-      "id": 133,
-      "number": "PO 2508-146",
-      "title": "Kyjov, třída Komenského",
-      "latitude": 49.015342,
-      "longitude": 17.125325,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-08-22T23:59:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 663</strong></font>, <font color=\"#009240\"><strong> 664</strong></font>, <font color=\"#009240\"><strong> 666</strong></font>\u00A0spoje pojedou obousměrně mezi zastávkami Kyjov, žel.st. a Kyjov, aut.st. odklonem\u00A0ul. Nádražní, Čelakovského, Svatoborská a Riegrova s vynecháním zastávky Kyjov, pod nemocnicí.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 671</strong></font>\u00A0pojede obousměrně ulicí Nětčickou a vynechá zastávku Zahradní.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 672</strong></font>\u00A0pojede obousměrně ulicí Nětčickou, Mezivodí, sidl. Zahradní bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "663",
-        "664",
-        "666",
-        "671",
-        "672"
-      ]
-    },
-    {
       "id": 146,
       "number": "PO 2508-147",
       "title": "Tišnov, Lomnická",
@@ -231,6 +211,22 @@
       "type": "V",
       "affectedLines": [
         "333"
+      ]
+    },
+    {
+      "id": 93,
+      "number": "PO 2508-148",
+      "title": "Šatov, sil. III/41322",
+      "latitude": 48.791005,
+      "longitude": 16.015910,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-08-22T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 818</strong></font>\u00A0- spoje č. 1, 4, 17 a 20, které mají na své pravidelné trase zastávku Šatov, žel. st. ji budou vynechávat. Začínat resp. končit budou v zastávce Šatov, ObÚ. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "818"
       ]
     },
     {
@@ -266,19 +262,23 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2508-148",
-      "title": "Šatov, sil. III/41322",
-      "latitude": 48.791005,
-      "longitude": 16.015910,
+      "id": 133,
+      "number": "PO 2508-146",
+      "title": "Kyjov, třída Komenského",
+      "latitude": 49.015342,
+      "longitude": 17.125325,
       "validFrom": "2025-08-18T00:00:00+02:00",
       "validTo": "2025-08-22T23:59:00+02:00",
       "isValid": false,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 818</strong></font>\u00A0- spoje č. 1, 4, 17 a 20, které mají na své pravidelné trase zastávku Šatov, žel. st. ji budou vynechávat. Začínat resp. končit budou v zastávce Šatov, ObÚ. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 663</strong></font>, <font color=\"#009240\"><strong> 664</strong></font>, <font color=\"#009240\"><strong> 666</strong></font>\u00A0spoje pojedou obousměrně mezi zastávkami Kyjov, žel.st. a Kyjov, aut.st. odklonem\u00A0ul. Nádražní, Čelakovského, Svatoborská a Riegrova s vynecháním zastávky Kyjov, pod nemocnicí.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 671</strong></font>\u00A0pojede obousměrně ulicí Nětčickou a vynechá zastávku Zahradní.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 672</strong></font>\u00A0pojede obousměrně ulicí Nětčickou, Mezivodí, sidl. Zahradní bez dopadu na obsluhu zastávek. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "818"
+        "663",
+        "664",
+        "666",
+        "671",
+        "672"
       ]
     },
     {
@@ -334,25 +334,6 @@
       "affectedLines": [
         "S2",
         "xS2"
-      ]
-    },
-    {
-      "id": 32821,
-      "number": "V2508-076",
-      "title": "Výluka tramvají na náměstí Svobody",
-      "latitude": 49.195132,
-      "longitude": 16.608249,
-      "validFrom": "2025-08-16T10:50:00+02:00",
-      "validTo": "2025-08-16T11:20:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu konání společensko-kulturní akce \"Den Brna 2025\" bude <strong>v sobotu 16. srpna 2025 od 10:50 hod. přibližně do 11:20 hod.</strong> vyloučen provoz tramvají přes náměstí Svobody.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajové linky 4, 9 </strong>a <strong>10</strong> pojedou v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechají tak zastávky <strong>Náměstí Svobody</strong> a <strong>Zelný trh</strong>.<br />\n• Na odklonové trase zastaví na zastávkách <strong>Šilingrovo náměstí</strong> a <strong>Nové sady</strong>.<br />\n• Zastávku <strong>Česká </strong>obslouží společnou s linkami 5 a 6 v ulici Joštově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Historická tramvajová linka H4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak zastávky <strong>Náměstí Svobody</strong> a <strong>Zelný trh</strong>.<br />\n• Na odklonové trase zastaví na zastávce <strong>Malinovského náměstí</strong>.<br />\n• Zastávku <strong>Hlavní nádraží </strong>obslouží na 1. a 2. koleji.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-076_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "4",
-        "H4",
-        "9",
-        "10"
       ]
     },
     {
