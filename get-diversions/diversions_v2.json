@@ -122,7 +122,7 @@
       "longitude": 16.607230,
       "validFrom": "2025-08-18T21:40:00+02:00",
       "validTo": "2025-08-29T04:40:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Výluka se koná v souběhu s výlukou dle\u00A0VP 2506-061.Z důvodů betonářských prací v noční době, pojedou vlaky linky S3/4631, 4669, 14601, 14624\u00A0na/z\u00A0Brna dolního nádraží\u00A0podle výlukového jízdního řádu\u00A0linky xS3.\u00A0Navazovat budou\u00A0autobusy linky\u00A0xS4D\u00A0od/k zastávce u Brna hl.n.. ",
       "privateTextHtml": null,
       "type": "V",
