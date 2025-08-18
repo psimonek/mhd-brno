@@ -780,19 +780,19 @@
       ]
     },
     {
-      "id": 92,
-      "number": "PO 2507-118",
-      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
-      "latitude": 48.804178,
-      "longitude": 16.636094,
+      "id": 101,
+      "number": "VP 2507-240",
+      "title": "II/395 Dolní Kounice - Moravské Bránice",
+      "latitude": 49.074316,
+      "longitude": 16.447864,
       "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2025-09-05T23:59:00+02:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "585"
+        "154"
       ]
     },
     {
@@ -810,6 +810,22 @@
       "affectedLines": [
         "25",
         "x25"
+      ]
+    },
+    {
+      "id": 92,
+      "number": "PO 2507-118",
+      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
+      "latitude": 48.804178,
+      "longitude": 16.636094,
+      "validFrom": "2025-07-28T00:00:00+02:00",
+      "validTo": "2025-09-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "585"
       ]
     },
     {
@@ -831,22 +847,6 @@
         "321",
         "331",
         "332"
-      ]
-    },
-    {
-      "id": 101,
-      "number": "VP 2507-240",
-      "title": "II/395 Dolní Kounice - Moravské Bránice",
-      "latitude": 49.074316,
-      "longitude": 16.447864,
-      "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2026-05-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "154"
       ]
     },
     {
@@ -1090,6 +1090,40 @@
       ]
     },
     {
+      "id": 48,
+      "number": "VP 2506-067",
+      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
+      "latitude": 49.274245,
+      "longitude": 16.578369,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-29T23:55:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Změna na lince<font color=\"#800000\"><strong> S3</strong></font> v pracovní dny:. \u00A0V úseku Brno-Královo Pole – Brno-Maloměřice, z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění,\u00A0nepojedou\u00A0vlaky linky\u00A0S3 končící/začínající v Brně-Králově Poli. Budou končící/začínající v\u00A0Brně hl.n.\u00A0dle výlukového jízdního řádu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3"
+      ]
+    },
+    {
+      "id": 31693,
+      "number": "V2506-044",
+      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
+      "latitude": 49.17378,
+      "longitude": 16.57162,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:59+01:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "40",
+        "N90"
+      ]
+    },
+    {
       "id": 44,
       "number": "VP 2506-237",
       "title": "Silnice III/4994 mezi Veselím nad Moravou a Kozojídkami",
@@ -1154,40 +1188,6 @@
       ]
     },
     {
-      "id": 31693,
-      "number": "V2506-044",
-      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
-      "latitude": 49.17378,
-      "longitude": 16.57162,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:59+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "25",
-        "40",
-        "N90"
-      ]
-    },
-    {
-      "id": 48,
-      "number": "VP 2506-067",
-      "title": "žel. trať v úseku Brno-Královo Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-29T23:55:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Změna na lince<font color=\"#800000\"><strong> S3</strong></font> v pracovní dny:. \u00A0V úseku Brno-Královo Pole – Brno-Maloměřice, z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění,\u00A0nepojedou\u00A0vlaky linky\u00A0S3 končící/začínající v Brně-Králově Poli. Budou končící/začínající v\u00A0Brně hl.n.\u00A0dle výlukového jízdního řádu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3"
-      ]
-    },
-    {
       "id": 50,
       "number": "PO 2506-099",
       "title": "Domašov, náměstí",
@@ -1202,23 +1202,6 @@
       "affectedLines": [
         "401",
         "423"
-      ]
-    },
-    {
-      "id": 31679,
-      "number": "",
-      "title": "Dočasné přeložení zastávky Žebětínská",
-      "latitude": 49.195192,
-      "longitude": 16.536304,
-      "validFrom": "2025-06-23T08:00:00+02:00",
-      "validTo": "2025-08-18T23:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Od <strong class=\"red\">středy 30. července 2025 od 08:00 hod.</strong> <strong>do ukončení prací</strong> (předpoklad 18.08.2025) je zastávka <strong>Žebětínská </strong>pro linky 52 a N90 v obou směrech nově přeložena následovně:</p>\n\n<ul>\n\t<li>směr centrum – cca o <strong class=\"red\">95 metrů vzad </strong></li>\n\t<li>směr z centra – cca o <strong class=\"red\">140 metrů vpřed</strong> </li>\n</ul>\n\n<p><span><span>Od pondělí <strong>23. června 2025 od 08:00 hod. do ukončení prací</strong> <s>(předpoklad 18.08.2025)</s> bude z důvodu výkopových prací (rekonstrukce plynovodu) dočasně přeložena zastávka<strong> Žebětínská </strong>pro linky 52 a N90 v obou směrech následovně:</span></span></p>\n\n<ul>\n\t<li><span><span>směr centrum – cca o 185 metrů vzad </span></span></li>\n\t<li><span><span>směr z centra – cca o 225 metrů vpřed </span></span></li>\n</ul>\n\n<p> </p>\n",
-      "privateTextHtml": null,
-      "type": "Z",
-      "affectedLines": [
-        "52",
-        "N90"
       ]
     },
     {
@@ -1270,6 +1253,24 @@
       ]
     },
     {
+      "id": 42,
+      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
+      "latitude": 49.013275,
+      "longitude": 17.133822,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "671",
+        "672",
+        "673"
+      ]
+    },
+    {
       "id": 40,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
@@ -1287,24 +1288,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 42,
-      "number": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "title": "Kyjov, Újezd, Dvořákova směr hřbitov",
-      "latitude": 49.013275,
-      "longitude": 17.133822,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 672</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>\u00A0obslouží Kyjov, Újezd, Dvořákova směr hřbitov asi o 20 metrů vpřed směr Boršov. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "671",
-        "672",
-        "673"
       ]
     },
     {
