@@ -140,7 +140,7 @@
       "longitude": 16.517644,
       "validFrom": "2025-08-18T08:00:00+02:00",
       "validTo": "2025-08-25T12:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu konání Bartolomějské pouti je zastávka Březová nad Svitavou, náměstí přesunuta na hlavní silnici (č. I/43).. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1862,7 +1862,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
