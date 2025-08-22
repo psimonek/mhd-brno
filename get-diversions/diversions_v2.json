@@ -1466,7 +1466,7 @@
       "latitude": 49.191031,
       "longitude": 16.601162,
       "validFrom": "2025-04-01T22:00:00+02:00",
-      "validTo": "2025-08-30T22:00:00+02:00",
+      "validTo": "2025-09-21T22:00:00+02:00",
       "isValid": true,
       "publicTextHtml": "<p>Z důvodu rekonstrukce horkovodu je <strong>od noci 1./2. dubna 2025 nepřetržitě do ukončení prací </strong>(předpoklad do druhé poloviny září 2025) vyloučen provoz autobusů v ulici Anenské.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N97 </strong>pojede v úseku mezi zastávkami <strong>Hybešova – Mendlovo</strong> <strong>náměstí </strong>obousměrným odklonem ulicí Václavskou.<br />\n• Vynechá tak zastávku Nemocnice u sv. Anny.<br />\n• Na odklonové trase navíc obslouží zastávku Václavská.<br />\n• Zastávku Mendlovo náměstí ve směru do Líšně obslouží u chodníku společně s linkou N98 <em>(nástupiště č. 8)</em>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Nemocnice u sv. Anny</strong> bude i nadále obsluhována linkami<strong> N89</strong><em> (pouze ve směru z centra)</em> a <strong>N95</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2504-012_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
@@ -1721,7 +1721,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
