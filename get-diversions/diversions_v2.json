@@ -37,6 +37,25 @@
       ]
     },
     {
+      "id": 32931,
+      "number": "V2508-081/082",
+      "title": "Omezení provozu v křižovatce Křížová × Poříčí",
+      "latitude": 49.186796,
+      "longitude": 16.594922,
+      "validFrom": "2025-08-23T02:00:00+02:00",
+      "validTo": "2025-08-26T05:30:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>AKTUALIZACE 22. srpna 2025: Zahájení autobusové výluky pro linku N91 je<strong> mimořádně posunuto na 02:00 v sobotu 23. srpna 2025!</strong></p>\n\n<p><span><span>Z důvodu rekonstrukce bude omezen provoz v křižovatce ulic Křížové a Poříčí:<br />\n• pro tramvaje <strong>od ranních výjezdů v sobotu 23. srpna 2025 do 20:00 hod. v neděli 24. srpna 2025, poté v pondělí 25. srpna 2025 ve třech časových úsecích mezi 5:00 – 6:30, 11:00 – 13:00, 17:30 – 19:00 hod. </strong><br />\n<strong>• </strong>pro autobusy <strong><s>od 22:50 hod. v pátek 22. srpna 2025</s> nepřetržitě do 5:30 hod. v úterý 26. srpna 2025</strong></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tramvajová linka 2 </strong>pojede v úseku <strong>Hlavní nádraží – Celní </strong>odklonem ulicemi Nové sady a Renneskou.<br />\n• Vynechá tak zastávky <strong>Hybešova, Václavská, Poříčí</strong> a <strong>Nemocnice milosrdných bratří</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Soukenická, Křídlovická, Vojtova</strong> a <strong>Vsetínská</strong>.<br />\n• Na <strong>Nových sadech</strong> obslouží zastávku na 3. koleji.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tramvajová linka 5 </strong>pojede pouze v úseku <strong>Štefánikova čtvrť – Mendlovo náměstí</strong> a dále odklonem do zastávky <strong>Nové sady – smyčka</strong>.<br />\n• Neobslouží tak zastávky v úseku <strong>Poříčí – Ústřední hřbitov – smyčka</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Václavská, Hybešova</strong> a <strong>Nové sady – smyčka</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tramvajová linka 6 </strong>pojede v úseku <strong>Moravské náměstí – Krematorium </strong>odklonem ulicemi Nové sady a Renneskou.<br />\n• Vynechá tak zastávky <strong>Šilingrovo náměstí, Nemocnice u sv. Anny, Mendlovo náměstí, Poříčí, Nemocnice milosrdných bratří</strong> a <strong>Celní</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Náměstí Svobody, Zelný trh, Hlavní nádraží</strong> (v ul. Masarykově), <strong>Nové sady </strong>(3. kolej), <strong>Soukenická, Křídlovická, Vojtova </strong>a <strong>Vsetínská</strong>.<br />\n• Zastávku <strong>Česká</strong> obslouží před kostelem sv. Tomáše.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Noční autobusová linka N91</strong> pojede v úseku <strong>Hlavní nádraží – Nemocnice Milosrdných bratří</strong> odklonem ulicemi Nové sady, Vojtovou a Polní.<br />\n• Neobslouží tak zastávky <strong>Hybešova, Václavská </strong>a<strong> Poříčí</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Soukenická, Křídlovická </strong>a<strong> Vojtova</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-081_082_web_aktu.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "2",
+        "5",
+        "6",
+        "N91"
+      ]
+    },
+    {
       "id": 32930,
       "number": "V2508-079",
       "title": "Omezení autobusů a trolejbusů v Židenicích",
@@ -85,25 +104,6 @@
       ]
     },
     {
-      "id": 32931,
-      "number": "V2508-081/082",
-      "title": "Omezení provozu v křižovatce Křížová × Poříčí",
-      "latitude": 49.186796,
-      "longitude": 16.594922,
-      "validFrom": "2025-08-22T22:50:00+02:00",
-      "validTo": "2025-08-26T05:30:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p><span><span>Z důvodu rekonstrukce bude omezen provoz v křižovatce ulic Křížové a Poříčí:<br />\n• pro tramvaje <strong>od ranních výjezdů v sobotu 23. srpna 2025 do 20:00 hod. v neděli 24. srpna 2025, poté v pondělí 25. srpna 2025 ve třech časových úsecích mezi 5:00 – 6:30, 11:00 – 13:00, 17:30 – 19:00 hod. </strong><br />\n<strong>• </strong>pro autobusy <strong>od 22:50 hod. v pátek 22. srpna 2025 nepřetržitě do 5:30 hod. v úterý 26. srpna 2025</strong></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tramvajová linka 2 </strong>pojede v úseku <strong>Hlavní nádraží – Celní </strong>odklonem ulicemi Nové sady a Renneskou.<br />\n• Vynechá tak zastávky <strong>Hybešova, Václavská, Poříčí</strong> a <strong>Nemocnice milosrdných bratří</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Soukenická, Křídlovická, Vojtova</strong> a <strong>Vsetínská</strong>.<br />\n• Na <strong>Nových sadech</strong> obslouží zastávku na 3. koleji.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tramvajová linka 5 </strong>pojede pouze v úseku <strong>Štefánikova čtvrť – Mendlovo náměstí</strong> a dále odklonem do zastávky <strong>Nové sady – smyčka</strong>.<br />\n• Neobslouží tak zastávky v úseku <strong>Poříčí – Ústřední hřbitov – smyčka</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Václavská, Hybešova</strong> a <strong>Nové sady – smyčka</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tramvajová linka 6 </strong>pojede v úseku <strong>Moravské náměstí – Krematorium </strong>odklonem ulicemi Nové sady a Renneskou.<br />\n• Vynechá tak zastávky <strong>Šilingrovo náměstí, Nemocnice u sv. Anny, Mendlovo náměstí, Poříčí, Nemocnice milosrdných bratří</strong> a <strong>Celní</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Náměstí Svobody, Zelný trh, Hlavní nádraží</strong> (v ul. Masarykově), <strong>Nové sady </strong>(3. kolej), <strong>Soukenická, Křídlovická, Vojtova </strong>a <strong>Vsetínská</strong>.<br />\n• Zastávku <strong>Česká</strong> obslouží před kostelem sv. Tomáše.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Noční autobusová linka N91</strong> pojede v úseku <strong>Hlavní nádraží – Nemocnice Milosrdných bratří</strong> odklonem ulicemi Nové sady, Vojtovou a Polní.<br />\n• Neobslouží tak zastávky <strong>Hybešova, Václavská </strong>a<strong> Poříčí</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Soukenická, Křídlovická </strong>a<strong> Vojtova</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-081_082_web_aktu.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "2",
-        "5",
-        "6",
-        "N91"
-      ]
-    },
-    {
       "id": 119,
       "number": "VP 2508-080",
       "title": "žel. trať. Brno hl.n. - Brno-Horní Heršpice(noční) linka S6",
@@ -111,7 +111,7 @@
       "longitude": 16.607230,
       "validFrom": "2025-08-22T21:40:00+02:00",
       "validTo": "2025-08-24T04:40:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Výluka se koná v souběhu s výlukou dle\u00A0VP 2506-061.Z důvodů betonářských prací v noční době, pojede vlak S6/4141\u00A0z\u00A0Brno hl.n.\u00A0do\u00A0Brno-Slatina\u00A0o 6 minut později a\u00A0odklonem\u00A0přes Brno-Židenice se zastavením jen\u00A0z dopravních důvodů. ",
       "privateTextHtml": null,
       "type": "V",
@@ -127,7 +127,7 @@
       "longitude": 16.607230,
       "validFrom": "2025-08-22T21:40:00+02:00",
       "validTo": "2025-08-24T04:40:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Výluka se koná v souběhu s výlukou dle\u00A0VP 2506-061.Z důvodů betonářských prací v noční době, pojedou vlaky linky S4/4859,4858\u00A0na/z Brna dolního nádraží s návaznými autobusy linky\u00A0xS4D\u00A0od/k zastávce u Brna hl.n., podle výlukového jízdního řádu\u00A0linky xS4.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1721,7 +1721,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
