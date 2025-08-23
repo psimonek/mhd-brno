@@ -125,7 +125,7 @@
       "longitude": 16.079124,
       "validFrom": "2025-08-23T07:30:00+02:00",
       "validTo": "2025-08-29T19:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 801</strong></font>\u00A0pojede mezi zastávkami Znojmo, Dobšická, nákupní zóna a Suchohrdly, prodejna odklonem po silnicích II/413, II/412, I/53 a II/408 (přes okružní křižovatku U Dyje)..<br/><br/> Linky<font color=\"#009240\"><strong> 432</strong></font> a <font color=\"#009240\"><strong>810</strong></font>\u00A0- pojedou v úseku mezi zastávkami Suchohrdly, kurty - Znojmo, Suchohrdelská hřbitov obousměrně odklonem po silnicích II/413, II/408, I/53 a II/412. Na objízdné trase budou vynechávat zastávku Suchohrdly, prodejna. ",
       "privateTextHtml": null,
       "type": "V",
