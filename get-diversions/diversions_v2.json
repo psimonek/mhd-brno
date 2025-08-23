@@ -108,7 +108,7 @@
       "longitude": 16.245947,
       "validFrom": "2025-08-23T08:30:00+02:00",
       "validTo": "2025-08-29T14:50:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Všechny vlaky budou po dobu výluky nahrazeny náhradní autobusovou dopravu\u00A0(NAD)\u00A0jedoucí podle jízdního řádu\u00A0linky xS8.. NAD pojede po několika odlišných trasách:trasa A:\u00A0Hrušovany n. J.-Šanov - Božice u Znojma - Hodonice - Dyje - Znojmotrasa B:\u00A0Hrušovany n. J.-Šanov - Znojmo (- Šatov). Autobusy náhradní dopravy budou ze stanice Znojmo odjíždět dříve než je čas pravidelného odjezdu vlaku a přijíždět později. ",
       "privateTextHtml": null,
       "type": "V",
