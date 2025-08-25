@@ -75,7 +75,7 @@
       "longitude": 16.396751,
       "validFrom": "2025-08-25T07:35:00+02:00",
       "validTo": "2025-08-25T14:20:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0jede mezi Moravskými Bránicemi a Ivančicemi odklonem přes Hlínu. Na objízdné trase obslouží zastávku Ivančice, škola. ",
       "privateTextHtml": null,
       "type": "V",
