@@ -166,22 +166,6 @@
       ]
     },
     {
-      "id": 135,
-      "number": "PO 2508-159",
-      "title": "Valtice, Úvaly, silnice v místě zastávky Valtice, Úvaly směr Valtice, na konci",
-      "latitude": 48.741517,
-      "longitude": 16.705209,
-      "validFrom": "2025-08-28T07:15:00+02:00",
-      "validTo": "2025-08-28T13:50:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje 15+14 linky IDS JMK 555 dne 28. 08. 2025 v čase od 07:15 do 13:50 hodin nebudou zajíždět až na zastávku\u00A0Valtice, Úvaly, na konci, ale budou končit/začínat na zastávce Valtice, Úvaly.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "555"
-      ]
-    },
-    {
       "id": 137,
       "number": "VP 2508-083",
       "title": "žel. trať Brno-Maloměřice - Kuřim(N)",
@@ -324,6 +308,22 @@
       ]
     },
     {
+      "id": 132,
+      "number": "PO 2508-147",
+      "title": "Tišnov, Lomnická",
+      "latitude": 49.353280,
+      "longitude": 16.427319,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> pouze ve směru z Tišnova do Lomničky\u00A0jede odklonem. Ze železniční stanice jedou všechny spoje ulicí Janáčkovou - Dvořáčkovou - Riegrovou - Černohorskou přes Železné do Lomničky a dále po své trase. Na odklonové trase zastaví v zastávce Tišnov, Riegrova u gymnázia (jako náhrada za zast. Kukýrna), dále obslouží Tišnov, Nový hřbitov (jako náhradu za zast. Tišnov, Lomnická) a v Lomničce spoje vedené do Šerkovic zast. Lomnička, ObÚ v přesunuté poloze.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> tak vynechá zastávku Tišnov, Nádražní. Nácestné zastávky v Železném neobsluhuje.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> ve směru do Tišnova\u00A0jede po své trase, ale neobsluhuje zastávky Lomnická a Kukýrna, které se nacházejí uprostřed stavby. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "333"
+      ]
+    },
+    {
       "id": 117,
       "number": "VP 2508-248",
       "title": "Pačlavice, Pornice",
@@ -356,22 +356,6 @@
       ]
     },
     {
-      "id": 132,
-      "number": "PO 2508-147",
-      "title": "Tišnov, Lomnická",
-      "latitude": 49.353280,
-      "longitude": 16.427319,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> pouze ve směru z Tišnova do Lomničky\u00A0jede odklonem. Ze železniční stanice jedou všechny spoje ulicí Janáčkovou - Dvořáčkovou - Riegrovou - Černohorskou přes Železné do Lomničky a dále po své trase. Na odklonové trase zastaví v zastávce Tišnov, Riegrova u gymnázia (jako náhrada za zast. Kukýrna), dále obslouží Tišnov, Nový hřbitov (jako náhradu za zast. Tišnov, Lomnická) a v Lomničce spoje vedené do Šerkovic zast. Lomnička, ObÚ v přesunuté poloze.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> tak vynechá zastávku Tišnov, Nádražní. Nácestné zastávky v Železném neobsluhuje.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> ve směru do Tišnova\u00A0jede po své trase, ale neobsluhuje zastávky Lomnická a Kukýrna, které se nacházejí uprostřed stavby. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "333"
-      ]
-    },
-    {
       "id": 32750,
       "number": "V2508-077",
       "title": "Omezení dopravy v ulici Kníničské – III. etapa",
@@ -380,7 +364,7 @@
       "validFrom": "2025-08-17T22:30:00+02:00",
       "validTo": "2025-10-19T22:30:00+02:00",
       "isValid": true,
-      "publicTextHtml": "<p>Z důvodu pokračujících stavebních prací v rámci rekonstrukce povrchu komunikace bude <strong>od 22:30 hod. v neděli 17. července 2025 do ukončení prací</strong> (předpoklad do 19. října 2025) omezen provoz v části ulice Kníničské, mezi křižovatkami s ulicí Branka a s ulicí Jundrovskou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong><span> Trolejbusová linka 30 </span></strong><span>bude nadále rozdělena na dva samostatné provozní úseky <strong>Klarisky – Královo Pole, nádraží – Svratecká – Komín, sídliště</strong> a <strong>Zoologická zahrada – Bystrc, Černého</strong>.<br />\n• Zastávky v úseku<strong> Lísky – Kamenolom (>) / Náměstí 28. dubna (<)</strong> budou po dobu výluky bez obsluhy denními linkami.<br />\n• V úseku <strong>Svratecká – Zoologická zahrada</strong> je nutné využít pravidelných tramvajových linek 1 a 12.<br />\n• Zastávka <strong>Zoologická zahrada</strong> bude pro \"oblast Bystrce\" obsluhována pro výstup i nástup.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N89</strong> pojede v úseku mezi zastávkami <strong>Hlavní – Branka (>) / Podlesí (<)</strong> odklonem ulicemi Podveskou a Hlavní.<br />\n• Neobslouží tak zastávky <strong>Vozovna Komín</strong>, <strong>Jundrovská</strong> a <strong>Branka</strong> (pouze ve směru do centra). <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.<br />\n• Na odklonové trase navíc obslouží zastávku <strong>Lísky</strong>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N92</strong> pojede v úseku mezi zastávkami <strong>Hlavní – Náměstí 28. dubna</strong> odklonem ulicemi Podveskou a Hlavní.<br />\n• Neobslouží tak zastávky <strong>Vozovna Komín </strong>a <strong>Jundrovská</strong>. <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.<br />\n• Na odklonové trase navíc obslouží zastávku <strong>Lísky</strong>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N93 </strong>pojede v úseku mezi zastávkami <strong>Hlavní – Kristenova</strong> odklonem ulicemi Podveskou a Hlavní.<br />\n• Neobslouží tak zastávky <strong>Vozovna Komín</strong>, <strong>Jundrovská</strong> a <strong>Lísky</strong>. <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N98</strong> pojede v úseku mezi zastávkami <strong>Jundrovský most – Zoologická zahrada</strong> odklonem ulicí Hlavní.<br />\n• Neobslouží tak zastávku <strong>Jundrovská</strong>. <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.</span></span></span><br />\n• Na odklonové trase obslouží zastávky <strong>Vozovna Komín</strong>, <strong>Hlavní</strong>, <strong>Podveská</strong> a <strong>Lísky</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong><span> Vzájemný přestup mezi linkami N89, N92, N93 a N98 bude po dobu výluky umožněn v zastávce Hlavní.</span></strong><br />\n<span>• Zastávka <strong>Svratecká</strong> nebude po dobu výluky sloužit pro vzájemný přestup mezi jednotlivými linkami.<br />\n• <strong>Linka N98</strong> obslouží zastávku <strong>Hlavní</strong> vždy v protějším směru, oproti linkám N89,<strong> </strong>N92 a<strong> </strong>N93.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span> <em>Regionální linka 302 se vrací na svou běžnou trasu do terminálu Zoologická zahrada</em>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-077_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "publicTextHtml": "<p><strong class=\"red\">AKTUALIZACE OD PONDĚLÍ 1. ZÁŘÍ 2025: Trolejbusová linka 30 se vrací na svou běžnou trasu Bystrc, Černého – Soběšice, Klarisky.</strong></p>\n\n<p> </p>\n\n<p>Z důvodu pokračujících stavebních prací v rámci rekonstrukce povrchu komunikace bude <strong>od 22:30 hod. v neděli 17. července 2025 do ukončení prací</strong> (předpoklad do 19. října 2025) omezen provoz v části ulice Kníničské, mezi křižovatkami s ulicí Branka a s ulicí Jundrovskou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong><span> <s>Trolejbusová linka 30 </s></span></strong><s><span>bude nadále rozdělena na dva samostatné provozní úseky <strong>Klarisky – Královo Pole, nádraží – Svratecká – Komín, sídliště</strong> a <strong>Zoologická zahrada – Bystrc, Černého</strong>.<br />\n• Zastávky v úseku<strong> Lísky – Kamenolom (>) / Náměstí 28. dubna (<)</strong> budou po dobu výluky bez obsluhy denními linkami.<br />\n• V úseku <strong>Svratecká – Zoologická zahrada</strong> je nutné využít pravidelných tramvajových linek 1 a 12.<br />\n• Zastávka <strong>Zoologická zahrada</strong> bude pro \"oblast Bystrce\" obsluhována pro výstup i nástup.</span></s></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N89</strong> pojede v úseku mezi zastávkami <strong>Hlavní – Branka (>) / Podlesí (<)</strong> odklonem ulicemi Podveskou a Hlavní.<br />\n• Neobslouží tak zastávky <strong>Vozovna Komín</strong>, <strong>Jundrovská</strong> a <strong>Branka</strong> (pouze ve směru do centra). <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.<br />\n• Na odklonové trase navíc obslouží zastávku <strong>Lísky</strong>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N92</strong> pojede v úseku mezi zastávkami <strong>Hlavní – Náměstí 28. dubna</strong> odklonem ulicemi Podveskou a Hlavní.<br />\n• Neobslouží tak zastávky <strong>Vozovna Komín </strong>a <strong>Jundrovská</strong>. <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.<br />\n• Na odklonové trase navíc obslouží zastávku <strong>Lísky</strong>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N93 </strong>pojede v úseku mezi zastávkami <strong>Hlavní – Kristenova</strong> odklonem ulicemi Podveskou a Hlavní.<br />\n• Neobslouží tak zastávky <strong>Vozovna Komín</strong>, <strong>Jundrovská</strong> a <strong>Lísky</strong>. <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span><strong> Noční autobusová linka N98</strong> pojede v úseku mezi zastávkami <strong>Jundrovský most – Zoologická zahrada</strong> odklonem ulicí Hlavní.<br />\n• Neobslouží tak zastávku <strong>Jundrovská</strong>. <br />\n• Zastávku <strong>Svratecká</strong> obslouží v ulici Hlavní, společnou s linkami 30 a 36.</span></span></span><br />\n• Na odklonové trase obslouží zastávky <strong>Vozovna Komín</strong>, <strong>Hlavní</strong>, <strong>Podveská</strong> a <strong>Lísky</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong><span> Vzájemný přestup mezi linkami N89, N92, N93 a N98 bude po dobu výluky umožněn v zastávce Hlavní.</span></strong><br />\n<span>• Zastávka <strong>Svratecká</strong> nebude po dobu výluky sloužit pro vzájemný přestup mezi jednotlivými linkami.<br />\n• <strong>Linka N98</strong> obslouží zastávku <strong>Hlavní</strong> vždy v protějším směru, oproti linkám N89,<strong> </strong>N92 a<strong> </strong>N93.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span> <em>Regionální linka 302 se vrací na svou běžnou trasu do terminálu Zoologická zahrada</em>.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-077_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -446,23 +430,6 @@
       ]
     },
     {
-      "id": 115,
-      "number": "PO 2508-133",
-      "title": "Prostějov, ul. Janáčkova III",
-      "latitude": 49.472816,
-      "longitude": 17.128324,
-      "validFrom": "2025-08-11T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261\u00A0(linka IDS JMK 261) pojede v úseku Prostějov, aut. st. - Prostějov, Floriánské náměstí jednosměrným odklonem ul. Janáčkova - Svatoplukova (pouze ve směru do Boskovic). Na odklonové trase neobslouží navíc žádnou nácestnou zastávku. Po příjezdu z Boskovic zastaví pro výstup standardně u zastávek MHD (terminál MHD).<br/><br/> Linka 261 pojede podle platného jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261",
-        "755"
-      ]
-    },
-    {
       "id": 123,
       "number": "PO 2508-141",
       "title": "Drásov - Malhostovice",
@@ -493,6 +460,23 @@
       "affectedLines": [
         "153",
         "303"
+      ]
+    },
+    {
+      "id": 115,
+      "number": "PO 2508-133",
+      "title": "Prostějov, ul. Janáčkova III",
+      "latitude": 49.472816,
+      "longitude": 17.128324,
+      "validFrom": "2025-08-11T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy vozovky a zastávek v prostoru přednádraží bude omezen provoz v ulici Janáčkově v Prostějově. Dopravní opatření pro linky v závazku Jihomoravského kraje:.<br/><br/> Linka\u00A0729261\u00A0(linka IDS JMK 261) pojede v úseku Prostějov, aut. st. - Prostějov, Floriánské náměstí jednosměrným odklonem ul. Janáčkova - Svatoplukova (pouze ve směru do Boskovic). Na odklonové trase neobslouží navíc žádnou nácestnou zastávku. Po příjezdu z Boskovic zastaví pro výstup standardně u zastávek MHD (terminál MHD).<br/><br/> Linka 261 pojede podle platného jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261",
+        "755"
       ]
     },
     {
@@ -529,6 +513,22 @@
       ]
     },
     {
+      "id": 104,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
+      ]
+    },
+    {
       "id": 48,
       "number": "Práče, ObÚ",
       "title": "silnice III/41313 v obci Práče",
@@ -558,22 +558,6 @@
       "type": "V",
       "affectedLines": [
         "334"
-      ]
-    },
-    {
-      "id": 104,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
       ]
     },
     {
@@ -664,19 +648,24 @@
       ]
     },
     {
-      "id": 76,
-      "number": "PO 2507-118",
-      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
-      "latitude": 48.804178,
-      "longitude": 16.636094,
+      "id": 64,
+      "number": "VP 2507-241",
+      "title": "Drásov - Všechovice",
+      "latitude": 49.345925,
+      "longitude": 16.498079,
       "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2025-09-05T23:59:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
+      "publicTextHtml": "Z důvodu uzavření silnice mezi Všechovicemi a Drásovem dochází k následujícím změnám jízdních řádů:.<br/><br/> Linka<font color=\"#009240\"><strong> 321</strong></font>:\u00A0výlukově vedena obousměrně v odklonově v trase Skalička - Všechovice - Unín - Rohozec - Tišnov, žel. st. (v úseku Unín - Tišnov, žel. st. zastavuje na všech zastávkách totožně s linkou 332). Spoje vedené až do / z Tišnova obsluhují v Uníně dočasné zastávky umístěné na silnici vedoucí do Všechovic. Krátké spoje Skalička - Unín obsluhují stálé zastávky společně s linkou<font color=\"#009240\"><strong> 332</strong></font>.\u00A0V\u00A0Tišnově pak vždy navazuje vlaková linka směr Kuřim - Brno a navíc je ve většině případů možnost přestupu i na linku<font color=\"#009240\"><strong> 311</strong></font> pro zachování spojení v\u00A0relaci Skalička (Všechovice) – Drásov. Krátké spoje Skalička – Všechovice – Unín jsou vedeny tak, že v\u00A0Uníně je zajištěna návaznost na dnešní linku<font color=\"#009240\"><strong> 332</strong></font> vedenou do Tišnova nebo naopak z Tišnova do Skaličky.<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font>:\u00A0převedeny spoje z linky<font color=\"#009240\"><strong> 321</strong></font> v relaci Sentice - Čebín. Časové polohy dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#009240\"><strong> 153</strong></font>: Časové posuny víkendových spojů v úseku Tišnov - Sentice dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#009240\"><strong> 331</strong></font>: Časový posun sobotního prvního ranního spoje Pejškov - Tišnov dle výlukového jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "585"
+        "153",
+        "311",
+        "320",
+        "321",
+        "331",
+        "332"
       ]
     },
     {
@@ -696,24 +685,19 @@
       ]
     },
     {
-      "id": 64,
-      "number": "VP 2507-241",
-      "title": "Drásov - Všechovice",
-      "latitude": 49.345925,
-      "longitude": 16.498079,
+      "id": 76,
+      "number": "PO 2507-118",
+      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
+      "latitude": 48.804178,
+      "longitude": 16.636094,
       "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
+      "validTo": "2025-09-05T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu uzavření silnice mezi Všechovicemi a Drásovem dochází k následujícím změnám jízdních řádů:.<br/><br/> Linka<font color=\"#009240\"><strong> 321</strong></font>:\u00A0výlukově vedena obousměrně v odklonově v trase Skalička - Všechovice - Unín - Rohozec - Tišnov, žel. st. (v úseku Unín - Tišnov, žel. st. zastavuje na všech zastávkách totožně s linkou 332). Spoje vedené až do / z Tišnova obsluhují v Uníně dočasné zastávky umístěné na silnici vedoucí do Všechovic. Krátké spoje Skalička - Unín obsluhují stálé zastávky společně s linkou<font color=\"#009240\"><strong> 332</strong></font>.\u00A0V\u00A0Tišnově pak vždy navazuje vlaková linka směr Kuřim - Brno a navíc je ve většině případů možnost přestupu i na linku<font color=\"#009240\"><strong> 311</strong></font> pro zachování spojení v\u00A0relaci Skalička (Všechovice) – Drásov. Krátké spoje Skalička – Všechovice – Unín jsou vedeny tak, že v\u00A0Uníně je zajištěna návaznost na dnešní linku<font color=\"#009240\"><strong> 332</strong></font> vedenou do Tišnova nebo naopak z Tišnova do Skaličky.<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font>:\u00A0převedeny spoje z linky<font color=\"#009240\"><strong> 321</strong></font> v relaci Sentice - Čebín. Časové polohy dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#009240\"><strong> 153</strong></font>: Časové posuny víkendových spojů v úseku Tišnov - Sentice dle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#009240\"><strong> 331</strong></font>: Časový posun sobotního prvního ranního spoje Pejškov - Tišnov dle výlukového jízdního řádu. ",
+      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "153",
-        "311",
-        "320",
-        "321",
-        "331",
-        "332"
+        "585"
       ]
     },
     {
@@ -891,6 +875,33 @@
       ]
     },
     {
+      "id": 31694,
+      "number": "V2506-045",
+      "title": "Omezení provozu v terminálu Stará osada",
+      "latitude": 49.202521,
+      "longitude": 16.641948,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:59+02:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu opravy povrchů nebude <strong>od pondělí 30. června 2025 do ukončení prací </strong>(předpoklad 31. srpna 2025) možná obsluha nástupišť č. 1, 2, 3, 4, 5, 7 a 8 umístěných uvnitř terminálu <strong>Stará osada</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 27, 55, 58, x64, E75, 78, N97, N99 </strong>a<strong> 201</strong> obslouží ve směru k Vojenské nemocnici stávající <strong>nástupiště č. 9</strong> v ulici Bubeníčkově, ve směru do Líšně/Vinohrad/Červeného písku <strong>nástupiště č. 11</strong> v ulici Bubeníčkově před tenisovými kurty.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 44</strong> obslouží <strong>nástupiště č. 10 </strong>(před budovou základní školy) v ulici Svatoplukově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 75</strong> obslouží ve směru do Slatiny <strong>nástupiště č. 6</strong> (běžná výstupní zastávka linky 84) v ulici Svatoplukově, ve směru do Obřan <strong>nástupiště č. 10</strong> (před budovou základní školy) v ulici Svatoplukově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 84</strong> bude prodloužena a ukončena v zastávce <strong>Židenice, nádraží</strong> v terminálu za obchodním domem Kaufland.<br />\n• Na Staré osadě obslouží <strong>nástupiště č. 9 </strong>a<strong> č. 11</strong> v ulici Bubeníčkově. </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Pro přístup na nástupiště č. 10 a 11 z prostoru terminálu Stará osada je nutné využít podchod.</p>\n\n<p> </p>\n\n<p><strong>Přehled obsluhy nástupišť</strong></p>\n\n<p><strong>Nástupiště č. 1, 2, 3, 4, 5, 7, 8</strong><br />\n• bez obsluhy</p>\n\n<p><strong>Nástupiště č. 6</strong><br />\n• Linka 75 směr Vozovna Slatina – Slatina, nádraží</p>\n\n<p><strong>Nástupiště č. 9</strong><br />\n• Linky 27, 55, 58, x64, 78 a 201 směr Vojenská nemocnice<br />\n• Linka E75, 84 směr Židenice, nádraží<br />\n• Linka N97 směr Kohoutovice, Jírovcova<br />\n• Linka N99 směr Technologický park</p>\n\n<p><strong>Nástupiště č. 10</strong><br />\n• Linka 44 směr ÚAN Zvonařka<br />\n• Linka 75 směr Obřany, sídliště – Bílovice nad Svitavou, železniční stanice</p>\n\n<p><strong>Nástupiště č. 11</strong><br />\n• Linka 27 směr Líšeň, Jírova<br />\n• Linka 55 směr Mariánské údolí<br />\n• Linka 58 směr Líšeň, hřbitov<br />\n• Linka x64 směr Červený písek – Švestková<br />\n• Linka E75 směr Areál Slatina<br />\n• Linka 78 směr Modřice, Olympia<br />\n• Linka 84 směr Autobusové nádraží – Mendlovo náměstí – Židenice, nádraží<br />\n• Linka N97 směr Líšeň, hřbitov<br />\n• Linka N99 směr Líšeň, Jírova<br />\n• Linka 201 směr Jedovnice</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-045_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p><br />\n </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "27",
+        "44",
+        "55",
+        "58",
+        "x64",
+        "75",
+        "E75",
+        "78",
+        "84",
+        "N97",
+        "N99",
+        "201"
+      ]
+    },
+    {
       "id": 44,
       "number": "VP 2506-236",
       "title": "Rozdrojovice, ul. Na Březině",
@@ -977,33 +988,6 @@
       ]
     },
     {
-      "id": 31694,
-      "number": "V2506-045",
-      "title": "Omezení provozu v terminálu Stará osada",
-      "latitude": 49.202521,
-      "longitude": 16.641948,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:59+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchů nebude <strong>od pondělí 30. června 2025 do ukončení prací </strong>(předpoklad 31. srpna 2025) možná obsluha nástupišť č. 1, 2, 3, 4, 5, 7 a 8 umístěných uvnitř terminálu <strong>Stará osada</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 27, 55, 58, x64, E75, 78, N97, N99 </strong>a<strong> 201</strong> obslouží ve směru k Vojenské nemocnici stávající <strong>nástupiště č. 9</strong> v ulici Bubeníčkově, ve směru do Líšně/Vinohrad/Červeného písku <strong>nástupiště č. 11</strong> v ulici Bubeníčkově před tenisovými kurty.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 44</strong> obslouží <strong>nástupiště č. 10 </strong>(před budovou základní školy) v ulici Svatoplukově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 75</strong> obslouží ve směru do Slatiny <strong>nástupiště č. 6</strong> (běžná výstupní zastávka linky 84) v ulici Svatoplukově, ve směru do Obřan <strong>nástupiště č. 10</strong> (před budovou základní školy) v ulici Svatoplukově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 84</strong> bude prodloužena a ukončena v zastávce <strong>Židenice, nádraží</strong> v terminálu za obchodním domem Kaufland.<br />\n• Na Staré osadě obslouží <strong>nástupiště č. 9 </strong>a<strong> č. 11</strong> v ulici Bubeníčkově. </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Pro přístup na nástupiště č. 10 a 11 z prostoru terminálu Stará osada je nutné využít podchod.</p>\n\n<p> </p>\n\n<p><strong>Přehled obsluhy nástupišť</strong></p>\n\n<p><strong>Nástupiště č. 1, 2, 3, 4, 5, 7, 8</strong><br />\n• bez obsluhy</p>\n\n<p><strong>Nástupiště č. 6</strong><br />\n• Linka 75 směr Vozovna Slatina – Slatina, nádraží</p>\n\n<p><strong>Nástupiště č. 9</strong><br />\n• Linky 27, 55, 58, x64, 78 a 201 směr Vojenská nemocnice<br />\n• Linka E75, 84 směr Židenice, nádraží<br />\n• Linka N97 směr Kohoutovice, Jírovcova<br />\n• Linka N99 směr Technologický park</p>\n\n<p><strong>Nástupiště č. 10</strong><br />\n• Linka 44 směr ÚAN Zvonařka<br />\n• Linka 75 směr Obřany, sídliště – Bílovice nad Svitavou, železniční stanice</p>\n\n<p><strong>Nástupiště č. 11</strong><br />\n• Linka 27 směr Líšeň, Jírova<br />\n• Linka 55 směr Mariánské údolí<br />\n• Linka 58 směr Líšeň, hřbitov<br />\n• Linka x64 směr Červený písek – Švestková<br />\n• Linka E75 směr Areál Slatina<br />\n• Linka 78 směr Modřice, Olympia<br />\n• Linka 84 směr Autobusové nádraží – Mendlovo náměstí – Židenice, nádraží<br />\n• Linka N97 směr Líšeň, hřbitov<br />\n• Linka N99 směr Líšeň, Jírova<br />\n• Linka 201 směr Jedovnice</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-045_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p><br />\n </p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "27",
-        "44",
-        "55",
-        "58",
-        "x64",
-        "75",
-        "E75",
-        "78",
-        "84",
-        "N97",
-        "N99",
-        "201"
-      ]
-    },
-    {
       "id": 31693,
       "number": "V2506-044",
       "title": "Omezení provozu v ulici Jihlavské – I. etapa",
@@ -1071,6 +1055,22 @@
       ]
     },
     {
+      "id": 32,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 35,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
@@ -1088,22 +1088,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 32,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
@@ -1627,7 +1611,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
