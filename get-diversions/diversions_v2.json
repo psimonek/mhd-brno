@@ -157,7 +157,7 @@
       "longitude": 16.705209,
       "validFrom": "2025-08-28T07:15:00+02:00",
       "validTo": "2025-08-28T13:50:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Spoje 15+14 linky IDS JMK 555 dne 28. 08. 2025 v čase od 07:15 do 13:50 hodin nebudou zajíždět až na zastávku\u00A0Valtice, Úvaly, na konci, ale budou končit/začínat na zastávce Valtice, Úvaly.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1611,7 +1611,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
