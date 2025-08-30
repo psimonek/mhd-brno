@@ -427,6 +427,22 @@
       ]
     },
     {
+      "id": 114,
+      "number": "2508 Bučovice, Vícemilice",
+      "title": "Bučovice, Vícemilice - oba směry",
+      "latitude": 49.140864,
+      "longitude": 17.018520,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Bučovice, Vícemilice je pro oba směry přeložena blíže Bučovicím. Pro směr do Bučovic k domu č. 125, pro směr do Nevojic pak před dům č. 133. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "643"
+      ]
+    },
+    {
       "id": 103,
       "number": "PO 2508-149",
       "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
@@ -472,22 +488,6 @@
       "type": "V",
       "affectedLines": [
         "333"
-      ]
-    },
-    {
-      "id": 114,
-      "number": "2508 Bučovice, Vícemilice",
-      "title": "Bučovice, Vícemilice - oba směry",
-      "latitude": 49.140864,
-      "longitude": 17.018520,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Bučovice, Vícemilice je pro oba směry přeložena blíže Bučovicím. Pro směr do Bučovic k domu č. 125, pro směr do Nevojic pak před dům č. 133. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "643"
       ]
     },
     {
@@ -565,23 +565,6 @@
       ]
     },
     {
-      "id": 99,
-      "number": "VP 2508-245",
-      "title": "Hvozdec - Veverská Bítýška",
-      "latitude": 49.258339,
-      "longitude": 16.431599,
-      "validFrom": "2025-08-11T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechá zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov, Brno, U Matky Boží a Veverská Bítýška, Vápenice. Spoje\u00A0linky<font color=\"#009240\"><strong> 303</strong></font>\u00A0jedoucí přes Hvozdec pojedou v pracovních dnech mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechají zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov a Brno, U Matky Boží. V nepracovních dnech budou na lince<font color=\"#009240\"><strong> 303</strong></font> přidány mimořádné spoje dle výlukového jízdního řádu jedoucí přes Hvozdec. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153",
-        "303"
-      ]
-    },
-    {
       "id": 108,
       "number": "PO 2508-133",
       "title": "Prostějov, ul. Janáčkova III",
@@ -615,19 +598,20 @@
       ]
     },
     {
-      "id": 112,
-      "number": "2508 Lužice, pošta",
-      "title": "Lužice, pošta - směr Břeclav",
-      "latitude": 48.831834,
-      "longitude": 17.067022,
-      "validFrom": "2025-08-09T00:00:00+02:00",
-      "validTo": "2025-08-30T23:59:00+02:00",
+      "id": 99,
+      "number": "VP 2508-245",
+      "title": "Hvozdec - Veverská Bítýška",
+      "latitude": 49.258339,
+      "longitude": 16.431599,
+      "validFrom": "2025-08-11T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Lužice, pošta ve směru Břeclav je posunuta o cca 70 metrů vpřed k domu č. 318. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechá zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov, Brno, U Matky Boží a Veverská Bítýška, Vápenice. Spoje\u00A0linky<font color=\"#009240\"><strong> 303</strong></font>\u00A0jedoucí přes Hvozdec pojedou v pracovních dnech mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechají zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov a Brno, U Matky Boží. V nepracovních dnech budou na lince<font color=\"#009240\"><strong> 303</strong></font> přidány mimořádné spoje dle výlukového jízdního řádu jedoucí přes Hvozdec. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "572"
+        "153",
+        "303"
       ]
     },
     {
@@ -1454,23 +1438,6 @@
         "441",
         "442",
         "812"
-      ]
-    },
-    {
-      "id": 17,
-      "number": "PO 2504-025",
-      "title": "Kuřim, Zámecká",
-      "latitude": 49.295513,
-      "longitude": 16.522880,
-      "validFrom": "2025-04-01T00:00:00+02:00",
-      "validTo": "2025-08-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu jednosměrné uzavírky ulice Zámecká v Kuřimi pojedou spoje\u00A0linek<font color=\"#009240\"><strong> 302</strong></font> a <font color=\"#009240\"><strong>312</strong></font>\u00A0do centra Kuřimi jednosměrným odklonem ulicí Křížkovského. Místo zastávky Kuřim, zámek zastaví na zastávce Kuřim, fara. Ve směru z Kuřimi autobusy standardně obslouží zastávku Kuřim, zámek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "312"
       ]
     },
     {
