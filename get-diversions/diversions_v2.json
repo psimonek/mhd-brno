@@ -354,22 +354,6 @@
       ]
     },
     {
-      "id": 33039,
-      "number": "V2508-083",
-      "title": "Výluka autobusů v ulici Kamenice",
-      "latitude": 49.177622,
-      "longitude": 16.573805,
-      "validFrom": "2025-08-30T07:00:00+02:00",
-      "validTo": "2025-08-30T19:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu jeřábových prací bude<strong> od 7:00 do 19:00 v sobotu 30. srpna 2025 </strong>jednosměrně uzavřena ulice Kamenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 69</strong> pojede v úseku <strong>Univerzitní kampus – Uzbecká</strong> jednosměrným odklonem ulicí Jihlavskou.<br />\n• Vynechá tak zastávky Kamenice a Mýtnou.<br />\n• Zastávku Univerzitní kampus obslouží společnou s linkami 25, 37 a 50 směr Čtvrtě.<br />\n• Na odklonové trase navíc obslouží zastávku Stará nemocnice.<br />\n• Ve směru do Bosonoh pojede linka 69 po pravidelné trase.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-083_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "69"
-      ]
-    },
-    {
       "id": 132,
       "number": "VP 2508-083",
       "title": "žel. trať Brno-Maloměřice - Kuřim(N)",
@@ -443,6 +427,22 @@
       ]
     },
     {
+      "id": 103,
+      "number": "PO 2508-149",
+      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
+      "latitude": 49.036781,
+      "longitude": 16.616914,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-10-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "505"
+      ]
+    },
+    {
       "id": 110,
       "number": "VP 2508-248",
       "title": "Pačlavice, Pornice",
@@ -456,22 +456,6 @@
       "type": "V",
       "affectedLines": [
         "753"
-      ]
-    },
-    {
-      "id": 114,
-      "number": "2508 Bučovice, Vícemilice",
-      "title": "Bučovice, Vícemilice - oba směry",
-      "latitude": 49.140864,
-      "longitude": 17.018520,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Bučovice, Vícemilice je pro oba směry přeložena blíže Bučovicím. Pro směr do Bučovic k domu č. 125, pro směr do Nevojic pak před dům č. 133. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "643"
       ]
     },
     {
@@ -491,19 +475,19 @@
       ]
     },
     {
-      "id": 103,
-      "number": "PO 2508-149",
-      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
-      "latitude": 49.036781,
-      "longitude": 16.616914,
+      "id": 114,
+      "number": "2508 Bučovice, Vícemilice",
+      "title": "Bučovice, Vícemilice - oba směry",
+      "latitude": 49.140864,
+      "longitude": 17.018520,
       "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-10-19T23:59:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
+      "publicTextHtml": "Zastávka Bučovice, Vícemilice je pro oba směry přeložena blíže Bučovicím. Pro směr do Bučovic k domu č. 125, pro směr do Nevojic pak před dům č. 133. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "505"
+        "643"
       ]
     },
     {
@@ -664,19 +648,19 @@
       ]
     },
     {
-      "id": 48,
-      "number": "Práče, ObÚ",
-      "title": "silnice III/41313 v obci Práče",
-      "latitude": 48.877006,
-      "longitude": 16.203858,
+      "id": 97,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
       "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "835"
+        "743"
       ]
     },
     {
@@ -696,19 +680,19 @@
       ]
     },
     {
-      "id": 97,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
+      "id": 48,
+      "number": "Práče, ObÚ",
+      "title": "silnice III/41313 v obci Práče",
+      "latitude": 48.877006,
+      "longitude": 16.203858,
       "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "publicTextHtml": "Přesun zastávky\u00A0Práče, ObÚ\u00A0- obě zastávky přeloženy na sil. III/41314 o cca 140 metrů směrem na Lechovice od stálých zastávek před semaforový úsek, poblíž domů č.p. 96 resp. 94 v obci Práče. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "743"
+        "835"
       ]
     },
     {
