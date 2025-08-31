@@ -354,24 +354,6 @@
       ]
     },
     {
-      "id": 132,
-      "number": "VP 2508-083",
-      "title": "žel. trať Brno-Maloměřice - Kuřim(N)",
-      "latitude": 49.273726,
-      "longitude": 16.579823,
-      "validFrom": "2025-08-26T23:30:00+02:00",
-      "validTo": "2025-08-31T19:15:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> R9</strong></font>\u00A0jsou nahrazeny v úseku\u00A0Brno - Křižanov\u00A0náhradní autobusovou dopravou.Tyto autobusové spoje\u00A0neobsluhují stanice Brno-Královo Pole a Tišnov.\u00A0Cestující jedoucí z/do těchto stanic v úseku Brno – Tišnov a opačně mohou využít spojů linky xS3. Vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0budou nahrazeny v úseku Tišnov – Brno hl.n. náhradní autobusovou dopravou (NAD), která bude organizována podle\u00A0výlukového jízdního řádu linky xS3.NAD linky xS3 pojede po dvou odlišných trasách. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3",
-        "R9"
-      ]
-    },
-    {
       "id": 130,
       "number": "VP 2508-082",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
@@ -427,22 +409,6 @@
       ]
     },
     {
-      "id": 103,
-      "number": "PO 2508-149",
-      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
-      "latitude": 49.036781,
-      "longitude": 16.616914,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-10-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "505"
-      ]
-    },
-    {
       "id": 110,
       "number": "VP 2508-248",
       "title": "Pačlavice, Pornice",
@@ -488,6 +454,22 @@
       "type": "V",
       "affectedLines": [
         "333"
+      ]
+    },
+    {
+      "id": 103,
+      "number": "PO 2508-149",
+      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
+      "latitude": 49.036781,
+      "longitude": 16.616914,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-10-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "505"
       ]
     },
     {
@@ -565,20 +547,19 @@
       ]
     },
     {
-      "id": 99,
-      "number": "VP 2508-245",
-      "title": "Hvozdec - Veverská Bítýška",
-      "latitude": 49.258339,
-      "longitude": 16.431599,
+      "id": 116,
+      "number": "PO 2508-141",
+      "title": "Drásov - Malhostovice",
+      "latitude": 49.331051,
+      "longitude": 16.489019,
       "validFrom": "2025-08-11T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
+      "validTo": "2025-09-07T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechá zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov, Brno, U Matky Boží a Veverská Bítýška, Vápenice. Spoje\u00A0linky<font color=\"#009240\"><strong> 303</strong></font>\u00A0jedoucí přes Hvozdec pojedou v pracovních dnech mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechají zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov a Brno, U Matky Boží. V nepracovních dnech budou na lince<font color=\"#009240\"><strong> 303</strong></font> přidány mimořádné spoje dle výlukového jízdního řádu jedoucí přes Hvozdec. ",
+      "publicTextHtml": "Z důvodu špatného technického stavu rekonstruované vozovky mezi Drásovem a Malhostovicemi pojede linka<font color=\"#009240\"><strong> 311</strong></font> mezi Drásovem a Malhostovicemi obousměrným odklonem přes Čebín. Zastávku Malhostovice, rozcestí obslouží ve své trvalé poloze, zastávku Drásov, náměstí obslouží obousměrně u označníků v ulici Čedlosy (silnice vedoucí do Čebína).<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font> je nedotčena a nadále projíždí stavbou. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "153",
-        "303"
+        "311"
       ]
     },
     {
@@ -599,19 +580,20 @@
       ]
     },
     {
-      "id": 116,
-      "number": "PO 2508-141",
-      "title": "Drásov - Malhostovice",
-      "latitude": 49.331051,
-      "longitude": 16.489019,
+      "id": 99,
+      "number": "VP 2508-245",
+      "title": "Hvozdec - Veverská Bítýška",
+      "latitude": 49.258339,
+      "longitude": 16.431599,
       "validFrom": "2025-08-11T00:00:00+02:00",
-      "validTo": "2025-09-07T23:59:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu špatného technického stavu rekonstruované vozovky mezi Drásovem a Malhostovicemi pojede linka<font color=\"#009240\"><strong> 311</strong></font> mezi Drásovem a Malhostovicemi obousměrným odklonem přes Čebín. Zastávku Malhostovice, rozcestí obslouží ve své trvalé poloze, zastávku Drásov, náměstí obslouží obousměrně u označníků v ulici Čedlosy (silnice vedoucí do Čebína).<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font> je nedotčena a nadále projíždí stavbou. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechá zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov, Brno, U Matky Boží a Veverská Bítýška, Vápenice. Spoje\u00A0linky<font color=\"#009240\"><strong> 303</strong></font>\u00A0jedoucí přes Hvozdec pojedou v pracovních dnech mezi zastávkami Veverská Bítýška, nám. a Hvozdec obousměrným odklonem přes Mečkov. Na odklonové trase vynechají zastávky Veverská Bítýška, sídliště a Veverská Bítýška, hájenka Na Hlince. Navíc zastaví na zastávkách Veverská Bítýška, rozc. Mečkov a Brno, U Matky Boží. V nepracovních dnech budou na lince<font color=\"#009240\"><strong> 303</strong></font> přidány mimořádné spoje dle výlukového jízdního řádu jedoucí přes Hvozdec. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "311"
+        "153",
+        "303"
       ]
     },
     {
@@ -628,22 +610,6 @@
       "type": "V",
       "affectedLines": [
         "835"
-      ]
-    },
-    {
-      "id": 101,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
       ]
     },
     {
@@ -676,6 +642,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 101,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
@@ -753,19 +735,19 @@
       ]
     },
     {
-      "id": 73,
-      "number": "PO 2507-118",
-      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
-      "latitude": 48.804178,
-      "longitude": 16.636094,
+      "id": 78,
+      "number": "VP 2507-240",
+      "title": "II/395 Dolní Kounice - Moravské Bránice",
+      "latitude": 49.074316,
+      "longitude": 16.447864,
       "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2025-09-05T23:59:00+02:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "585"
+        "154"
       ]
     },
     {
@@ -786,19 +768,19 @@
       ]
     },
     {
-      "id": 78,
-      "number": "VP 2507-240",
-      "title": "II/395 Dolní Kounice - Moravské Bránice",
-      "latitude": 49.074316,
-      "longitude": 16.447864,
+      "id": 73,
+      "number": "PO 2507-118",
+      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
+      "latitude": 48.804178,
+      "longitude": 16.636094,
       "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2026-05-31T23:59:00+02:00",
+      "validTo": "2025-09-05T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 154</strong></font>\u00A0pojede mezi zastávkami Dolní Kounice, Masarykovo nám. a Moravské Bránice, škola všemi spoji přes Nové Bránice. Zastávky na ulici Ivančické jsou bez obsluhy. ",
+      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "154"
+        "585"
       ]
     },
     {
@@ -973,6 +955,22 @@
       ]
     },
     {
+      "id": 43,
+      "number": "PO 2506-098",
+      "title": "Brno, Stará osada",
+      "latitude": 49.202587,
+      "longitude": 16.642216,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky terminálu Stará osada budou nástupiště pro linku<font color=\"#009240\"><strong> 201</strong></font> přesunuta do ulice Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Ochoz a Jedovnice\u00A0obslouží\u00A0nástupiště č. 11\u00A0v ulici Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Vojenská nemocnice\u00A0obslouží\u00A0nástupiště č. 9\u00A0v ulici Bubeníčkova. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
+      ]
+    },
+    {
       "id": 31694,
       "number": "V2506-045",
       "title": "Omezení provozu v terminálu Stará osada",
@@ -1052,22 +1050,6 @@
         "25",
         "40",
         "N90"
-      ]
-    },
-    {
-      "id": 43,
-      "number": "PO 2506-098",
-      "title": "Brno, Stará osada",
-      "latitude": 49.202587,
-      "longitude": 16.642216,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky terminálu Stará osada budou nástupiště pro linku<font color=\"#009240\"><strong> 201</strong></font> přesunuta do ulice Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Ochoz a Jedovnice\u00A0obslouží\u00A0nástupiště č. 11\u00A0v ulici Bubeníčkova. Spoje linky<font color=\"#009240\"><strong> 201</strong></font>\u00A0směr\u00A0Vojenská nemocnice\u00A0obslouží\u00A0nástupiště č. 9\u00A0v ulici Bubeníčkova. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
       ]
     },
     {
