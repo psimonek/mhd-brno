@@ -372,19 +372,19 @@
       ]
     },
     {
-      "id": 125,
-      "number": "PO 2508-147",
-      "title": "Tišnov, Lomnická",
-      "latitude": 49.353280,
-      "longitude": 16.427319,
+      "id": 103,
+      "number": "PO 2508-149",
+      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
+      "latitude": 49.036781,
+      "longitude": 16.616914,
       "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
+      "validTo": "2025-10-19T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> pouze ve směru z Tišnova do Lomničky\u00A0jede odklonem. Ze železniční stanice jedou všechny spoje ulicí Janáčkovou - Dvořáčkovou - Riegrovou - Černohorskou přes Železné do Lomničky a dále po své trase. Na odklonové trase zastaví v zastávce Tišnov, Riegrova u gymnázia (jako náhrada za zast. Kukýrna), dále obslouží Tišnov, Nový hřbitov (jako náhradu za zast. Tišnov, Lomnická) a v Lomničce spoje vedené do Šerkovic zast. Lomnička, ObÚ v přesunuté poloze.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> tak vynechá zastávku Tišnov, Nádražní. Nácestné zastávky v Železném neobsluhuje.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> ve směru do Tišnova\u00A0jede po své trase, ale neobsluhuje zastávky Lomnická a Kukýrna, které se nacházejí uprostřed stavby. ",
+      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "333"
+        "505"
       ]
     },
     {
@@ -404,19 +404,19 @@
       ]
     },
     {
-      "id": 103,
-      "number": "PO 2508-149",
-      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
-      "latitude": 49.036781,
-      "longitude": 16.616914,
+      "id": 125,
+      "number": "PO 2508-147",
+      "title": "Tišnov, Lomnická",
+      "latitude": 49.353280,
+      "longitude": 16.427319,
       "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-10-19T23:59:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font> pouze ve směru z Tišnova do Lomničky\u00A0jede odklonem. Ze železniční stanice jedou všechny spoje ulicí Janáčkovou - Dvořáčkovou - Riegrovou - Černohorskou přes Železné do Lomničky a dále po své trase. Na odklonové trase zastaví v zastávce Tišnov, Riegrova u gymnázia (jako náhrada za zast. Kukýrna), dále obslouží Tišnov, Nový hřbitov (jako náhradu za zast. Tišnov, Lomnická) a v Lomničce spoje vedené do Šerkovic zast. Lomnička, ObÚ v přesunuté poloze.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> tak vynechá zastávku Tišnov, Nádražní. Nácestné zastávky v Železném neobsluhuje.<br/><br/> Linka<font color=\"#009240\"><strong> 333</strong></font> ve směru do Tišnova\u00A0jede po své trase, ale neobsluhuje zastávky Lomnická a Kukýrna, které se nacházejí uprostřed stavby. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "505"
+        "333"
       ]
     },
     {
@@ -472,22 +472,6 @@
       ]
     },
     {
-      "id": 97,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
       "id": 101,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -501,6 +485,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 97,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
       ]
     },
     {
@@ -621,6 +621,24 @@
       ]
     },
     {
+      "id": 31693,
+      "number": "V2506-044",
+      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
+      "latitude": 49.17378,
+      "longitude": 16.57162,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:59+01:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "40",
+        "N90"
+      ]
+    },
+    {
       "id": 36,
       "number": "PO 2506-095",
       "title": "Brno, Slatina I",
@@ -654,24 +672,6 @@
       "affectedLines": [
         "302",
         "304"
-      ]
-    },
-    {
-      "id": 31693,
-      "number": "V2506-044",
-      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
-      "latitude": 49.17378,
-      "longitude": 16.57162,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:59+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "25",
-        "40",
-        "N90"
       ]
     },
     {
@@ -865,31 +865,6 @@
         "555",
         "570",
         "588"
-      ]
-    },
-    {
-      "id": 29415,
-      "number": "V2503-008",
-      "title": "Omezení provozu pod viaduktem Křenová – AKTUALIZACE od 28.07.2025",
-      "latitude": 49.191837,
-      "longitude": 16.614509,
-      "validFrom": "2025-03-25T05:05:00+01:00",
-      "validTo": "2025-08-31T23:59:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p><span><span>V souvislosti s rekonstrukcí části železničního viaduktu Křenová bude od <strong>25. března 2025 do ukončení prací </strong>(předpoklad <strong>do konce srpna 2025</strong>) uzavřen pro veškerý silniční provoz průjezd pod tímto viaduktem v ulici Nádražní.</span></span></p>\n\n<p> </p>\n\n<p><span><span><strong class=\"red\">AKTUALIZACE:</strong> </span></span><strong class=\"red\"><span><span>od pondělí 28. července 2025 (od spojení ve 23:00 od nádraží) obsluhují linky N94 a N95 ve směru do Modřic, resp. Chrlic zastávku Hlavní nádraží v původní poloze (nástupiště č. 10 u \"zdi\") </span></span></strong><span><span>– viz schéma přestupního uzlu <a href=\"https://dpmb.cz/sites/default/files/infotabule/hlavninadrazi_noc_250728.pdf\" target=\"_blank\">zde</a></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Trolejbusové <strong>linky 31 a 33</strong> pojedou ve směru ze Šlapanic a Slatiny do centra od zastávky Spáčilova odklonem ulicemi Hladíkovou, Masnou, Mlýnskou a Rumiště, a poté zpět ulicí Křenovou přes zastávku Vlhká po běžné trase do Slatiny a Šlapanic.<br />\n• Ve směru do centra tak vynechají zastávky <strong>Životského</strong>, <strong>Masná</strong> a <strong>Vlhká</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Tržní</strong> (zastávka linek 47, 49, 77 a 84 směr Zvonařka), <strong>Mlýnská</strong> (v ulici Mlýnské za křižovatkou s ulicí Masnou), <strong>Čechyňská</strong> (na Šujanově náměstí) a náhradní zastávku <strong>Hlavní nádraží</strong> zřízenou v ulici Rumiště.<br />\n• Běžnou zastávku Hlavní nádraží ve smyčce trolejbusů nebude možné těmito linkami obsloužit.<br />\n• Vybrané spoje linek 31 a 33 pojedou ze zastávky Spáčilova po trase <strong>linky 77</strong> na <strong>Úzkou</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Autobusová <strong>linka 47</strong> bude nadále ukončena v zastávce <strong>Úzká</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Autobusová <strong>linka 67</strong> pojede v úseku mezi zastávkami Vlhká a Malinovského náměstí obousměrným odklonem ulicí Koliště.<br />\n• Vynechá tak zastávku <strong>Hlavní nádraží</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Vybrané spoje autobusové <strong>linky 77</strong> pojedou ze zastávky Tržní po odklonové trase a zastávkách trolejbusových <strong>linek 31 a 33</strong> do zastávky Hlavní nádraží v ulici Rumiště.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p> Školní <strong>linka š86</strong> bude na hlavním nádraží pro nástup i výstup obsluhovat zastávku ve smyčce trolejbusů.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Noční autobusové <strong>linky N89, N95, N96 a N98</strong> pojedou mezi zastávkami Vlhká, resp. Úzká, a Hlavní nádraží ve směru na nádraží odklonem ulicí Koliště.<br />\n• Na odklonové trase navíc ve směru k hlavnímu nádraží obslouží zastávku <strong>Malinovského náměstí</strong> linek N94, N97 a N99.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> <s>Noční autobusové <strong>linky N94 a N95</strong> ve směru do Modřic, resp. Chrlic, obslouží na hlavním nádraží zastávku ve smyčce trolejbusů umístěnou na chodníku v protisměru</s>.</span></span></p>\n\n<p><strong class=\"red\"><span><span>AKTUALIZACE: od pondělí 28. července 2025 (od spojení ve 23:00 od nádraží) obsluhují linky N94 a N95 ve směru do Modřic, resp. Chrlic zastávku Hlavní nádraží v původní poloze (nástupiště č. 10 u \"zdi\").</span></span></strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Pro denní linky začínají veškerá omezení dopravy v úterý 25. března 2025 platit již od ranních výjezdů.</em></p>\n\n<p> </p>\n\n<p><span><span>Po dobu trvání výluky dojde navíc během vybraných víkendů pod viaduktem Křenová rovněž k vyloučení tramvajového provozu, které se dotkne tramvajových <strong>linek 8, 9, 10 a 12</strong>. Realizace se předpokládá v následujících termínech:<br />\n• <strong>29. a 30. března 2025</strong><br />\n• <strong>5. a 6. dubna 2025</strong><br />\n• <strong>18. až 21. dubna 2025</strong><br />\n• <strong>26. a 27. dubna 2025</strong><br />\n• <strong>3. a 4. května 2025</strong><br />\n• <strong>7. a 8. června 2025</strong><br />\n• <strong>14. a 15. června 2025</strong><br />\n• <strong>21. a 22. června 2025</strong><br />\n• <strong>28. a 29. června 2025</strong><br />\n• <strong>26. a 27. července 2025</strong></span></span></p>\n\n<p> </p>\n\n<p><span><span>Plánovaná dopravních opatření budou s předstihem vždy uveřejněna v samostatné informaci.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2503-008_aktu_250728.pdf\" target=\"_blank\">ke stažení</a> (aktualizace od 28.07.2025)</em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Jízdní řády budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "31",
-        "33",
-        "47",
-        "67",
-        "77",
-        "N89",
-        "N94",
-        "N95",
-        "N96",
-        "N98"
       ]
     },
     {
