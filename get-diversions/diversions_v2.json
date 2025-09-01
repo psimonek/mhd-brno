@@ -111,7 +111,7 @@
       "longitude": 16.632137,
       "validFrom": "2025-09-01T05:00:00+02:00",
       "validTo": "2025-11-30T23:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p><span><span>Z důvodu zahájení třetí etapy rekonstrukce křižovatky ulic Šámalovy a Zábrdovické bude <strong>od pondělí 1. září 2025 nepřetržitě do ukončení prací </strong>(předpoklad do konce listopadu 2025)<strong> </strong>omezen provoz autobusů v ulici Šámalově.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 64 </strong>pojede ve směru na Červený písek v úseku <strong>Uzavřená » Stará osada </strong>jednosměrným odklonem ulicemi Krokovou a Kuldovou.<br />\n• Vynechá tak zastávku <strong>Tomáškova</strong>.</span></span><br />\n<span><span>• Zastávku <strong>Kuldova</strong> obslouží v přeložené poloze v ulici Kuldově u křižovatky s ulicí Zábrdovickou.</span></span><br />\n<span><span>• V opačném směru obslouží linka všechny běžné zastávky.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-087_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p> </p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -127,7 +127,7 @@
       "longitude": 16.539016,
       "validFrom": "2025-09-01T04:45:00+02:00",
       "validTo": "2025-12-13T22:30:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu rekonstrukce plynovodu bude <strong>od 4:45 v pondělí 1. září 2025 nepřetržitě do ukončení prací</strong> (předpoklad do poloviny prosince 2025) vyloučen veškerý provoz v části ulice Žebětínské.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 52 </strong>pojede v úseku mezi zastávkami<strong> Šárka – Kohoutovice, hájenka </strong>odklonem ulicí Nad Pisárkami a Libušinou třídou.<br />\n• Neobslouží tak zastávky <strong>Myslivní </strong>(pouze ve směru na Mendlovo náměstí)<strong>,</strong><strong> Výletní</strong> a <strong>Žebětínská</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Myslivní</strong> (pouze ve směru do Žebětína v přeložené poloze v ul. Nad Pisárkami)<strong>, Myslivna, Achtelky, Jírovcova, Pavlovská, Talichova </strong>a <strong>Bellova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Noční autobusová linka N90</strong> pojede v úseku mezi zastávkami <strong>Myslivna – Kohoutovice, hájenka </strong>odklonem ulicí Šárkou a Libušinou třídou.<br />\n• Neobslouží tak zastávky <strong>Myslivní </strong>(pouze ve směru do Kohoutovic k hájence)<strong>,</strong><strong> Výletní</strong> a <strong>Žebětínská</strong>.<br />\n• Na odklonové trase navíc obslouží zastávky <strong>Myslivní </strong>(pouze ve směru do Ořešína v přeložené poloze v ul. Nad Pisárkami)<strong>,</strong> <strong>Šárka, Libušino údolí, Libušina třída, Borodinova, Glinkova, Stamicova</strong> a <strong>Voříškova</strong>.<br />\n• Vybrané spoje linky N90 pojedou pouze ve směru od centra ze zastávky <strong>Kamenný vrch</strong> přímo Libušinou třídou s obsluhou zastávek<strong> Jírovcova, Pavlovská, Talichova</strong> a <strong>Bellova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávky <strong>Myslivní</strong> (v ul. Návrší Svobody), <strong>Výletní</strong> a <strong>Žebětínská</strong> nelze po dobu výluky obsloužit.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2508-086_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -979,7 +979,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
