@@ -94,7 +94,7 @@
       "longitude": 16.620040,
       "validFrom": "2025-09-01T09:30:00+02:00",
       "validTo": "2025-09-16T14:30:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu eliminace předpokládaného zpoždění za jednokolejného provozu budou\u00A0některé\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0v úseku\u00A0Vranovice – Šakvice - Hustopeče u Brna\u00A0nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle jízdního řádu\u00A0linky xS3.",
       "privateTextHtml": null,
       "type": "V",
@@ -979,7 +979,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
