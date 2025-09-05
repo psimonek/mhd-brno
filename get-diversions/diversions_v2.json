@@ -1,6 +1,41 @@
 {
   "diversions": [
     {
+      "id": 33359,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Skrejš",
+      "latitude": 49.262036,
+      "longitude": 16.595428,
+      "validFrom": "2025-09-08T08:00:00+02:00",
+      "validTo": "2025-09-30T20:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu výkopových prací bude<strong> od 8:00 hod. v pondělí 8. září 2025 do ukončení prací</strong> (předpoklad do 30. září 2025) přeložena zastávka <strong>Skrejš</strong> pro linky 70 a N90 v obou směrech:</p>\n\n<p>• směr Mokrá Hora <strong>cca o 250 metrů vzad</strong></p>\n\n<p>• směr Jehnice <strong>cca o 300 metrů vzad</strong></p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "70",
+        "N90"
+      ]
+    },
+    {
+      "id": 33358,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Vozovna Medlánky směr Medlánky",
+      "latitude": 49.235814,
+      "longitude": 16.585193,
+      "validFrom": "2025-09-08T07:00:00+02:00",
+      "validTo": "2025-10-19T20:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu rekonstrukce povrchu komunikace bude <strong>od 7:00 hod. v pondělí 8. září 2025 do ukončení prací</strong> (předpoklad do 19. října 2025) přeložena zastávka <strong>Vozovna Medlánky</strong> směr Medlánky pro linky 41, 65 a N90 přibližně o 140 metrů vpřed.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "41",
+        "65",
+        "N90"
+      ]
+    },
+    {
       "id": 135,
       "number": "PO 2509-169",
       "title": "Blansko, náměstí Republiky",
@@ -159,6 +194,38 @@
       ]
     },
     {
+      "id": 127,
+      "number": "ZAS Protivanov",
+      "title": "Protivanov (v obou směrech)",
+      "latitude": 49.482178,
+      "longitude": 16.836320,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261"
+      ]
+    },
+    {
+      "id": 128,
+      "number": "PO 2509-161",
+      "title": "Račice-Pístovice, Račice, točna",
+      "latitude": 49.277682,
+      "longitude": 16.870902,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-09T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "157"
+      ]
+    },
+    {
       "id": 138,
       "number": "PO 2509-166",
       "title": "Koryčany, pouť",
@@ -206,38 +273,6 @@
       "affectedLines": [
         "301",
         "313"
-      ]
-    },
-    {
-      "id": 128,
-      "number": "PO 2509-161",
-      "title": "Račice-Pístovice, Račice, točna",
-      "latitude": 49.277682,
-      "longitude": 16.870902,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-09T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "157"
-      ]
-    },
-    {
-      "id": 127,
-      "number": "ZAS Protivanov",
-      "title": "Protivanov (v obou směrech)",
-      "latitude": 49.482178,
-      "longitude": 16.836320,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
       ]
     },
     {
@@ -712,6 +747,22 @@
       ]
     },
     {
+      "id": 31,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 34,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
@@ -729,22 +780,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 31,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
@@ -984,7 +1019,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
