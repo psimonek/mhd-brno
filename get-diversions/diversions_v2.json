@@ -595,22 +595,6 @@
       ]
     },
     {
-      "id": 73,
-      "number": "PO 2507-118",
-      "title": "Mikulov, ul. Alfonse Muchy (zast. Mikulov, Poliklinika)",
-      "latitude": 48.804178,
-      "longitude": 16.636094,
-      "validFrom": "2025-07-28T00:00:00+02:00",
-      "validTo": "2025-09-05T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Mikulov, Poliklinika bude přesunuta na ulici Koněvovu zhruba 60 metrů za křižovatku s ulicí Vídeňská.",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "585"
-      ]
-    },
-    {
       "id": 78,
       "number": "VP 2507-240",
       "title": "II/395 Dolní Kounice - Moravské Bránice",
