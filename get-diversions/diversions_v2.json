@@ -36,6 +36,23 @@
       ]
     },
     {
+      "id": 33360,
+      "number": "Z2509-066",
+      "title": "Posílení dopravy do Vranova",
+      "latitude": 49.309183,
+      "longitude": 16.617883,
+      "validFrom": "2025-09-07T09:00:00+02:00",
+      "validTo": "2025-09-28T19:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu předpokládané zvýšené poptávky po přepravě během mariánských hodů ve Vranově u Brna bude posílena doprava na autobusových linkách<strong> 41</strong> a <strong>57</strong>.</p>\n\n<p> </p>\n\n<p><strong>Opatření budou platná každou neděli v měsíci září, tedy 7. září 2025, 14. září 2025, 21. září 2025 a 28. září 2025.</strong></p>\n\n<p> </p>\n\n<p>Souhrn odjezdů linky <strong>41</strong> v neděle během září:<br />\n• <strong>Královo Pole, nádraží</strong> <strong><span><span><span><span>► </span></span></span></span></strong><span><span><span><span>Vranov, myslivna: 8:56, 9:56<strong>*</strong>, 10:56, 11:56<strong>*</strong>, 12:56, 13:56<strong>*</strong>, 14:56, 15:56<strong>*</strong>, 16:56<strong>*</strong>, 17:56<strong>*</strong>, 19:56<strong>*</strong><br />\n•<strong> Vranov, myslivna</strong> </span></span></span></span><strong><span><span><span><span>►</span></span></span></span></strong><span><span><span><span> Královo Pole, nádraží: 8:18, 9:23, 10:23, 11:23, 12:23, 13:23, 14:23, 15:23, 16:23<strong>v</strong>, 16:23, 17:23, 18:23</span></span></span></span><br />\n<strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>: jede do zastávky Vranov, smyčka a dále jako l. č. 57 směr Útěchov (přímý vůz); <strong>v</strong>: jede do vozovny Medlánky (posilový spoj)</span></span></span></span></p>\n\n<p> </p>\n\n<p>Souhrn odjezdů linky <strong>57</strong> v neděle během září:<br />\n• <strong>Štefánikova čtvrť</strong> <strong><span><span><span><span>►</span></span></span></span></strong> Vranov, smyčka: <span><span><span><span>7:52, 7:56</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 8:56</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 8:58, 9:56, 9:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 10:58, 11:56, 11:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 12:58, 13:56, 13:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 14:58, 15:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 16:58, 17:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 18:58, 19:58, 20:56, 21:56<br />\n• <strong>Vranov, smyčka</strong> </span></span></span></span><strong><span><span><span><span>►</span></span></span></span></strong><span><span><span><span> Maloměřický most: 7:29<strong>L</strong>, 8:36, 9:36, 10:36, 11:36, 12:36, 13:36, 14:36, 15:30<strong>H</strong>, 15:36, 16:30<strong>H</strong>, 16:36, 17:30<strong>H</strong>, 17:36, 18:30<strong>H</strong>, 18:36, 19:36, 20:29<strong>L</strong>, 21:29<strong>L</strong></span></span></span></span><br />\n<strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>: jede do zastávky Vranov, myslivna a dále jako l. č. 41 směr Lelekovice (přímý vůz); <strong>H</strong>: jede jen na Halasovo náměstí (posilový spoj); <strong>L</strong>: spoj ukončen okružně přes Lesnickou a Štefánikovu čtvrť</span></span></span></span></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "41",
+        "57"
+      ]
+    },
+    {
       "id": 135,
       "number": "PO 2509-169",
       "title": "Blansko, náměstí Republiky",
@@ -94,19 +111,21 @@
       ]
     },
     {
-      "id": 140,
-      "number": "2509 Prušánky, na konci",
-      "title": "Prušánky (směr Josefov)",
-      "latitude": 48.830317,
-      "longitude": 16.986719,
+      "id": 41,
+      "number": "PO 2509-163",
+      "title": "Lovčičky, hody",
+      "latitude": 49.067906,
+      "longitude": 16.849337,
       "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-10-03T23:59:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
+      "publicTextHtml": "Zastávka Lovčičky je přesunuta k parkovišti u křižovatky v centru obce. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "556"
+        "610",
+        "611",
+        "630"
       ]
     },
     {
@@ -126,21 +145,19 @@
       ]
     },
     {
-      "id": 41,
-      "number": "PO 2509-163",
-      "title": "Lovčičky, hody",
-      "latitude": 49.067906,
-      "longitude": 16.849337,
+      "id": 140,
+      "number": "2509 Prušánky, na konci",
+      "title": "Prušánky (směr Josefov)",
+      "latitude": 48.830317,
+      "longitude": 16.986719,
       "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
+      "validTo": "2025-10-03T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Lovčičky je přesunuta k parkovišti u křižovatky v centru obce. ",
+      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "610",
-        "611",
-        "630"
+        "556"
       ]
     },
     {
@@ -194,38 +211,6 @@
       ]
     },
     {
-      "id": 127,
-      "number": "ZAS Protivanov",
-      "title": "Protivanov (v obou směrech)",
-      "latitude": 49.482178,
-      "longitude": 16.836320,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
-      ]
-    },
-    {
-      "id": 128,
-      "number": "PO 2509-161",
-      "title": "Račice-Pístovice, Račice, točna",
-      "latitude": 49.277682,
-      "longitude": 16.870902,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-09T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "157"
-      ]
-    },
-    {
       "id": 138,
       "number": "PO 2509-166",
       "title": "Koryčany, pouť",
@@ -273,6 +258,38 @@
       "affectedLines": [
         "301",
         "313"
+      ]
+    },
+    {
+      "id": 128,
+      "number": "PO 2509-161",
+      "title": "Račice-Pístovice, Račice, točna",
+      "latitude": 49.277682,
+      "longitude": 16.870902,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-09T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "157"
+      ]
+    },
+    {
+      "id": 127,
+      "number": "ZAS Protivanov",
+      "title": "Protivanov (v obou směrech)",
+      "latitude": 49.482178,
+      "longitude": 16.836320,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261"
       ]
     },
     {
@@ -412,6 +429,22 @@
       ]
     },
     {
+      "id": 103,
+      "number": "PO 2508-149",
+      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
+      "latitude": 49.036781,
+      "longitude": 16.616914,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-10-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "505"
+      ]
+    },
+    {
       "id": 125,
       "number": "PO 2508-147",
       "title": "Tišnov, Lomnická",
@@ -441,22 +474,6 @@
       "type": "V",
       "affectedLines": [
         "753"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "PO 2508-149",
-      "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
-      "latitude": 49.036781,
-      "longitude": 16.616914,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-10-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Židlochovice, sídliště bude linkou<font color=\"#009240\"><strong> 505</strong></font> v obou směrech bez obsluhy.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "505"
       ]
     },
     {
@@ -512,22 +529,6 @@
       ]
     },
     {
-      "id": 97,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
       "id": 101,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -541,6 +542,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 97,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
       ]
     },
     {
@@ -661,25 +678,6 @@
       ]
     },
     {
-      "id": 36,
-      "number": "PO 2506-095",
-      "title": "Brno, Slatina I",
-      "latitude": 49.182208,
-      "longitude": 16.691322,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-12T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Zastávka Brno, Černovičky je pro směr z Brna do regionu přeložena do ulice Bělohorské ke stejnojmenné zastávce linek<font color=\"#2C89C8\"><strong> 72</strong></font>, <font color=\"#2C89C8\"><strong> 75</strong></font>, E76 a N89. Zastávka Brno, Slatina, sídliště je přeložena do ulice Holzovy mezi sjezd z Ostravské ulice a okružní křižovatku Slatina (naproti zastávce linky<font color=\"#2C89C8\"><strong> 78</strong></font> Brno, Slatina, rozcestí směr Líšeň). Ve směru z regionu do centra Brna jedou linky po své trase a obsluhují standardní zastávky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
-      ]
-    },
-    {
       "id": 44,
       "number": "VP 2506-236",
       "title": "Rozdrojovice, ul. Na Březině",
@@ -712,6 +710,25 @@
         "25",
         "40",
         "N90"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "PO 2506-095",
+      "title": "Brno, Slatina I",
+      "latitude": 49.182208,
+      "longitude": 16.691322,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-09-12T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Zastávka Brno, Černovičky je pro směr z Brna do regionu přeložena do ulice Bělohorské ke stejnojmenné zastávce linek<font color=\"#2C89C8\"><strong> 72</strong></font>, <font color=\"#2C89C8\"><strong> 75</strong></font>, E76 a N89. Zastávka Brno, Slatina, sídliště je přeložena do ulice Holzovy mezi sjezd z Ostravské ulice a okružní křižovatku Slatina (naproti zastávce linky<font color=\"#2C89C8\"><strong> 78</strong></font> Brno, Slatina, rozcestí směr Líšeň). Ve směru z regionu do centra Brna jedou linky po své trase a obsluhují standardní zastávky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "601",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -1019,7 +1036,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
