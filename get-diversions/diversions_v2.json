@@ -222,22 +222,6 @@
       ]
     },
     {
-      "id": 33248,
-      "number": "V2509-090",
-      "title": "Výluka autobusů v ulici Šimáčkově",
-      "latitude": 49.212191,
-      "longitude": 16.69892,
-      "validFrom": "2025-09-06T14:00:00+02:00",
-      "validTo": "2025-09-06T15:30:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu konání Líšeňských hodů bude <strong>v sobotu 6. září 2025 od 14:00 do 15:30 </strong>pro veškerou dopravu uzavřena ulice Šimáčkova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Autobusová linka 58</strong> pojede od zastávky Náměstí Karla IV. odklonem do zastávky <strong>Jírova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávky <strong>Šimáčkova</strong>, <strong>Kubelíkova</strong>, <strong>Obecká</strong> a <strong>Líšeň, hřbitov</strong> není možné během výluky obsloužit. Náhradou je možné využít zastávku Náměstí Karla IV.</p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "58"
-      ]
-    },
-    {
       "id": 33386,
       "number": "",
       "title": "Posílení dopravy na Novou Zbrojovku",
@@ -267,26 +251,6 @@
       "type": "D",
       "affectedLines": [
         "C"
-      ]
-    },
-    {
-      "id": 98,
-      "number": "VP 2509-250",
-      "title": "Vyškovsko - Rally Vyškov 2025",
-      "latitude": 49.272441,
-      "longitude": 17.016629,
-      "validFrom": "2025-09-06T08:00:00+02:00",
-      "validTo": "2025-09-06T16:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 156</strong></font>:\u00A0Spoje 204, 205 a 206 jedou mezi Vyškovem, žel. st. a Kučerov odklonem s vynecháním Hlubočan..<br/><br/> Linka<font color=\"#009240\"><strong> 166</strong></font>: Spoje\u00A0273, 274 a 276 jedou mezi Vyškovem, žel. st. a Manerovem odklonem s\u00A0vynecháním zastávek Vyškov, Palánek až Hlubočany, Terešov. Mezi zastávkami Kozlany a Hvězdlice, Nové Hvězdlice pak jedou odklonem s vynecháním Starých Hvězdlic.\u00A0.<br/><br/> Linka<font color=\"#009240\"><strong> 752</strong></font>:\u00A0Spoj 204 jede v\u00A0jiné časové poloze jako spoj 210 a vynechává závlek do Boškůvek.<br/><br/> Linka<font color=\"#009240\"><strong> 756</strong></font>:\u00A0Nový spoj 208 jede z\u00A0Podivic v\u00A0jiné časové poloze než standardní spoj 204 bez zastavení přes Brodek u Prostějova a Drysice do Pustiměře a dále po své trase do Vyškova. Spoj 204 jede z\u00A0Pustiměře do Vyškova ve své standardní časové poloze. Spoj 203 je ukončen v\u00A0zastávce Pustiměř, náves a spoj 206 je odtud výchozí. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "156",
-        "166",
-        "752",
-        "753",
-        "756"
       ]
     },
     {
@@ -331,6 +295,24 @@
       ]
     },
     {
+      "id": 36,
+      "number": "PO 2509-163",
+      "title": "Lovčičky, hody",
+      "latitude": 49.067906,
+      "longitude": 16.849337,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Lovčičky je přesunuta k parkovišti u křižovatky v centru obce. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "610",
+        "611",
+        "630"
+      ]
+    },
+    {
       "id": 128,
       "number": "2509 Prušánky, na konci",
       "title": "Prušánky (směr Josefov)",
@@ -360,24 +342,6 @@
       "type": "V",
       "affectedLines": [
         "933"
-      ]
-    },
-    {
-      "id": 36,
-      "number": "PO 2509-163",
-      "title": "Lovčičky, hody",
-      "latitude": 49.067906,
-      "longitude": 16.849337,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Lovčičky je přesunuta k parkovišti u křižovatky v centru obce. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "610",
-        "611",
-        "630"
       ]
     },
     {
@@ -431,6 +395,22 @@
       ]
     },
     {
+      "id": 115,
+      "number": "PO 2509-161",
+      "title": "Račice-Pístovice, Račice, točna",
+      "latitude": 49.277682,
+      "longitude": 16.870902,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-09T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "157"
+      ]
+    },
+    {
       "id": 118,
       "number": "PO 2509-160",
       "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
@@ -448,55 +428,6 @@
       ]
     },
     {
-      "id": 114,
-      "number": "ZAS Protivanov",
-      "title": "Protivanov (v obou směrech)",
-      "latitude": 49.482178,
-      "longitude": 16.836320,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
-      ]
-    },
-    {
-      "id": 115,
-      "number": "PO 2509-161",
-      "title": "Račice-Pístovice, Račice, točna",
-      "latitude": 49.277682,
-      "longitude": 16.870902,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-09T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "157"
-      ]
-    },
-    {
-      "id": 121,
-      "number": "PO 2509-162",
-      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
-      "latitude": 48.945927,
-      "longitude": 17.388110,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930",
-        "931"
-      ]
-    },
-    {
       "id": 126,
       "number": "PO 2509-166",
       "title": "Koryčany, pouť",
@@ -510,6 +441,22 @@
       "type": "V",
       "affectedLines": [
         "650"
+      ]
+    },
+    {
+      "id": 114,
+      "number": "ZAS Protivanov",
+      "title": "Protivanov (v obou směrech)",
+      "latitude": 49.482178,
+      "longitude": 16.836320,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261"
       ]
     },
     {
@@ -613,6 +560,23 @@
         "N97",
         "N98",
         "N99"
+      ]
+    },
+    {
+      "id": 121,
+      "number": "PO 2509-162",
+      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
+      "latitude": 48.945927,
+      "longitude": 17.388110,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-14T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930",
+        "931"
       ]
     },
     {
