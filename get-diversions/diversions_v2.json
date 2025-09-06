@@ -222,22 +222,6 @@
       ]
     },
     {
-      "id": 33386,
-      "number": "",
-      "title": "Posílení dopravy na Novou Zbrojovku",
-      "latitude": 49.195511,
-      "longitude": 16.613908,
-      "validFrom": "2025-09-06T13:00:00+02:00",
-      "validTo": null,
-      "isValid": true,
-      "publicTextHtml": "<p>V rámci akce \"E.on Ekofestival\" je zřízena speciální linka v trase <strong>Malinovského náměstí – Nová Zbrojovka</strong>. </p>\n\n<p>Zvláštní linka je v provozu <strong>od 13:30 do 22:30</strong>.</p>\n\n<ul>\n\t<li>Odjezdy z obou konečných zastávek jsou v intervalu 30 minut. (14:00, 14:30, 15:00, ...)</li>\n\t<li>Linka obslouží také zastávky <strong>Vojenská nemocnice, Kuldova </strong>a<strong> Židenice, nádraží</strong></li>\n</ul>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        ""
-      ]
-    },
-    {
       "id": 33382,
       "number": "Z2509-061",
       "title": "Posílení dopravy na Automotodrom",
@@ -295,21 +279,19 @@
       ]
     },
     {
-      "id": 36,
-      "number": "PO 2509-163",
-      "title": "Lovčičky, hody",
-      "latitude": 49.067906,
-      "longitude": 16.849337,
+      "id": 127,
+      "number": "PO 2509-164",
+      "title": "Veselí nad Moravou - I/55",
+      "latitude": 48.955706,
+      "longitude": 17.385092,
       "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Lovčičky je přesunuta k parkovišti u křižovatky v centru obce. ",
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "610",
-        "611",
-        "630"
+        "933"
       ]
     },
     {
@@ -329,19 +311,21 @@
       ]
     },
     {
-      "id": 127,
-      "number": "PO 2509-164",
-      "title": "Veselí nad Moravou - I/55",
-      "latitude": 48.955706,
-      "longitude": 17.385092,
+      "id": 36,
+      "number": "PO 2509-163",
+      "title": "Lovčičky, hody",
+      "latitude": 49.067906,
+      "longitude": 16.849337,
       "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
+      "publicTextHtml": "Zastávka Lovčičky je přesunuta k parkovišti u křižovatky v centru obce. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "933"
+        "610",
+        "611",
+        "630"
       ]
     },
     {
@@ -392,71 +376,6 @@
       "affectedLines": [
         "52",
         "N90"
-      ]
-    },
-    {
-      "id": 115,
-      "number": "PO 2509-161",
-      "title": "Račice-Pístovice, Račice, točna",
-      "latitude": 49.277682,
-      "longitude": 16.870902,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-09T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "157"
-      ]
-    },
-    {
-      "id": 118,
-      "number": "PO 2509-160",
-      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
-      "latitude": 49.338406,
-      "longitude": 16.556954,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-25T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "313"
-      ]
-    },
-    {
-      "id": 126,
-      "number": "PO 2509-166",
-      "title": "Koryčany, pouť",
-      "latitude": 49.106207,
-      "longitude": 17.163300,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 650</strong></font>:\u00A0Zastávka Koryčany, náměstí je pro oba směry přesunuta na hlavní komunikaci. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "650"
-      ]
-    },
-    {
-      "id": 114,
-      "number": "ZAS Protivanov",
-      "title": "Protivanov (v obou směrech)",
-      "latitude": 49.482178,
-      "longitude": 16.836320,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
       ]
     },
     {
@@ -563,6 +482,71 @@
       ]
     },
     {
+      "id": 115,
+      "number": "PO 2509-161",
+      "title": "Račice-Pístovice, Račice, točna",
+      "latitude": 49.277682,
+      "longitude": 16.870902,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-09T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "157"
+      ]
+    },
+    {
+      "id": 126,
+      "number": "PO 2509-166",
+      "title": "Koryčany, pouť",
+      "latitude": 49.106207,
+      "longitude": 17.163300,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 650</strong></font>:\u00A0Zastávka Koryčany, náměstí je pro oba směry přesunuta na hlavní komunikaci. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "650"
+      ]
+    },
+    {
+      "id": 118,
+      "number": "PO 2509-160",
+      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
+      "latitude": 49.338406,
+      "longitude": 16.556954,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-25T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "301",
+        "313"
+      ]
+    },
+    {
+      "id": 114,
+      "number": "ZAS Protivanov",
+      "title": "Protivanov (v obou směrech)",
+      "latitude": 49.482178,
+      "longitude": 16.836320,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261"
+      ]
+    },
+    {
       "id": 121,
       "number": "PO 2509-162",
       "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
@@ -597,22 +581,6 @@
       ]
     },
     {
-      "id": 95,
-      "number": "VP 2508-248",
-      "title": "Pačlavice, Pornice",
-      "latitude": 49.259641,
-      "longitude": 17.168487,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>: Spoje 25 a 28 jedou mezi Pačlavicemi a Pornicemi odklonem bez dopadu na obsluhu zastávek. Kvůli délce uzavírky je příjezd do Pornic a Morkovic-Slížan od Vyškova o 6 minut opožděn a ve směru do Vyškova autobus odjíždí z těchto dvou zastávek o 6 minut dříve. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "753"
-      ]
-    },
-    {
       "id": 88,
       "number": "PO 2508-149",
       "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
@@ -626,6 +594,22 @@
       "type": "V",
       "affectedLines": [
         "505"
+      ]
+    },
+    {
+      "id": 95,
+      "number": "VP 2508-248",
+      "title": "Pačlavice, Pornice",
+      "latitude": 49.259641,
+      "longitude": 17.168487,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-09-14T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>: Spoje 25 a 28 jedou mezi Pačlavicemi a Pornicemi odklonem bez dopadu na obsluhu zastávek. Kvůli délce uzavírky je příjezd do Pornic a Morkovic-Slížan od Vyškova o 6 minut opožděn a ve směru do Vyškova autobus odjíždí z těchto dvou zastávek o 6 minut dříve. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "753"
       ]
     },
     {
@@ -814,24 +798,6 @@
       ]
     },
     {
-      "id": 31693,
-      "number": "V2506-044",
-      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
-      "latitude": 49.17378,
-      "longitude": 16.57162,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:59+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "25",
-        "40",
-        "N90"
-      ]
-    },
-    {
       "id": 31,
       "number": "PO 2506-095",
       "title": "Brno, Slatina I",
@@ -865,6 +831,24 @@
       "affectedLines": [
         "302",
         "304"
+      ]
+    },
+    {
+      "id": 31693,
+      "number": "V2506-044",
+      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
+      "latitude": 49.17378,
+      "longitude": 16.57162,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:59+01:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "40",
+        "N90"
       ]
     },
     {
