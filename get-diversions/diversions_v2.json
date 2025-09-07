@@ -341,6 +341,38 @@
       ]
     },
     {
+      "id": 114,
+      "number": "ZAS Protivanov",
+      "title": "Protivanov (v obou směrech)",
+      "latitude": 49.482178,
+      "longitude": 16.836320,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "261"
+      ]
+    },
+    {
+      "id": 115,
+      "number": "PO 2509-161",
+      "title": "Račice-Pístovice, Račice, točna",
+      "latitude": 49.277682,
+      "longitude": 16.870902,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-09T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "157"
+      ]
+    },
+    {
       "id": 118,
       "number": "PO 2509-160",
       "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
@@ -358,22 +390,6 @@
       ]
     },
     {
-      "id": 114,
-      "number": "ZAS Protivanov",
-      "title": "Protivanov (v obou směrech)",
-      "latitude": 49.482178,
-      "longitude": 16.836320,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-08T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu konání pouťových slavností v prostoru náměstí v obci Protivanov budou po dobu trvání této kulturní akce dočasně přeloženy zastávky Protivanov v obou směrech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
-      ]
-    },
-    {
       "id": 121,
       "number": "PO 2509-162",
       "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
@@ -388,22 +404,6 @@
       "affectedLines": [
         "930",
         "931"
-      ]
-    },
-    {
-      "id": 115,
-      "number": "PO 2509-161",
-      "title": "Račice-Pístovice, Račice, točna",
-      "latitude": 49.277682,
-      "longitude": 16.870902,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-09T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "157"
       ]
     },
     {
@@ -627,6 +627,22 @@
       ]
     },
     {
+      "id": 82,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
+      ]
+    },
+    {
       "id": 86,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -656,40 +672,6 @@
       "type": "V",
       "affectedLines": [
         "153"
-      ]
-    },
-    {
-      "id": 82,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
-      "id": 32429,
-      "number": "",
-      "title": "Dočasné přeložení zastávky Vozovna Medlánky směr Semilasso",
-      "latitude": 49.235564,
-      "longitude": 16.5856,
-      "validFrom": "2025-07-28T07:00:00+02:00",
-      "validTo": "2025-09-07T20:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu rekonstrukce povrchu komunikace bude <strong>od 7:00 hod. v pondělí 28. července 2025 do ukončení prací</strong> (předpoklad do 7. září 2025) přeložena zastávka <strong>Vozovna Medlánky</strong> směr Semilasso pro linky 41, 65 a N90 přibližně o 110 metrů vzad.</p>\n",
-      "privateTextHtml": null,
-      "type": "Z",
-      "affectedLines": [
-        "41",
-        "65",
-        "N90"
       ]
     },
     {
@@ -760,6 +742,23 @@
       ]
     },
     {
+      "id": 39,
+      "number": "VP 2506-236",
+      "title": "Rozdrojovice, ul. Na Březině",
+      "latitude": 49.255061,
+      "longitude": 16.512129,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-09-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
+      ]
+    },
+    {
       "id": 31693,
       "number": "V2506-044",
       "title": "Omezení provozu v ulici Jihlavské – I. etapa",
@@ -775,23 +774,6 @@
         "25",
         "40",
         "N90"
-      ]
-    },
-    {
-      "id": 39,
-      "number": "VP 2506-236",
-      "title": "Rozdrojovice, ul. Na Březině",
-      "latitude": 49.255061,
-      "longitude": 16.512129,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
       ]
     },
     {
