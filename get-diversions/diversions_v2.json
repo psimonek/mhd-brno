@@ -229,7 +229,7 @@
       "longitude": 16.5673539,
       "validFrom": "2025-09-06T08:00:00+02:00",
       "validTo": "2025-09-07T18:00:00+02:00",
-      "isValid": true,
+      "isValid": false,
       "publicTextHtml": "<p>Z důvodu akce \"Masaryk Racing Days 2025\" je zavedena speciální <strong>linka C </strong>v úseku <strong>Ostrovačice, Autodrom – Nemocnice Bohunice</strong>. </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka C</strong> pojede v trase <strong>Nemocnice Bohunice – Svážná – Pražská / Hoštická – Troubsko, Veselka – Popůvky, Vintrovna – Kývalka, spojovací – Automotodrom, Start</strong>.</p>\n\n<p>Knižní jízdní řád - <a href=\"https://www.automotodrombrno.cz/content/uploads/2025/09/Masaryk-Racing-Days-2025-J%C3%ADzdn%C3%AD-%C5%99%C3%A1d-MHD.pdf\"><em>ke stažení</em></a></p>\n",
       "privateTextHtml": null,
       "type": "D",
