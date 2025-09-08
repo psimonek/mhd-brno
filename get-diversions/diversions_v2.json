@@ -108,7 +108,7 @@
       "longitude": 16.595428,
       "validFrom": "2025-09-08T08:00:00+02:00",
       "validTo": "2025-09-30T20:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu výkopových prací bude<strong> od 8:00 hod. v pondělí 8. září 2025 do ukončení prací</strong> (předpoklad do 30. září 2025) přeložena zastávka <strong>Skrejš</strong> pro linky 70 a N90 v obou směrech:</p>\n\n<p>• směr Mokrá Hora <strong>cca o 250 metrů vzad</strong></p>\n\n<p>• směr Jehnice <strong>cca o 300 metrů vzad</strong></p>\n",
       "privateTextHtml": null,
       "type": "Z",
