@@ -36,6 +36,23 @@
       ]
     },
     {
+      "id": 33252,
+      "number": "V2509-091",
+      "title": "Omezení provozu v ulici Řezáčově",
+      "latitude": 49.22272,
+      "longitude": 16.55648,
+      "validFrom": "2025-09-13T00:00:00+02:00",
+      "validTo": "2025-09-13T22:30:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>v sobotu 13. září 2025 od 0:00 do 22:30 hod. </strong>pro veškerou dopravu průjezdná ulice Řezáčova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 36</strong> <strong>a noční autobusová linka N93</strong> budou v oblasti Komína ukončeny okružní trasou ulicemi Kristenovou, Chaloupky, Vavřineckou, Lísky a Branka.<br />\n• Ve směru do Komína pojedou ze zastávky<strong> Svratecká</strong> přes pravidelné zastávky<strong> Kristenova</strong> a <strong>Chaloupky</strong> do dočasně zřízené výstupní zastávky <strong>Komín, sídliště</strong> před křižovatkou ulic Vavřinecké a Vrbenského.<br />\n• Ve směru z Komína pojedou linky z dočasně zřízené nástupní zastávky <strong>Komín, sídliště</strong> za křižovatkou ulic Vavřinecké a Vrbenského zpět přímo do zastávky <strong>Svratecká</strong> a dále již po svých pravidelných trasách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Změny zastávek:</p>\n\n<p><strong>Komín, sídliště </strong>– pro výstup i nástup přeložena ke křižovatce ulic Vrbenského a Vavřinecké<br />\n<strong>Řezáčova </strong>– v obou směrech bez obsluhy<br />\n<strong>Olbrachtovo náměstí</strong> – v obou směrech bez obsluhy<br />\n<strong>Chaloupky </strong>– ve směru z Komína bez obsluhy<br />\n<strong>Kristenova</strong> – ve směru z Komína bez obsluhy</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – bude k dispozici ke stažení</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "36",
+        "N93"
+      ]
+    },
+    {
       "id": 132,
       "number": "PO 2509-176",
       "title": "Poysdorf, ulice Körnergasse",
@@ -368,22 +385,6 @@
       ]
     },
     {
-      "id": 115,
-      "number": "PO 2509-161",
-      "title": "Račice-Pístovice, Račice, točna",
-      "latitude": 49.277682,
-      "longitude": 16.870902,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-09T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "157"
-      ]
-    },
-    {
       "id": 118,
       "number": "PO 2509-160",
       "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
@@ -398,6 +399,23 @@
       "affectedLines": [
         "301",
         "313"
+      ]
+    },
+    {
+      "id": 121,
+      "number": "PO 2509-162",
+      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
+      "latitude": 48.945927,
+      "longitude": 17.388110,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-14T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930",
+        "931"
       ]
     },
     {
@@ -420,20 +438,19 @@
       ]
     },
     {
-      "id": 121,
-      "number": "PO 2509-162",
-      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
-      "latitude": 48.945927,
-      "longitude": 17.388110,
+      "id": 115,
+      "number": "PO 2509-161",
+      "title": "Račice-Pístovice, Račice, točna",
+      "latitude": 49.277682,
+      "longitude": 16.870902,
       "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
+      "validTo": "2025-09-09T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
+      "publicTextHtml": "Z důvodu\u00A0konání pouťových slavností\u00A0v obci Račice-Pístovice nebude možná jízda autobusů do autobusové točny a v souvislosti s tím bude dočasně přeložena zastávka Račice-Pístovice, Račice, točna.<br/><br/> Linka<font color=\"#009240\"><strong> 157</strong></font>\u00A0obslouží zastávku\u00A0Račice-Pístovice, Račice, točna v provizorní poloze naproti prodejně Brněnka. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "930",
-        "931"
+        "157"
       ]
     },
     {
@@ -723,6 +740,22 @@
       ]
     },
     {
+      "id": 26,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 29,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
@@ -740,22 +773,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 26,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
