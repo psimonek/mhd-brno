@@ -18,6 +18,23 @@
       ]
     },
     {
+      "id": 33436,
+      "number": "V2509-092",
+      "title": "Výluka autobusů ve Vranově",
+      "latitude": 49.311052,
+      "longitude": 16.612031,
+      "validFrom": "2025-09-13T12:00:00+02:00",
+      "validTo": "2025-09-14T06:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání krojovaných hodů nebude <strong>od 12:00 v sobotu 13. září 2025 do 6:00 v neděli 14. září 2025</strong> možná jízda autobusů do smyčky ve Vranově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 57 a N93</strong> budou ukončeny v zastávce <strong>Vranov, myslivna</strong>.</p>\n\n<p>• Neobslouží tak zastávky <strong>Vranov, křižovatka</strong> a <strong>Vranov, smyčka</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Linka 41 pojede po své pravidelné trase, spoje provozně propojené s linkou 57 vynechají zastávku Vranov, smyčka.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – bude k dispozici ke stažení</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "57",
+        "N93"
+      ]
+    },
+    {
       "id": 134,
       "number": "PO 2509-177",
       "title": "Velké Bílovice",
@@ -153,23 +170,6 @@
       ]
     },
     {
-      "id": 138,
-      "number": "PO 2509-171",
-      "title": "Čebín, náměstí",
-      "latitude": 49.313988,
-      "longitude": 16.476839,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu zjednosměrnění silnice vedoucí od vojenského pomníku ke kostelu jedou linky<font color=\"#009240\"><strong> 320</strong></font> a <font color=\"#009240\"><strong>321</strong></font> v úseku mezi zastávkou Čebín, náměstí a Čebín, sídliště odklonem po místních komunikacích. Zastávka Čebín, náměstí z důvodu zkrácení objízdné trasy je přeložena na hlavní silnici vedoucí ke škole do prostoru vjezdu do parkoviště.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "320",
-        "321"
-      ]
-    },
-    {
       "id": 124,
       "number": "2509 Otnice, host. U Marků",
       "title": "Otnice, host. U Marků - směr Milešovice",
@@ -199,6 +199,23 @@
       "type": "V",
       "affectedLines": [
         "261"
+      ]
+    },
+    {
+      "id": 138,
+      "number": "PO 2509-171",
+      "title": "Čebín, náměstí",
+      "latitude": 49.313988,
+      "longitude": 16.476839,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu zjednosměrnění silnice vedoucí od vojenského pomníku ke kostelu jedou linky<font color=\"#009240\"><strong> 320</strong></font> a <font color=\"#009240\"><strong>321</strong></font> v úseku mezi zastávkou Čebín, náměstí a Čebín, sídliště odklonem po místních komunikacích. Zastávka Čebín, náměstí z důvodu zkrácení objízdné trasy je přeložena na hlavní silnici vedoucí ke škole do prostoru vjezdu do parkoviště.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "320",
+        "321"
       ]
     },
     {
@@ -539,22 +556,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
       "id": 86,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -568,6 +569,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
       ]
     },
     {
@@ -638,24 +655,6 @@
       ]
     },
     {
-      "id": 31693,
-      "number": "V2506-044",
-      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
-      "latitude": 49.17378,
-      "longitude": 16.57162,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:59+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "25",
-        "40",
-        "N90"
-      ]
-    },
-    {
       "id": 31,
       "number": "PO 2506-095",
       "title": "Brno, Slatina I",
@@ -689,6 +688,24 @@
       "affectedLines": [
         "302",
         "304"
+      ]
+    },
+    {
+      "id": 31693,
+      "number": "V2506-044",
+      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
+      "latitude": 49.17378,
+      "longitude": 16.57162,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:59+01:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "40",
+        "N90"
       ]
     },
     {
