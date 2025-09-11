@@ -35,6 +35,22 @@
       ]
     },
     {
+      "id": 33514,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Ústřední hřbitov směr Nemocnice Bohunice",
+      "latitude": 49.172694,
+      "longitude": 16.597901,
+      "validFrom": "2025-09-14T23:00:00+02:00",
+      "validTo": "2025-10-12T20:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu rekonstrukce povrchu komunikace bude <strong>od 23:00 hod. v neděli 14. září 2025 do ukončení prací</strong> (předpoklad do 12. října 2025) přeložena zastávka <strong>Ústřední hřbitov</strong> směr Nemocnice Bohunice pro linku 40 přibližně o 100 metrů vpřed za křižovatku.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "40"
+      ]
+    },
+    {
       "id": 33437,
       "number": "V2509-093",
       "title": "Omezení tramvají na 3. a 4. koleji u hlavního nádraží",
