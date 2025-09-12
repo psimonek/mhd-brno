@@ -110,7 +110,7 @@
       "validFrom": "2025-09-13T11:00:00+02:00",
       "validTo": "2025-09-13T16:00:00+02:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu konání akce ŠOTODAYS 2025 je <strong>linka H4 prodloužena</strong> až do zastávky <strong>Výstaviště - hlavní vstup</strong>. </p>\n\n<ul>\n\t<li>Při jízdě ve směru <strong>Komenského náměstí</strong> linka obslouží zastávku Mendlovo náměstí na standardní zastávce ve smyčce.</li>\n\t<li>Při jízdě směr <strong>Výstaviště - hlavní vstup </strong>obslouží Mendlovo náměstí na zastávce linky 1 směr Ečerova.</li>\n</ul>\n\n<p><strong>Pozor! Linka H4 bude obsluhovat zastávku Výstaviště - hlavní vstup pouze do 15:47. Poté bude vedena ve standartní trase.</strong></p>\n\n<p>Zastávkový jízdní řád - <a href=\"https://www.dpmb.cz/sites/default/files/infotabule/zjr_250913_h4.pdf\"><em>ke stažení</em></a></p>\n",
+      "publicTextHtml": "<p>Z důvodu konání akce ŠOTODAYS 2025 je <strong>linka H4 prodloužena</strong> až do zastávky <strong>Výstaviště - hlavní vstup</strong>, odkud je možný přístup na výstavu. </p>\n\n<ul>\n\t<li>Při jízdě ve směru <strong>Komenského náměstí</strong> linka obslouží zastávku Mendlovo náměstí na standartní zastávce ve smyčce.</li>\n\t<li>Při jízdě směr <strong>Výstaviště - hlavní vstup </strong>obslouží Mendlovo náměstí na zastávce linky 1 směr Ečerova.</li>\n</ul>\n\n<p><strong>Pozor! Linka H4 bude obsluhovat zastávku Výstaviště - hlavní vstup pouze do 15:47. Poté bude vedena ve standartní trase.</strong></p>\n\n<p>Zastávkový jízdní řád - <a href=\"https://www.dpmb.cz/sites/default/files/infotabule/zjr_250913_h4.pdf\"><em>ke stažení</em></a></p>\n",
       "privateTextHtml": null,
       "type": "D",
       "affectedLines": [
@@ -1028,7 +1028,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
