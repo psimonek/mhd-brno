@@ -51,23 +51,6 @@
       ]
     },
     {
-      "id": 33437,
-      "number": "V2509-093",
-      "title": "Omezení tramvají na 3. a 4. koleji u hlavního nádraží",
-      "latitude": 49.191191,
-      "longitude": 16.612353,
-      "validFrom": "2025-09-13T16:00:00+02:00",
-      "validTo": "2025-09-13T20:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání akce ŠOTODAYS 2025 bude <strong>v sobotu 13. září 2025 od 16:00 do 20:00 </strong>vyloučen provoz tramvají na 3. a 4. koleji u hlavního nádraží.</p>\n\n<p> </p>\n\n<p><strong>• Linka 8 </strong>směr Nemocnice Bohunice a <strong>linka 12 </strong>směr Technologický park obslouží zastávku <strong>Hlavní nádraží</strong> na 1. koleji.</p>\n\n<p><strong>• Linka 8 </strong>směr Líšeň, Mifkova a<strong> linka 12</strong> směr Komárov obslouží zastávku <strong>Hlavní nádraží </strong>na 2. koleji.</p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "8",
-        "12"
-      ]
-    },
-    {
       "id": 33436,
       "number": "V2509-092",
       "title": "Výluka autobusů ve Vranově",
