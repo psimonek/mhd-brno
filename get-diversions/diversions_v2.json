@@ -85,22 +85,6 @@
       ]
     },
     {
-      "id": 33516,
-      "number": "",
-      "title": "Prodloužení linky H4 k zastávce Výstaviště - hlavní vstup",
-      "latitude": 49.189355,
-      "longitude": 16.585638,
-      "validFrom": "2025-09-13T11:00:00+02:00",
-      "validTo": "2025-09-13T16:00:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu konání akce ŠOTODAYS 2025 je <strong>linka H4 prodloužena</strong> až do zastávky <strong>Výstaviště - hlavní vstup</strong>, odkud je možný přístup na výstavu. </p>\n\n<ul>\n\t<li>Při jízdě ve směru <strong>Komenského náměstí</strong> linka obslouží zastávku Mendlovo náměstí na standartní zastávce ve smyčce.</li>\n\t<li>Při jízdě směr <strong>Výstaviště - hlavní vstup </strong>obslouží Mendlovo náměstí na zastávce linky 1 směr Ečerova.</li>\n</ul>\n\n<p><strong>Pozor! Linka H4 bude obsluhovat zastávku Výstaviště - hlavní vstup pouze do 15:47. Poté bude vedena ve standartní trase.</strong></p>\n\n<p><em>Schéma dopravních opatření - <a href=\"https://www.dpmb.cz/sites/default/files/infotabule/info_h4_sotodays_web.pdf\">ke stažení</a></em></p>\n\n<p><em>Zastávkový jízdní řád - <a href=\"https://www.dpmb.cz/sites/default/files/infotabule/zjr_250913_h4.pdf\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "H4"
-      ]
-    },
-    {
       "id": 134,
       "number": "PO 2509-177",
       "title": "Velké Bílovice",
