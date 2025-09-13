@@ -92,7 +92,7 @@
       "longitude": 16.612031,
       "validFrom": "2025-09-13T12:00:00+02:00",
       "validTo": "2025-09-14T06:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu konání krojovaných hodů nebude <strong>od 12:00 v sobotu 13. září 2025 do 6:00 v neděli 14. září 2025</strong> možná jízda autobusů do smyčky ve Vranově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 57 a N93</strong> budou ukončeny v zastávce <strong>Vranov, myslivna</strong>.</p>\n\n<p>• Neobslouží tak zastávky <strong>Vranov, křižovatka</strong> a <strong>Vranov, smyčka</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Linka 41 pojede po své pravidelné trase, spoje provozně propojené s linkou 57 vynechají zastávku Vranov, smyčka.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-092_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
