@@ -68,23 +68,6 @@
       ]
     },
     {
-      "id": 135,
-      "number": "PO 2509-178",
-      "title": "Strážnice, silnice I/55 (ul. Skalická a Masarykova)",
-      "latitude": 48.897444,
-      "longitude": 17.307893,
-      "validFrom": "2025-09-13T13:30:00+02:00",
-      "validTo": "2025-09-13T16:30:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu pořádání kulturní akce: Strážnické vinobraní 2025, jedou spoje linek<font color=\"#009240\"><strong> 910</strong></font> a <font color=\"#009240\"><strong>911</strong></font> v časovém rozmění od 13:30 a 16:30 hod odklonem a vynechají tak zastávku Strážnice, Skalická brána.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "910",
-        "911"
-      ]
-    },
-    {
       "id": 33436,
       "number": "V2509-092",
       "title": "Výluka autobusů ve Vranově",
@@ -319,22 +302,6 @@
       ]
     },
     {
-      "id": 127,
-      "number": "PO 2509-164",
-      "title": "Veselí nad Moravou - I/55",
-      "latitude": 48.955706,
-      "longitude": 17.385092,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "933"
-      ]
-    },
-    {
       "id": 128,
       "number": "2509 Prušánky, na konci",
       "title": "Prušánky (směr Josefov)",
@@ -348,6 +315,22 @@
       "type": "V",
       "affectedLines": [
         "556"
+      ]
+    },
+    {
+      "id": 127,
+      "number": "PO 2509-164",
+      "title": "Veselí nad Moravou - I/55",
+      "latitude": 48.955706,
+      "longitude": 17.385092,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "933"
       ]
     },
     {
@@ -418,23 +401,6 @@
       ]
     },
     {
-      "id": 121,
-      "number": "PO 2509-162",
-      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
-      "latitude": 48.945927,
-      "longitude": 17.388110,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930",
-        "931"
-      ]
-    },
-    {
       "id": 130,
       "number": "PO 2509-167",
       "title": "Brno, viadukt Křenová",
@@ -451,6 +417,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 121,
+      "number": "PO 2509-162",
+      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
+      "latitude": 48.945927,
+      "longitude": 17.388110,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-14T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930",
+        "931"
       ]
     },
     {
@@ -471,22 +454,6 @@
       ]
     },
     {
-      "id": 95,
-      "number": "VP 2508-248",
-      "title": "Pačlavice, Pornice",
-      "latitude": 49.259641,
-      "longitude": 17.168487,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>: Spoje 25 a 28 jedou mezi Pačlavicemi a Pornicemi odklonem bez dopadu na obsluhu zastávek. Kvůli délce uzavírky je příjezd do Pornic a Morkovic-Slížan od Vyškova o 6 minut opožděn a ve směru do Vyškova autobus odjíždí z těchto dvou zastávek o 6 minut dříve. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "753"
-      ]
-    },
-    {
       "id": 88,
       "number": "PO 2508-149",
       "title": "Židlochovice, křiž. silnic II/425 x II/416 v centru Židlochovic",
@@ -500,6 +467,22 @@
       "type": "V",
       "affectedLines": [
         "505"
+      ]
+    },
+    {
+      "id": 95,
+      "number": "VP 2508-248",
+      "title": "Pačlavice, Pornice",
+      "latitude": 49.259641,
+      "longitude": 17.168487,
+      "validFrom": "2025-08-18T00:00:00+02:00",
+      "validTo": "2025-09-14T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>: Spoje 25 a 28 jedou mezi Pačlavicemi a Pornicemi odklonem bez dopadu na obsluhu zastávek. Kvůli délce uzavírky je příjezd do Pornic a Morkovic-Slížan od Vyškova o 6 minut opožděn a ve směru do Vyškova autobus odjíždí z těchto dvou zastávek o 6 minut dříve. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "753"
       ]
     },
     {
@@ -539,22 +522,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
       "id": 86,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -568,6 +535,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "2508 Vyškov, sídliště Osvobození, škola",
+      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
+      "latitude": 49.280541,
+      "longitude": 16.981897,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-09-19T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "743"
       ]
     },
     {
@@ -654,23 +637,6 @@
       ]
     },
     {
-      "id": 39,
-      "number": "VP 2506-236",
-      "title": "Rozdrojovice, ul. Na Březině",
-      "latitude": 49.255061,
-      "longitude": 16.512129,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 31,
       "number": "PO 2506-095",
       "title": "Brno, Slatina I",
@@ -687,6 +653,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 39,
+      "number": "VP 2506-236",
+      "title": "Rozdrojovice, ul. Na Březině",
+      "latitude": 49.255061,
+      "longitude": 16.512129,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-09-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
