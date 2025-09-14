@@ -69,39 +69,6 @@
       ]
     },
     {
-      "id": 132,
-      "number": "PO 2509-176",
-      "title": "Poysdorf, ulice Körnergasse",
-      "latitude": 48.667675,
-      "longitude": 16.632156,
-      "validFrom": "2025-09-13T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "V neděli 14. 09. 2025 od 12:00 do 16:00\u00A0nebude možná standardní obsluha zastávky Dreifaltigkeitsplatz. V tuto dobu budou zastávky Poysdorf, Dreifaltigkeitsplatz přesunuty na Josefsplatz k pomníku Joseph II na konci ulice Brunngasse u křižovatky s hlavní silnicí, avšak žádné přenosné dočasné označníky tam instalovány nebudou. Toto omezení se týká pouze\u00A0spojů\u00A0223+224 a 229+232+234 linky<font color=\"#009240\"><strong> 555</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "555"
-      ]
-    },
-    {
-      "id": 113,
-      "number": "PO 2509-174",
-      "title": "Diváky, závody do vrchu",
-      "latitude": 48.989252,
-      "longitude": 16.788416,
-      "validFrom": "2025-09-12T01:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 522</strong></font> a <font color=\"#009240\"><strong>612</strong></font>:\u00A0Nezajíždějí do prostoru před obecním řadem, zastávky Diváky, ObÚ jsou z tohoto prostoru přemístěny do náhradních poloh. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "522",
-        "612"
-      ]
-    },
-    {
       "id": 136,
       "number": "2509 Buková, horní zastávka",
       "title": "Buková, horní zastávka",
@@ -317,23 +284,6 @@
       ]
     },
     {
-      "id": 118,
-      "number": "PO 2509-160",
-      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
-      "latitude": 49.338406,
-      "longitude": 16.556954,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-25T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "313"
-      ]
-    },
-    {
       "id": 130,
       "number": "PO 2509-167",
       "title": "Brno, viadukt Křenová",
@@ -353,20 +303,20 @@
       ]
     },
     {
-      "id": 121,
-      "number": "PO 2509-162",
-      "title": "Veselí nad Moravou, silnice III/4994 směr Kozojídky",
-      "latitude": 48.945927,
-      "longitude": 17.388110,
+      "id": 118,
+      "number": "PO 2509-160",
+      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
+      "latitude": 49.338406,
+      "longitude": 16.556954,
       "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
+      "validTo": "2025-09-25T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky\u00A0Veselí nad Moravou, Purkyňova a\u00A0Veselí nad Moravou, Železárny jsou dočasně bez obsluhy. Ve směru z regionu do Veselí nad Moravou je možné využít výstup v zastávce Veselí nad Moravou, poliklinika.. ",
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "930",
-        "931"
+        "301",
+        "313"
       ]
     },
     {
@@ -400,22 +350,6 @@
       "type": "V",
       "affectedLines": [
         "505"
-      ]
-    },
-    {
-      "id": 95,
-      "number": "VP 2508-248",
-      "title": "Pačlavice, Pornice",
-      "latitude": 49.259641,
-      "longitude": 17.168487,
-      "validFrom": "2025-08-18T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 753</strong></font>: Spoje 25 a 28 jedou mezi Pačlavicemi a Pornicemi odklonem bez dopadu na obsluhu zastávek. Kvůli délce uzavírky je příjezd do Pornic a Morkovic-Slížan od Vyškova o 6 minut opožděn a ve směru do Vyškova autobus odjíždí z těchto dvou zastávek o 6 minut dříve. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "753"
       ]
     },
     {
@@ -455,19 +389,19 @@
       ]
     },
     {
-      "id": 86,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
+      "id": 73,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
       "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "334"
+        "153"
       ]
     },
     {
@@ -487,19 +421,19 @@
       ]
     },
     {
-      "id": 73,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
+      "id": 86,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
       "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "153"
+        "334"
       ]
     },
     {
@@ -570,22 +504,21 @@
       ]
     },
     {
-      "id": 31,
-      "number": "PO 2506-095",
-      "title": "Brno, Slatina I",
-      "latitude": 49.182208,
-      "longitude": 16.691322,
+      "id": 31693,
+      "number": "V2506-044",
+      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
+      "latitude": 49.17378,
+      "longitude": 16.57162,
       "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-14T23:59:00+02:00",
+      "validTo": "2025-12-13T23:59:59+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font>, <font color=\"#009240\"><strong> 702</strong></font>:\u00A0Zastávka Brno, Černovičky je pro směr z Brna do regionu přeložena do ulice Bělohorské ke stejnojmenné zastávce linek<font color=\"#2C89C8\"><strong> 72</strong></font>, <font color=\"#2C89C8\"><strong> 75</strong></font>, E76 a N89. Zastávka Brno, Slatina, sídliště je přeložena do ulice Holzovy mezi sjezd z Ostravské ulice a okružní křižovatku Slatina (naproti zastávce linky<font color=\"#2C89C8\"><strong> 78</strong></font> Brno, Slatina, rozcestí směr Líšeň). Ve směru z regionu do centra Brna jedou linky po své trase a obsluhují standardní zastávky. ",
+      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
+        "25",
+        "40",
+        "N90"
       ]
     },
     {
@@ -603,24 +536,6 @@
       "affectedLines": [
         "302",
         "304"
-      ]
-    },
-    {
-      "id": 31693,
-      "number": "V2506-044",
-      "title": "Omezení provozu v ulici Jihlavské – I. etapa",
-      "latitude": 49.17378,
-      "longitude": 16.57162,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:59+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od pondělí 30. června 2025 do ukončení prací</strong> (předpoklad 13. prosince 2025) omezen provoz v ulici Jihlavské mezi křižovatkami s ulicemi Netroufalky a Dlouhou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 25</strong> bude v provozu pouze v úseku <strong>Nemocnice Bohunice – Líšeň, Jírova</strong>.<br />\n• Pro jízdu v úseku <strong>Osová – Nemocnice Bohunice</strong> bude možné využít pravidelné autobusové a tramvajové linky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Stará nemocnice</strong> linek 40 a N90 ve směru z centra bude přeložena k provizornímu nástupišti ve středním dělícím pásu v úrovni běžné zastávky.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2506-044_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "25",
-        "40",
-        "N90"
       ]
     },
     {
