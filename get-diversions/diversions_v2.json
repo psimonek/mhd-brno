@@ -412,22 +412,6 @@
       ]
     },
     {
-      "id": 120,
-      "number": "2509 Prušánky, na konci",
-      "title": "Prušánky (směr Josefov)",
-      "latitude": 48.830317,
-      "longitude": 16.986719,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-10-03T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "556"
-      ]
-    },
-    {
       "id": 119,
       "number": "PO 2509-164",
       "title": "Veselí nad Moravou - I/55",
@@ -444,20 +428,19 @@
       ]
     },
     {
-      "id": 114,
-      "number": "VP 2509-084",
-      "title": "žel. trať. Vranovice -Šakvice jedna kolej (N)",
-      "latitude": 48.950493,
-      "longitude": 16.620040,
-      "validFrom": "2025-09-01T09:30:00+02:00",
-      "validTo": "2025-09-16T14:30:00+02:00",
+      "id": 120,
+      "number": "2509 Prušánky, na konci",
+      "title": "Prušánky (směr Josefov)",
+      "latitude": 48.830317,
+      "longitude": 16.986719,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-10-03T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu eliminace předpokládaného zpoždění za jednokolejného provozu budou\u00A0některé\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0v úseku\u00A0Vranovice – Šakvice - Hustopeče u Brna\u00A0nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle jízdního řádu\u00A0linky xS3.",
+      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "S3",
-        "xS3"
+        "556"
       ]
     },
     {
@@ -494,6 +477,23 @@
       ]
     },
     {
+      "id": 108,
+      "number": "PO 2509-160",
+      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
+      "latitude": 49.338406,
+      "longitude": 16.556954,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-25T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "301",
+        "313"
+      ]
+    },
+    {
       "id": 122,
       "number": "PO 2509-167",
       "title": "Brno, viadukt Křenová",
@@ -510,23 +510,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 108,
-      "number": "PO 2509-160",
-      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
-      "latitude": 49.338406,
-      "longitude": 16.556954,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-25T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "313"
       ]
     },
     {
@@ -731,6 +714,23 @@
       ]
     },
     {
+      "id": 39,
+      "number": "VP 2506-236",
+      "title": "Rozdrojovice, ul. Na Březině",
+      "latitude": 49.255061,
+      "longitude": 16.512129,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-09-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
+      ]
+    },
+    {
       "id": 31693,
       "number": "V2506-044",
       "title": "Omezení provozu v ulici Jihlavské – I. etapa",
@@ -746,23 +746,6 @@
         "25",
         "40",
         "N90"
-      ]
-    },
-    {
-      "id": 39,
-      "number": "VP 2506-236",
-      "title": "Rozdrojovice, ul. Na Březině",
-      "latitude": 49.255061,
-      "longitude": 16.512129,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
       ]
     },
     {
@@ -1086,7 +1069,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
