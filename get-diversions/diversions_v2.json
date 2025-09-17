@@ -125,7 +125,7 @@
       "longitude": 16.518631,
       "validFrom": "2025-09-18T00:00:00+02:00",
       "validTo": "2025-09-20T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linky<font color=\"#009240\"><strong> 104</strong></font>, <font color=\"#009240\"><strong> 105</strong></font>\u00A0- pojedou v úseku mezi křižovatkou silnic II/395 x I/53 a křižovatkou silnic II/395 x II/381 x III/39611 obousměrně odklonem po silnicích I/53, I/52 a II/395 a dále po své pravidelné trase. Zastávky Pohořelice, Velký Dvůr rozc. bez obsluhy a bez náhrady. ",
       "privateTextHtml": null,
       "type": "V",
