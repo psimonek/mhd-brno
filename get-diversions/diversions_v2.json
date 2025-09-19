@@ -75,6 +75,8 @@
         "8",
         "9",
         "10",
+        "31",
+        "33",
         "64",
         "67",
         "E76",
@@ -91,7 +93,7 @@
       "longitude": 0.000000,
       "validFrom": "2025-09-20T00:00:00+02:00",
       "validTo": "2025-09-21T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávky Kurdějov, most přesunuty na místní komunikaci k obecnímu úřadu, zastávky Kurdějov, na kopci a Hustopeče, cihelna bez obsluhy. ",
       "privateTextHtml": null,
       "type": "V",
@@ -238,23 +240,6 @@
       ]
     },
     {
-      "id": 136,
-      "number": "2509 Valchov",
-      "title": "Valchov",
-      "latitude": 49.471743,
-      "longitude": 16.719046,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací jsou přesunuty zastávky Valchov. Pro směr Boskovice přibližně\u00A0před dům č.p. 33 a pro směr Žďárná přibližně\u00A0před dům č.p. 10. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "260",
-        "261"
-      ]
-    },
-    {
       "id": 94,
       "number": "PO 2509-181",
       "title": "Brno, ul. Jihlavská (směr do Brna) - Ia. etapa (linky 104, 105, 108)",
@@ -270,6 +255,23 @@
         "104",
         "105",
         "108"
+      ]
+    },
+    {
+      "id": 136,
+      "number": "2509 Valchov",
+      "title": "Valchov",
+      "latitude": 49.471743,
+      "longitude": 16.719046,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-09-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu stavebních prací jsou přesunuty zastávky Valchov. Pro směr Boskovice přibližně\u00A0před dům č.p. 33 a pro směr Žďárná přibližně\u00A0před dům č.p. 10. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "260",
+        "261"
       ]
     },
     {
@@ -373,22 +375,6 @@
       ]
     },
     {
-      "id": 115,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
-      ]
-    },
-    {
       "id": 134,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -403,6 +389,22 @@
       "affectedLines": [
         "320",
         "321"
+      ]
+    },
+    {
+      "id": 115,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
       ]
     },
     {
@@ -423,22 +425,6 @@
       ]
     },
     {
-      "id": 119,
-      "number": "PO 2509-164",
-      "title": "Veselí nad Moravou - I/55",
-      "latitude": 48.955706,
-      "longitude": 17.385092,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "933"
-      ]
-    },
-    {
       "id": 120,
       "number": "2509 Prušánky, na konci",
       "title": "Prušánky (směr Josefov)",
@@ -452,6 +438,22 @@
       "type": "V",
       "affectedLines": [
         "556"
+      ]
+    },
+    {
+      "id": 119,
+      "number": "PO 2509-164",
+      "title": "Veselí nad Moravou - I/55",
+      "latitude": 48.955706,
+      "longitude": 17.385092,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "933"
       ]
     },
     {
@@ -488,23 +490,6 @@
       ]
     },
     {
-      "id": 108,
-      "number": "PO 2509-160",
-      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
-      "latitude": 49.338406,
-      "longitude": 16.556954,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-25T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "313"
-      ]
-    },
-    {
       "id": 122,
       "number": "PO 2509-167",
       "title": "Brno, viadukt Křenová",
@@ -521,6 +506,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 108,
+      "number": "PO 2509-160",
+      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
+      "latitude": 49.338406,
+      "longitude": 16.556954,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-25T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "301",
+        "313"
       ]
     },
     {
@@ -626,22 +628,6 @@
       ]
     },
     {
-      "id": 71,
-      "number": "2508 Vyškov, sídliště Osvobození, škola",
-      "title": "Vyškov, sídliště Osvobození, škola - směr Dukla",
-      "latitude": 49.280541,
-      "longitude": 16.981897,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-09-19T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Vyškov, sídliště Osvobození, škola je pro linku<font color=\"#2C89C8\"><strong> 743</strong></font> a směr k Dukle přeložena asi 25 metrů vpřed mimo zastávkový záliv. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "743"
-      ]
-    },
-    {
       "id": 75,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -706,22 +692,6 @@
         "40",
         "N90",
         "N91"
-      ]
-    },
-    {
-      "id": 31696,
-      "number": "P2506-131",
-      "title": "Dočasné přeložení tramvajové zastávky ARENA BRNO směr centrum",
-      "latitude": 49.191523,
-      "longitude": 16.576065,
-      "validFrom": "2025-06-30T08:00:00+02:00",
-      "validTo": "2025-09-16T19:00:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu rekonstrukce nástupní plochy je tramvajová zastávka <strong>ARENA BRNO</strong> ve směru do centra <strong>od 8:00 hod. v pondělí 30. června 2025 do ukončení prací</strong> (předpoklad do <s>31. srpna 2025</s> <strong class=\"red\">20.  září 2025</strong>) přeložena na nástupiště v tramvajové smyčce.</p>\n\n<p>AKTUALIZACE 16.9.2025: Zastávka předčasně vrácena do pravidelné obvyklé polohy</p>\n",
-      "privateTextHtml": null,
-      "type": "Z",
-      "affectedLines": [
-        "1"
       ]
     },
     {
