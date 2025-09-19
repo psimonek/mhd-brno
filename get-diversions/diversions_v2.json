@@ -107,7 +107,7 @@
       "longitude": 16.817341,
       "validFrom": "2025-09-19T09:00:00+02:00",
       "validTo": "2025-09-21T09:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Všechny zastávky Velké Pavlovice, aut. nádr. budou přemístěny na začátek ulice Dlouhé za kruhový objezd s hlavní silnicí (místní komunikace směr ZŠ a Gymnázium). , Linka<font color=\"#009240\"><strong> 542</strong></font> směr Břeclav a linka<font color=\"#009240\"><strong> 551</strong></font> směr Němčičky - Bořetice - Klobouky u Brna pojedou z náhradní zastávky ve směru jízdy od okružní křižovatky s hlavní silnicí. , Linka<font color=\"#009240\"><strong> 542</strong></font> směr Hustopeče a linka<font color=\"#009240\"><strong> 550</strong></font> směr Zaječí - Milovice - Mikulov pojedou z náhradní zastávky ve směru jízdy k okružní křižovatce s hlavní silnicí. ",
       "privateTextHtml": null,
       "type": "V",
