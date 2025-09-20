@@ -211,27 +211,6 @@
       ]
     },
     {
-      "id": 33624,
-      "number": "V2509-098",
-      "title": "Uzavírka Slovanského náměstí",
-      "latitude": 49.223175,
-      "longitude": 16.591282,
-      "validFrom": "2025-09-20T08:00:00+02:00",
-      "validTo": "2025-09-20T23:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p class=\"MsoNormal\">Z důvodu konání tradičních Erbovních slavností bude <strong>v sobotu 20. září 2025 od 8:00 do 23:00</strong> vyloučen veškerý provoz přes Slovanské náměstí.</p>\n\n<p class=\"MsoNormal\"> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p class=\"MsoNormal\"><strong> Linky 30, 72 a 84 ve směru k zastávce Semilasso</strong> pojedou v úseku <strong>Skácelova – Husitská</strong> odklonem ulicemi Purkyňovou, Dobrovského a Palackého třídou.<br />\n• Zastávka Skácelova bude přeložena do ulice Purkyňovy k zastávce linky N93.<br />\n• Zastávka Slovanské náměstí nebude v uvedeném směru obsluhována.<br />\n• Zastávka Husitská bude přeložena do Palackého třídy k zastávce tramvají.</p>\n\n<p class=\"MsoNormal\"> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p class=\"MsoNormal\"><strong> Linky 30, 44 a 72 ve směru k zastávce Skácelova</strong> pojedou v úseku <strong>Semilasso – Skácelova</strong> odklonem ulicemi Berkovou a Purkyňovou.<br />\n• V uvedeném směru tak vynechají zastávku Husitská.<br />\n• Zastávka Slovanské náměstí bude přeložena do ulice Berkovy za křižovatku s ulicí Srbskou.</p>\n\n<p class=\"MsoNormal\"> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p class=\"MsoNormal\"><strong> Linka 32</strong> pojede v úseku <strong>Charvatská – Hutařova</strong> v obou směrech odklonem ulicí Dobrovského, Palackého třídou a ulicí Berkovou.<br />\n• Zastávka Charvatská ve směru do centra bude přeložena do ulice Chodské za křižovatku s ulicí Dobrovského.<br />\n• Zastávka Slovanské náměstí nebude linkou 32 obsluhována.<br />\n• Na odklonové trase obslouží linka 32 v obou směrech zastávku tramvají Husitská.</p>\n\n<p class=\"MsoNormal\"> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p class=\"MsoNormal\"> <strong>Linka 67</strong> pojede v úseku <strong>Skácelova – Charvatská</strong> v obou směrech odklonem ulicemi Purkyňovou a Dobrovského.<br />\n• Zastávka Skácelova ve směru do centra bude přeložena do ulice Purkyňovy k zastávce linky N93.<br />\n• Zastávka Charvatská ve směru do centra bude přeložena do ulice Chodské za křižovatku s ulicí Dobrovského.<br />\n• Zastávka Slovanské náměstí nebude linkou 67 obsluhována.</p>\n\n<p class=\"MsoNormal\"> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p class=\"MsoNormal\"> Provoz na trolejbusových linkách 30 a 32 zajistí parciální trolejbusy.</p>\n\n<p class=\"MsoNormal\"> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p class=\"MsoNormal\"><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-098_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30",
-        "32",
-        "44",
-        "67",
-        "72",
-        "84"
-      ]
-    },
-    {
       "id": 33623,
       "number": "",
       "title": "Omezení dopravy v ulici Olomoucké a Životského",
@@ -412,6 +391,23 @@
       ]
     },
     {
+      "id": 119,
+      "number": "2509 Valchov",
+      "title": "Valchov",
+      "latitude": 49.471743,
+      "longitude": 16.719046,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-09-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu stavebních prací jsou přesunuty zastávky Valchov. Pro směr Boskovice přibližně\u00A0před dům č.p. 33 a pro směr Žďárná přibližně\u00A0před dům č.p. 10. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "260",
+        "261"
+      ]
+    },
+    {
       "id": 83,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -445,23 +441,6 @@
       "affectedLines": [
         "816",
         "817"
-      ]
-    },
-    {
-      "id": 119,
-      "number": "2509 Valchov",
-      "title": "Valchov",
-      "latitude": 49.471743,
-      "longitude": 16.719046,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací jsou přesunuty zastávky Valchov. Pro směr Boskovice přibližně\u00A0před dům č.p. 33 a pro směr Žďárná přibližně\u00A0před dům č.p. 10. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "260",
-        "261"
       ]
     },
     {
@@ -680,23 +659,6 @@
       ]
     },
     {
-      "id": 89,
-      "number": "PO 2509-160",
-      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
-      "latitude": 49.338406,
-      "longitude": 16.556954,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-25T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "313"
-      ]
-    },
-    {
       "id": 103,
       "number": "PO 2509-167",
       "title": "Brno, viadukt Křenová",
@@ -713,6 +675,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 89,
+      "number": "PO 2509-160",
+      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
+      "latitude": 49.338406,
+      "longitude": 16.556954,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-25T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "301",
+        "313"
       ]
     },
     {
@@ -885,23 +864,6 @@
       ]
     },
     {
-      "id": 36,
-      "number": "VP 2506-236",
-      "title": "Rozdrojovice, ul. Na Březině",
-      "latitude": 49.255061,
-      "longitude": 16.512129,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 31693,
       "number": "V2506-044",
       "title": "Omezení provozu v ulici Jihlavské – I. etapa",
@@ -917,6 +879,23 @@
         "25",
         "40",
         "N90"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "VP 2506-236",
+      "title": "Rozdrojovice, ul. Na Březině",
+      "latitude": 49.255061,
+      "longitude": 16.512129,
+      "validFrom": "2025-06-30T00:00:00+02:00",
+      "validTo": "2025-09-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
