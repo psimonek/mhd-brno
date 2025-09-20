@@ -237,24 +237,6 @@
       ]
     },
     {
-      "id": 127,
-      "number": "ZDO 2509-009",
-      "title": "Hrnčířský jarmark v Kunštátu",
-      "latitude": 49.507023,
-      "longitude": 16.518038,
-      "validFrom": "2025-09-20T06:00:00+02:00",
-      "validTo": "2025-09-20T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "V rámci\u00A0konání kulturní akce ,,Hrnčířský jarmark v Kunštátu\u00A0bude\u00A0v sobotu 20.9.2025\u00A0posílena doprava v exponovaných časech na lince<font color=\"#009240\"><strong> 301</strong></font> v úseku Brno, Královo Pole, nádraží - Kunštát, náměstí a / nebo opačně. Posílení dopravy linky<font color=\"#009240\"><strong> 301</strong></font> v sobotu 20.9.2025:. na lince<font color=\"#009240\"><strong> 301</strong></font> budou řazeny posilové spoje z Brna do Kunštátu v časech 8:26, 9:26 a 11:26 hod.,, posilové\u00A0spoje nečekají na žádné přípoje,, z Kunštátu do Brna budou posíleny odjezdy od 13:43 hod. do konce provozu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "256",
-        "276",
-        "301"
-      ]
-    },
-    {
       "id": 88,
       "number": "VP 2509-256",
       "title": "Hustopeče, silnice II/420 v místě mostu D2",
@@ -286,23 +268,6 @@
         "542",
         "550",
         "551"
-      ]
-    },
-    {
-      "id": 97,
-      "number": "PO 2509-170",
-      "title": "Pohořelice, sil. II/395 - I. etapa",
-      "latitude": 48.966160,
-      "longitude": 16.518631,
-      "validFrom": "2025-09-18T00:00:00+02:00",
-      "validTo": "2025-09-20T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 104</strong></font>, <font color=\"#009240\"><strong> 105</strong></font>\u00A0- pojedou v úseku mezi křižovatkou silnic II/395 x I/53 a křižovatkou silnic II/395 x II/381 x III/39611 obousměrně odklonem po silnicích I/53, I/52 a II/395 a dále po své pravidelné trase. Zastávky Pohořelice, Velký Dvůr rozc. bez obsluhy a bez náhrady. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "104",
-        "105"
       ]
     },
     {
@@ -339,24 +304,6 @@
       ]
     },
     {
-      "id": 115,
-      "number": "PO 2509-180",
-      "title": "Brno, Jihlavská - linky 501, 502, 504",
-      "latitude": 49.172558,
-      "longitude": 16.599269,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-09-26T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 501</strong></font> a <font color=\"#009240\"><strong>502</strong></font>: Vynechávají zastávku Brno, Heršpická. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "501",
-        "502",
-        "504"
-      ]
-    },
-    {
       "id": 78,
       "number": "PO 2509-181",
       "title": "Brno, ul. Jihlavská (směr do Brna) - Ia. etapa (linky 104, 105, 108)",
@@ -388,6 +335,24 @@
       "type": "V",
       "affectedLines": [
         "930"
+      ]
+    },
+    {
+      "id": 115,
+      "number": "PO 2509-180",
+      "title": "Brno, Jihlavská - linky 501, 502, 504",
+      "latitude": 49.172558,
+      "longitude": 16.599269,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-09-26T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 501</strong></font> a <font color=\"#009240\"><strong>502</strong></font>: Vynechávají zastávku Brno, Heršpická. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "501",
+        "502",
+        "504"
       ]
     },
     {
@@ -659,6 +624,23 @@
       ]
     },
     {
+      "id": 89,
+      "number": "PO 2509-160",
+      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
+      "latitude": 49.338406,
+      "longitude": 16.556954,
+      "validFrom": "2025-09-01T00:00:00+02:00",
+      "validTo": "2025-09-25T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "301",
+        "313"
+      ]
+    },
+    {
       "id": 103,
       "number": "PO 2509-167",
       "title": "Brno, viadukt Křenová",
@@ -675,23 +657,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 89,
-      "number": "PO 2509-160",
-      "title": "Lipůvka - silnice II/379 (Lipůvka – Šebrov)",
-      "latitude": 49.338406,
-      "longitude": 16.556954,
-      "validFrom": "2025-09-01T00:00:00+02:00",
-      "validTo": "2025-09-25T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 v Lipůvce bude upraven provoz školních spojů linek<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36) a 313 (spoj č. 7).<br/><br/> Linka<font color=\"#009240\"><strong> 301</strong></font> (spoj č. 36):. zcela vynechá závlek k zastávce Lipůvka, ZŠ.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font> (spoj č. 7):. k zastávce Lipůvka, ZŠ pojede po odklonové trase. Na odklonové trase vynechá zastávku Lipůvka (dle JŘ odjezd 7:28) a obslouží ji až dle pravidelného odjezdu dle JŘ v čase 7:34. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "301",
-        "313"
       ]
     },
     {
@@ -931,22 +896,6 @@
       ]
     },
     {
-      "id": 23,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
       "id": 26,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem",
@@ -964,6 +913,22 @@
         "662",
         "663",
         "664"
+      ]
+    },
+    {
+      "id": 23,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
       ]
     },
     {
