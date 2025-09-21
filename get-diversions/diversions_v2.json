@@ -253,24 +253,6 @@
       ]
     },
     {
-      "id": 111,
-      "number": "PO 2509-183",
-      "title": "Velké Pavlovice, část ulice Brněnské u autobusového nádraží",
-      "latitude": 48.898064,
-      "longitude": 16.817341,
-      "validFrom": "2025-09-19T09:00:00+02:00",
-      "validTo": "2025-09-21T09:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Všechny zastávky Velké Pavlovice, aut. nádr. budou přemístěny na začátek ulice Dlouhé za kruhový objezd s hlavní silnicí (místní komunikace směr ZŠ a Gymnázium). , Linka<font color=\"#009240\"><strong> 542</strong></font> směr Břeclav a linka<font color=\"#009240\"><strong> 551</strong></font> směr Němčičky - Bořetice - Klobouky u Brna pojedou z náhradní zastávky ve směru jízdy od okružní křižovatky s hlavní silnicí. , Linka<font color=\"#009240\"><strong> 542</strong></font> směr Hustopeče a linka<font color=\"#009240\"><strong> 550</strong></font> směr Zaječí - Milovice - Mikulov pojedou z náhradní zastávky ve směru jízdy k okružní křižovatce s hlavní silnicí. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "542",
-        "550",
-        "551"
-      ]
-    },
-    {
       "id": 113,
       "number": "2509 Buková, horní zastávka",
       "title": "Buková, horní zastávka",
@@ -559,22 +541,6 @@
       ]
     },
     {
-      "id": 101,
-      "number": "2509 Prušánky, na konci",
-      "title": "Prušánky (směr Josefov)",
-      "latitude": 48.830317,
-      "longitude": 16.986719,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-10-03T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "556"
-      ]
-    },
-    {
       "id": 100,
       "number": "PO 2509-164",
       "title": "Veselí nad Moravou - I/55",
@@ -588,6 +554,22 @@
       "type": "V",
       "affectedLines": [
         "933"
+      ]
+    },
+    {
+      "id": 101,
+      "number": "2509 Prušánky, na konci",
+      "title": "Prušánky (směr Josefov)",
+      "latitude": 48.830317,
+      "longitude": 16.986719,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-10-03T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "556"
       ]
     },
     {
@@ -746,22 +728,6 @@
       ]
     },
     {
-      "id": 64,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 53,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -775,6 +741,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 64,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
