@@ -150,6 +150,22 @@
       ]
     },
     {
+      "id": 33749,
+      "number": "V2509-102",
+      "title": "Omezení dopravy v ulici Božetěchově",
+      "latitude": 49.226134,
+      "longitude": 16.597399,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-07T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od pondělí 29. září 2025 nepřetržitě do ukončení prací </strong>(předpoklad do 7. října 2025) neprůjezdná ulice Božetěchova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> pojede v úseku mezi zastávkami <strong>Högrova – Královo Pole, nádraží</strong> ve směru do Bystrce odklonem ulicí Sportovní.<br />\n• Ve směru do Bystrce tak vynechá zastávku Mojmírovo náměstí, kterou nebude možné obsloužit.<br />\n• Náhradou lze využít zastávku Semilasso.<br />\n• Zastávku Královo Pole, nádraží obslouží v běžné poloze v ulici Budovcově.<br />\n• Ve směru do Soběšic pojede linka 30 po běžné trase.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-102_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "30"
+      ]
+    },
+    {
       "id": 118,
       "number": "PO 2509-192",
       "title": "Velké Bílovice",
@@ -226,6 +242,23 @@
       ]
     },
     {
+      "id": 33747,
+      "number": "V2509-100",
+      "title": "Omezení dopravy v ulici Vídeňské",
+      "latitude": 49.179109,
+      "longitude": 16.595328,
+      "validFrom": "2025-09-27T22:30:00+02:00",
+      "validTo": "2025-09-28T07:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>od 22:30 v sobotu 27. září 2025 do 7:00 v neděli 28. září 2025</strong> průjezdná část ulice Vídeňské ve směru do centra.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede v úseku mezi zastávkami <strong>Bohunická – Křídlovická</strong> ve směru do centra odklonem ulicí Heršpickou.<br />\n• Neobslouží tak zastávky Ústřední hřbitov, Hluboká, Celní a Vojtova.<br />\n• Na odklonové trase obslouží zastávky Heršpická a Strážní.<br />\n• Ve směru do Kohoutovic pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N91</strong> pojede v úseku mezi zastávkami <strong>Bohunická – Nemocnice Milosrdných bratří</strong> ve směru do centra odklonem ulicí Heršpickou, Polní a Vojtovou.<br />\n• Neobslouží tak zastávky Ústřední hřbitov, Hluboká a Celní.<br />\n• Na odklonové trase obslouží zastávku Heršpická.<br />\n• Ve směru do Starého Lískovce pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu ve směru do centra zajistí <strong>mimořádná jednosměrná autobusová linka x90</strong> v trase <strong>Hluboká – Celní – Vojtova – Křídlovická – Soukenická – Hlavní nádraží</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření –<a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-100_web.pdf\" target=\"_blank\"> ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "N90",
+        "N91"
+      ]
+    },
+    {
       "id": 33748,
       "number": "V2509-101",
       "title": "Výluka trolejbusů v ulici Kociánka",
@@ -242,20 +275,20 @@
       ]
     },
     {
-      "id": 33746,
-      "number": "V2509-099",
-      "title": "Omezení provozu v ulici Řezáčově",
-      "latitude": 49.22272,
-      "longitude": 16.55648,
+      "id": 108,
+      "number": "PO 2509-189",
+      "title": "Brno, Ústřední hřbitov",
+      "latitude": 49.171547,
+      "longitude": 16.597338,
       "validFrom": "2025-09-27T00:00:00+02:00",
-      "validTo": "2025-09-27T22:30:00+02:00",
+      "validTo": "2025-09-28T23:59:00+02:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>v sobotu 27. září 2025 od 0:00 do 22:30 hod. </strong>pro veškerou dopravu průjezdná ulice Řezáčova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 36</strong> <strong>a noční autobusová linka N93</strong> budou v oblasti Komína ukončeny okružní trasou ulicemi Kristenovou, Chaloupky, Vavřineckou, Lísky a Branka.<br />\n• Ve směru do Komína pojedou ze zastávky<strong> Svratecká</strong> přes pravidelné zastávky<strong> Kristenova</strong> a <strong>Chaloupky</strong> do dočasně zřízené výstupní zastávky <strong>Komín, sídliště</strong> před křižovatkou ulic Vavřinecké a Vrbenského.<br />\n• Ve směru z Komína pojedou linky z dočasně zřízené nástupní zastávky <strong>Komín, sídliště</strong> za křižovatkou ulic Vavřinecké a Vrbenského zpět přímo do zastávky <strong>Svratecká</strong> a dále již po svých pravidelných trasách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Změny zastávek:</p>\n\n<p><strong>Komín, sídliště </strong>– pro výstup i nástup přeložena ke křižovatce ulic Vrbenského a Vavřinecké<br />\n<strong>Řezáčova </strong>– v obou směrech bez obsluhy<br />\n<strong>Olbrachtovo náměstí</strong> – v obou směrech bez obsluhy<br />\n<strong>Chaloupky </strong>– ve směru z Komína bez obsluhy<br />\n<strong>Kristenova</strong> – ve směru z Komína bez obsluhy</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-099_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 501</strong></font>:\u00A0Vynechává zastávku Brno, Heršpická. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "36",
-        "N93"
+        "501",
+        "504"
       ]
     },
     {
@@ -277,20 +310,20 @@
       ]
     },
     {
-      "id": 108,
-      "number": "PO 2509-189",
-      "title": "Brno, Ústřední hřbitov",
-      "latitude": 49.171547,
-      "longitude": 16.597338,
+      "id": 33746,
+      "number": "V2509-099",
+      "title": "Omezení provozu v ulici Řezáčově",
+      "latitude": 49.22272,
+      "longitude": 16.55648,
       "validFrom": "2025-09-27T00:00:00+02:00",
-      "validTo": "2025-09-28T23:59:00+02:00",
+      "validTo": "2025-09-27T22:30:00+02:00",
       "isValid": false,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 501</strong></font>:\u00A0Vynechává zastávku Brno, Heršpická. ",
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>v sobotu 27. září 2025 od 0:00 do 22:30 hod. </strong>pro veškerou dopravu průjezdná ulice Řezáčova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 36</strong> <strong>a noční autobusová linka N93</strong> budou v oblasti Komína ukončeny okružní trasou ulicemi Kristenovou, Chaloupky, Vavřineckou, Lísky a Branka.<br />\n• Ve směru do Komína pojedou ze zastávky<strong> Svratecká</strong> přes pravidelné zastávky<strong> Kristenova</strong> a <strong>Chaloupky</strong> do dočasně zřízené výstupní zastávky <strong>Komín, sídliště</strong> před křižovatkou ulic Vavřinecké a Vrbenského.<br />\n• Ve směru z Komína pojedou linky z dočasně zřízené nástupní zastávky <strong>Komín, sídliště</strong> za křižovatkou ulic Vavřinecké a Vrbenského zpět přímo do zastávky <strong>Svratecká</strong> a dále již po svých pravidelných trasách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Změny zastávek:</p>\n\n<p><strong>Komín, sídliště </strong>– pro výstup i nástup přeložena ke křižovatce ulic Vrbenského a Vavřinecké<br />\n<strong>Řezáčova </strong>– v obou směrech bez obsluhy<br />\n<strong>Olbrachtovo náměstí</strong> – v obou směrech bez obsluhy<br />\n<strong>Chaloupky </strong>– ve směru z Komína bez obsluhy<br />\n<strong>Kristenova</strong> – ve směru z Komína bez obsluhy</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-099_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "501",
-        "504"
+        "36",
+        "N93"
       ]
     },
     {
@@ -308,40 +341,6 @@
       "affectedLines": [
         "311",
         "320"
-      ]
-    },
-    {
-      "id": 83,
-      "number": "VP 2509-254",
-      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
-      "latitude": 49.044968,
-      "longitude": 16.116412,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "812",
-        "442"
-      ]
-    },
-    {
-      "id": 128,
-      "number": "VP 2509-260",
-      "title": "Brno, Vídeňská",
-      "latitude": 49.157629,
-      "longitude": 16.600342,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-09-26T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 501</strong></font> a <font color=\"#009240\"><strong>502</strong></font>:\u00A0S výjimkou brzkých ranních a večerních hodin jedou všechny spoje ze zastávky Moravany, Bohunická cesta odklonem přes zastávku Brno, Moravanská do zastávky Brno, Ořechovská (v poloze u vstupu do OC Futurum naproti výdejnímu okénku KFC). Tyto spoje vynechávají zastávku Brno, Rozhraní a nejedou v Brně k Ústřednímu hřbitovu. Z důvodu pokračujících prací v ulici Jihlavské vynechávají na spojích vedených k Ústřednímu hřbitovu zastávku Brno, Heršpická. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "501",
-        "502"
       ]
     },
     {
@@ -399,6 +398,40 @@
         "555",
         "556",
         "574"
+      ]
+    },
+    {
+      "id": 83,
+      "number": "VP 2509-254",
+      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
+      "latitude": 49.044968,
+      "longitude": 16.116412,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "812",
+        "442"
+      ]
+    },
+    {
+      "id": 128,
+      "number": "VP 2509-260",
+      "title": "Brno, Vídeňská",
+      "latitude": 49.157629,
+      "longitude": 16.600342,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-09-26T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 501</strong></font> a <font color=\"#009240\"><strong>502</strong></font>:\u00A0S výjimkou brzkých ranních a večerních hodin jedou všechny spoje ze zastávky Moravany, Bohunická cesta odklonem přes zastávku Brno, Moravanská do zastávky Brno, Ořechovská (v poloze u vstupu do OC Futurum naproti výdejnímu okénku KFC). Tyto spoje vynechávají zastávku Brno, Rozhraní a nejedou v Brně k Ústřednímu hřbitovu. Z důvodu pokračujících prací v ulici Jihlavské vynechávají na spojích vedených k Ústřednímu hřbitovu zastávku Brno, Heršpická. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "501",
+        "502"
       ]
     },
     {
@@ -461,25 +494,6 @@
       ]
     },
     {
-      "id": 75,
-      "number": "PO 2509-179",
-      "title": "Brno, Slatina II",
-      "latitude": 49.181928,
-      "longitude": 16.689606,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
-      ]
-    },
-    {
       "id": 70,
       "number": "PO 2509-181",
       "title": "Brno, ul. Jihlavská (směr do Brna) - Ia. etapa (linky 104, 105, 108)",
@@ -495,6 +509,23 @@
         "104",
         "105",
         "108"
+      ]
+    },
+    {
+      "id": 116,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
@@ -532,20 +563,22 @@
       ]
     },
     {
-      "id": 116,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
+      "id": 75,
+      "number": "PO 2509-179",
+      "title": "Brno, Slatina II",
+      "latitude": 49.181928,
+      "longitude": 16.689606,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "816",
-        "817"
+        "601",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -869,22 +902,6 @@
       ]
     },
     {
-      "id": 57,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 47,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -898,6 +915,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 57,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
