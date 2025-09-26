@@ -360,7 +360,7 @@
       "longitude": 16.479793,
       "validFrom": "2025-09-26T21:30:00+02:00",
       "validTo": "2025-09-27T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu pokládky finálního povrchu komunikace bude v úseku mezi\u00A0Malhostovicemi - Drásov obousměrně vyloučena veškerá autobusová doprava.<br/><br/> Linka<font color=\"#009240\"><strong> 311</strong></font>\u00A0pojede (v pátek posledními 2 spoji ve směru z Kuřimi do Tišnova a v sobotu všemi spoji) obousměrně mezi Malhostovicemi a Drásovem odklonem přes Čebín. V Drásově na náměstí obsluhuje označníky v ulici Čedlosy (silnice vedoucí na Čebín).\u00A0.<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font>\u00A0pojede v sobotu všemi spoji obousměrně mezi Malhostovicemi a Čebínem po silnici kolem cementárny, čímž vynechá Drásov. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1308,7 +1308,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
