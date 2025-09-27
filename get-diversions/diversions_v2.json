@@ -337,23 +337,6 @@
       ]
     },
     {
-      "id": 123,
-      "number": "PO 2509-188",
-      "title": "Malhostovice-Drásov",
-      "latitude": 49.331163,
-      "longitude": 16.479793,
-      "validFrom": "2025-09-26T21:30:00+02:00",
-      "validTo": "2025-09-27T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu pokládky finálního povrchu komunikace bude v úseku mezi\u00A0Malhostovicemi - Drásov obousměrně vyloučena veškerá autobusová doprava.<br/><br/> Linka<font color=\"#009240\"><strong> 311</strong></font>\u00A0pojede (v pátek posledními 2 spoji ve směru z Kuřimi do Tišnova a v sobotu všemi spoji) obousměrně mezi Malhostovicemi a Drásovem odklonem přes Čebín. V Drásově na náměstí obsluhuje označníky v ulici Čedlosy (silnice vedoucí na Čebín).\u00A0.<br/><br/> Linka<font color=\"#009240\"><strong> 320</strong></font>\u00A0pojede v sobotu všemi spoji obousměrně mezi Malhostovicemi a Čebínem po silnici kolem cementárny, čímž vynechá Drásov. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "311",
-        "320"
-      ]
-    },
-    {
       "id": 132,
       "number": "PO 2509-197",
       "title": "Šitbořice, MK u ObÚ",
@@ -368,23 +351,6 @@
       "affectedLines": [
         "522",
         "612"
-      ]
-    },
-    {
-      "id": 78,
-      "number": "VP 2509-254",
-      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
-      "latitude": 49.044968,
-      "longitude": 16.116412,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "812",
-        "442"
       ]
     },
     {
@@ -424,6 +390,23 @@
       ]
     },
     {
+      "id": 78,
+      "number": "VP 2509-254",
+      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
+      "latitude": 49.044968,
+      "longitude": 16.116412,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "812",
+        "442"
+      ]
+    },
+    {
       "id": 99,
       "number": "2509 Buková, horní zastávka",
       "title": "Buková, horní zastávka",
@@ -454,23 +437,6 @@
       "affectedLines": [
         "78",
         "N96"
-      ]
-    },
-    {
-      "id": 110,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
@@ -506,6 +472,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 110,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
@@ -829,22 +812,6 @@
       ]
     },
     {
-      "id": 47,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153"
-      ]
-    },
-    {
       "id": 54,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -858,6 +825,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 47,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
       ]
     },
     {
