@@ -266,7 +266,7 @@
       "longitude": 16.595328,
       "validFrom": "2025-09-27T22:30:00+02:00",
       "validTo": "2025-09-28T07:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>od 22:30 v sobotu 27. září 2025 do 7:00 v neděli 28. září 2025</strong> průjezdná část ulice Vídeňské ve směru do centra.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede v úseku mezi zastávkami <strong>Bohunická – Křídlovická</strong> ve směru do centra odklonem ulicí Heršpickou.<br />\n• Neobslouží tak zastávky Ústřední hřbitov, Hluboká, Celní a Vojtova.<br />\n• Na odklonové trase obslouží zastávky Heršpická a Strážní.<br />\n• Ve směru do Kohoutovic pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N91</strong> pojede v úseku mezi zastávkami <strong>Bohunická – Nemocnice Milosrdných bratří</strong> ve směru do centra odklonem ulicí Heršpickou, Polní a Vojtovou.<br />\n• Neobslouží tak zastávky Ústřední hřbitov, Hluboká a Celní.<br />\n• Na odklonové trase obslouží zastávku Heršpická.<br />\n• Ve směru do Starého Lískovce pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu ve směru do centra zajistí <strong>mimořádná jednosměrná autobusová linka x90</strong> v trase <strong>Hluboká – Celní – Vojtova – Křídlovická – Soukenická – Hlavní nádraží</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření –<a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-100_web.pdf\" target=\"_blank\"> ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -299,23 +299,6 @@
         "N89",
         "N96",
         "N98"
-      ]
-    },
-    {
-      "id": 33746,
-      "number": "V2509-099",
-      "title": "Omezení provozu v ulici Řezáčově",
-      "latitude": 49.22272,
-      "longitude": 16.55648,
-      "validFrom": "2025-09-27T00:00:00+02:00",
-      "validTo": "2025-09-27T22:30:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>v sobotu 27. září 2025 od 0:00 do 22:30 hod. </strong>pro veškerou dopravu průjezdná ulice Řezáčova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 36</strong> <strong>a noční autobusová linka N93</strong> budou v oblasti Komína ukončeny okružní trasou ulicemi Kristenovou, Chaloupky, Vavřineckou, Lísky a Branka.<br />\n• Ve směru do Komína pojedou ze zastávky<strong> Svratecká</strong> přes pravidelné zastávky<strong> Kristenova</strong> a <strong>Chaloupky</strong> do dočasně zřízené výstupní zastávky <strong>Komín, sídliště</strong> před křižovatkou ulic Vavřinecké a Vrbenského.<br />\n• Ve směru z Komína pojedou linky z dočasně zřízené nástupní zastávky <strong>Komín, sídliště</strong> za křižovatkou ulic Vavřinecké a Vrbenského zpět přímo do zastávky <strong>Svratecká</strong> a dále již po svých pravidelných trasách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Změny zastávek:</p>\n\n<p><strong>Komín, sídliště </strong>– pro výstup i nástup přeložena ke křižovatce ulic Vrbenského a Vavřinecké<br />\n<strong>Řezáčova </strong>– v obou směrech bez obsluhy<br />\n<strong>Olbrachtovo náměstí</strong> – v obou směrech bez obsluhy<br />\n<strong>Chaloupky </strong>– ve směru z Komína bez obsluhy<br />\n<strong>Kristenova</strong> – ve směru z Komína bez obsluhy</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-099_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "36",
-        "N93"
       ]
     },
     {
@@ -474,6 +457,23 @@
       ]
     },
     {
+      "id": 110,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
+      ]
+    },
+    {
       "id": 96,
       "number": "PO 2509-182",
       "title": "Silnice Kozojídky - Hroznová Lhota",
@@ -506,23 +506,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 110,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
@@ -626,22 +609,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
-      ]
-    },
-    {
       "id": 103,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -656,6 +623,22 @@
       "affectedLines": [
         "320",
         "321"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
       ]
     },
     {
@@ -846,22 +829,6 @@
       ]
     },
     {
-      "id": 54,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 47,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -875,6 +842,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 54,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
@@ -1252,7 +1235,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
