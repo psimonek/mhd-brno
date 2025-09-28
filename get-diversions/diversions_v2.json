@@ -490,22 +490,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
-      ]
-    },
-    {
       "id": 103,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -523,36 +507,19 @@
       ]
     },
     {
-      "id": 33360,
-      "number": "Z2509-066",
-      "title": "Posílení dopravy do Vranova",
-      "latitude": 49.309183,
-      "longitude": 16.617883,
-      "validFrom": "2025-09-07T09:00:00+02:00",
-      "validTo": "2025-09-28T19:00:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu předpokládané zvýšené poptávky po přepravě během mariánské poutě ve Vranově u Brna bude posílena doprava na autobusových linkách<strong> 41</strong> a <strong>57</strong>.</p>\n\n<p> </p>\n\n<p><strong>Opatření budou platná každou neděli v měsíci září, tedy 7. září 2025, 14. září 2025, 21. září 2025 a 28. září 2025.</strong></p>\n\n<p> </p>\n\n<p>Souhrn odjezdů linky <strong>41</strong> v neděle během září:<br />\n• <strong>Královo Pole, nádraží</strong> <strong><span><span><span><span>► </span></span></span></span></strong><span><span><span><span>Vranov, myslivna: 8:56, 9:56<strong>*</strong>, 10:56, 11:56<strong>*</strong>, 12:56, 13:56<strong>*</strong>, 14:56, 15:56<strong>*</strong>, 16:56<strong>*</strong>, 17:56<strong>*</strong>, 19:56<strong>*</strong><br />\n•<strong> Vranov, myslivna</strong> </span></span></span></span><strong><span><span><span><span>►</span></span></span></span></strong><span><span><span><span> Královo Pole, nádraží: 8:18, 9:23, 10:23, 11:23, 12:23, 13:23, 14:23, 15:23, 16:23<strong>v</strong>, 16:23, 17:23, 18:23</span></span></span></span><br />\n<strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>: jede do zastávky Vranov, smyčka a dále jako l. č. 57 směr Útěchov (přímý vůz); <strong>v</strong>: jede do vozovny Medlánky (posilový spoj)</span></span></span></span></p>\n\n<p> </p>\n\n<p>Souhrn odjezdů linky <strong>57</strong> v neděle během září:<br />\n• <strong>Štefánikova čtvrť</strong> <strong><span><span><span><span>►</span></span></span></span></strong> Vranov, smyčka: <span><span><span><span>7:52, 7:56</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 8:56</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 8:58, 9:56, 9:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 10:58, 11:56, 11:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 12:58, 13:56, 13:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 14:58, 15:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 16:58, 17:58</span></span></span></span><strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>, 18:58, 19:58, 20:56, 21:56<br />\n• <strong>Vranov, smyčka</strong> </span></span></span></span><strong><span><span><span><span>►</span></span></span></span></strong><span><span><span><span> Maloměřický most: 7:29<strong>L</strong>, 8:36, 9:36, 10:36, 11:36, 12:36, 13:36, 14:36, 15:30<strong>H</strong>, 15:36, 16:30<strong>H</strong>, 16:36, 17:30<strong>H</strong>, 17:36, 18:30<strong>H</strong>, 18:36, 19:36, 20:29<strong>L</strong>, 21:29<strong>L</strong></span></span></span></span><br />\n<strong><span><span><span><span>*</span></span></span></span></strong><span><span><span><span>: jede do zastávky Vranov, myslivna a dále jako l. č. 41 směr Lelekovice (přímý vůz); <strong>H</strong>: jede jen na Halasovo náměstí (posilový spoj); <strong>L</strong>: spoj ukončen okružně přes Lesnickou a Štefánikovu čtvrť</span></span></span></span></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "41",
-        "57"
-      ]
-    },
-    {
-      "id": 86,
-      "number": "PO 2509-164",
-      "title": "Veselí nad Moravou - I/55",
-      "latitude": 48.955706,
-      "longitude": 17.385092,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "id": 82,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "933"
+        "611"
       ]
     },
     {
@@ -569,6 +536,22 @@
       "type": "V",
       "affectedLines": [
         "556"
+      ]
+    },
+    {
+      "id": 86,
+      "number": "PO 2509-164",
+      "title": "Veselí nad Moravou - I/55",
+      "latitude": 48.955706,
+      "longitude": 17.385092,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "933"
       ]
     },
     {
@@ -860,6 +843,22 @@
       ]
     },
     {
+      "id": 23,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 26,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -877,22 +876,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 23,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
