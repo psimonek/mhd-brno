@@ -126,7 +126,7 @@
       "longitude": 16.597399,
       "validFrom": "2025-09-29T00:00:00+02:00",
       "validTo": "2025-10-07T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od pondělí 29. září 2025 nepřetržitě do ukončení prací </strong>(předpoklad do 7. října 2025) neprůjezdná ulice Božetěchova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> pojede v úseku mezi zastávkami <strong>Högrova – Královo Pole, nádraží</strong> ve směru do Bystrce odklonem ulicí Sportovní.<br />\n• Ve směru do Bystrce tak vynechá zastávku Mojmírovo náměstí, kterou nebude možné obsloužit.<br />\n• Náhradou lze využít zastávku Semilasso.<br />\n• Zastávku Královo Pole, nádraží obslouží v běžné poloze v ulici Budovcově.<br />\n• Ve směru do Soběšic pojede linka 30 po běžné trase.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-102_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -142,7 +142,7 @@
       "longitude": 16.380100,
       "validFrom": "2025-09-29T00:00:00+02:00",
       "validTo": "2025-12-01T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
       "privateTextHtml": null,
       "type": "V",
@@ -158,7 +158,7 @@
       "longitude": 16.523459,
       "validFrom": "2025-09-29T00:00:00+02:00",
       "validTo": "2025-10-16T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
       "privateTextHtml": null,
       "type": "V",
@@ -174,64 +174,12 @@
       "longitude": 16.546783,
       "validFrom": "2025-09-29T00:00:00+02:00",
       "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "313"
-      ]
-    },
-    {
-      "id": 112,
-      "number": "PO 2509-192",
-      "title": "Velké Bílovice",
-      "latitude": 48.849833,
-      "longitude": 16.891230,
-      "validFrom": "2025-09-28T14:00:00+02:00",
-      "validTo": "2025-09-28T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Velké Bílovice, kovárna pro linky<font color=\"#009240\"><strong> 542</strong></font> a <font color=\"#009240\"><strong>556</strong></font> - POUZE VE SMĚRU Moravský Žižkov - Břeclav / Hodonín přesunuta na ulici Čejkovskou poblíž křižovatky se silnicí směr Moravský Žižkov.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "542",
-        "556"
-      ]
-    },
-    {
-      "id": 102,
-      "number": "PO 2509-189",
-      "title": "Brno, Ústřední hřbitov",
-      "latitude": 49.171547,
-      "longitude": 16.597338,
-      "validFrom": "2025-09-27T00:00:00+02:00",
-      "validTo": "2025-09-28T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 501</strong></font>:\u00A0Vynechává zastávku Brno, Heršpická. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "501",
-        "504"
-      ]
-    },
-    {
-      "id": 67,
-      "number": "PO 2509-190",
-      "title": "Brno, ul. Jihlavská (oba směry) - Ib. etapa (linky 104, 105, 108)",
-      "latitude": 49.172687,
-      "longitude": 16.599569,
-      "validFrom": "2025-09-27T00:00:00+02:00",
-      "validTo": "2025-09-28T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 104</strong></font>, <font color=\"#009240\"><strong> 105</strong></font> a <font color=\"#009240\"><strong>108</strong></font>\u00A0- všechny spoje v obou směrech, které obsluhují zastávku\u00A0Brno, Ústřední hřbitov\u00A0ji budou zcela vynechávat, nepojedou ul. Jihlavskou a pojedou odklonem ulicí Heršpickou v Brně, kde budou obsluhovat zastávku\u00A0Brno, Heršpická\u00A0na silnici I/52 jako náhradu za dočasně neobsluhovanou zastávku\u00A0Brno, Ústřední hřbitov. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "104",
-        "105",
-        "108"
       ]
     },
     {
@@ -490,6 +438,22 @@
       ]
     },
     {
+      "id": 82,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
+      ]
+    },
+    {
       "id": 103,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -504,22 +468,6 @@
       "affectedLines": [
         "320",
         "321"
-      ]
-    },
-    {
-      "id": 82,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
       ]
     },
     {
@@ -811,22 +759,6 @@
       ]
     },
     {
-      "id": 31562,
-      "number": "",
-      "title": "Sezonní provoz linky H4",
-      "latitude": 49.190554,
-      "longitude": 16.594532,
-      "validFrom": "2025-06-21T00:00:00+02:00",
-      "validTo": "2025-09-28T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p><strong>Od soboty 21. června 2025 </strong>bude vždy o víkendech a svátcích v provozu <strong>linka H4</strong>, jejíž provoz zajištuje historická tramvaj Dopravního podniku města Brna.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka H4 </strong>bude v provozu v trase <strong>Komenského náměstí – Česká – Náměstí Svobody – Zelný trh – Hlavní nádraží  – Nové sady – Hybešova – Václavská – Mendlovo náměstí</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Na lince H4 platí běžný tarif IDS JMK s výjimkou přepravy jízdních kol a nadměrných zavazadel, která není v historických vozidlech povolena. Provoz historické linky se předpokládá do neděle 28. září 2025.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> Jízdní řád linky H4 je k dispozici <em>v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "H4"
-      ]
-    },
-    {
       "id": 30,
       "number": "2506 Moutnice, u fary",
       "title": "Moutnice, u fary - směr Nesvačilka",
@@ -840,22 +772,6 @@
       "type": "V",
       "affectedLines": [
         "612"
-      ]
-    },
-    {
-      "id": 23,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
@@ -879,6 +795,22 @@
       ]
     },
     {
+      "id": 23,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 17,
       "number": "2505 Pohořelice, náměstí",
       "title": "Pohořelice, náměstí - směr Brno",
@@ -894,22 +826,6 @@
         "104",
         "105",
         "108"
-      ]
-    },
-    {
-      "id": 15,
-      "number": "Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka v obou směrech (PŘEDČASNĚ UKONČENO)",
-      "latitude": 49.539664,
-      "longitude": 16.702797,
-      "validFrom": "2025-05-05T00:00:00+02:00",
-      "validTo": "2025-09-28T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu novostavby chodníků při komunikaci č. II/374 v Knínicích a rekonstrukce autobusových zastávek budou dočasně přesunuty zastávky Knínice, horní zastávka v obou směrech:. směr Boskovice přibližně o 70 metrů vpřed,, směr Velké Opatovice přibližně o 90 metrů vzad. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251"
       ]
     },
     {
