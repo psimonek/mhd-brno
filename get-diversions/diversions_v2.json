@@ -226,7 +226,7 @@
       "longitude": 16.644671,
       "validFrom": "2025-09-28T07:00:00+02:00",
       "validTo": "2025-09-28T19:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu konání sportovního závodu ,,Půlmaraton Moravským krasem\u00A0nebude možný průjezd autobusů přes náměstí Republiky v Blansku v době od 7:00 do 19:00.\u00A0Navíc v čase od 13:20 do\u00A017:00 hod. bude omezen průjezd (kyvadlový provoz řízen pořadateli akce) po ulici Gellhornova v úseku od zastávky ČKD ředitelství po zastávku ČKD Orlík a zcela uzavřen úsek do Skalního Mlýna.<br/><br/> Linky<font color=\"#2C89C8\"><strong> 221</strong></font>, <font color=\"#2C89C8\"><strong> 222</strong></font> a <font color=\"#2C89C8\"><strong>223</strong></font>\u00A0pojedou v úseku mezi křižovatkou ulic Dvorská × Bezručova × Mlýnská\u00A0a zastávkou Poliklinika obousměrným odklonem ul. Mlýnskou, Vodní, Smetanovou a Sadovou.. Při jízdách ve směru na Autobusové nádraží\u00A0obslouží zastávku Náměstí Svobody v přeložené poloze v ul.\u00A0Mlýnské v úrovni objektu Krajské hygienické stanice, zastávku Náměstí Republiky v přeložené poloze v ul.\u00A0Sadové v úrovni parku před křižovatkou s ul. Hybešovou.. Při jízdách v opačných směrech z Autobusového nádraží\u00A0vynechají zastávku Seifertova\u00A0a náhradou obslouží zastávku Poříčí (spol. s linkami<font color=\"#009240\"><strong> 234</strong></font> a 235)..<br/><br/> Linky<font color=\"#2C89C8\"><strong> 226</strong></font> a <font color=\"#009240\"><strong>234</strong></font>\u00A0pojedou ve směru Blansko, aut. st. po shodné trase jako v opačném\u00A0směru Rájec-Jestřebí / Češkovice, tedy ul. Mlýnskou, Poříčí a Vodní, čímž zcela vynechají zastávku\u00A0Blansko, náměstí Republiky. Navíc v čase od 13:20 do 17:00 hod. budou zrušeny všechny spoje linky\u00A0226<font color=\"#009240\"><strong> </strong></font>jedoucí do / ze Skalního Mlýnu v celých trasách..<br/><br/> Linky<font color=\"#009240\"><strong> 231</strong></font> a <font color=\"#009240\"><strong>232</strong></font>\u00A0budou projíždět omezením na ulici Gellhornově v úseku mezi zastávkami ČKD Ředitelství a ČKD Orlík. Ve směru do centra na uvedených zastávkách v čase 13:20 - 17:00 nebudou zastavovat, směr z centra obslouží standardně. ",
       "privateTextHtml": null,
       "type": "V",
@@ -256,23 +256,6 @@
         "109",
         "541",
         "551"
-      ]
-    },
-    {
-      "id": 33747,
-      "number": "V2509-100",
-      "title": "Omezení dopravy v ulici Vídeňské",
-      "latitude": 49.179109,
-      "longitude": 16.595328,
-      "validFrom": "2025-09-27T22:30:00+02:00",
-      "validTo": "2025-09-28T07:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>od 22:30 v sobotu 27. září 2025 do 7:00 v neděli 28. září 2025</strong> průjezdná část ulice Vídeňské ve směru do centra.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede v úseku mezi zastávkami <strong>Bohunická – Křídlovická</strong> ve směru do centra odklonem ulicí Heršpickou.<br />\n• Neobslouží tak zastávky Ústřední hřbitov, Hluboká, Celní a Vojtova.<br />\n• Na odklonové trase obslouží zastávky Heršpická a Strážní.<br />\n• Ve směru do Kohoutovic pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N91</strong> pojede v úseku mezi zastávkami <strong>Bohunická – Nemocnice Milosrdných bratří</strong> ve směru do centra odklonem ulicí Heršpickou, Polní a Vojtovou.<br />\n• Neobslouží tak zastávky Ústřední hřbitov, Hluboká a Celní.<br />\n• Na odklonové trase obslouží zastávku Heršpická.<br />\n• Ve směru do Starého Lískovce pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu ve směru do centra zajistí <strong>mimořádná jednosměrná autobusová linka x90</strong> v trase <strong>Hluboká – Celní – Vojtova – Křídlovická – Soukenická – Hlavní nádraží</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření –<a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-100_web.pdf\" target=\"_blank\"> ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "N90",
-        "N91"
       ]
     },
     {
@@ -354,6 +337,23 @@
       ]
     },
     {
+      "id": 78,
+      "number": "VP 2509-254",
+      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
+      "latitude": 49.044968,
+      "longitude": 16.116412,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "812",
+        "442"
+      ]
+    },
+    {
       "id": 111,
       "number": "PO 2509-184",
       "title": "Podívín, ulice Nerudova",
@@ -390,23 +390,6 @@
       ]
     },
     {
-      "id": 78,
-      "number": "VP 2509-254",
-      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
-      "latitude": 49.044968,
-      "longitude": 16.116412,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "812",
-        "442"
-      ]
-    },
-    {
       "id": 99,
       "number": "2509 Buková, horní zastávka",
       "title": "Buková, horní zastávka",
@@ -437,6 +420,23 @@
       "affectedLines": [
         "78",
         "N96"
+      ]
+    },
+    {
+      "id": 110,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
@@ -472,23 +472,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 110,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
@@ -642,22 +625,6 @@
       ]
     },
     {
-      "id": 86,
-      "number": "PO 2509-164",
-      "title": "Veselí nad Moravou - I/55",
-      "latitude": 48.955706,
-      "longitude": 17.385092,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "933"
-      ]
-    },
-    {
       "id": 87,
       "number": "2509 Prušánky, na konci",
       "title": "Prušánky (směr Josefov)",
@@ -671,6 +638,22 @@
       "type": "V",
       "affectedLines": [
         "556"
+      ]
+    },
+    {
+      "id": 86,
+      "number": "PO 2509-164",
+      "title": "Veselí nad Moravou - I/55",
+      "latitude": 48.955706,
+      "longitude": 17.385092,
+      "validFrom": "2025-09-02T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "933"
       ]
     },
     {
