@@ -50,23 +50,6 @@
       ]
     },
     {
-      "id": 131,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 109,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -82,6 +65,23 @@
         "158",
         "443",
         "812"
+      ]
+    },
+    {
+      "id": 131,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
@@ -116,22 +116,6 @@
       "affectedLines": [
         "S31",
         "xS31"
-      ]
-    },
-    {
-      "id": 116,
-      "number": "VP 2509-258",
-      "title": "Malá Lhota",
-      "latitude": 49.391927,
-      "longitude": 16.546783,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "313"
       ]
     },
     {
@@ -180,6 +164,22 @@
       "type": "V",
       "affectedLines": [
         "256"
+      ]
+    },
+    {
+      "id": 116,
+      "number": "VP 2509-258",
+      "title": "Malá Lhota",
+      "latitude": 49.391927,
+      "longitude": 16.546783,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "313"
       ]
     },
     {
@@ -241,32 +241,6 @@
       ]
     },
     {
-      "id": 33623,
-      "number": "",
-      "title": "Omezení dopravy v ulici Olomoucké a Životského",
-      "latitude": 49.190851,
-      "longitude": 16.633939,
-      "validFrom": "2025-09-27T07:05:00+02:00",
-      "validTo": "2025-09-28T16:00:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy tramvajové tratě bude omezen provoz tramvají na mostě přes řeku Svitavu a v ulici Životského:</p>\n\n<p><strong>• v sobotu 27. září 2025 od 7:05 do 20:30</strong></p>\n\n<p><strong>• v neděli 28. září 2025 od 7:05 do 16:00</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 8</strong> bude rozdělena na dva samostatné úseky <strong>Nemocnice Bohunice – Masná</strong> a <strong>Geislerova – Mifkova</strong>.<br />\n• Vynechá tak zastávku Životského.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> bude v provozu pouze v trase<strong> Čertova rokle – Masná</strong>.<br />\n• Neobslouží tak zastávky v úseku Životského – Juliánov.<br />\n• Ve vyloučeném úseku bude zavedena náhradní autobusová doprava linky x9.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 10</strong> bude rozdělena na dva samostatné úseky <strong>Vozovna Komín – Hlavní nádraží</strong> a <strong>Geislerova – Stránská skála</strong>.<br />\n• Ve směru od Komína pojede od zastávky Česká po polookružní trase ulicemi Masarykovou, Benešovou a Rooseveltovou s obsluhou zastávek Náměstí Svobody, Zelný trh, Hlavní nádraží (2. kolej), Malinovského náměstí a dále zpět do Komína.<br />\n• V obou směrech tak vynechá zastávky Vlhká, Masná, Životského, zastávky Hlavní nádraží a Malinovského náměstí obslouží pouze ve směru od Hlavního nádraží na Českou (zastávka Hlavní nádraží bude obsluhována na 2. koleji).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu zajistí <strong>mimořádná autobusová linka x9 </strong>v trase <strong>Masná</strong> (zastávka linek 64 a 67 směr Komárov) <strong>– Životského – Geislerova – Buzkova – Otakara Ševčíka – Dělnický dům – Juliánov</strong>.</p>\n\n<p> </p>\n\n<p><strong>Opatření platná pro autobusy a trolejbusy nepřetržitě od 7:05 v sobotu 27. září 2025 do 16:00 v neděli 28. září 2025:</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusové linky 31</strong> a <strong>33</strong> ve směru do Slatiny obslouží zastávku <strong>Masná</strong> společnou s linkami 64 a 67 v ulici Masné, v opačném směru neobslouží zastávku <strong>Životského</strong>, náhradou obslouží zastávku <strong>Tržní</strong> v ulici Hladíkově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 64</strong> ve směru na Červený písek neobslouží zastávku <strong>Masná</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka E76</strong> ve směru do centra neobslouží zastávku <strong>Životského</strong>, náhradou obslouží zastávku <strong>Tržní</strong> v ulici Hladíkově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusové linky N89, N96</strong> a<strong> N98</strong> ve směru od centra obslouží zastávku <strong>Masná</strong> společnou s linkami 64 a 67 v ulici Masné.<br />\n• Ve směru do centra<strong> linky N89</strong> a<strong> N96</strong> neobslouží zastávku <strong>Životského</strong>, náhradou obslouží zastávku <strong>Tržní</strong> v ulici Hladíkově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Přeložené zastávky:<br />\n• <strong>Masná ve směru do centra:</strong> linky 31, 33 a 67 obslouží v předjízdném pruhu na úrovni tramvajového ostrůvku <em>(pouze v sobotu 27. září 2025 od 7:05 do 20:30 a v neděli 28. září od 7:05 do 16:00)</em><br />\n•<strong> Životského ve směru do centra:</strong> linky x9, 64 a N98 obslouží v přeložené poloze cca o 100 metrů vzad v ulici Životského<br />\n• <strong>Životského ve směru z centra: </strong>linky x9, 64 a N98 obslouží v přeložené poloze cca o 100 metrů vpřed v ulici Životského</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-096-097_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "8",
-        "9",
-        "10",
-        "31",
-        "33",
-        "64",
-        "67",
-        "E76",
-        "N89",
-        "N96",
-        "N98"
-      ]
-    },
-    {
       "id": 102,
       "number": "PO 2509-189",
       "title": "Brno, Ústřední hřbitov",
@@ -319,23 +293,6 @@
       ]
     },
     {
-      "id": 78,
-      "number": "VP 2509-254",
-      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
-      "latitude": 49.044968,
-      "longitude": 16.116412,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "812",
-        "442"
-      ]
-    },
-    {
       "id": 118,
       "number": "VP 2509-257",
       "title": "Veverské Knínice, sil. III/3867",
@@ -369,6 +326,23 @@
         "555",
         "556",
         "574"
+      ]
+    },
+    {
+      "id": 78,
+      "number": "VP 2509-254",
+      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
+      "latitude": 49.044968,
+      "longitude": 16.116412,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "812",
+        "442"
       ]
     },
     {
@@ -422,6 +396,22 @@
       ]
     },
     {
+      "id": 96,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
+      ]
+    },
+    {
       "id": 70,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -438,22 +428,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 96,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
       ]
     },
     {
@@ -557,22 +531,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
-      ]
-    },
-    {
       "id": 103,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -587,6 +545,22 @@
       "affectedLines": [
         "320",
         "321"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
       ]
     },
     {
@@ -777,22 +751,6 @@
       ]
     },
     {
-      "id": 54,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 47,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -806,6 +764,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 54,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
@@ -927,6 +901,22 @@
       ]
     },
     {
+      "id": 23,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 26,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -944,22 +934,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 23,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
