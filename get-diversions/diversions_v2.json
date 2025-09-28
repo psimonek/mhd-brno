@@ -241,24 +241,6 @@
       ]
     },
     {
-      "id": 124,
-      "number": "PO 2509-193",
-      "title": "Klobouky u Brna, náměstí",
-      "latitude": 48.995317,
-      "longitude": 16.857407,
-      "validFrom": "2025-09-28T04:00:00+02:00",
-      "validTo": "2025-09-28T15:10:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Klobouky u Brna, nám. bude pro všechny linky přeložena na ulici Brněnskou před budovu tělocvičny Městské střední odborné školy.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "109",
-        "541",
-        "551"
-      ]
-    },
-    {
       "id": 33623,
       "number": "",
       "title": "Omezení dopravy v ulici Olomoucké a Životského",
@@ -354,6 +336,23 @@
       ]
     },
     {
+      "id": 118,
+      "number": "VP 2509-257",
+      "title": "Veverské Knínice, sil. III/3867",
+      "latitude": 49.229705,
+      "longitude": 16.413231,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-10-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0jede mezi zastávkami Veverské Knínice, rozc. Pohádka Máje a Veverské Knínice odklonem přes Ostrovačice a Říčany. Z Říčan do Veverských Knínice jede ulicemi Polní a Mrštíkova.<br/><br/> Linka<font color=\"#009240\"><strong> 402</strong></font>\u00A0jede mezi zastávkami Říčany a Veverské Knínice odklonem ulicemi Polní a Mrštíkova. Pro spoje linky<font color=\"#009240\"><strong> 153</strong></font> obsluhující Veverské Knínice je v obci Říčany na odklonové trase zřízena náhradní zastávka před křižovatkou s ulicí Polní pro usnadnění přestupu na linky<font color=\"#009240\"><strong> 401</strong></font> a <font color=\"#009240\"><strong>402</strong></font>.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153",
+        "402"
+      ]
+    },
+    {
       "id": 111,
       "number": "PO 2509-184",
       "title": "Podívín, ulice Nerudova",
@@ -370,23 +369,6 @@
         "555",
         "556",
         "574"
-      ]
-    },
-    {
-      "id": 118,
-      "number": "VP 2509-257",
-      "title": "Veverské Knínice, sil. III/3867",
-      "latitude": 49.229705,
-      "longitude": 16.413231,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-10-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0jede mezi zastávkami Veverské Knínice, rozc. Pohádka Máje a Veverské Knínice odklonem přes Ostrovačice a Říčany. Z Říčan do Veverských Knínice jede ulicemi Polní a Mrštíkova.<br/><br/> Linka<font color=\"#009240\"><strong> 402</strong></font>\u00A0jede mezi zastávkami Říčany a Veverské Knínice odklonem ulicemi Polní a Mrštíkova. Pro spoje linky<font color=\"#009240\"><strong> 153</strong></font> obsluhující Veverské Knínice je v obci Říčany na odklonové trase zřízena náhradní zastávka před křižovatkou s ulicí Polní pro usnadnění přestupu na linky<font color=\"#009240\"><strong> 401</strong></font> a <font color=\"#009240\"><strong>402</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153",
-        "402"
       ]
     },
     {
@@ -440,22 +422,6 @@
       ]
     },
     {
-      "id": 96,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 70,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -472,6 +438,22 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 96,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
@@ -575,6 +557,22 @@
       ]
     },
     {
+      "id": 82,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
+      ]
+    },
+    {
       "id": 103,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -589,22 +587,6 @@
       "affectedLines": [
         "320",
         "321"
-      ]
-    },
-    {
-      "id": 82,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
       ]
     },
     {
@@ -945,22 +927,6 @@
       ]
     },
     {
-      "id": 23,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
       "id": 26,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -978,6 +944,22 @@
         "662",
         "663",
         "664"
+      ]
+    },
+    {
+      "id": 23,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
       ]
     },
     {
