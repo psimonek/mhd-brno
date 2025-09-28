@@ -248,7 +248,7 @@
       "longitude": 16.857407,
       "validFrom": "2025-09-28T04:00:00+02:00",
       "validTo": "2025-09-28T15:10:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Klobouky u Brna, nám. bude pro všechny linky přeložena na ulici Brněnskou před budovu tělocvičny Městské střední odborné školy.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1218,7 +1218,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
