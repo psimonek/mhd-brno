@@ -92,7 +92,7 @@
       "longitude": 16.048086,
       "validFrom": "2025-09-30T00:00:00+02:00",
       "validTo": "2026-07-31T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linky<font color=\"#009240\"><strong> 806</strong></font> a <font color=\"#009240\"><strong>807</strong></font>\u00A0jedou od zastávky Pražská, Kolonka do zastávky Nám. Komenského odklonem přes zastávku Nám. Svobody, lázně. Vynechávají zastávky Nám. Svobody, horní brána a Horní náměstí. V opačném směru jedou přes zastávky Náměstí Komenského a Náměstí Svobody, lázně.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -998,7 +998,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
