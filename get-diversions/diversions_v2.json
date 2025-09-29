@@ -109,7 +109,7 @@
       "longitude": 16.374006,
       "validFrom": "2025-09-29T07:00:00+02:00",
       "validTo": "2025-10-23T23:55:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky na\u00A0lince<font color=\"#800000\"><strong> S31</strong></font>\u00A0budou v úseku Tišnov – Bystřice n. Pernštejnem nahrazeny autobusy náhradní dopravy (NAD) jedoucími jako\u00A0linka xS31\u00A0podle výlukového jízdního řádu. Železniční zastávka Prudká bude obsloužena vybranými spoji. ",
       "privateTextHtml": null,
       "type": "V",
