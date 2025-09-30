@@ -57,7 +57,7 @@
       "longitude": 16.511850,
       "validFrom": "2025-10-01T00:00:00+02:00",
       "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
       "privateTextHtml": null,
       "type": "V",
@@ -74,7 +74,7 @@
       "longitude": 16.106000,
       "validFrom": "2025-10-01T00:00:00+02:00",
       "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linky<font color=\"#009240\"><strong> 158</strong></font>, <font color=\"#009240\"><strong> 443</strong></font> a <font color=\"#009240\"><strong>812</strong></font>\u00A0- téměř většina spojů nebude v Tavíkovicích obsluhovat zastávky, Tavíkovice, host. a Tavíkovice, OSEVA. Obsluhovat budou pouze zastávku Tavíkovice, škola.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- veškeré spoje (vyjma spojů 3 a 4) pojedou mezi obcemi Přeskače a Tavíkovice po obousměrné objízdné trase po silnicích II/400 a II/399.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- spoje 3 a 4 obsluhují také zast. Tavíkovice, host. Mezi Tavíkovicemi a Horními Kounicemi pojedou po silnici III/39914.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Horními Kounicemi po silnici III/39914. ",
       "privateTextHtml": null,
       "type": "V",
@@ -200,25 +200,6 @@
       ]
     },
     {
-      "id": 111,
-      "number": "PO 2509-184",
-      "title": "Podívín, ulice Nerudova",
-      "latitude": 48.835427,
-      "longitude": 16.852448,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 159</strong></font>, <font color=\"#009240\"><strong> 555</strong></font>, <font color=\"#009240\"><strong> 556</strong></font>, <font color=\"#009240\"><strong> 574</strong></font>\u00A0pojedou pouze ve směru k železniční stanici v Podivíně jednosměrně odklonem po místních komunikacích Podivína - ulicemi Sokolská - U Dráhy, tedy stejně jako v opačném směru. V opačném směru od nádraží do regionu pojedou po své standardní trase. Výstupní zastávka u železniční stanice bude u nádražní budovy, nástupní zastávka se nemění.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "159",
-        "555",
-        "556",
-        "574"
-      ]
-    },
-    {
       "id": 78,
       "number": "VP 2509-254",
       "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
@@ -288,22 +269,6 @@
       ]
     },
     {
-      "id": 96,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 110,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -318,6 +283,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 96,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
@@ -370,22 +351,6 @@
       ]
     },
     {
-      "id": 107,
-      "number": "Lužice, žel. st.",
-      "title": "Zastávka Lužice, žel. st. - pouze ve směru Mikulčice - Břeclav",
-      "latitude": 48.828749,
-      "longitude": 17.062336,
-      "validFrom": "2025-09-09T12:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Lužice, žel. st. - pouze ve směru Mikulčice - Břeclav bude posunuta o cca 80 metrů zpět k přechodu pro chodce.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "572"
-      ]
-    },
-    {
       "id": 33358,
       "number": "",
       "title": "Dočasné přeložení zastávky Vozovna Medlánky směr Medlánky",
@@ -404,6 +369,22 @@
       ]
     },
     {
+      "id": 82,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
+      ]
+    },
+    {
       "id": 103,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -418,22 +399,6 @@
       "affectedLines": [
         "320",
         "321"
-      ]
-    },
-    {
-      "id": 82,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
       ]
     },
     {
@@ -708,23 +673,6 @@
       ]
     },
     {
-      "id": 35,
-      "number": "VP 2506-236",
-      "title": "Rozdrojovice, ul. Na Březině",
-      "latitude": 49.255061,
-      "longitude": 16.512129,
-      "validFrom": "2025-06-30T00:00:00+02:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. V období od 30. 6. 2025 do 15. 7. 2025 (předpoklad) současně probíhá částečná uzavírka ulice Kníničské, v Brně. Pravděpodobně k datu 16.7.2025 bude vydána aktualizace jízdního řádu pouze s uzavírkou v Rozdrojovicích, tedy s navrácením trasy linky<font color=\"#009240\"><strong> 302</strong></font> zpět do terminálu Zoologická zahrada.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k\u00A0úpravám časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 30,
       "number": "2506 Moutnice, u fary",
       "title": "Moutnice, u fary - směr Nesvačilka",
@@ -936,24 +884,6 @@
         "49",
         "x49",
         "N94"
-      ]
-    },
-    {
-      "id": 2,
-      "number": "PO 2501-005",
-      "title": "Tavíkovice, průtah a silnice III/39914 - etapa II.",
-      "latitude": 49.030901,
-      "longitude": 16.108167,
-      "validFrom": "2025-01-13T00:00:00+01:00",
-      "validTo": "2025-09-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- veškeré spoje, které jedou napřímo mezi Horními Kounicemi a Tavíkovicemi, pojedou odklonem po obousměrné objízdné trase přes obce Medlice a Přeskače po silnicích III/4009, II/400 a III/3983. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "158",
-        "443",
-        "812"
       ]
     },
     {
