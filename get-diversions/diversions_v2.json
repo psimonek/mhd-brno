@@ -91,7 +91,7 @@
       "longitude": 17.122364,
       "validFrom": "2025-10-01T08:45:00+02:00",
       "validTo": "2025-10-26T18:15:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Po dobu výluky se předpokládá zpoždění některých vlaků linky<font color=\"#800000\"><strong> S6</strong></font> do Brna o cca 8 minut. Upozornění je ve výlukovém jízdním řádu. Vlak\u00A0S6/4113\u00A0 od\u00A01.\u00A0do\u00A026.10. 2025a vlaky\u00A0S6/4101, 4103, 4105, 4107, 4109, 1761\u00A0od\u00A03.\u00A0do\u00A025.10.2025pojedou z Brna hl.n. cca o 10 minut dříve a dřívější odjezd mají i z nácestných stanic tak, aby dojely do Kyjova před vlakem do Brna hl.n. podle výlukového jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
