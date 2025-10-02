@@ -84,6 +84,23 @@
       ]
     },
     {
+      "id": 33932,
+      "number": "",
+      "title": "Změna trasy linek 47 a 49",
+      "latitude": 49.188996,
+      "longitude": 16.613313,
+      "validFrom": "2025-10-05T00:00:00+02:00",
+      "validTo": null,
+      "isValid": false,
+      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "47",
+        "49"
+      ]
+    },
+    {
       "id": 33897,
       "number": "V2510-104",
       "title": "Výluka autobusů v Modřicích - 5. etapa",
@@ -134,23 +151,6 @@
       ]
     },
     {
-      "id": 125,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 101,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -166,6 +166,23 @@
         "158",
         "443",
         "812"
+      ]
+    },
+    {
+      "id": 125,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
@@ -203,19 +220,19 @@
       ]
     },
     {
-      "id": 109,
-      "number": "VP 2509-258",
-      "title": "Malá Lhota",
-      "latitude": 49.391927,
-      "longitude": 16.546783,
+      "id": 119,
+      "number": "Kunštát, kulturní dům",
+      "title": "Kunštát, kulturní dům (v obou směrech)",
+      "latitude": 49.506262,
+      "longitude": 16.523459,
       "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
+      "validTo": "2025-10-16T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
+      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "313"
+        "256"
       ]
     },
     {
@@ -251,6 +268,22 @@
       ]
     },
     {
+      "id": 109,
+      "number": "VP 2509-258",
+      "title": "Malá Lhota",
+      "latitude": 49.391927,
+      "longitude": 16.546783,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "313"
+      ]
+    },
+    {
       "id": 33749,
       "number": "V2509-102",
       "title": "Omezení dopravy v ulici Božetěchově",
@@ -264,39 +297,6 @@
       "type": "V",
       "affectedLines": [
         "30"
-      ]
-    },
-    {
-      "id": 119,
-      "number": "Kunštát, kulturní dům",
-      "title": "Kunštát, kulturní dům (v obou směrech)",
-      "latitude": 49.506262,
-      "longitude": 16.523459,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-16T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "256"
-      ]
-    },
-    {
-      "id": 111,
-      "number": "VP 2509-257",
-      "title": "Veverské Knínice, sil. III/3867",
-      "latitude": 49.229705,
-      "longitude": 16.413231,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-10-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0jede mezi zastávkami Veverské Knínice, rozc. Pohádka Máje a Veverské Knínice odklonem přes Ostrovačice a Říčany. Z Říčan do Veverských Knínice jede ulicemi Polní a Mrštíkova.<br/><br/> Linka<font color=\"#009240\"><strong> 402</strong></font>\u00A0jede mezi zastávkami Říčany a Veverské Knínice odklonem ulicemi Polní a Mrštíkova. Pro spoje linky<font color=\"#009240\"><strong> 153</strong></font> obsluhující Veverské Knínice je v obci Říčany na odklonové trase zřízena náhradní zastávka před křižovatkou s ulicí Polní pro usnadnění přestupu na linky<font color=\"#009240\"><strong> 401</strong></font> a <font color=\"#009240\"><strong>402</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153",
-        "402"
       ]
     },
     {
@@ -314,6 +314,23 @@
       "affectedLines": [
         "812",
         "442"
+      ]
+    },
+    {
+      "id": 111,
+      "number": "VP 2509-257",
+      "title": "Veverské Knínice, sil. III/3867",
+      "latitude": 49.229705,
+      "longitude": 16.413231,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-10-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0jede mezi zastávkami Veverské Knínice, rozc. Pohádka Máje a Veverské Knínice odklonem přes Ostrovačice a Říčany. Z Říčan do Veverských Knínice jede ulicemi Polní a Mrštíkova.<br/><br/> Linka<font color=\"#009240\"><strong> 402</strong></font>\u00A0jede mezi zastávkami Říčany a Veverské Knínice odklonem ulicemi Polní a Mrštíkova. Pro spoje linky<font color=\"#009240\"><strong> 153</strong></font> obsluhující Veverské Knínice je v obci Říčany na odklonové trase zřízena náhradní zastávka před křižovatkou s ulicí Polní pro usnadnění přestupu na linky<font color=\"#009240\"><strong> 401</strong></font> a <font color=\"#009240\"><strong>402</strong></font>.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153",
+        "402"
       ]
     },
     {
@@ -350,20 +367,19 @@
       ]
     },
     {
-      "id": 102,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
+      "id": 88,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "816",
-        "817"
+        "930"
       ]
     },
     {
@@ -386,19 +402,20 @@
       ]
     },
     {
-      "id": 88,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
+      "id": 102,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "930"
+        "816",
+        "817"
       ]
     },
     {
