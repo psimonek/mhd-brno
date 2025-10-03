@@ -607,22 +607,6 @@
       ]
     },
     {
-      "id": 79,
-      "number": "2509 Prušánky, na konci",
-      "title": "Prušánky (směr Josefov)",
-      "latitude": 48.830317,
-      "longitude": 16.986719,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-10-03T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce zastávky Prušánky, na konci (pouze ve směru Josefov) bude zastávka přeložena cca o 140m vpřed (přibližně před dům č. p. 381).. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "556"
-      ]
-    },
-    {
       "id": 33045,
       "number": "V2509-087",
       "title": "Jednosměrná výluka autobusů v ulici Šámalově",
