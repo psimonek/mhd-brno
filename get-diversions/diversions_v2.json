@@ -295,7 +295,7 @@
       "longitude": 16.735758,
       "validFrom": "2025-10-04T08:30:00+02:00",
       "validTo": "2025-10-04T20:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 521</strong></font>:\u00A0Spoj 212 s odjezdem ve 22:21 z Hustopečí, AN bude posílen dvěma autobusy.<br/><br/> Linka<font color=\"#009240\"><strong> 543</strong></font>:\u00A0Bude operativně posilována dle poptávky. Operativně posíleny mohou být i další linky na Hustopečsku. ",
       "privateTextHtml": null,
       "type": "V",
