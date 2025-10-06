@@ -105,23 +105,6 @@
       ]
     },
     {
-      "id": 98,
-      "number": "VP 2510-088",
-      "title": "žel. trať Mikulov na Moravě – Novosedly",
-      "latitude": 48.815093,
-      "longitude": 16.548025,
-      "validFrom": "2025-10-06T08:50:00+02:00",
-      "validTo": "2025-10-06T14:35:00+02:00",
-      "isValid": true,
-      "publicTextHtml": " Vlaky v\u00A0úseku\u00A0Břeclav\u00A0\u00A0– Novosedly\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) jedoucí podle výlukového jízdního řádu linky\u00A0xS8. \u00A0V úseku\u00A0Břeclav -\u00A0Mikulov na Moravě\u00A0jsou spoje vedeny souběžně vlaky bez návaznosti na autobusy náhradní dopravy. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S8",
-        "xS8"
-      ]
-    },
-    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -237,23 +220,6 @@
       ]
     },
     {
-      "id": 14,
-      "number": "PO 2510-198",
-      "title": "Modřice, Masarykova ",
-      "latitude": 49.130427,
-      "longitude": 16.614555,
-      "validFrom": "2025-10-05T00:00:00+02:00",
-      "validTo": "2025-11-15T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 509</strong></font> a <font color=\"#009240\"><strong>510</strong></font>:\u00A0Jedou v Modřicích odklonem po místních komunikacích a vynechávají zastávky Modřice, Masarykova a Modřice, Husova.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "509",
-        "510"
-      ]
-    },
-    {
       "id": 33932,
       "number": "",
       "title": "Změna trasy linek 47 a 49",
@@ -268,6 +234,23 @@
       "affectedLines": [
         "47",
         "49"
+      ]
+    },
+    {
+      "id": 14,
+      "number": "PO 2510-198",
+      "title": "Modřice, Masarykova ",
+      "latitude": 49.130427,
+      "longitude": 16.614555,
+      "validFrom": "2025-10-05T00:00:00+02:00",
+      "validTo": "2025-11-15T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 509</strong></font> a <font color=\"#009240\"><strong>510</strong></font>:\u00A0Jedou v Modřicích odklonem po místních komunikacích a vynechávají zastávky Modřice, Masarykova a Modřice, Husova.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "509",
+        "510"
       ]
     },
     {
@@ -390,19 +373,19 @@
       ]
     },
     {
-      "id": 92,
-      "number": "Kunštát, kulturní dům",
-      "title": "Kunštát, kulturní dům (v obou směrech)",
-      "latitude": 49.506262,
-      "longitude": 16.523459,
+      "id": 81,
+      "number": "VP 2509-258",
+      "title": "Malá Lhota",
+      "latitude": 49.391927,
+      "longitude": 16.546783,
       "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-16T23:59:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
+      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "256"
+        "313"
       ]
     },
     {
@@ -422,19 +405,19 @@
       ]
     },
     {
-      "id": 103,
-      "number": "Lužice, žel. st.",
-      "title": "Zastávka Lužice, žel. st. - pouze ve směru Hodonín",
-      "latitude": 48.828756,
-      "longitude": 17.062631,
+      "id": 92,
+      "number": "Kunštát, kulturní dům",
+      "title": "Kunštát, kulturní dům (v obou směrech)",
+      "latitude": 49.506262,
+      "longitude": 16.523459,
       "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-10T23:59:00+02:00",
+      "validTo": "2025-10-16T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Lužice, žel. st. - pouze ve Hodonín bude posunuta o cca 100 metrů dále směr Hodonín za křižovatku u vjezdové brány firmy GROZ-BECKERT.. ",
+      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "572"
+        "256"
       ]
     },
     {
@@ -454,19 +437,19 @@
       ]
     },
     {
-      "id": 81,
-      "number": "VP 2509-258",
-      "title": "Malá Lhota",
-      "latitude": 49.391927,
-      "longitude": 16.546783,
+      "id": 103,
+      "number": "Lužice, žel. st.",
+      "title": "Zastávka Lužice, žel. st. - pouze ve směru Hodonín",
+      "latitude": 48.828756,
+      "longitude": 17.062631,
       "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
+      "validTo": "2025-10-10T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
+      "publicTextHtml": "Zastávka Lužice, žel. st. - pouze ve Hodonín bude posunuta o cca 100 metrů dále směr Hodonín za křižovatku u vjezdové brány firmy GROZ-BECKERT.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "313"
+        "572"
       ]
     },
     {
@@ -960,6 +943,22 @@
       ]
     },
     {
+      "id": 15,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 16,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -977,22 +976,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 15,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
