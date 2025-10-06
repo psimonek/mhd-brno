@@ -187,22 +187,6 @@
       ]
     },
     {
-      "id": 104,
-      "number": "PO 2510-199",
-      "title": "Pohořelice, nájezdová rampa mezi silnicemi I/53 a II/395",
-      "latitude": 48.969182,
-      "longitude": 16.515917,
-      "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-10-06T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 165</strong></font> pojede odklonem bez dopadu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "165"
-      ]
-    },
-    {
       "id": 78,
       "number": "PO 2510-200",
       "title": "Vyškov, II. odboje",
@@ -304,23 +288,6 @@
       ]
     },
     {
-      "id": 101,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 73,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -336,6 +303,23 @@
         "158",
         "443",
         "812"
+      ]
+    },
+    {
+      "id": 101,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
@@ -389,22 +373,6 @@
       ]
     },
     {
-      "id": 33749,
-      "number": "V2509-102",
-      "title": "Omezení dopravy v ulici Božetěchově",
-      "latitude": 49.226134,
-      "longitude": 16.597399,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-07T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od pondělí 29. září 2025 nepřetržitě do ukončení prací </strong>(předpoklad do 7. října 2025) neprůjezdná ulice Božetěchova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> pojede v úseku mezi zastávkami <strong>Högrova – Královo Pole, nádraží</strong> ve směru do Bystrce odklonem ulicí Sportovní.<br />\n• Ve směru do Bystrce tak vynechá zastávku Mojmírovo náměstí, kterou nebude možné obsloužit.<br />\n• Náhradou lze využít zastávku Semilasso.<br />\n• Zastávku Královo Pole, nádraží obslouží v běžné poloze v ulici Budovcově.<br />\n• Ve směru do Soběšic pojede linka 30 po běžné trase.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-102_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30"
-      ]
-    },
-    {
       "id": 92,
       "number": "Kunštát, kulturní dům",
       "title": "Kunštát, kulturní dům (v obou směrech)",
@@ -434,6 +402,22 @@
       "type": "V",
       "affectedLines": [
         "423"
+      ]
+    },
+    {
+      "id": 33749,
+      "number": "V2509-102",
+      "title": "Omezení dopravy v ulici Božetěchově",
+      "latitude": 49.226134,
+      "longitude": 16.597399,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-07T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od pondělí 29. září 2025 nepřetržitě do ukončení prací </strong>(předpoklad do 7. října 2025) neprůjezdná ulice Božetěchova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> pojede v úseku mezi zastávkami <strong>Högrova – Královo Pole, nádraží</strong> ve směru do Bystrce odklonem ulicí Sportovní.<br />\n• Ve směru do Bystrce tak vynechá zastávku Mojmírovo náměstí, kterou nebude možné obsloužit.<br />\n• Náhradou lze využít zastávku Semilasso.<br />\n• Zastávku Královo Pole, nádraží obslouží v běžné poloze v ulici Budovcově.<br />\n• Ve směru do Soběšic pojede linka 30 po běžné trase.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-102_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "30"
       ]
     },
     {
@@ -826,22 +810,6 @@
       ]
     },
     {
-      "id": 29,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 25,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -855,6 +823,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 29,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
@@ -943,22 +927,6 @@
       ]
     },
     {
-      "id": 15,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
       "id": 16,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -976,6 +944,22 @@
         "662",
         "663",
         "664"
+      ]
+    },
+    {
+      "id": 15,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
       ]
     },
     {
