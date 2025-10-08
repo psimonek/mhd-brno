@@ -1,6 +1,48 @@
 {
   "diversions": [
     {
+      "id": 34052,
+      "number": "",
+      "title": "Další omezení provozu v Bystrci",
+      "latitude": 49.218286,
+      "longitude": 16.508994,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-31T22:30:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Kromě dlouhodobé výluky tramvají ve smyčce Ečerova jsou o víkendu <strong>18. a 19. října 2025</strong> a v následujících dnech předpokládána v oblasti Bystrce a Komína další omezení provozu:</p>\n\n<p>• O víkendech <strong>18. a 19. a 25. a 26. října 2025</strong> budou probíhat další stavební práce na tramvajové trati, které si vyžádají ukončení <strong>tramvajových linek 1 </strong>a<strong> 3</strong> v zastávce Vozovna Komín a provoz <strong>autobusové linky 54</strong> v prodloužené trase Vozovna Komín – Kamechy.</p>\n\n<p>• O víkendu <strong>18. a 19. října 2025</strong> bude stavební činností na tramvajovém přejezdu u Kamenolomu ovlivněna i <strong>trolejbusová linka 30</strong>, která pojede odklonem ulicí Kníničskou, a <strong>autobusová linka 302</strong>, které bude ukončena v zastávce Pod Mniší horou.</p>\n\n<p>• V neděli <strong>19. října 2025</strong> je ve večerních hodinách předpokládáno ukončení III. a zahájení IV. etapy omezení dopravy v ulici Kníničské, které ovlivní <strong>noční autobusové linky N89, N92, N93 </strong>a<strong> N98</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "1",
+        "3",
+        "10",
+        "30",
+        "54",
+        "N89",
+        "N92",
+        "N93",
+        "N98",
+        "302"
+      ]
+    },
+    {
+      "id": 34051,
+      "number": "V2510-1xx",
+      "title": "Omezení provozu tramvají ve smyčce Ečerova",
+      "latitude": 49.218286,
+      "longitude": 16.508994,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2026-08-31T23:30:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>V souvislosti s výstavbou tramvajové trati na Kamechy a stavebními úpravami stávající tramvajové smyčky se <strong>od soboty 18. října 2025 do ukončení prací</strong> (předpoklad konec srpna 2026) předpokládá omezení provozu tramvají na konečné zastávce Ečerova. Omezení se dotkne <strong>tramvajové linky 1</strong>, která bude ukončena ve smyčce Rakovecká, a <strong>tramvajové linky 3</strong>, která bude prodloužena do úvrati v současné výstupní zastávce Ečerova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n\n<p> </p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "1",
+        "3"
+      ]
+    },
+    {
       "id": 99,
       "number": "VP 2510-090",
       "title": "žel. trať Novosedly – Hrušovany n.Jev.-Šanov",
@@ -88,6 +130,22 @@
       ]
     },
     {
+      "id": 110,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "403"
+      ]
+    },
+    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -102,22 +160,6 @@
       "affectedLines": [
         "69",
         "N91",
-        "403"
-      ]
-    },
-    {
-      "id": 110,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "403"
       ]
     },
@@ -138,19 +180,20 @@
       ]
     },
     {
-      "id": 108,
-      "number": "PO 2510-202",
-      "title": "Drnovice - havárie",
-      "latitude": 49.470718,
-      "longitude": 16.546719,
+      "id": 78,
+      "number": "PO 2510-200",
+      "title": "Vyškov, II. odboje",
+      "latitude": 49.279257,
+      "longitude": 16.993532,
       "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-10-17T23:59:00+02:00",
+      "validTo": "2025-12-19T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu mimořádné uzavírky silnice v Drnovicích ve směru na Voděrady pojede linka<font color=\"#009240\"><strong> 257</strong></font> mezi Drnovicemi a Voděrady obousměrným odklonem. Zastávka Voděrady, nám. bude společná pro oba směry. Obsluhována bude pouze zastávka směr Skalice a Boskovice. Zastávka směr Lysice bez obsluhy. Zastávka Voděrady, horní zastávka bude po dobu uzavírky zcela bez obsluhy.\u00A0. ",
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 744</strong></font> a <font color=\"#009240\"><strong>750</strong></font>:\u00A0Jedou v jednom směru odklonem bez dopadu na obsluhu zastávek. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "257"
+        "744",
+        "750"
       ]
     },
     {
@@ -170,20 +213,19 @@
       ]
     },
     {
-      "id": 78,
-      "number": "PO 2510-200",
-      "title": "Vyškov, II. odboje",
-      "latitude": 49.279257,
-      "longitude": 16.993532,
+      "id": 108,
+      "number": "PO 2510-202",
+      "title": "Drnovice - havárie",
+      "latitude": 49.470718,
+      "longitude": 16.546719,
       "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-12-19T23:59:00+01:00",
+      "validTo": "2025-10-17T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 744</strong></font> a <font color=\"#009240\"><strong>750</strong></font>:\u00A0Jedou v jednom směru odklonem bez dopadu na obsluhu zastávek. ",
+      "publicTextHtml": "Z důvodu mimořádné uzavírky silnice v Drnovicích ve směru na Voděrady pojede linka<font color=\"#009240\"><strong> 257</strong></font> mezi Drnovicemi a Voděrady obousměrným odklonem. Zastávka Voděrady, nám. bude společná pro oba směry. Obsluhována bude pouze zastávka směr Skalice a Boskovice. Zastávka směr Lysice bez obsluhy. Zastávka Voděrady, horní zastávka bude po dobu uzavírky zcela bez obsluhy.\u00A0. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "744",
-        "750"
+        "257"
       ]
     },
     {
@@ -271,23 +313,6 @@
       ]
     },
     {
-      "id": 101,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 73,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -303,6 +328,23 @@
         "158",
         "443",
         "812"
+      ]
+    },
+    {
+      "id": 101,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
@@ -372,22 +414,6 @@
       ]
     },
     {
-      "id": 81,
-      "number": "VP 2509-258",
-      "title": "Malá Lhota",
-      "latitude": 49.391927,
-      "longitude": 16.546783,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "313"
-      ]
-    },
-    {
       "id": 103,
       "number": "Lužice, žel. st.",
       "title": "Zastávka Lužice, žel. st. - pouze ve směru Hodonín",
@@ -404,20 +430,19 @@
       ]
     },
     {
-      "id": 43,
-      "number": "VP 2509-254",
-      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
-      "latitude": 49.044968,
-      "longitude": 16.116412,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "id": 81,
+      "number": "VP 2509-258",
+      "title": "Malá Lhota",
+      "latitude": 49.391927,
+      "longitude": 16.546783,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "812",
-        "442"
+        "313"
       ]
     },
     {
@@ -435,6 +460,23 @@
       "affectedLines": [
         "153",
         "402"
+      ]
+    },
+    {
+      "id": 43,
+      "number": "VP 2509-254",
+      "title": "Šemíkovice - hranice kraje JMK, silnice II/399",
+      "latitude": 49.044968,
+      "longitude": 16.116412,
+      "validFrom": "2025-09-22T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- veškeré dotčené spoje (vyjma spoje 91) pojedou v úseku mezi obcemi Tavíkovice a Rouchovany odklonem po obousměrné objízdné trase po silnicích II/399, II/400 a III/4006 přes obec Přešovice. Nebudou tak obsluhovat zastávku Rouchovany, Šemíkovice. Naopak obslouží na objízdné trase zast. Rouchovany, lihovar.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Rouchovany odklonem po objízdné trase po silnicích III/3983, II/400, III/4009, III/39914 a II/396 přes obce Horní Kounice, Tulešice a Rešice.\u00A0Zastavovat bude pouze v obci Rešice jako náhrada za dočasně zrušený spoj 11 linky<font color=\"#009240\"><strong> 442</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 442</strong></font>\u00A0- po dobu výluky na lince<font color=\"#009240\"><strong> 812</strong></font> dočasně zrušeny spoje 10 a 11 na lince<font color=\"#009240\"><strong> 442</strong></font>, náhradou je spoj 91 linky<font color=\"#009240\"><strong> 812</strong></font>. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "812",
+        "442"
       ]
     },
     {
@@ -471,20 +513,22 @@
       ]
     },
     {
-      "id": 74,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
+      "id": 37,
+      "number": "PO 2509-179",
+      "title": "Brno, Slatina II",
+      "latitude": 49.181928,
+      "longitude": 16.689606,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "816",
-        "817"
+        "601",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -504,22 +548,20 @@
       ]
     },
     {
-      "id": 37,
-      "number": "PO 2509-179",
-      "title": "Brno, Slatina II",
-      "latitude": 49.181928,
-      "longitude": 16.689606,
+      "id": 74,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
+        "816",
+        "817"
       ]
     },
     {
@@ -1098,7 +1140,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
