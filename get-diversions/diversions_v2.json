@@ -43,6 +43,77 @@
       ]
     },
     {
+      "id": 34060,
+      "number": "V2510-108",
+      "title": "Omezení dopravy v ulici Vídeňské",
+      "latitude": 49.179109,
+      "longitude": 16.595328,
+      "validFrom": "2025-10-11T22:30:00+02:00",
+      "validTo": "2025-10-12T07:15:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>od 22:30 v sobotu 11. října 2025 do 7:15 v neděli 12. října 2025</strong> průjezdná část ulice Vídeňské ve směru do centra.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede v úseku mezi zastávkami <strong>Ústřední hřbitov – Křídlovická</strong> ve směru do centra odklonem ulicí Heršpickou.<br />\n• Neobslouží tak zastávky Hluboká, Celní a Vojtova.<br />\n• Na odklonové trase obslouží zastávku Strážní.<br />\n• Ve směru do Kohoutovic pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.<br />\n• Zastávku <strong>Hluboká ve směru do Kohoutovic </strong>obslouží v přeložené poloze v ulici Strážní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N91</strong> pojede v úseku mezi zastávkami <strong>Ústřední hřbitov – Nemocnice Milosrdných bratří</strong> ve směru do centra odklonem ulicí Heršpickou, Polní a Vojtovou.<br />\n• Neobslouží tak zastávky Hluboká a Celní.<br />\n• Ve směru do Starého Lískovce pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.<br />\n• Zastávku <strong>Hluboká ve směru do Starého Lískovce </strong>obslouží v přeložené poloze v ulici Strážní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu ve směru do centra zajistí <strong>mimořádná jednosměrná autobusová linka x90</strong> v trase <strong>Hluboká – Celní – Vojtova – Křídlovická – Soukenická – Hlavní nádraží</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-108_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "N90",
+        "N91"
+      ]
+    },
+    {
+      "id": 34062,
+      "number": "V2510-110",
+      "title": "Výluka autobusů v ulici Rakovecké",
+      "latitude": 49.2254228,
+      "longitude": 16.514275,
+      "validFrom": "2025-10-11T10:30:00+02:00",
+      "validTo": "2025-10-11T14:15:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání běžeckého závodu Vokolo priglu 2025 bude <strong>v sobotu 11. října 2025 od 10:30 do 14:15</strong> uzavřena ulice Rakovecká.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Pravidelné spoje linky 303</strong> s odjezdem v 11:13, 12:13 a 13:13 z Brna a v 10:21, 11:15, 12:21 a 13:15 z Veverské Bítýšky pojedou v úseku <strong>Brno, Přístaviště – Brno, Nové Dvory / Hvozdec</strong> odklonem přes Ostrovačice (bez zastávek).</p>\n\n<p>• Vynechají tak všechny zastávky v úseku Rakovecká – Hrad Veveří.</p>\n\n<p>• Spoje vedené přes Hvozdec navíc vynechají zastávky Nové Dvory a Veverská Bítýška, Vápenice.</p>\n\n<p>• Spoje vedené přes Mečkov obslouží zastávku Nové Dvory v přeložené poloze na komunikaci od Ostrovačic a navíc obslouží zastávku Veverská Bítýška, Vápenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Náhradní dopravu</strong> zajistí mimořádné spoje lodní dopravy označené jako linka x303 v úseku <strong>Bystrc – Kozí horka</strong> a mimořádné spoje autobusové linky 303 v úseku <strong>Kozí horka – Veverská Bítýška</strong>.</p>\n\n<p>• Odjezdy lodí linky x303 z přístaviště Bystrc budou v časech 11:30, 12:30 a 13:30, na zastávce Kozí horka bude navazovat mimořádný spoj linky 303 směr Veverská Bítýška.</p>\n\n<p>• Odjezdy mimořádných spojů linky 303 z Veverské Bítýšky směr Kozí horka budou v časech 10:21 (přes Mečkov), 12:21 (přes Mečkov) a 13:15 (přes Hvozdec), v zastávce Kozí horka bude navazovat loď linky x303 směr Bystrc.</p>\n\n<p>• Pozor, spoj linky 303 s odjezdem z Veverské Bítýšky v 11:15 směr Kozí horka nelze zajistit! Náhradou bude veden spoj linky x303 již z přístaviště Hrad Veveří (odjezd v 11:30) přes přístaviště Rokle, U kotvy a Kozí horka do Bystrce.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Tarifní opatření: Ve všech spojích lodní dopravy označených x303 platí běžný tarif IDS JMK (shodný jako v autobusech).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2411-110_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "303"
+      ]
+    },
+    {
+      "id": 34061,
+      "number": "V2510-109",
+      "title": "Omezení dopravy v ulici Benešově",
+      "latitude": 49.192821,
+      "longitude": 16.61357,
+      "validFrom": "2025-10-11T08:30:00+02:00",
+      "validTo": "2025-10-11T18:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy kolejového křížení bude <strong>v sobotu 11. října 2025 od 8:30 do 18:00</strong> omezen průjezd ulicí Benešovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 1</strong> ve směru do Řečkovic pojede v úseku <strong>Nové sady – Moravské náměstí </strong>jednosměrným odklonem ulicí Masarykovou.<br />\n• V uvedeném směru tak neobslouží zastávku Malinovského náměstí.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Zelný trh, Náměstí Svobody a Česká.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 2</strong> ve směru do Židenic pojede v úseku <strong>Nové sady – Malinovského náměstí </strong>jednosměrným odklonem ulicemi Masarykovou a Rooseveltovou.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Zelný trh, Náměstí Svobody a Česká.<br />\n• Zastávku Malinovského náměstí obslouží společnou s linkou 1 směr Bystrc a následně pravidelnou v ulici Benešově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> ve směru do Obřan pojede v úseku Zelný trh – Malinovského náměstí odklonem ulicí Husovou, Joštovou a Rooseveltovou.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Nové sady, Šilingrovo náměstí a Česká (v ul. Joštově).<br />\n• Zastávku Malinovského náměstí obslouží společnou s linkou 1 směr Bystrc a následně pravidelnou v ulici Benešově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 7</strong> ve směru na Lesnou pojede v úseku <strong>Nové sady – Malinovského náměstí </strong>jednosměrným odklonem ulicemi Masarykovou a Rooseveltovou.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Zelný trh, Náměstí Svobody a Česká.<br />\n• Zastávku Malinovského náměstí obslouží společnou s linkou 1 směr Bystrc a následně pravidelnou v ulici Benešově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 10</strong> pojede v úseku <strong>Česká – Vlhká </strong>obousměrným odklonem ulicí Masarykovou.<br />\n• Neobslouží tak zastávky Malinovského náměstí a Hlavní nádraží 5. / 6. kolej (pod hotelem Grand).<br />\n• Zastávku Hlavní nádraží ve směru na Stránskou skálu obslouží na 2. koleji, ve směru do Komína na 1. koleji.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 67</strong> ve směru do Avionu obslouží zastávku <strong>Hlavní nádraží</strong> u nástupiště č. 10, společnou s linkami N94 a N95 u \"zdi\".<br />\n• Ve směru do Jundrova obslouží zastávku Hlavní nádraží v pravidelné poloze.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Po dobu výluky budou s ohledem na delší objízdnou trasu odjíždět linky 2, 4 a 7 od Malinovského náměstí směrem na Tkalcovskou o 6 minut později oproti jízdnímu řádu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-109_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "1",
+        "2",
+        "4",
+        "7",
+        "10",
+        "67"
+      ]
+    },
+    {
+      "id": 34059,
+      "number": "V2510-107",
+      "title": "Omezení trolejbusů v ulici Hlinky",
+      "latitude": 49.190433,
+      "longitude": 16.593374,
+      "validFrom": "2025-10-11T00:00:00+02:00",
+      "validTo": "2025-10-11T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>v sobotu 11. října 2025 </strong>pro trolejbusy<strong> </strong>omezen průjezd křižovatkou Hlinky × Křížkovského.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Jírova / Štefánikova čtvrť – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Nemocnice Bohunice</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Kamenný vrch</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.<br />\n• Linky x25 a x26 pojedou dle platného jízdního řádu pro linky 25 a 26, v zastávce <strong>Mendlovo náměstí</strong> bude zajištěn vzájemný přestup.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"4cf29938-4394-4795-a131-e3fa78880548\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 37 </strong>obslouží svou pravidelnou trasu bez omezení.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-107_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "26"
+      ]
+    },
+    {
       "id": 94,
       "number": "Blansko, Masarykova",
       "title": "Blansko, Masarykova",
