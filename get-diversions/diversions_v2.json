@@ -43,20 +43,19 @@
       ]
     },
     {
-      "id": 99,
-      "number": "VP 2510-090",
-      "title": "žel. trať Novosedly – Hrušovany n.Jev.-Šanov",
-      "latitude": 48.811725,
-      "longitude": 16.436276,
-      "validFrom": "2025-10-08T08:00:00+02:00",
-      "validTo": "2025-10-08T15:00:00+02:00",
+      "id": 94,
+      "number": "Blansko, Masarykova",
+      "title": "Blansko, Masarykova",
+      "latitude": 49.352382,
+      "longitude": 16.651787,
+      "validFrom": "2025-10-08T00:00:00+02:00",
+      "validTo": "2025-10-29T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": " Vlaky v\u00A0úseku\u00A0Břeclav\u00A0\u00A0– Hrušovany n.Jev.-Šanov\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle výlukového jízdního řádu linky\u00A0xS8. \u00A0V úseku\u00A0Břeclav -\u00A0Novosedly\u00A0jsou spoje vedeny souběžně vlaky bez návaznosti na autobusy náhradní dopravy. ",
+      "publicTextHtml": "Z důvodu stavebních prací v prostoru stálé zastávky Blansko, Masarykova bude zastávka v uvedeném termínu přesunuta. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "S8",
-        "xS8"
+        "223"
       ]
     },
     {
@@ -93,22 +92,6 @@
         "30",
         "72",
         "84"
-      ]
-    },
-    {
-      "id": 94,
-      "number": "Blansko, Masarykova",
-      "title": "Blansko, Masarykova",
-      "latitude": 49.352382,
-      "longitude": 16.651787,
-      "validFrom": "2025-10-08T00:00:00+02:00",
-      "validTo": "2025-10-29T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací v prostoru stálé zastávky Blansko, Masarykova bude zastávka v uvedeném termínu přesunuta. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "223"
       ]
     },
     {
@@ -313,6 +296,23 @@
       ]
     },
     {
+      "id": 101,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
+      ]
+    },
+    {
       "id": 73,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -328,23 +328,6 @@
         "158",
         "443",
         "812"
-      ]
-    },
-    {
-      "id": 101,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
       ]
     },
     {
@@ -382,6 +365,22 @@
       ]
     },
     {
+      "id": 103,
+      "number": "Lužice, žel. st.",
+      "title": "Zastávka Lužice, žel. st. - pouze ve směru Hodonín",
+      "latitude": 48.828756,
+      "longitude": 17.062631,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-10T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Lužice, žel. st. - pouze ve Hodonín bude posunuta o cca 100 metrů dále směr Hodonín za křižovatku u vjezdové brány firmy GROZ-BECKERT.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "572"
+      ]
+    },
+    {
       "id": 93,
       "number": "PO 2509-194",
       "title": "silnice II/394 Ivančice-Neslovice",
@@ -411,22 +410,6 @@
       "type": "V",
       "affectedLines": [
         "256"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "Lužice, žel. st.",
-      "title": "Zastávka Lužice, žel. st. - pouze ve směru Hodonín",
-      "latitude": 48.828756,
-      "longitude": 17.062631,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Lužice, žel. st. - pouze ve Hodonín bude posunuta o cca 100 metrů dále směr Hodonín za křižovatku u vjezdové brány firmy GROZ-BECKERT.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "572"
       ]
     },
     {
@@ -513,22 +496,20 @@
       ]
     },
     {
-      "id": 37,
-      "number": "PO 2509-179",
-      "title": "Brno, Slatina II",
-      "latitude": 49.181928,
-      "longitude": 16.689606,
+      "id": 74,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
+        "816",
+        "817"
       ]
     },
     {
@@ -548,20 +529,22 @@
       ]
     },
     {
-      "id": 74,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
+      "id": 37,
+      "number": "PO 2509-179",
+      "title": "Brno, Slatina II",
+      "latitude": 49.181928,
+      "longitude": 16.689606,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "816",
-        "817"
+        "601",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
