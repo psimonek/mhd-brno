@@ -174,7 +174,7 @@
       "longitude": 17.033958,
       "validFrom": "2025-10-11T00:00:00+02:00",
       "validTo": "2025-10-11T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 106</strong></font>: spoj 203 bude posílen třemi autobusy.<br/><br/> Linka<font color=\"#009240\"><strong> 109</strong></font>: Spoje 607, 612, 614, 620, 721 budou posíleny v úseku Brno - Mutěnice, křiž. a zpět. Spoje 725, 726 budou posíleny více autobusy v úseku Brno - Mutěnice, křiž. a zpět. Spoje 601, 721, 724 budou posíleny v úseku Čejč, nám. - Hodonín a zpět.<br/><br/> Linka<font color=\"#009240\"><strong> 663</strong></font>: Spoje 432, 436, 429 budou posíleny. Spoje 425, 427 budou posíleny více autobusy. V době od 15:00 do 19:00 budou řazeny posily z Dubňany, škola směr Kyjov a pak v opačném směru z Dubňan do Hodonína.<br/><br/> Linka<font color=\"#009240\"><strong> 664</strong></font>: Spoj 205 bude posílen více autobusy. Spoj 206 je zdvojen. Spoj 206 navíc v úseku Kyjov - Milotice, náves bude posílen dalšími autobusy. Spoj 208 je zdvojen v úseku Kyjov - Milotice, náves. V době od 15:00 do 19:00 jsou z Milotic, návsi řazeny posilové autobusy do Kyjova a do Hodonína. Spoj 341 bude posílen v úseku Milotice, náves do Kyjova. ",
       "privateTextHtml": null,
       "type": "V",
@@ -199,31 +199,13 @@
       "longitude": 16.593374,
       "validFrom": "2025-10-11T00:00:00+02:00",
       "validTo": "2025-10-11T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>v sobotu 11. října 2025 </strong>pro trolejbusy<strong> </strong>omezen průjezd křižovatkou Hlinky × Křížkovského.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Jírova / Štefánikova čtvrť – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Nemocnice Bohunice</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Kamenný vrch</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.<br />\n• Linky x25 a x26 pojedou dle platného jízdního řádu pro linky 25 a 26, v zastávce <strong>Mendlovo náměstí</strong> bude zajištěn vzájemný přestup.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"4cf29938-4394-4795-a131-e3fa78880548\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 37 </strong>obslouží svou pravidelnou trasu bez omezení.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-107_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "25",
         "26"
-      ]
-    },
-    {
-      "id": 33951,
-      "number": "V2510-106",
-      "title": "Uzavření rampy Sportovní × Křižíkova",
-      "latitude": 49.229194,
-      "longitude": 16.596136,
-      "validFrom": "2025-10-08T00:00:00+02:00",
-      "validTo": "2025-10-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od středy 8. října 2025 nepřetržitě do ukončení prací</strong> (předpoklad do 14. října 2025) uzavřena rampa ústící z ulice Sportovní do ulice Křižíkovy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> a <strong>autobusové linky 72</strong> (spoje jedoucí na Lesnou / Areál Slatina) a <strong>84</strong> pojedou od zastávky <strong>Semilasso</strong> ve směru do Soběšic / na Lesnou jednosměrným odklonem ulicí Božetěchovou.<br />\n• Na odklonové trase obslouží zastávku <strong>Královo Pole, nádraží</strong>, která bude přeložena do ulice Božetěchovy za křižovatku s ulicí Kosmovou.<br />\n• Zastávka <strong>Mojmírovo náměstí</strong> bude pro linku 30 v obou směrech a pro linky 72 a 84 ve směru na Lesnou přeložena do ulice Božetěchovy.<br />\n• Zastávka <strong>Královo Pole, nádraží</strong> v ulici Kosmově (nástupiště č. 7) nebude linkami 30, 72 a 84 po dobu výluky obsluhována.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-106_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30",
-        "72",
-        "84"
       ]
     },
     {
@@ -242,6 +224,24 @@
         "E50",
         "69",
         "N96"
+      ]
+    },
+    {
+      "id": 33951,
+      "number": "V2510-106",
+      "title": "Uzavření rampy Sportovní × Křižíkova",
+      "latitude": 49.229194,
+      "longitude": 16.596136,
+      "validFrom": "2025-10-08T00:00:00+02:00",
+      "validTo": "2025-10-14T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od středy 8. října 2025 nepřetržitě do ukončení prací</strong> (předpoklad do 14. října 2025) uzavřena rampa ústící z ulice Sportovní do ulice Křižíkovy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> a <strong>autobusové linky 72</strong> (spoje jedoucí na Lesnou / Areál Slatina) a <strong>84</strong> pojedou od zastávky <strong>Semilasso</strong> ve směru do Soběšic / na Lesnou jednosměrným odklonem ulicí Božetěchovou.<br />\n• Na odklonové trase obslouží zastávku <strong>Královo Pole, nádraží</strong>, která bude přeložena do ulice Božetěchovy za křižovatku s ulicí Kosmovou.<br />\n• Zastávka <strong>Mojmírovo náměstí</strong> bude pro linku 30 v obou směrech a pro linky 72 a 84 ve směru na Lesnou přeložena do ulice Božetěchovy.<br />\n• Zastávka <strong>Královo Pole, nádraží</strong> v ulici Kosmově (nástupiště č. 7) nebude linkami 30, 72 a 84 po dobu výluky obsluhována.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-106_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "30",
+        "72",
+        "84"
       ]
     },
     {
@@ -575,23 +575,6 @@
       "affectedLines": [
         "812",
         "442"
-      ]
-    },
-    {
-      "id": 74,
-      "number": "VP 2509-257",
-      "title": "Veverské Knínice, sil. III/3867",
-      "latitude": 49.229705,
-      "longitude": 16.413231,
-      "validFrom": "2025-09-22T00:00:00+02:00",
-      "validTo": "2025-10-10T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0jede mezi zastávkami Veverské Knínice, rozc. Pohádka Máje a Veverské Knínice odklonem přes Ostrovačice a Říčany. Z Říčan do Veverských Knínice jede ulicemi Polní a Mrštíkova.<br/><br/> Linka<font color=\"#009240\"><strong> 402</strong></font>\u00A0jede mezi zastávkami Říčany a Veverské Knínice odklonem ulicemi Polní a Mrštíkova. Pro spoje linky<font color=\"#009240\"><strong> 153</strong></font> obsluhující Veverské Knínice je v obci Říčany na odklonové trase zřízena náhradní zastávka před křižovatkou s ulicí Polní pro usnadnění přestupu na linky<font color=\"#009240\"><strong> 401</strong></font> a <font color=\"#009240\"><strong>402</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153",
-        "402"
       ]
     },
     {
