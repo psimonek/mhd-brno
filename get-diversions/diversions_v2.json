@@ -130,22 +130,6 @@
       ]
     },
     {
-      "id": 34062,
-      "number": "V2510-110",
-      "title": "Výluka autobusů v ulici Rakovecké",
-      "latitude": 49.2254228,
-      "longitude": 16.514275,
-      "validFrom": "2025-10-11T10:30:00+02:00",
-      "validTo": "2025-10-11T14:15:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání běžeckého závodu Vokolo priglu 2025 bude <strong>v sobotu 11. října 2025 od 10:30 do 14:15</strong> uzavřena ulice Rakovecká.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Pravidelné spoje linky 303</strong> s odjezdem v 11:13, 12:13 a 13:13 z Brna a v 10:21, 11:15, 12:21 a 13:15 z Veverské Bítýšky pojedou v úseku <strong>Brno, Přístaviště – Brno, Nové Dvory / Hvozdec</strong> odklonem přes Ostrovačice (bez zastávek).</p>\n\n<p>• Vynechají tak všechny zastávky v úseku Rakovecká – Hrad Veveří.</p>\n\n<p>• Spoje vedené přes Hvozdec navíc vynechají zastávky Nové Dvory a Veverská Bítýška, Vápenice.</p>\n\n<p>• Spoje vedené přes Mečkov obslouží zastávku Nové Dvory v přeložené poloze na komunikaci od Ostrovačic a navíc obslouží zastávku Veverská Bítýška, Vápenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Náhradní dopravu</strong> zajistí mimořádné spoje lodní dopravy označené jako linka x303 v úseku <strong>Bystrc – Kozí horka</strong> a mimořádné spoje autobusové linky 303 v úseku <strong>Kozí horka – Veverská Bítýška</strong>.</p>\n\n<p>• Odjezdy lodí linky x303 z přístaviště Bystrc budou v časech 11:30, 12:30 a 13:30, na zastávce Kozí horka bude navazovat mimořádný spoj linky 303 směr Veverská Bítýška.</p>\n\n<p>• Odjezdy mimořádných spojů linky 303 z Veverské Bítýšky směr Kozí horka budou v časech 10:21 (přes Mečkov), 12:21 (přes Mečkov) a 13:15 (přes Hvozdec), v zastávce Kozí horka bude navazovat loď linky x303 směr Bystrc.</p>\n\n<p>• Pozor, spoj linky 303 s odjezdem z Veverské Bítýšky v 11:15 směr Kozí horka nelze zajistit! Náhradou bude veden spoj linky x303 již z přístaviště Hrad Veveří (odjezd v 11:30) přes přístaviště Rokle, U kotvy a Kozí horka do Bystrce.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Tarifní opatření: Ve všech spojích lodní dopravy označených x303 platí běžný tarif IDS JMK (shodný jako v autobusech).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-110_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "303"
-      ]
-    },
-    {
       "id": 34061,
       "number": "V2510-109",
       "title": "Omezení dopravy v ulici Benešově",
