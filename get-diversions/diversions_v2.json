@@ -130,27 +130,6 @@
       ]
     },
     {
-      "id": 34061,
-      "number": "V2510-109",
-      "title": "Omezení dopravy v ulici Benešově",
-      "latitude": 49.192821,
-      "longitude": 16.61357,
-      "validFrom": "2025-10-11T08:30:00+02:00",
-      "validTo": "2025-10-11T18:00:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu opravy kolejového křížení bude <strong>v sobotu 11. října 2025 od 8:30 do 18:00</strong> omezen průjezd ulicí Benešovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 1</strong> ve směru do Řečkovic pojede v úseku <strong>Nové sady – Moravské náměstí </strong>jednosměrným odklonem ulicí Masarykovou.<br />\n• V uvedeném směru tak neobslouží zastávku Malinovského náměstí.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Zelný trh, Náměstí Svobody a Česká.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 2</strong> ve směru do Židenic pojede v úseku <strong>Nové sady – Malinovského náměstí </strong>jednosměrným odklonem ulicemi Masarykovou a Rooseveltovou.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Zelný trh, Náměstí Svobody a Česká.<br />\n• Zastávku Malinovského náměstí obslouží společnou s linkou 1 směr Bystrc a následně pravidelnou v ulici Benešově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> ve směru do Obřan pojede v úseku Zelný trh – Malinovského náměstí odklonem ulicí Husovou, Joštovou a Rooseveltovou.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Nové sady, Šilingrovo náměstí a Česká (v ul. Joštově).<br />\n• Zastávku Malinovského náměstí obslouží společnou s linkou 1 směr Bystrc a následně pravidelnou v ulici Benešově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 7</strong> ve směru na Lesnou pojede v úseku <strong>Nové sady – Malinovského náměstí </strong>jednosměrným odklonem ulicemi Masarykovou a Rooseveltovou.<br />\n• Zastávku Hlavní nádraží obslouží v ústí ulice Masarykovy.<br />\n• Na odklonové trase obslouží zastávky Zelný trh, Náměstí Svobody a Česká.<br />\n• Zastávku Malinovského náměstí obslouží společnou s linkou 1 směr Bystrc a následně pravidelnou v ulici Benešově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 10</strong> pojede v úseku <strong>Česká – Vlhká </strong>obousměrným odklonem ulicí Masarykovou.<br />\n• Neobslouží tak zastávky Malinovského náměstí a Hlavní nádraží 5. / 6. kolej (pod hotelem Grand).<br />\n• Na odklonové trase obslouží zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Hlavní nádraží ve směru na Stránskou skálu obslouží na 2. koleji, ve směru do Komína na 1. koleji.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 67</strong> ve směru do Avionu obslouží zastávku <strong>Hlavní nádraží</strong> u nástupiště č. 10, společnou s linkami N94 a N95 u \"zdi\".<br />\n• Ve směru do Jundrova obslouží zastávku Hlavní nádraží v pravidelné poloze.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Po dobu výluky budou s ohledem na delší objízdnou trasu odjíždět linky 2, 4 a 7 od Malinovského náměstí směrem na Tkalcovskou o 6 minut později oproti jízdnímu řádu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-109_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "1",
-        "2",
-        "4",
-        "7",
-        "10",
-        "67"
-      ]
-    },
-    {
       "id": 106,
       "number": "ZDO 2510-011",
       "title": "Mutěnice a Milotice",
@@ -193,24 +172,6 @@
       ]
     },
     {
-      "id": 33952,
-      "number": "V2510-105",
-      "title": "Omezení dopravy v ulici Jemelkově",
-      "latitude": 49.171681,
-      "longitude": 16.553607,
-      "validFrom": "2025-10-08T00:00:00+02:00",
-      "validTo": "2025-11-30T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu celoplošné opravy povrchu komunikace bude <strong>od středy 8. října 2025 do ukončení prací </strong>(předpoklad do 30. listopadu 2025) vyloučen provoz v části ulice Jemelkovy mezi křižovatkami ulic Jihlavské a Kyjevské, a to vždy <strong>v pracovní dny mezi 6:30 – 18:30</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Mimo uvedenou dobu v pracovních dnech a o víkendech celodenně pojedou linky E50 a 69 po běžných trasách</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka E50</strong> pojede v úseku mezi zastávkami <strong>Jírovcova – Bohunická </strong>obousměrným odklonem ulicemi Petra Křivky a Kamenice.<br />\n• Vynechá tak zastávky <strong>Starý Lískovec, smyčka</strong> (→) / <strong>Dunajská</strong> (←),<strong> Čermákova</strong>, <strong>Humenná</strong> a <strong>Běloruská</strong>.<br />\n• Na odklonové trase obslouží zastávka <strong>Univerzitní kampus</strong> <em>(ve směru do Slatiny zastávku linky 69 směr Ukrajinská, ve směru do Kohoutovic zastávku linky 50 směr Zoologická zahrada)</em>, <strong>Uzbecká</strong> a <strong>Ukrajinská</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 69</strong> pojede pouze v trase <strong>Ukrajinská – U hřiště</strong> a dále bude odkloněna do smyčky <strong>Kyjevská</strong>.<br />\n• Vynechá tak všechny zastávky v trase <strong>Starý Lískovec, smyčka – Bosonohy</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Kurská </strong>a <strong>Kyjevská</strong>.<br />\n• Ve směru na Ukrajinskou navíc obslouží zastávku <strong>Dunajská</strong>, společnou s linkou N96 ve směru do Šlapanic.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní doprava pro oblast Bosonoh bude během <strong>pracovních dní v době od 6:30 do 18:30</strong> zajištěna <strong>mimořádnou autobusovou linkou x69 </strong>v trase <strong>Bosonohy – Hoštická – Pražská </strong>(→) <strong>– Skalní – Jemelkova – Svážná – Nemocnice Bohunice</strong>.<br />\n• Zastávku <strong>Nemocnice Bohunice</strong> obslouží standardní pro linku 69 směr Bosonohy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Starý Lískovec, smyčka </strong>nebude po celou dobu výluky obsluhována linkami <strong>E50</strong>, <strong>69 </strong>a <strong>N96 </strong><em>(pro linku N96 platí již od 23:00 v úterý 7. října 2025)</em>.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Dunajská</strong> <em>(ve směru do Bosonoh / Kohoutovic) </em>nebude linkami <strong>E50</strong> a <strong>69</strong> v pracovní dny od 6:30 do 18:30 obsluhována.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-105_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "E50",
-        "69",
-        "N96"
-      ]
-    },
-    {
       "id": 33951,
       "number": "V2510-106",
       "title": "Uzavření rampy Sportovní × Křižíkova",
@@ -226,6 +187,24 @@
         "30",
         "72",
         "84"
+      ]
+    },
+    {
+      "id": 33952,
+      "number": "V2510-105",
+      "title": "Omezení dopravy v ulici Jemelkově",
+      "latitude": 49.171681,
+      "longitude": 16.553607,
+      "validFrom": "2025-10-08T00:00:00+02:00",
+      "validTo": "2025-11-30T23:00:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu celoplošné opravy povrchu komunikace bude <strong>od středy 8. října 2025 do ukončení prací </strong>(předpoklad do 30. listopadu 2025) vyloučen provoz v části ulice Jemelkovy mezi křižovatkami ulic Jihlavské a Kyjevské, a to vždy <strong>v pracovní dny mezi 6:30 – 18:30</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Mimo uvedenou dobu v pracovních dnech a o víkendech celodenně pojedou linky E50 a 69 po běžných trasách</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka E50</strong> pojede v úseku mezi zastávkami <strong>Jírovcova – Bohunická </strong>obousměrným odklonem ulicemi Petra Křivky a Kamenice.<br />\n• Vynechá tak zastávky <strong>Starý Lískovec, smyčka</strong> (→) / <strong>Dunajská</strong> (←),<strong> Čermákova</strong>, <strong>Humenná</strong> a <strong>Běloruská</strong>.<br />\n• Na odklonové trase obslouží zastávka <strong>Univerzitní kampus</strong> <em>(ve směru do Slatiny zastávku linky 69 směr Ukrajinská, ve směru do Kohoutovic zastávku linky 50 směr Zoologická zahrada)</em>, <strong>Uzbecká</strong> a <strong>Ukrajinská</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 69</strong> pojede pouze v trase <strong>Ukrajinská – U hřiště</strong> a dále bude odkloněna do smyčky <strong>Kyjevská</strong>.<br />\n• Vynechá tak všechny zastávky v trase <strong>Starý Lískovec, smyčka – Bosonohy</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Kurská </strong>a <strong>Kyjevská</strong>.<br />\n• Ve směru na Ukrajinskou navíc obslouží zastávku <strong>Dunajská</strong>, společnou s linkou N96 ve směru do Šlapanic.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní doprava pro oblast Bosonoh bude během <strong>pracovních dní v době od 6:30 do 18:30</strong> zajištěna <strong>mimořádnou autobusovou linkou x69 </strong>v trase <strong>Bosonohy – Hoštická – Pražská </strong>(→) <strong>– Skalní – Jemelkova – Svážná – Nemocnice Bohunice</strong>.<br />\n• Zastávku <strong>Nemocnice Bohunice</strong> obslouží standardní pro linku 69 směr Bosonohy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Starý Lískovec, smyčka </strong>nebude po celou dobu výluky obsluhována linkami <strong>E50</strong>, <strong>69 </strong>a <strong>N96 </strong><em>(pro linku N96 platí již od 23:00 v úterý 7. října 2025)</em>.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Dunajská</strong> <em>(ve směru do Bosonoh / Kohoutovic) </em>nebude linkami <strong>E50</strong> a <strong>69</strong> v pracovní dny od 6:30 do 18:30 obsluhována.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-105_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "E50",
+        "69",
+        "N96"
       ]
     },
     {
@@ -344,23 +323,6 @@
       ]
     },
     {
-      "id": 33932,
-      "number": "",
-      "title": "Změna trasy linek 47 a 49",
-      "latitude": 49.188996,
-      "longitude": 16.613313,
-      "validFrom": "2025-10-05T00:00:00+02:00",
-      "validTo": null,
-      "isValid": true,
-      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "47",
-        "49"
-      ]
-    },
-    {
       "id": 14,
       "number": "PO 2510-198",
       "title": "Modřice, Masarykova ",
@@ -375,6 +337,23 @@
       "affectedLines": [
         "509",
         "510"
+      ]
+    },
+    {
+      "id": 33932,
+      "number": "",
+      "title": "Změna trasy linek 47 a 49",
+      "latitude": 49.188996,
+      "longitude": 16.613313,
+      "validFrom": "2025-10-05T00:00:00+02:00",
+      "validTo": null,
+      "isValid": true,
+      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "47",
+        "49"
       ]
     },
     {
@@ -1018,22 +997,6 @@
       ]
     },
     {
-      "id": 15,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
       "id": 16,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -1051,6 +1014,22 @@
         "662",
         "663",
         "664"
+      ]
+    },
+    {
+      "id": 15,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
       ]
     },
     {
