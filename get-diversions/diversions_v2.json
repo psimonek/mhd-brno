@@ -121,7 +121,7 @@
       "longitude": 16.436435,
       "validFrom": "2025-10-11T12:00:00+02:00",
       "validTo": "2025-10-12T19:30:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 333</strong></font>\u00A0v uvedené době vynechá závlek do obce Strhaře. Služba\u00A0odjezd na zavolání\u00A0není na spojích 102, 105, 118 a 119 po dobu výluky dostupná. ",
       "privateTextHtml": null,
       "type": "V",
