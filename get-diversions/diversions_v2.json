@@ -43,22 +43,6 @@
       ]
     },
     {
-      "id": 105,
-      "number": "PO 2510-204",
-      "title": "Modřice, Bobrava",
-      "latitude": 49.104275,
-      "longitude": 16.600986,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-10-14T23:59:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 511</strong></font>\u00A0bude ukončena v zastávce Modřice, Bobrava, motel. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "511"
-      ]
-    },
-    {
       "id": 96,
       "number": "2510 Brno, Ruda",
       "title": "Brno, Ruda - směr Žebětín",
@@ -97,20 +81,19 @@
       ]
     },
     {
-      "id": 34060,
-      "number": "V2510-108",
-      "title": "Omezení dopravy v ulici Vídeňské",
-      "latitude": 49.179109,
-      "longitude": 16.595328,
-      "validFrom": "2025-10-11T22:30:00+02:00",
-      "validTo": "2025-10-12T07:15:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace nebude <strong>od 22:30 v sobotu 11. října 2025 do 7:15 v neděli 12. října 2025</strong> průjezdná část ulice Vídeňské.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N90</strong> pojede v úseku mezi zastávkami <strong>Ústřední hřbitov – Křídlovická</strong> ve směru do centra odklonem ulicí Heršpickou.<br />\n• Neobslouží tak zastávky Hluboká, Celní a Vojtova.<br />\n• Na odklonové trase obslouží zastávku Strážní.<br />\n• Ve směru do Kohoutovic pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.<br />\n• Zastávku <strong>Hluboká ve směru do Kohoutovic </strong>obslouží v přeložené poloze v ulici Strážní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N91</strong> pojede v úseku mezi zastávkami <strong>Ústřední hřbitov – Nemocnice Milosrdných bratří</strong> ve směru do centra odklonem ulicí Heršpickou, Polní a Vojtovou.<br />\n• Neobslouží tak zastávky Hluboká a Celní.<br />\n• Ve směru do Starého Lískovce pojede po běžné trase ulicí Vídeňskou přes zastávku Celní.<br />\n• Zastávku <strong>Hluboká ve směru do Starého Lískovce </strong>obslouží v přeložené poloze v ulici Strážní.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu ve směru do centra zajistí <strong>mimořádná jednosměrná autobusová linka x90</strong> v trase <strong>Hluboká – Celní – Vojtova – Křídlovická – Soukenická – Hlavní nádraží</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-108_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "id": 105,
+      "number": "PO 2510-204",
+      "title": "Modřice, Bobrava",
+      "latitude": 49.104275,
+      "longitude": 16.600986,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-10-14T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 511</strong></font>\u00A0bude ukončena v zastávce Modřice, Bobrava, motel. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "N90",
-        "N91"
+        "511"
       ]
     },
     {
