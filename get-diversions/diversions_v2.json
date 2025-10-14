@@ -81,40 +81,6 @@
       ]
     },
     {
-      "id": 105,
-      "number": "PO 2510-204",
-      "title": "Modřice, Bobrava",
-      "latitude": 49.104275,
-      "longitude": 16.600986,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-10-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 511</strong></font>\u00A0bude ukončena v zastávce Modřice, Bobrava, motel. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "511"
-      ]
-    },
-    {
-      "id": 33951,
-      "number": "V2510-106",
-      "title": "Uzavření rampy Sportovní × Křižíkova",
-      "latitude": 49.229194,
-      "longitude": 16.596136,
-      "validFrom": "2025-10-08T00:00:00+02:00",
-      "validTo": "2025-10-14T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od středy 8. října 2025 nepřetržitě do ukončení prací</strong> (předpoklad do 14. října 2025) uzavřena rampa ústící z ulice Sportovní do ulice Křižíkovy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> a <strong>autobusové linky 72</strong> (spoje jedoucí na Lesnou / Areál Slatina) a <strong>84</strong> pojedou od zastávky <strong>Semilasso</strong> ve směru do Soběšic / na Lesnou jednosměrným odklonem ulicí Božetěchovou.<br />\n• Na odklonové trase obslouží zastávku <strong>Královo Pole, nádraží</strong>, která bude přeložena do ulice Božetěchovy za křižovatku s ulicí Kosmovou.<br />\n• Zastávka <strong>Mojmírovo náměstí</strong> bude pro linku 30 v obou směrech a pro linky 72 a 84 ve směru na Lesnou přeložena do ulice Božetěchovy.<br />\n• Zastávka <strong>Královo Pole, nádraží</strong> v ulici Kosmově (nástupiště č. 7) nebude linkami 30, 72 a 84 po dobu výluky obsluhována.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-106_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30",
-        "72",
-        "84"
-      ]
-    },
-    {
       "id": 33952,
       "number": "V2510-105",
       "title": "Omezení dopravy v ulici Jemelkově",
@@ -149,6 +115,22 @@
       ]
     },
     {
+      "id": 103,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "403"
+      ]
+    },
+    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -163,22 +145,6 @@
       "affectedLines": [
         "69",
         "N91",
-        "403"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "403"
       ]
     },
@@ -248,23 +214,6 @@
       ]
     },
     {
-      "id": 33932,
-      "number": "",
-      "title": "Změna trasy linek 47 a 49",
-      "latitude": 49.188996,
-      "longitude": 16.613313,
-      "validFrom": "2025-10-05T00:00:00+02:00",
-      "validTo": null,
-      "isValid": true,
-      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "47",
-        "49"
-      ]
-    },
-    {
       "id": 14,
       "number": "PO 2510-198",
       "title": "Modřice, Masarykova ",
@@ -279,6 +228,23 @@
       "affectedLines": [
         "509",
         "510"
+      ]
+    },
+    {
+      "id": 33932,
+      "number": "",
+      "title": "Změna trasy linek 47 a 49",
+      "latitude": 49.188996,
+      "longitude": 16.613313,
+      "validFrom": "2025-10-05T00:00:00+02:00",
+      "validTo": null,
+      "isValid": true,
+      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "47",
+        "49"
       ]
     },
     {
@@ -417,22 +383,6 @@
       ]
     },
     {
-      "id": 83,
-      "number": "Kunštát, kulturní dům",
-      "title": "Kunštát, kulturní dům (v obou směrech)",
-      "latitude": 49.506262,
-      "longitude": 16.523459,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-16T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "256"
-      ]
-    },
-    {
       "id": 72,
       "number": "VP 2509-258",
       "title": "Malá Lhota",
@@ -446,6 +396,22 @@
       "type": "V",
       "affectedLines": [
         "313"
+      ]
+    },
+    {
+      "id": 83,
+      "number": "Kunštát, kulturní dům",
+      "title": "Kunštát, kulturní dům (v obou směrech)",
+      "latitude": 49.506262,
+      "longitude": 16.523459,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-16T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "256"
       ]
     },
     {
@@ -483,6 +449,23 @@
       ]
     },
     {
+      "id": 65,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
+      ]
+    },
+    {
       "id": 51,
       "number": "PO 2509-182",
       "title": "Silnice Kozojídky - Hroznová Lhota",
@@ -515,23 +498,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 65,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
@@ -773,22 +739,6 @@
       ]
     },
     {
-      "id": 27,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 23,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -802,6 +752,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 27,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
