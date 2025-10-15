@@ -1,6 +1,42 @@
 {
   "diversions": [
     {
+      "id": 34158,
+      "number": "V210-114",
+      "title": "Výluka tramvají do Bystrce",
+      "latitude": 49.222759,
+      "longitude": 16.536547,
+      "validFrom": "2025-10-18T08:30:00+02:00",
+      "validTo": "2025-10-19T14:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu v křižovatce ulic Kníničské a Bystrcké a uzavření přejezdu bude vyloučen provoz tramvají v úseku mezi zastávkami <strong>Vozovna Komín – Bystrc, Ečerova</strong>:<br />\n• <strong>v sobotu 18. října od 8:30 hod. do 20:30 hod.</strong><br />\n•<strong> v neděli 19. října od 8:30 hod. do 14:00 hod.</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 1</strong> bude v provozu pouze v úseku <strong>Řečkovice – Vozovna Komín / Komín, smyčka</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 3</strong> bude v provozu pouze v úseku <strong>Stará osada – Vozovna Komín / Komín, smyčka</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Náhradní doprava</strong> bude zajištěna mimořádnou <strong>autobusovou linkou x1</strong> v trase <strong>Vozovna Komín – Bystrc, Ečerova – Kamechy</strong>.<br />\n• Linka obslouží v obou směrech zastávky <strong>Vozovna Komín</strong> (pro nástup v ulici Kníničské vedle tramvajové zastávky, pro výstup zastávku linky 44), <strong>Svratecká </strong>(v ulici Kníničské), <strong>Branka </strong>a <strong>Kamenolom </strong>(obě v přeložené poloze v ulici Kníničské), <span><span>v úseku <strong>Zoologická zahrada » Kamechy » Říčanská » Zoologická zahrada</strong> pojede po pravidelné trase a zastávkách linky 54, kterou po dobu výluky nahradí v plném rozsahu.</span></span><br />\n• Zastávku <strong>Podlesí </strong>nebude možné obsloužit.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Po dobu výluky <strong>nebude </strong>v provozu <strong>autobusová linka 54</strong>.<br />\n​• Náhradou bude možné využít <strong>linku x1</strong>. </p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-113-114_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "1",
+        "x1",
+        "3",
+        "54"
+      ]
+    },
+    {
+      "id": 34203,
+      "number": "V2510-113",
+      "title": "Omezení provozu v křižovatce Bystrcká × Kníničská",
+      "latitude": 49.22239,
+      "longitude": 16.536698,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-19T23:59:59+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu v křižovatce nebude <strong>v sobotu 18. a v neděli 19. října 2025</strong> pro veškerou dopravu průjezdná křižovatka ulic Bystrcké a Kníničské u kamenolomu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> pojede v úseku <strong>Lísky – Zoologická zahrada / Náměstí 28. dubna</strong> obousměrným odklonem ulicí Kníničskou.<br />\n<span><span>• Neobslouží tak zastávky <strong>Branka</strong> a <strong>Podlesí</strong>.<br />\n• Zastávku <strong>Kamenolom </strong>obslouží v obou směrech v přeložené poloze v ulici Kníničské</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Regionální autobusová linka 302</strong> bude ukončena v zastávce <strong>Pod Mniší horou</strong>.<br />\n• Neobslouží tak zastávku <strong>Zoologická zahrada</strong>.<br />\n• Zastávka <strong>Pod Mniší horou</strong> směr Kníničky a Kuřim bude přesunuta přibližně o 180 metrů vpřed za křižovatku s ulicí Komínskou.<br />\n• Mezi terminálem Zoologická zahrada a zastávkou Pod Mniší horou je nutné volit pěší trasu po lávce přes řeku Svratku.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-113-114_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řád linky 302 budou k dispozici na portálu <a href=\"https://www.idsjmk.cz/timetables/links\">IDS JMK</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "30",
+        "302"
+      ]
+    },
+    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -18,36 +54,11 @@
       ]
     },
     {
-      "id": 34052,
-      "number": "",
-      "title": "Další omezení provozu v Bystrci",
-      "latitude": 49.218286,
-      "longitude": 16.508994,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-31T22:30:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Kromě dlouhodobé výluky tramvají ve smyčce Ečerova jsou o víkendu <strong>18. a 19. října 2025</strong> a v následujících dnech předpokládána v oblasti Bystrce a Komína další omezení provozu:</p>\n\n<p>• O víkendech <strong>18. a 19. a 25. a 26. října 2025</strong> budou probíhat další stavební práce na tramvajové trati, které si vyžádají ukončení <strong>tramvajových linek 1 </strong>a<strong> 3</strong> v zastávce Vozovna Komín a provoz mimořádné <strong>autobusové linky x1</strong> v trase Vozovna Komín – Kamechy.</p>\n\n<p>• O víkendu <strong>18. a 19. října 2025</strong> bude stavební činností na tramvajovém přejezdu u Kamenolomu ovlivněna i <strong>trolejbusová linka 30</strong>, která pojede odklonem ulicí Kníničskou, a <strong>autobusová linka 302</strong>, které bude ukončena v zastávce Pod Mniší horou.</p>\n\n<p>• V neděli <strong>19. října 2025</strong> je ve večerních hodinách předpokládáno ukončení III. a zahájení IV. etapy omezení dopravy v ulici Kníničské, které ovlivní <strong>noční autobusové linky N89, N92, N93 </strong>a<strong> N98</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "1",
-        "3",
-        "10",
-        "30",
-        "54",
-        "N89",
-        "N92",
-        "N93",
-        "N98",
-        "302"
-      ]
-    },
-    {
       "id": 34149,
       "number": "V2510-111",
       "title": "Výluka tramvají do Obřan",
-      "latitude": 49.228004,
-      "longitude": 16.652555,
+      "latitude": 49.215499,
+      "longitude": 16.643149,
       "validFrom": "2025-10-17T09:30:00+02:00",
       "validTo": "2025-10-17T12:30:00+02:00",
       "isValid": false,
