@@ -413,22 +413,6 @@
       ]
     },
     {
-      "id": 84,
-      "number": "PO 2509-194",
-      "title": "silnice II/394 Ivančice-Neslovice",
-      "latitude": 49.118714,
-      "longitude": 16.380100,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-12-01T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "423"
-      ]
-    },
-    {
       "id": 72,
       "number": "VP 2509-258",
       "title": "Malá Lhota",
@@ -445,19 +429,19 @@
       ]
     },
     {
-      "id": 83,
-      "number": "Kunštát, kulturní dům",
-      "title": "Kunštát, kulturní dům (v obou směrech)",
-      "latitude": 49.506262,
-      "longitude": 16.523459,
+      "id": 84,
+      "number": "PO 2509-194",
+      "title": "silnice II/394 Ivančice-Neslovice",
+      "latitude": 49.118714,
+      "longitude": 16.380100,
       "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-16T23:59:00+02:00",
+      "validTo": "2025-12-01T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchu komunikace v Kunštátě budou v uvedeném termínu přeloženy zastávky Kunštát, kulturní dům v obou směrech. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "256"
+        "423"
       ]
     },
     {
