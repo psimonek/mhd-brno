@@ -211,7 +211,7 @@
       "longitude": 16.536326,
       "validFrom": "2025-10-17T23:30:00+02:00",
       "validTo": "2025-10-19T23:30:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu dokončovacích prací na uzavírce v ulici Kníničské v Brně v křižovatce u kamenolomu budou všechny víkendové spoje linky<font color=\"#009240\"><strong> 302</strong></font> ukončeny v zastávce Brno, Pod Mniší horou. Nebudou obsluhovat terminál Brno, ZOO. Zastávka Pod Mniší horou směr Kuřim přeložena k protější zastávce (co nejblíže lávce přes řeku vedoucí k terminálu Brno, ZOO). ",
       "privateTextHtml": null,
       "type": "V",
