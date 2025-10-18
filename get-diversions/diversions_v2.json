@@ -213,7 +213,7 @@
       "longitude": 16.729453,
       "validFrom": "2025-10-18T07:30:00+02:00",
       "validTo": "2025-10-18T16:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 612</strong></font>:\u00A0Jede mezi Telnicí a žel. stanicí Sokolnice-Telnice odklonem, zastávka Telnice je pro oba směry přeložena k označníků, linky<font color=\"#009240\"><strong> 109</strong></font> na hlavní silnici. ",
       "privateTextHtml": null,
       "type": "V",
@@ -229,7 +229,7 @@
       "longitude": 16.795110,
       "validFrom": "2025-10-18T07:30:00+02:00",
       "validTo": "2025-10-19T15:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S2</strong></font>\u00A0 budou v úseku Křenovice hor. n. – Sokolnice-Telnice - Brno hl.n. nahrazeny autobusy náhradní dopravy (NAD) jedoucími jako linka xS2.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1358,7 +1358,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
