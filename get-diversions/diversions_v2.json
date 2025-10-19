@@ -208,23 +208,6 @@
       ]
     },
     {
-      "id": 34203,
-      "number": "V2510-113",
-      "title": "Omezení provozu v křižovatce Bystrcká × Kníničská",
-      "latitude": 49.22239,
-      "longitude": 16.536698,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-19T23:59:59+02:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu v křižovatce nebude <strong>v sobotu 18. a v neděli 19. října 2025</strong> pro veškerou dopravu průjezdná křižovatka ulic Bystrcké a Kníničské u kamenolomu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 30</strong> pojede v úseku <strong>Lísky – Zoologická zahrada / Náměstí 28. dubna</strong> obousměrným odklonem ulicí Kníničskou.<br />\n<span><span>• Neobslouží tak zastávky <strong>Branka</strong> a <strong>Podlesí</strong>.<br />\n• Zastávku <strong>Kamenolom </strong>obslouží v obou směrech v přeložené poloze v ulici Kníničské</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Regionální autobusová linka 302</strong> bude ukončena v zastávce <strong>Pod Mniší horou</strong>.<br />\n• Neobslouží tak zastávku <strong>Zoologická zahrada</strong>.<br />\n• Zastávka <strong>Pod Mniší horou</strong> směr Kníničky a Kuřim bude přesunuta přibližně o 180 metrů vpřed za křižovatku s ulicí Komínskou.<br />\n• Mezi terminálem Zoologická zahrada a zastávkou Pod Mniší horou je nutné volit pěší trasu po lávce přes řeku Svratku.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-113-114_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řád linky 302 budou k dispozici na portálu <a href=\"https://www.idsjmk.cz/timetables/links\">IDS JMK</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30",
-        "302"
-      ]
-    },
-    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -499,23 +482,6 @@
       ]
     },
     {
-      "id": 33932,
-      "number": "",
-      "title": "Změna trasy linek 47 a 49",
-      "latitude": 49.188996,
-      "longitude": 16.613313,
-      "validFrom": "2025-10-05T00:00:00+02:00",
-      "validTo": null,
-      "isValid": true,
-      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "47",
-        "49"
-      ]
-    },
-    {
       "id": 13,
       "number": "PO 2510-198",
       "title": "Modřice, Masarykova ",
@@ -530,6 +496,23 @@
       "affectedLines": [
         "509",
         "510"
+      ]
+    },
+    {
+      "id": 33932,
+      "number": "",
+      "title": "Změna trasy linek 47 a 49",
+      "latitude": 49.188996,
+      "longitude": 16.613313,
+      "validFrom": "2025-10-05T00:00:00+02:00",
+      "validTo": null,
+      "isValid": true,
+      "publicTextHtml": "<p><span><span>S ohledem na aktuální a plánované stavební činnosti dojde <strong>od neděle 5. října 2025</strong> ke změně trasy linek <strong>47</strong> a <strong>49</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 47</strong> se vrátí na svou původní trasu do zastávky <strong>Hlavní nádraží</strong>.<br />\n• V úseku Tržní – Hlavní nádraží pojede obousměrně přes zastávky <strong>Masná </strong>a <strong>Vlhká</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Nově bude v zastávce <strong>Hlavní nádraží</strong> ukončena i <strong>autobusová linka 49</strong>.<br />\n• Nebude tak již obsluhovat zastávky <strong>Hladíkova</strong>, <strong>Autobusové nádraží</strong>, <strong>Opuštěná </strong>a <strong>Úzká</strong>.</span></span><br />\n<span><span>• V úseku <strong>Tržní – Hlavní nádraží</strong> pojede po trase linky 47.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span> Na <strong>Hlavním nádraží</strong> obslouží obě linky pro výstup <strong>nástupiště č. 6</strong> pod Grandem, pro nástup obslouží <strong>nástupiště č. 12</strong> u autobusového nádraží.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_zmena_trasy_47_49_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "47",
+        "49"
       ]
     },
     {
@@ -803,6 +786,22 @@
       ]
     },
     {
+      "id": 34,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
+      ]
+    },
+    {
       "id": 46,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -817,22 +816,6 @@
       "affectedLines": [
         "320",
         "321"
-      ]
-    },
-    {
-      "id": 34,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
       ]
     },
     {
@@ -1123,6 +1106,22 @@
       ]
     },
     {
+      "id": 14,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 15,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -1140,22 +1139,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 14,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
