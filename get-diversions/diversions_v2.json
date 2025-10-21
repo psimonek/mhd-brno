@@ -100,6 +100,23 @@
       ]
     },
     {
+      "id": 34403,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Mokrá Hora ",
+      "latitude": 49.258421,
+      "longitude": 16.593716,
+      "validFrom": "2025-10-22T07:00:00+02:00",
+      "validTo": "2025-10-24T23:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu stavebních prací bude <strong>od 7:00 ve středu 22. října 2025 do ukončení prací</strong> (předpoklad do 24. října 2025) přeložena zastávka <strong>Mokrá Hora</strong> pro linky 70 a N90 v obou směrech:</p>\n\n<p>• směrem do centra <strong>cca o 130 metrů vzad</strong></p>\n\n<p>• směrem z centra <strong>cca o 180 metrů vpřed</strong></p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "70",
+        "N90"
+      ]
+    },
+    {
       "id": 89,
       "number": "VP 2510-092",
       "title": "žel. trať. Holubice - Vyškov - Nezamyslice(N)",
