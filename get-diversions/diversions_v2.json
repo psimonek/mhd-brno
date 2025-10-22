@@ -20,6 +20,23 @@
       ]
     },
     {
+      "id": 34433,
+      "number": "Z2510-080",
+      "title": "Památka zesnulých – posílení dopravy k Ústřednímu hřbitovu",
+      "latitude": 49.17132,
+      "longitude": 16.597273,
+      "validFrom": "2025-10-27T00:00:00+01:00",
+      "validTo": "2025-11-02T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><img alt=\"\" src=\"https://dpmb.cz/Data/Img/Image/DDI/tram13.png\" /> Vzhledem k očekávané zvýšené poptávce po přepravě k Ústřednímu hřbitovu je ve dnech <strong>27. října – 2. listopadu 2025</strong> navýšena přepravní kapacita na <strong>linkách 2 a 5</strong>.</p>\n\n<p>• V době přibližně od 8:30 do 19:00 jsou navíc všechny spoje linky 5 vedeny až do smyčky Ústřední hřbitov (ruší se ukončení vybraných spojů na Mendlově náměstí).</p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "2",
+        "5"
+      ]
+    },
+    {
       "id": 107,
       "number": "Hustopeče, Nádražní",
       "title": "Zastávka Hustopeče, Nádražní - pouze ve směru Hustupoče, aut. nádr.",
@@ -35,6 +52,91 @@
         "531",
         "540",
         "543"
+      ]
+    },
+    {
+      "id": 34431,
+      "number": "",
+      "title": "Provoz ve dnech 27. – 29. října 2025",
+      "latitude": 49.190995,
+      "longitude": 16.611478,
+      "validFrom": "2025-10-27T00:00:00+01:00",
+      "validTo": "2025-10-29T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> V pondělí 27. října 2025</strong> (podzimní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Školní autobusové linky š85, š86 a š88 budou mimo provoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> V úterý 28. října 2025 </strong>(státní svátek) bude doprava na linkách 1–84 vedena podle jízdních řádů pro <strong>soboty + neděle </strong>(linky 12 a 72 podle jízdních řádů pro neděle).</p>\n\n<p>• S ohledem na uzavření nákupních center nebude <strong>linka 78</strong> obsluhovat zastávky Modřice, Decathlon a Modřice, XXXLutz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Ve středu 29. října 2025</strong> (podzimní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Školní autobusové linky š85, š86 a š88 budou mimo provoz.</p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "x4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "12",
+        "25",
+        "26",
+        "27",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "44",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "E50",
+        "51",
+        "52",
+        "54",
+        "55",
+        "E56",
+        "57",
+        "58",
+        "62",
+        "64",
+        "65",
+        "67",
+        "68",
+        "69",
+        "70",
+        "72",
+        "74",
+        "75",
+        "E76",
+        "77",
+        "78",
+        "84",
+        "š85",
+        "š86",
+        "š88",
+        "N89",
+        "N90",
+        "N91",
+        "N92",
+        "N93",
+        "N94",
+        "N95",
+        "N96",
+        "N97",
+        "N98",
+        "N99"
       ]
     },
     {
@@ -285,51 +387,20 @@
       ]
     },
     {
-      "id": 98,
-      "number": "2510 Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka (v obou směrech)",
-      "latitude": 49.539594,
-      "longitude": 16.702276,
+      "id": 105,
+      "number": "VP 2510-268",
+      "title": "Slavkov u Brna, most ",
+      "latitude": 49.146426,
+      "longitude": 16.877452,
       "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-05T23:59:00+01:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "251"
-      ]
-    },
-    {
-      "id": 99,
-      "number": "2510 Letovice, Zboněk",
-      "title": "Letovice, Zboněk (v obou směrech)",
-      "latitude": 49.523293,
-      "longitude": 16.585686,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-09T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "255"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "Malínky - oba směry",
-      "title": "Malínky - oba směry",
-      "latitude": 49.159355,
-      "longitude": 17.160387,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-10-22T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 651</strong></font>\u00A0obsluhuje oba směry zastávky Malínky v přesunuté poloze na hlavní silnici směr Střílky u domu č.p. 38 a směr Nesovice u domu č.p. 63. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "651"
+        "630",
+        "631"
       ]
     },
     {
@@ -349,20 +420,51 @@
       ]
     },
     {
-      "id": 105,
-      "number": "VP 2510-268",
-      "title": "Slavkov u Brna, most ",
-      "latitude": 49.146426,
-      "longitude": 16.877452,
+      "id": 99,
+      "number": "2510 Letovice, Zboněk",
+      "title": "Letovice, Zboněk (v obou směrech)",
+      "latitude": 49.523293,
+      "longitude": 16.585686,
       "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
+      "validTo": "2025-11-09T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
+      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "630",
-        "631"
+        "255"
+      ]
+    },
+    {
+      "id": 98,
+      "number": "2510 Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka (v obou směrech)",
+      "latitude": 49.539594,
+      "longitude": 16.702276,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-05T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251"
+      ]
+    },
+    {
+      "id": 103,
+      "number": "Malínky - oba směry",
+      "title": "Malínky - oba směry",
+      "latitude": 49.159355,
+      "longitude": 17.160387,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-10-22T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 651</strong></font>\u00A0obsluhuje oba směry zastávky Malínky v přesunuté poloze na hlavní silnici směr Střílky u domu č.p. 38 a směr Nesovice u domu č.p. 63. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "651"
       ]
     },
     {
@@ -387,22 +489,6 @@
       ]
     },
     {
-      "id": 100,
-      "number": "PO 2510-206",
-      "title": "Svinošice - silnice II/379",
-      "latitude": 49.333093,
-      "longitude": 16.575494,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "152"
-      ]
-    },
-    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -417,6 +503,22 @@
       "affectedLines": [
         "1",
         "3"
+      ]
+    },
+    {
+      "id": 100,
+      "number": "PO 2510-206",
+      "title": "Svinošice - silnice II/379",
+      "latitude": 49.333093,
+      "longitude": 16.575494,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "152"
       ]
     },
     {
@@ -435,22 +537,6 @@
         "531",
         "540",
         "543"
-      ]
-    },
-    {
-      "id": 97,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541"
       ]
     },
     {
@@ -491,6 +577,22 @@
         "521",
         "522",
         "543"
+      ]
+    },
+    {
+      "id": 97,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
       ]
     },
     {
@@ -694,23 +796,6 @@
       ]
     },
     {
-      "id": 75,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 48,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -726,6 +811,23 @@
         "158",
         "443",
         "812"
+      ]
+    },
+    {
+      "id": 75,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
@@ -829,6 +931,23 @@
       ]
     },
     {
+      "id": 49,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
+      ]
+    },
+    {
       "id": 28,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -861,23 +980,6 @@
       "type": "V",
       "affectedLines": [
         "930"
-      ]
-    },
-    {
-      "id": 49,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
@@ -1183,6 +1285,22 @@
       ]
     },
     {
+      "id": 14,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 15,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -1200,22 +1318,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 14,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
@@ -1369,7 +1471,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
