@@ -304,7 +304,7 @@
       "longitude": 16.729318,
       "validFrom": "2025-10-23T12:40:00+02:00",
       "validTo": "2025-10-23T17:20:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "V železniční stanici\u00A0Šlapanice\u00A0nebude možno zajížděk k nástupišti, proto ve stanici Šlapanice\u00A0nezastaví vlaky linky S6/4114, 4146, 4148, 4119, 4121.. Náhradou\u00A0mohou cestující využít železniční zastávku\u00A0Šlapanice zastávka\u00A0kde mimořádně\u00A0zastaví i vlaky linky S6/ 4146 a 4148\u00A0nebo mohou použit mezi Brnem a Šlapanicemi trolejbusovou linku č.31. ",
       "privateTextHtml": null,
       "type": "V",
