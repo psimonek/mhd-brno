@@ -463,9 +463,9 @@
       "latitude": 49.22132,
       "longitude": 16.584755,
       "validFrom": "2025-10-19T21:00:00+02:00",
-      "validTo": "2025-10-26T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude<strong> od 21:00 hod. v neděli 19. října 2025 do ukončení prací</strong> (předpoklad do 26. října 2025) přeložena zastávka <strong>Skácelova</strong> pro linky 30, 44, 67, 72, 84 a N93:</p>\n\n<p>• pro linky 30, 67, 72 a 84 ve směru na Slovanské náměstí bude přeložena přibližně o 50 metrů vpřed za křižovatku s ulicí Mečířovou</p>\n\n<p>• pro linky 30, 44, 67 a 72 ve směru na Záhřebskou bude přeložena přibližně o 170 metrů vzad před křižovatku s ulicí Mečířovou</p>\n\n<p>• pro linku N93 ve směru na Záhřebskou bude přeložena do ulice Purkyňovy před křižovatku s ulicí Královopolskou</p>\n",
+      "validTo": "2025-10-24T21:45:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude<strong> od 21:00 hod. v neděli 19. října 2025 do ukončení prací</strong> (předpoklad do 26. října 2025) přeložena zastávka <strong>Skácelova</strong> pro linky 30, 44, 67, 72, 84 a N93:</p>\n\n<p>• pro linky 30, 67, 72 a 84 ve směru na Slovanské náměstí bude přeložena přibližně o 50 metrů vpřed za křižovatku s ulicí Mečířovou</p>\n\n<p>• pro linky 30, 44, 67 a 72 ve směru na Záhřebskou bude přeložena přibližně o 170 metrů vzad před křižovatku s ulicí Mečířovou</p>\n\n<p>• pro linku N93 ve směru na Záhřebskou bude přeložena do ulice Purkyňovy před křižovatku s ulicí Královopolskou</p>\n\n<p><strong>AKTUALIZACE 21:45: Zastávka Skácelova navrácena v obou směrech do pravidelné polohy</strong></p>\n",
       "privateTextHtml": null,
       "type": "Z",
       "affectedLines": [
