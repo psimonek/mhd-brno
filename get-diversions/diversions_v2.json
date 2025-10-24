@@ -262,7 +262,7 @@
       "longitude": 16.593374,
       "validFrom": "2025-10-25T00:00:00+02:00",
       "validTo": "2025-10-28T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu opravy trolejového vedení bude <strong>od soboty 25. října 2025 do úterý 28. října 2025 </strong>pro trolejbusy<strong> </strong>omezen průjezd křižovatkou Údolní × Úvoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-117_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -279,7 +279,7 @@
       "longitude": 16.317294,
       "validFrom": "2025-10-25T00:00:00+02:00",
       "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 108</strong></font>\u00A0- veškeré spoje ve směru do Znojma pojedou mezi zast. Miroslav, rozc. 4.0 až Mackovice, rozc. 2.6 jednosměrným odklonem po silnicích I/53, II/400 a II/397 přes město Miroslav a obec Hostěradice. Ve směru do Brna jedou všechny spoje po normální nevýlukové trase přes opravovaný úsek silnice I/53. ",
       "privateTextHtml": null,
       "type": "V",
@@ -336,22 +336,6 @@
       ]
     },
     {
-      "id": 106,
-      "number": "Kožušice - oba směry",
-      "title": "Kožušice - oba směry",
-      "latitude": 49.157467,
-      "longitude": 17.187960,
-      "validFrom": "2025-10-23T00:00:00+02:00",
-      "validTo": "2025-10-24T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 651</strong></font>\u00A0obsluhuje oba směry zastávky Kožušice v přesunuté poloze na hlavní silnici poblíž motorestu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "651"
-      ]
-    },
-    {
       "id": 88,
       "number": "VP 2510-092",
       "title": "žel. trať. Holubice - Vyškov - Nezamyslice(N)",
@@ -372,6 +356,23 @@
         "xR12",
         "xS71",
         "xS2"
+      ]
+    },
+    {
+      "id": 105,
+      "number": "VP 2510-268",
+      "title": "Slavkov u Brna, most ",
+      "latitude": 49.146426,
+      "longitude": 16.877452,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "630",
+        "631"
       ]
     },
     {
@@ -423,41 +424,19 @@
       ]
     },
     {
-      "id": 105,
-      "number": "VP 2510-268",
-      "title": "Slavkov u Brna, most ",
-      "latitude": 49.146426,
-      "longitude": 16.877452,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
+      "id": 100,
+      "number": "PO 2510-206",
+      "title": "Svinošice - silnice II/379",
+      "latitude": 49.333093,
+      "longitude": 16.575494,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "630",
-        "631"
-      ]
-    },
-    {
-      "id": 34348,
-      "number": "",
-      "title": "Dočasné přeložení zastávky Skácelova",
-      "latitude": 49.22132,
-      "longitude": 16.584755,
-      "validFrom": "2025-10-19T21:00:00+02:00",
-      "validTo": "2025-10-24T21:45:00+02:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude<strong> od 21:00 hod. v neděli 19. října 2025 do ukončení prací</strong> (předpoklad do 26. října 2025) přeložena zastávka <strong>Skácelova</strong> pro linky 30, 44, 67, 72, 84 a N93:</p>\n\n<p>• pro linky 30, 67, 72 a 84 ve směru na Slovanské náměstí bude přeložena přibližně o 50 metrů vpřed za křižovatku s ulicí Mečířovou</p>\n\n<p>• pro linky 30, 44, 67 a 72 ve směru na Záhřebskou bude přeložena přibližně o 170 metrů vzad před křižovatku s ulicí Mečířovou</p>\n\n<p>• pro linku N93 ve směru na Záhřebskou bude přeložena do ulice Purkyňovy před křižovatku s ulicí Královopolskou</p>\n\n<p><strong>AKTUALIZACE 21:45: Zastávka Skácelova navrácena v obou směrech do pravidelné polohy</strong></p>\n",
-      "privateTextHtml": null,
-      "type": "Z",
-      "affectedLines": [
-        "30",
-        "44",
-        "67",
-        "72",
-        "84",
-        "N93"
+        "152"
       ]
     },
     {
@@ -478,22 +457,6 @@
       ]
     },
     {
-      "id": 100,
-      "number": "PO 2510-206",
-      "title": "Svinošice - silnice II/379",
-      "latitude": 49.333093,
-      "longitude": 16.575494,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "152"
-      ]
-    },
-    {
       "id": 104,
       "number": "Hustopeče, Nádražní",
       "title": "Zastávka Hustopeče, Nádražní - pouze ve směru Šakvice / Mikulov",
@@ -509,22 +472,6 @@
         "531",
         "540",
         "543"
-      ]
-    },
-    {
-      "id": 80,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -565,6 +512,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 80,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -652,20 +615,19 @@
       ]
     },
     {
-      "id": 53,
-      "number": "PO 2510-200",
-      "title": "Vyškov, II. odboje",
-      "latitude": 49.279257,
-      "longitude": 16.993532,
+      "id": 83,
+      "number": "ZAS Okrouhlá",
+      "title": "Okrouhlá (v obou směrech)",
+      "latitude": 49.507732,
+      "longitude": 16.732167,
       "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-12-19T23:59:00+01:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 744</strong></font> a <font color=\"#009240\"><strong>750</strong></font>:\u00A0Jedou v jednom směru odklonem bez dopadu na obsluhu zastávek. ",
+      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "744",
-        "750"
+        "262"
       ]
     },
     {
@@ -685,19 +647,20 @@
       ]
     },
     {
-      "id": 83,
-      "number": "ZAS Okrouhlá",
-      "title": "Okrouhlá (v obou směrech)",
-      "latitude": 49.507732,
-      "longitude": 16.732167,
+      "id": 53,
+      "number": "PO 2510-200",
+      "title": "Vyškov, II. odboje",
+      "latitude": 49.279257,
+      "longitude": 16.993532,
       "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
+      "validTo": "2025-12-19T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 744</strong></font> a <font color=\"#009240\"><strong>750</strong></font>:\u00A0Jedou v jednom směru odklonem bez dopadu na obsluhu zastávek. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "262"
+        "744",
+        "750"
       ]
     },
     {
@@ -820,22 +783,6 @@
       ]
     },
     {
-      "id": 55,
-      "number": "VP 2509-258",
-      "title": "Malá Lhota",
-      "latitude": 49.391927,
-      "longitude": 16.546783,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "313"
-      ]
-    },
-    {
       "id": 67,
       "number": "PO 2509-194",
       "title": "silnice II/394 Ivančice-Neslovice",
@@ -849,6 +796,22 @@
       "type": "V",
       "affectedLines": [
         "423"
+      ]
+    },
+    {
+      "id": 55,
+      "number": "VP 2509-258",
+      "title": "Malá Lhota",
+      "latitude": 49.391927,
+      "longitude": 16.546783,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy komunikace v obci Malá Lhota bude doprava na lince<font color=\"#009240\"><strong> 313</strong></font> organizována následujícím způsobem:.<br/><br/> Linka<font color=\"#009240\"><strong> 313</strong></font>:. linka<font color=\"#009240\"><strong> 313</strong></font> pojede mezi Žernovníkem a Újezdem u Černé Hory obousměrným odklonem přes Černou Horu. Na odklonové trase obslouží mimořádně\u00A0v obou směrech zastávku Černá Hora, Na Škrku pro zajištění vybraných návazností mezi linkami<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font>. Žádné další zastávky nebudou linkou<font color=\"#009240\"><strong> 313</strong></font> na odklonové trase obsluhovány,, po dobu výluky nebude obsluhována zastávka Újezd u Černé Hory, SDP v obou směrech,, obec Malá Lhota bude veřejnou dopravou obsluhována pouze ze severu (od Žernovníku),, ve všední dny po většinu dne obec obsluhována účelovými spoji vedenými pouze v úseku Žernovník, ObÚ Malá Lhota. Budou zajišťovat vazbu na standartní spoje linky<font color=\"#009240\"><strong> 313</strong></font> a linku<font color=\"#009240\"><strong> 235</strong></font> do Žernovníku a od spojů linek<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> z Žernovníku do Malé Lhoty,, v okrajových částech všedních dní (především večer) a o víkendu budou spoje od Kuřimi do Lysic a opačně vedeny včetně závleku do Malé Lhoty a zpět,, zastávka Malá Lhota (v obou směrech) bude po celou dobu uzavírky přesunuta cca o 700 metrů na konec obce směrem na Žernovník za křižovatku s MK vedoucí k rodinným domům a sjednocena do jednoho nástupiště. Některé přestupní vazby mezi linkou<font color=\"#009240\"><strong> 313</strong></font> a <font color=\"#009240\"><strong>235</strong></font> jsou ze zastávky Žernovník, ObÚ přesunuty do zastávky Černí Hora, Na Škrku, sledujte přípojové řádky ve výlukových jízdních řádech.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "313"
       ]
     },
     {
