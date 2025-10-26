@@ -131,7 +131,7 @@
       "longitude": 16.597273,
       "validFrom": "2025-10-27T00:00:00+01:00",
       "validTo": "2025-11-02T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><img alt=\"\" src=\"https://dpmb.cz/Data/Img/Image/DDI/tram13.png\" /> Vzhledem k očekávané zvýšené poptávce po přepravě k Ústřednímu hřbitovu je ve dnech <strong>27. října – 2. listopadu 2025</strong> navýšena přepravní kapacita na <strong>linkách 2 a 5</strong>.</p>\n\n<p>• V době přibližně od 8:30 do 19:00 jsou navíc všechny spoje linky 5 vedeny až do smyčky Ústřední hřbitov (ruší se ukončení vybraných spojů na Mendlově náměstí).</p>\n\n<p> </p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -148,7 +148,7 @@
       "longitude": 16.731534,
       "validFrom": "2025-10-27T00:00:00+01:00",
       "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Hustopeče, Nádražní - pouze ve\u00A0 směru Hustupeče, aut. nádr. bude dočasně přeložena o cca 60 metrů zpět k benzínové čerpací stanici.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -166,7 +166,7 @@
       "longitude": 16.760813,
       "validFrom": "2025-10-27T00:00:00+01:00",
       "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Jiříkovice, motorest Rohlenka:\u00A0Pro oba směry přeložena mimo semaforový úsek směrem ke křižovatce na Tvarožnou a Jiříkovice. ",
       "privateTextHtml": null,
       "type": "V",
@@ -184,7 +184,7 @@
       "longitude": 16.611478,
       "validFrom": "2025-10-27T00:00:00+01:00",
       "validTo": "2025-10-29T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> V pondělí 27. října 2025</strong> (podzimní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Školní autobusové linky š85, š86 a š88 budou mimo provoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> V úterý 28. října 2025 </strong>(státní svátek) bude doprava na linkách 1–84 vedena podle jízdních řádů pro <strong>soboty + neděle </strong>(linky 12 a 72 podle jízdních řádů pro neděle).</p>\n\n<p>• S ohledem na uzavření nákupních center nebude <strong>linka 78</strong> obsluhovat zastávky Modřice, Decathlon a Modřice, XXXLutz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Ve středu 29. října 2025</strong> (podzimní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Školní autobusové linky š85, š86 a š88 budou mimo provoz.</p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -279,6 +279,25 @@
       ]
     },
     {
+      "id": 71,
+      "number": "2510 Brno, Tržní Ib",
+      "title": "Brno, Tržní - linky 106, 107, 601 a 602 směr region",
+      "latitude": 49.189305,
+      "longitude": 16.630340,
+      "validFrom": "2025-10-25T00:00:00+02:00",
+      "validTo": "2025-10-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Tržní směr z centra Brna:\u00A0Pro linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 107</strong></font>, <font color=\"#009240\"><strong> 601</strong></font> a <font color=\"#009240\"><strong>602</strong></font> je přeložena vzad na Svitavský most. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "106",
+        "107",
+        "601",
+        "602"
+      ]
+    },
+    {
       "id": 70,
       "number": "2510 Brno, Tržní Ia",
       "title": "Brno, Tržní - linky 701 a 702 směr region",
@@ -309,42 +328,6 @@
       "type": "V",
       "affectedLines": [
         "108"
-      ]
-    },
-    {
-      "id": 34394,
-      "number": "V2510-117",
-      "title": "Omezení trolejbusů v křižovatce Údolní × Úvoz",
-      "latitude": 49.190433,
-      "longitude": 16.593374,
-      "validFrom": "2025-10-25T00:00:00+02:00",
-      "validTo": "2025-10-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy trolejového vedení bude <strong>od soboty 25. října 2025 do úterý 28. října 2025 </strong>pro trolejbusy<strong> </strong>omezen průjezd křižovatkou Údolní × Úvoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-117_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "25",
-        "26"
-      ]
-    },
-    {
-      "id": 71,
-      "number": "2510 Brno, Tržní Ib",
-      "title": "Brno, Tržní - linky 106, 107, 601 a 602 směr region",
-      "latitude": 49.189305,
-      "longitude": 16.630340,
-      "validFrom": "2025-10-25T00:00:00+02:00",
-      "validTo": "2025-10-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Tržní směr z centra Brna:\u00A0Pro linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 107</strong></font>, <font color=\"#009240\"><strong> 601</strong></font> a <font color=\"#009240\"><strong>602</strong></font> je přeložena vzad na Svitavský most. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "107",
-        "601",
-        "602"
       ]
     },
     {
@@ -419,38 +402,6 @@
       ]
     },
     {
-      "id": 93,
-      "number": "2510 Letovice, Zboněk",
-      "title": "Letovice, Zboněk (v obou směrech)",
-      "latitude": 49.523293,
-      "longitude": 16.585686,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-09T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "255"
-      ]
-    },
-    {
-      "id": 92,
-      "number": "2510 Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka (v obou směrech)",
-      "latitude": 49.539594,
-      "longitude": 16.702276,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-05T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251"
-      ]
-    },
-    {
       "id": 100,
       "number": "VP 2510-268",
       "title": "Slavkov u Brna, most ",
@@ -484,19 +435,35 @@
       ]
     },
     {
-      "id": 94,
-      "number": "PO 2510-206",
-      "title": "Svinošice - silnice II/379",
-      "latitude": 49.333093,
-      "longitude": 16.575494,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
+      "id": 93,
+      "number": "2510 Letovice, Zboněk",
+      "title": "Letovice, Zboněk (v obou směrech)",
+      "latitude": 49.523293,
+      "longitude": 16.585686,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-09T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
+      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "152"
+        "255"
+      ]
+    },
+    {
+      "id": 92,
+      "number": "2510 Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka (v obou směrech)",
+      "latitude": 49.539594,
+      "longitude": 16.702276,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-05T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251"
       ]
     },
     {
@@ -517,21 +484,19 @@
       ]
     },
     {
-      "id": 98,
-      "number": "Hustopeče, Nádražní",
-      "title": "Zastávka Hustopeče, Nádražní - pouze ve směru Šakvice / Mikulov",
-      "latitude": 48.935391,
-      "longitude": 16.730981,
-      "validFrom": "2025-10-15T00:00:00+02:00",
-      "validTo": "2025-10-26T23:59:00+01:00",
+      "id": 94,
+      "number": "PO 2510-206",
+      "title": "Svinošice - silnice II/379",
+      "latitude": 49.333093,
+      "longitude": 16.575494,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Hustopeče, Nádražní - pouze ve\u00A0 směru Šakvice / Mikulov bude dočasně zrušena.. ",
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "531",
-        "540",
-        "543"
+        "152"
       ]
     },
     {
@@ -548,6 +513,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 73,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -572,22 +553,6 @@
         "521",
         "522",
         "543"
-      ]
-    },
-    {
-      "id": 73,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -675,22 +640,6 @@
       ]
     },
     {
-      "id": 76,
-      "number": "ZAS Okrouhlá",
-      "title": "Okrouhlá (v obou směrech)",
-      "latitude": 49.507732,
-      "longitude": 16.732167,
-      "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "262"
-      ]
-    },
-    {
       "id": 78,
       "number": "PO 2510-202",
       "title": "Drnovice - havárie (PRODLOUŽENÍ)",
@@ -721,6 +670,22 @@
       "affectedLines": [
         "744",
         "750"
+      ]
+    },
+    {
+      "id": 76,
+      "number": "ZAS Okrouhlá",
+      "title": "Okrouhlá (v obou směrech)",
+      "latitude": 49.507732,
+      "longitude": 16.732167,
+      "validFrom": "2025-10-06T00:00:00+02:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "262"
       ]
     },
     {
@@ -775,6 +740,23 @@
       ]
     },
     {
+      "id": 66,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
+      ]
+    },
+    {
       "id": 41,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -790,23 +772,6 @@
         "158",
         "443",
         "812"
-      ]
-    },
-    {
-      "id": 66,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
       ]
     },
     {
@@ -893,6 +858,23 @@
       ]
     },
     {
+      "id": 42,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
+      ]
+    },
+    {
       "id": 35,
       "number": "PO 2509-182",
       "title": "Silnice Kozojídky - Hroznová Lhota",
@@ -925,23 +907,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 42,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
@@ -1340,24 +1305,6 @@
       ]
     },
     {
-      "id": 6,
-      "number": "VP 2503-211",
-      "title": "Drasenhofen, silnice B7 v průtahu městem",
-      "latitude": 48.754633,
-      "longitude": 16.647177,
-      "validFrom": "2025-03-29T00:00:00+01:00",
-      "validTo": "2025-10-26T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky Stüzenhofen, Drasenhofen Schloss mimo provoz linkou IDS JMK, zastávky Mikulov, u parku a Mikulov, žel. st. bez obsluhy linkou IDS JMK 588, zastávka Herrnbaumgarten, Ortsmitte obsluhována pouze ve směru Valtice.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "555",
-        "570",
-        "588"
-      ]
-    },
-    {
       "id": 5,
       "number": "PO 2503-018",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
@@ -1433,7 +1380,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
