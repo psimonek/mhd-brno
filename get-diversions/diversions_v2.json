@@ -296,6 +296,22 @@
       ]
     },
     {
+      "id": 68,
+      "number": "VP 2510-269",
+      "title": "Silnice I/53 Kašenec, směr do Znojma po objízdné trase",
+      "latitude": 48.910478,
+      "longitude": 16.317294,
+      "validFrom": "2025-10-25T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 108</strong></font>\u00A0- veškeré spoje ve směru do Znojma pojedou mezi zast. Miroslav, rozc. 4.0 až Mackovice, rozc. 2.6 jednosměrným odklonem po silnicích I/53, II/400 a II/397 přes město Miroslav a obec Hostěradice. Ve směru do Brna jedou všechny spoje po normální nevýlukové trase přes opravovaný úsek silnice I/53. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "108"
+      ]
+    },
+    {
       "id": 34394,
       "number": "V2510-117",
       "title": "Omezení trolejbusů v křižovatce Údolní × Úvoz",
@@ -329,22 +345,6 @@
         "107",
         "601",
         "602"
-      ]
-    },
-    {
-      "id": 68,
-      "number": "VP 2510-269",
-      "title": "Silnice I/53 Kašenec, směr do Znojma po objízdné trase",
-      "latitude": 48.910478,
-      "longitude": 16.317294,
-      "validFrom": "2025-10-25T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 108</strong></font>\u00A0- veškeré spoje ve směru do Znojma pojedou mezi zast. Miroslav, rozc. 4.0 až Mackovice, rozc. 2.6 jednosměrným odklonem po silnicích I/53, II/400 a II/397 přes město Miroslav a obec Hostěradice. Ve směru do Brna jedou všechny spoje po normální nevýlukové trase přes opravovaný úsek silnice I/53. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "108"
       ]
     },
     {
@@ -419,6 +419,38 @@
       ]
     },
     {
+      "id": 93,
+      "number": "2510 Letovice, Zboněk",
+      "title": "Letovice, Zboněk (v obou směrech)",
+      "latitude": 49.523293,
+      "longitude": 16.585686,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-09T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "255"
+      ]
+    },
+    {
+      "id": 92,
+      "number": "2510 Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka (v obou směrech)",
+      "latitude": 49.539594,
+      "longitude": 16.702276,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-05T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251"
+      ]
+    },
+    {
       "id": 100,
       "number": "VP 2510-268",
       "title": "Slavkov u Brna, most ",
@@ -449,38 +481,6 @@
       "type": "V",
       "affectedLines": [
         "430"
-      ]
-    },
-    {
-      "id": 93,
-      "number": "2510 Letovice, Zboněk",
-      "title": "Letovice, Zboněk (v obou směrech)",
-      "latitude": 49.523293,
-      "longitude": 16.585686,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-09T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "255"
-      ]
-    },
-    {
-      "id": 92,
-      "number": "2510 Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka (v obou směrech)",
-      "latitude": 49.539594,
-      "longitude": 16.702276,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-05T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251"
       ]
     },
     {
@@ -535,6 +535,22 @@
       ]
     },
     {
+      "id": 91,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
+      ]
+    },
+    {
       "id": 83,
       "number": "VP 2510-264",
       "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
@@ -575,19 +591,19 @@
       ]
     },
     {
-      "id": 91,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "id": 59,
+      "number": "Blansko, Masarykova",
+      "title": "Blansko, Masarykova",
+      "latitude": 49.352382,
+      "longitude": 16.651787,
+      "validFrom": "2025-10-08T00:00:00+02:00",
+      "validTo": "2025-10-29T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "publicTextHtml": "Z důvodu stavebních prací v prostoru stálé zastávky Blansko, Masarykova bude zastávka v uvedeném termínu přesunuta. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "541"
+        "223"
       ]
     },
     {
@@ -609,19 +625,19 @@
       ]
     },
     {
-      "id": 59,
-      "number": "Blansko, Masarykova",
-      "title": "Blansko, Masarykova",
-      "latitude": 49.352382,
-      "longitude": 16.651787,
-      "validFrom": "2025-10-08T00:00:00+02:00",
-      "validTo": "2025-10-29T23:59:00+01:00",
+      "id": 82,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací v prostoru stálé zastávky Blansko, Masarykova bude zastávka v uvedeném termínu přesunuta. ",
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "223"
+        "403"
       ]
     },
     {
@@ -639,22 +655,6 @@
       "affectedLines": [
         "69",
         "N91",
-        "403"
-      ]
-    },
-    {
-      "id": 82,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "403"
       ]
     },
@@ -691,6 +691,22 @@
       ]
     },
     {
+      "id": 78,
+      "number": "PO 2510-202",
+      "title": "Drnovice - havárie (PRODLOUŽENÍ)",
+      "latitude": 49.470718,
+      "longitude": 16.546719,
+      "validFrom": "2025-10-06T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu mimořádné uzavírky silnice v Drnovicích ve směru na Voděrady pojede linka<font color=\"#009240\"><strong> 257</strong></font> mezi Drnovicemi a Voděrady obousměrným odklonem. Zastávka Voděrady, nám. bude společná pro oba směry. Obsluhována bude pouze zastávka směr Skalice a Boskovice. Zastávka směr Lysice bez obsluhy. Zastávka Voděrady, horní zastávka bude po dobu uzavírky zcela bez obsluhy.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "257"
+      ]
+    },
+    {
       "id": 46,
       "number": "PO 2510-200",
       "title": "Vyškov, II. odboje",
@@ -705,22 +721,6 @@
       "affectedLines": [
         "744",
         "750"
-      ]
-    },
-    {
-      "id": 78,
-      "number": "PO 2510-202",
-      "title": "Drnovice - havárie (PRODLOUŽENÍ)",
-      "latitude": 49.470718,
-      "longitude": 16.546719,
-      "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu mimořádné uzavírky silnice v Drnovicích ve směru na Voděrady pojede linka<font color=\"#009240\"><strong> 257</strong></font> mezi Drnovicemi a Voděrady obousměrným odklonem. Zastávka Voděrady, nám. bude společná pro oba směry. Obsluhována bude pouze zastávka směr Skalice a Boskovice. Zastávka směr Lysice bez obsluhy. Zastávka Voděrady, horní zastávka bude po dobu uzavírky zcela bez obsluhy.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "257"
       ]
     },
     {
@@ -775,19 +775,21 @@
       ]
     },
     {
-      "id": 55,
-      "number": "VP 2510-086",
-      "title": "žel. trať Nemotice -Kyjov(N), jedna kolej",
-      "latitude": 49.045801,
-      "longitude": 17.122364,
-      "validFrom": "2025-10-01T08:45:00+02:00",
-      "validTo": "2025-10-26T18:15:00+01:00",
+      "id": 41,
+      "number": "VP 2510-261",
+      "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
+      "latitude": 49.030384,
+      "longitude": 16.106000,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Po dobu výluky se předpokládá zpoždění některých vlaků linky<font color=\"#800000\"><strong> S6</strong></font> do Brna o cca 8 minut. Upozornění je ve výlukovém jízdním řádu. Vlak\u00A0S6/4113\u00A0 od\u00A01.\u00A0do\u00A026.10. 2025a vlaky\u00A0S6/4101, 4103, 4105, 4107, 4109, 1761\u00A0od\u00A03.\u00A0do\u00A025.10.2025pojedou z Brna hl.n. cca o 10 minut dříve a dřívější odjezd mají i z nácestných stanic tak, aby dojely do Kyjova před vlakem do Brna hl.n. podle výlukového jízdního řádu. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 158</strong></font>, <font color=\"#009240\"><strong> 443</strong></font> a <font color=\"#009240\"><strong>812</strong></font>\u00A0- téměř většina spojů nebude v Tavíkovicích obsluhovat zastávky, Tavíkovice, host. a Tavíkovice, OSEVA. Obsluhovat budou pouze zastávku Tavíkovice, škola.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- veškeré spoje (vyjma spojů 3 a 4) pojedou mezi obcemi Přeskače a Tavíkovice po obousměrné objízdné trase po silnicích II/400 a II/399.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- spoje 3 a 4 obsluhují také zast. Tavíkovice, host. Mezi Tavíkovicemi a Horními Kounicemi pojedou po silnici III/39914.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Horními Kounicemi po silnici III/39914. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "S6"
+        "158",
+        "443",
+        "812"
       ]
     },
     {
@@ -805,24 +807,6 @@
       "affectedLines": [
         "302",
         "304"
-      ]
-    },
-    {
-      "id": 41,
-      "number": "VP 2510-261",
-      "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
-      "latitude": 49.030384,
-      "longitude": 16.106000,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 158</strong></font>, <font color=\"#009240\"><strong> 443</strong></font> a <font color=\"#009240\"><strong>812</strong></font>\u00A0- téměř většina spojů nebude v Tavíkovicích obsluhovat zastávky, Tavíkovice, host. a Tavíkovice, OSEVA. Obsluhovat budou pouze zastávku Tavíkovice, škola.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- veškeré spoje (vyjma spojů 3 a 4) pojedou mezi obcemi Přeskače a Tavíkovice po obousměrné objízdné trase po silnicích II/400 a II/399.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- spoje 3 a 4 obsluhují také zast. Tavíkovice, host. Mezi Tavíkovicemi a Horními Kounicemi pojedou po silnici III/39914.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Horními Kounicemi po silnici III/39914. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "158",
-        "443",
-        "812"
       ]
     },
     {
@@ -925,23 +909,6 @@
       ]
     },
     {
-      "id": 42,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
-      ]
-    },
-    {
       "id": 27,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -958,6 +925,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
