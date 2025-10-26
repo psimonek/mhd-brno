@@ -269,7 +269,7 @@
       "longitude": 16.140633,
       "validFrom": "2025-10-26T07:40:00+01:00",
       "validTo": "2025-10-29T14:30:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S3</strong></font> jsou po dobu výluky v úseku\u00A0Vlkov-Osová - Křižanov\u00A0nahrazeny náhradní autobusovou dopravou (NAD), která bude organizována podle\u00A0výlukového jízdního řádu\u00A0linky xS3\u00A0a vlaky linky<font color=\"#800000\"><strong> S3</strong></font> pojedou podle změněného výlukového jízdního řádu\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>.. ",
       "privateTextHtml": null,
       "type": "V",
