@@ -279,25 +279,6 @@
       ]
     },
     {
-      "id": 71,
-      "number": "2510 Brno, Tržní Ib",
-      "title": "Brno, Tržní - linky 106, 107, 601 a 602 směr region",
-      "latitude": 49.189305,
-      "longitude": 16.630340,
-      "validFrom": "2025-10-25T00:00:00+02:00",
-      "validTo": "2025-10-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Tržní směr z centra Brna:\u00A0Pro linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 107</strong></font>, <font color=\"#009240\"><strong> 601</strong></font> a <font color=\"#009240\"><strong>602</strong></font> je přeložena vzad na Svitavský most. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "107",
-        "601",
-        "602"
-      ]
-    },
-    {
       "id": 70,
       "number": "2510 Brno, Tržní Ia",
       "title": "Brno, Tržní - linky 701 a 702 směr region",
@@ -328,6 +309,42 @@
       "type": "V",
       "affectedLines": [
         "108"
+      ]
+    },
+    {
+      "id": 34394,
+      "number": "V2510-117",
+      "title": "Omezení trolejbusů v křižovatce Údolní × Úvoz",
+      "latitude": 49.190433,
+      "longitude": 16.593374,
+      "validFrom": "2025-10-25T00:00:00+02:00",
+      "validTo": "2025-10-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu opravy trolejového vedení bude <strong>od soboty 25. října 2025 do úterý 28. října 2025 </strong>pro trolejbusy<strong> </strong>omezen průjezd křižovatkou Údolní × Úvoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-117_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "26"
+      ]
+    },
+    {
+      "id": 71,
+      "number": "2510 Brno, Tržní Ib",
+      "title": "Brno, Tržní - linky 106, 107, 601 a 602 směr region",
+      "latitude": 49.189305,
+      "longitude": 16.630340,
+      "validFrom": "2025-10-25T00:00:00+02:00",
+      "validTo": "2025-10-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Tržní směr z centra Brna:\u00A0Pro linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 107</strong></font>, <font color=\"#009240\"><strong> 601</strong></font> a <font color=\"#009240\"><strong>602</strong></font> je přeložena vzad na Svitavský most. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "106",
+        "107",
+        "601",
+        "602"
       ]
     },
     {
@@ -467,6 +484,22 @@
       ]
     },
     {
+      "id": 94,
+      "number": "PO 2510-206",
+      "title": "Svinošice - silnice II/379",
+      "latitude": 49.333093,
+      "longitude": 16.575494,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "152"
+      ]
+    },
+    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -484,19 +517,27 @@
       ]
     },
     {
-      "id": 94,
-      "number": "PO 2510-206",
-      "title": "Svinošice - silnice II/379",
-      "latitude": 49.333093,
-      "longitude": 16.575494,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
+      "id": 83,
+      "number": "VP 2510-264",
+      "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
+      "latitude": 49.036707,
+      "longitude": 16.616660,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-19T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 151</strong></font>, <font color=\"#009240\"><strong> 514</strong></font>\u00A0pojedou mezi Blučinou a zastávkou Židlochovice, aut. st. obousměrně odklonem přes Vojkovice a kolem Hrušovan u Brna.<br/><br/> Linka<font color=\"#009240\"><strong> 505</strong></font>\u00A0bude v obou směrech ukončena na zastávce Židlochovice, sídliště a zároveň bude provázána s linkami<font color=\"#009240\"><strong> 521</strong></font> a <font color=\"#009240\"><strong>522</strong></font>.\u00A0Zastávky Židlochovice, aut. st. a Židlochovice, žel. st. budou po dobu výluky bez obsluhy linkou<font color=\"#009240\"><strong> 505</strong></font>..<br/><br/> Linky<font color=\"#009240\"><strong> 521</strong></font>, <font color=\"#009240\"><strong> 522</strong></font>\u00A0budou v obou směrech ukončeny na zastávce Židlochovice, sídliště\u00A0a zároveň budou provázány s linkou<font color=\"#009240\"><strong> 505</strong></font>. Vybrané spoje linky<font color=\"#009240\"><strong> 521</strong></font> budou i nadále vedeny do Hrušovan u Brna a zpět odklonovou trasou přes Vojkovice.\u00A0Zastávky Židlochovice, aut. st., Židlochovice, žel. st. a Židlochovice, škola budou po dobu výluky bez obsluhy linkami<font color=\"#009240\"><strong> 521</strong></font> a <font color=\"#009240\"><strong>522</strong></font>.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "152"
+        "105",
+        "151",
+        "154",
+        "505",
+        "514",
+        "520",
+        "521",
+        "522",
+        "543"
       ]
     },
     {
@@ -529,30 +570,6 @@
       "type": "V",
       "affectedLines": [
         "161"
-      ]
-    },
-    {
-      "id": 83,
-      "number": "VP 2510-264",
-      "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
-      "latitude": 49.036707,
-      "longitude": 16.616660,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-19T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 151</strong></font>, <font color=\"#009240\"><strong> 514</strong></font>\u00A0pojedou mezi Blučinou a zastávkou Židlochovice, aut. st. obousměrně odklonem přes Vojkovice a kolem Hrušovan u Brna.<br/><br/> Linka<font color=\"#009240\"><strong> 505</strong></font>\u00A0bude v obou směrech ukončena na zastávce Židlochovice, sídliště a zároveň bude provázána s linkami<font color=\"#009240\"><strong> 521</strong></font> a <font color=\"#009240\"><strong>522</strong></font>.\u00A0Zastávky Židlochovice, aut. st. a Židlochovice, žel. st. budou po dobu výluky bez obsluhy linkou<font color=\"#009240\"><strong> 505</strong></font>..<br/><br/> Linky<font color=\"#009240\"><strong> 521</strong></font>, <font color=\"#009240\"><strong> 522</strong></font>\u00A0budou v obou směrech ukončeny na zastávce Židlochovice, sídliště\u00A0a zároveň budou provázány s linkou<font color=\"#009240\"><strong> 505</strong></font>. Vybrané spoje linky<font color=\"#009240\"><strong> 521</strong></font> budou i nadále vedeny do Hrušovan u Brna a zpět odklonovou trasou přes Vojkovice.\u00A0Zastávky Židlochovice, aut. st., Židlochovice, žel. st. a Židlochovice, škola budou po dobu výluky bez obsluhy linkami<font color=\"#009240\"><strong> 521</strong></font> a <font color=\"#009240\"><strong>522</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "105",
-        "151",
-        "154",
-        "505",
-        "514",
-        "520",
-        "521",
-        "522",
-        "543"
       ]
     },
     {
@@ -640,6 +657,22 @@
       ]
     },
     {
+      "id": 76,
+      "number": "ZAS Okrouhlá",
+      "title": "Okrouhlá (v obou směrech)",
+      "latitude": 49.507732,
+      "longitude": 16.732167,
+      "validFrom": "2025-10-06T00:00:00+02:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "262"
+      ]
+    },
+    {
       "id": 78,
       "number": "PO 2510-202",
       "title": "Drnovice - havárie (PRODLOUŽENÍ)",
@@ -670,22 +703,6 @@
       "affectedLines": [
         "744",
         "750"
-      ]
-    },
-    {
-      "id": 76,
-      "number": "ZAS Okrouhlá",
-      "title": "Okrouhlá (v obou směrech)",
-      "latitude": 49.507732,
-      "longitude": 16.732167,
-      "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "262"
       ]
     },
     {
@@ -740,23 +757,6 @@
       ]
     },
     {
-      "id": 66,
-      "number": "VP 2510-262",
-      "title": "Rozdrojovice, ul. Brána",
-      "latitude": 49.253339,
-      "longitude": 16.511850,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-10-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
-      ]
-    },
-    {
       "id": 41,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
@@ -772,6 +772,23 @@
         "158",
         "443",
         "812"
+      ]
+    },
+    {
+      "id": 66,
+      "number": "VP 2510-262",
+      "title": "Rozdrojovice, ul. Brána",
+      "latitude": 49.253339,
+      "longitude": 16.511850,
+      "validFrom": "2025-10-01T00:00:00+02:00",
+      "validTo": "2025-10-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Jinačovic. Zastávku Rozdrojovice, Na Březině obslouží vždy jen 1×, a to v pořadí stanoveném výlukovým jízdním řádem. Rozdrojovické zastávky rekr. stř., rozc. k přehradě a Obecnice budou bez obsluhy.\u00A0. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0nadále přetrvávají úpravy časových poloh nočních spojů, které přejíždí na linku, resp. z\u00A0linky<font color=\"#009240\"><strong> 302</strong></font> v\u00A0nepracovní dny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302",
+        "304"
       ]
     },
     {
@@ -858,23 +875,6 @@
       ]
     },
     {
-      "id": 42,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
-      ]
-    },
-    {
       "id": 35,
       "number": "PO 2509-182",
       "title": "Silnice Kozojídky - Hroznová Lhota",
@@ -907,6 +907,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
