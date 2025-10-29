@@ -229,23 +229,6 @@
       ]
     },
     {
-      "id": 95,
-      "number": "VP 2510-096",
-      "title": "žel. trať. Vlkov-Osová - Křižanov",
-      "latitude": 49.346823,
-      "longitude": 16.140633,
-      "validFrom": "2025-10-26T07:40:00+01:00",
-      "validTo": "2025-10-29T14:30:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S3</strong></font> jsou po dobu výluky v úseku\u00A0Vlkov-Osová - Křižanov\u00A0nahrazeny náhradní autobusovou dopravou (NAD), která bude organizována podle\u00A0výlukového jízdního řádu\u00A0linky xS3\u00A0a vlaky linky<font color=\"#800000\"><strong> S3</strong></font> pojedou podle změněného výlukového jízdního řádu\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3"
-      ]
-    },
-    {
       "id": 68,
       "number": "VP 2510-269",
       "title": "Silnice I/53 Kašenec, směr do Znojma po objízdné trase",
@@ -302,6 +285,22 @@
       ]
     },
     {
+      "id": 92,
+      "number": "2510 Knínice, horní zastávka",
+      "title": "Knínice, horní zastávka (v obou směrech)",
+      "latitude": 49.539594,
+      "longitude": 16.702276,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-05T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251"
+      ]
+    },
+    {
       "id": 100,
       "number": "VP 2510-268",
       "title": "Slavkov u Brna, most ",
@@ -351,22 +350,6 @@
       ]
     },
     {
-      "id": 92,
-      "number": "2510 Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka (v obou směrech)",
-      "latitude": 49.539594,
-      "longitude": 16.702276,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-05T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251"
-      ]
-    },
-    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -397,6 +380,22 @@
       "type": "V",
       "affectedLines": [
         "152"
+      ]
+    },
+    {
+      "id": 73,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -440,19 +439,19 @@
       ]
     },
     {
-      "id": 73,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "id": 59,
+      "number": "Blansko, Masarykova",
+      "title": "Blansko, Masarykova",
+      "latitude": 49.352382,
+      "longitude": 16.651787,
+      "validFrom": "2025-10-08T00:00:00+02:00",
+      "validTo": "2025-10-29T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "publicTextHtml": "Z důvodu stavebních prací v prostoru stálé zastávky Blansko, Masarykova bude zastávka v uvedeném termínu přesunuta. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "161"
+        "223"
       ]
     },
     {
@@ -474,19 +473,19 @@
       ]
     },
     {
-      "id": 59,
-      "number": "Blansko, Masarykova",
-      "title": "Blansko, Masarykova",
-      "latitude": 49.352382,
-      "longitude": 16.651787,
-      "validFrom": "2025-10-08T00:00:00+02:00",
-      "validTo": "2025-10-29T23:59:00+01:00",
+      "id": 82,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací v prostoru stálé zastávky Blansko, Masarykova bude zastávka v uvedeném termínu přesunuta. ",
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "223"
+        "403"
       ]
     },
     {
@@ -504,22 +503,6 @@
       "affectedLines": [
         "69",
         "N91",
-        "403"
-      ]
-    },
-    {
-      "id": 82,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "403"
       ]
     },
@@ -556,22 +539,6 @@
       ]
     },
     {
-      "id": 76,
-      "number": "ZAS Okrouhlá",
-      "title": "Okrouhlá (v obou směrech)",
-      "latitude": 49.507732,
-      "longitude": 16.732167,
-      "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "262"
-      ]
-    },
-    {
       "id": 46,
       "number": "PO 2510-200",
       "title": "Vyškov, II. odboje",
@@ -586,6 +553,22 @@
       "affectedLines": [
         "744",
         "750"
+      ]
+    },
+    {
+      "id": 76,
+      "number": "ZAS Okrouhlá",
+      "title": "Okrouhlá (v obou směrech)",
+      "latitude": 49.507732,
+      "longitude": 16.732167,
+      "validFrom": "2025-10-06T00:00:00+02:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "262"
       ]
     },
     {
@@ -843,6 +826,22 @@
       ]
     },
     {
+      "id": 30,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
+      ]
+    },
+    {
       "id": 39,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -857,22 +856,6 @@
       "affectedLines": [
         "320",
         "321"
-      ]
-    },
-    {
-      "id": 30,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
       ]
     },
     {
@@ -995,22 +978,6 @@
       ]
     },
     {
-      "id": 20,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153"
-      ]
-    },
-    {
       "id": 23,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -1024,6 +991,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 20,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
       ]
     },
     {
