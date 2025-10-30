@@ -38,6 +38,39 @@
       ]
     },
     {
+      "id": 34526,
+      "number": "V2511-124",
+      "title": "Dočasné přeložení zastávky Holandská",
+      "latitude": 49.181699833333,
+      "longitude": 16.605765166667,
+      "validFrom": "2025-11-01T05:00:00+01:00",
+      "validTo": "2025-11-01T20:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu jeřábových prací bude<strong> v sobotu 1. listopadu 2025 od 5:00 hod. do 20:00 hod. </strong>zcela uzavřena část ulice Pražákovy za areálem Spielberk office center.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 40 ve směru do centra</strong> proto pojede v úseku Bidláky – Křídlovická po spojovací komunikaci za prodejnou Hornbach (stejně jako v opačném směru).</p>\n\n<p>• Zastávka Holandská ve směru do centra bude přeložena na uvedenou spojovací komunikaci přibližně na úroveň zastávky pro opačný směr.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-124_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40"
+      ]
+    },
+    {
+      "id": 34525,
+      "number": "V2510-122",
+      "title": "Omezení trolejbusů v ulici Drobného",
+      "latitude": 49.210303,
+      "longitude": 16.610307,
+      "validFrom": "2025-11-01T00:00:00+01:00",
+      "validTo": "2025-11-01T15:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy trolejového vedení bude od ranních výjezdů <strong>v sobotu 1. listopadu 2025 nepřetržitě do ukončení prací (předpoklad do 15:00 hod.) </strong>pro trolejbusy<strong> </strong>omezen průjezd ulicí Drobného.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-122_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "26"
+      ]
+    },
+    {
       "id": 103,
       "number": "ZAS Svinošice",
       "title": "Svinošice (v obou směrech)",
@@ -51,6 +84,25 @@
       "type": "V",
       "affectedLines": [
         "152"
+      ]
+    },
+    {
+      "id": 34557,
+      "number": "V2508-077",
+      "title": "Ukončení výluky v ulici Kníničské",
+      "latitude": 49.217727,
+      "longitude": 16.553602,
+      "validFrom": "2025-10-31T22:30:00+01:00",
+      "validTo": null,
+      "isValid": false,
+      "publicTextHtml": "<p><strong>V pátek 31. října 2025 v 22:30 hod.</strong> bude ukončeno omezení provozu nočních linek v ulici Kníničské.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"85c06799-97b8-4c0e-b332-2539a4f18398\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusové linky N89, N92, N93 a N98</strong> se vrací na svou původní trasu ulicí Kníničskou.<br />\n• Obnovuje se obsluha zastávek <strong>Jundrovská </strong>a <strong>Svratecká </strong>(v ulici Kníničské).<br />\n• Zastávka <strong>Svratecká </strong>bude opět sloužit jako <strong>přestupní uzel</strong> mezi nočními linkami N89, N92, N93 a N98, ruší se tak přestupní vazby v zastávce Hlavní.</p>\n",
+      "privateTextHtml": null,
+      "type": "U",
+      "affectedLines": [
+        "N89",
+        "N92",
+        "N93",
+        "N98"
       ]
     },
     {
@@ -265,22 +317,6 @@
       ]
     },
     {
-      "id": 94,
-      "number": "PO 2510-206",
-      "title": "Svinošice - silnice II/379",
-      "latitude": 49.333093,
-      "longitude": 16.575494,
-      "validFrom": "2025-10-18T00:00:00+02:00",
-      "validTo": "2025-10-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "152"
-      ]
-    },
-    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -295,6 +331,22 @@
       "affectedLines": [
         "1",
         "3"
+      ]
+    },
+    {
+      "id": 94,
+      "number": "PO 2510-206",
+      "title": "Svinošice - silnice II/379",
+      "latitude": 49.333093,
+      "longitude": 16.575494,
+      "validFrom": "2025-10-18T00:00:00+02:00",
+      "validTo": "2025-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky silnice II/379 ve Svinošicích bude linka<font color=\"#009240\"><strong> 152</strong></font> obousměrně vedena všemi spoji přes obec Svinošice. ve směru do Blanska obslouží všemi spoji zastávku Svinošice, náves,, ve směru do Kuřimi obslouží přeloženou zastávku Svinošice (přibližně naproti zastávce Svinošice, náves). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "152"
       ]
     },
     {
@@ -372,22 +424,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "403"
-      ]
-    },
-    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -402,6 +438,22 @@
       "affectedLines": [
         "69",
         "N91",
+        "403"
+      ]
+    },
+    {
+      "id": 82,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
         "403"
       ]
     },
@@ -438,6 +490,22 @@
       ]
     },
     {
+      "id": 76,
+      "number": "ZAS Okrouhlá",
+      "title": "Okrouhlá (v obou směrech)",
+      "latitude": 49.507732,
+      "longitude": 16.732167,
+      "validFrom": "2025-10-06T00:00:00+02:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "262"
+      ]
+    },
+    {
       "id": 46,
       "number": "PO 2510-200",
       "title": "Vyškov, II. odboje",
@@ -452,22 +520,6 @@
       "affectedLines": [
         "744",
         "750"
-      ]
-    },
-    {
-      "id": 76,
-      "number": "ZAS Okrouhlá",
-      "title": "Okrouhlá (v obou směrech)",
-      "latitude": 49.507732,
-      "longitude": 16.732167,
-      "validFrom": "2025-10-06T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky komunikace v Okrouhlé bude v uvedeném termínu přesunuta zastávka Okrouhlá v obou směrech. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "262"
       ]
     },
     {
@@ -574,22 +626,6 @@
       ]
     },
     {
-      "id": 58,
-      "number": "PO 2509-194",
-      "title": "silnice II/394 Ivančice-Neslovice",
-      "latitude": 49.118714,
-      "longitude": 16.380100,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-12-01T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "423"
-      ]
-    },
-    {
       "id": 47,
       "number": "VP 2509-258",
       "title": "Malá Lhota (PRODLOUŽENO)",
@@ -603,6 +639,22 @@
       "type": "V",
       "affectedLines": [
         "313"
+      ]
+    },
+    {
+      "id": 58,
+      "number": "PO 2509-194",
+      "title": "silnice II/394 Ivančice-Neslovice",
+      "latitude": 49.118714,
+      "longitude": 16.380100,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-12-01T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "423"
       ]
     },
     {
@@ -640,19 +692,20 @@
       ]
     },
     {
-      "id": 35,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
+      "id": 42,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "930"
+        "816",
+        "817"
       ]
     },
     {
@@ -675,20 +728,19 @@
       ]
     },
     {
-      "id": 42,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
+      "id": 35,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "816",
-        "817"
+        "930"
       ]
     },
     {
@@ -725,22 +777,6 @@
       ]
     },
     {
-      "id": 30,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
-      ]
-    },
-    {
       "id": 39,
       "number": "PO 2509-171",
       "title": "Čebín, náměstí",
@@ -755,6 +791,22 @@
       "affectedLines": [
         "320",
         "321"
+      ]
+    },
+    {
+      "id": 30,
+      "number": "2509 Otnice, host. U Marků",
+      "title": "Otnice, host. U Marků - směr Milešovice",
+      "latitude": 49.087260,
+      "longitude": 16.813492,
+      "validFrom": "2025-09-08T00:00:00+02:00",
+      "validTo": "2025-12-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "611"
       ]
     },
     {
