@@ -73,7 +73,7 @@
 </head>
 <body>
 	<!-- Přidání sidebaru -->
-	
+
     <div id="sidebar" class="leaflet-sidebar collapsed">
 
         <!-- nav tabs -->
@@ -81,12 +81,12 @@
             <!-- top aligned tabs -->
             <ul role="tablist">
                 <li><a href="#home" role="tab"><i class="fa fa-bars active"></i></a></li>
-                <li class="svg-centering-li"><a href="#tram" role="tab"><img class="svg-centering-img svg-img" src = "img/tram.svg" style="width:26px;margin:7px;"></a></li>
-                <li class="svg-centering-li"><a href="#trolejbus" role="tab"><img class="svg-centering-img svg-img" src = "img/trolleybus.svg" style="width:22px;margin:9px;"></a></li>
-                <li class="svg-centering-li"><a href="#bus" role="tab"><img class="svg-centering-img svg-img" src = "img/bus.svg" style="width:20px;margin:10px;"></a></li>
-                <li class="svg-centering-li"><a href="#diversions-tab" role="tab"><img class="svg-centering-img svg-img" src = "img/alert_icon.svg" style="width:20px;margin:10px;"></a></li>
-                <li class="svg-centering-li"><a href="#info" role="tab"><img class="svg-centering-img svg-img" src = "img/route.svg" style="width:20px;margin:10px;"></a></li>
-                <!--<li style="padding-top:10px;"><a href="#novinky" role="tab"><img src = "img/info.svg" width="65%"></a></li>-->
+                <li class="svg-centering-li"><a href="#tram" role="tab"><img class="svg-centering-img svg-img" src = "img/tram.svg" style="width:26px;margin:7px;" alt="Ikona tramvaje"></a></li>
+                <li class="svg-centering-li"><a href="#trolejbus" role="tab"><img class="svg-centering-img svg-img" src = "img/trolleybus.svg" style="width:22px;margin:9px;" alt="Ikona trolejbusu"></a></li>
+                <li class="svg-centering-li"><a href="#bus" role="tab"><img class="svg-centering-img svg-img" src = "img/bus.svg" style="width:20px;margin:10px;" alt="Ikona autobusu"></a></li>
+                <li class="svg-centering-li"><a href="#diversions-tab" role="tab"><img class="svg-centering-img svg-img" src = "img/alert_icon.svg" style="width:20px;margin:10px;" alt="Ikona upozornění"></a></li>
+                <li class="svg-centering-li"><a href="#info" role="tab"><img class="svg-centering-img svg-img" src = "img/route.svg" style="width:20px;margin:10px;" alt="Ikona cesty"></a></li>
+                <!--<li style="padding-top:10px;"><a href="#novinky" role="tab"><img src = "img/info.svg" width="65%"> alt="Ikona informace"</a></li>-->
             </ul>
 
             <!-- bottom aligned tabs -->
@@ -113,7 +113,7 @@
 				<p>15.9.2025 - Upravená trasa linky N96 (pouze směr Bosonohy) z důvodu výluky Hviezdoslavova.</p>
 				<p>31.8.2025 - Upravené trasy linek 52 a N90 (výluka Žebětínská) a 64 (výluka Šámalova).</p>
 				<p>31.8.2025 - Upravené trasy v souvislosti s ukončením výluk: Kounicova, Poříčí a Opuštěná, Stará Osada, Zábrdovická, Zimní, Viadukt Křenová a Modřice.</p>
-				<p>20.7.2925 - Upravené trasy linek 40, N90 a N91 z důvodu výluky Jihlavská (směr centrum).</p> 
+				<p>20.7.2925 - Upravené trasy linek 40, N90 a N91 z důvodu výluky Jihlavská (směr centrum).</p>
 				<p>6.7.2025 - Upravené trasy linek 44 a 84 kvůli výluce Poříčí, Bauerova.</p>
 				<p>1.7.2025 - Upravené trasy linek 44, E75, N89 a přesunuta zastávka Škroupova na původní místo po ukončení výluky Otakara Ševčíka.</p>
 				<p>29.6.2025 - Změny vedení linek v souvislosti s výlukami Stará Osada (linky 27,44,55,58,x64,75,E75,78,84,N97,N99), Jihlavská (linka 25), Hlavní nádraží - nástupiště 5 a 6 (linka 10).</p>
@@ -133,12 +133,12 @@
 				<p>10.12.2024 - Všechna data linek jsou nyní jako lokální soubory, aby se zabránilo zničení dat jinými uživateli OpenStreetMap. Benefitem je zároveň zrychlení aplikace.</p>
 				<p>8.12.2024 - Pro stahování dat linek pomocí Overpass z OSM vytvořená Python3 aplikace 'get-lines2json' přidaná do projektu na GitHub.</p>
             </div>
-            
+
             <div class="leaflet-sidebar-pane" id="tram">
                 <h1 class="leaflet-sidebar-header">
                     Tramvaje
                     <span class="leaflet-sidebar-close"><i class="fa fa-caret-left"></i></span>
-                </h1> 
+                </h1>
                 <p> </p>
                 <ul class="group-content">
                     <li><a class="tram-type menu-border" href="#" data-line="1">1</a></li>
@@ -154,7 +154,7 @@
                     <li><a class="tram-type menu-border" href="#" data-line="12">12</a></li>
 	            </ul>
             </div>
-            
+
             <div class="leaflet-sidebar-pane" id="trolejbus">
                 <h1 class="leaflet-sidebar-header">
                     Trolejbusy
@@ -177,7 +177,7 @@
                     <li><a class="trolleybus-type menu-border" href="#" data-line="39">39</a></li>
                 </ul>
             </div>
-            
+
             <div class="leaflet-sidebar-pane" id="bus">
                 <h1 class="leaflet-sidebar-header">
                     Autobusy
@@ -239,7 +239,7 @@
 					<li><a class="rez-type menu-border" href="#" data-line="Rež">REŽ</a></li>
                 </ul>
             </div>
-            
+
             <div class="leaflet-sidebar-pane" id="diversions-tab">
 				<h1 class="leaflet-sidebar-header">
 					Výluky
@@ -260,7 +260,7 @@
 						<div>Budoucí</div>
 					</div>
 				</div>
-				
+
 				<div class="diversions-icon-container">
 					<div id="diversions-date" class="diversions-icon-item">
 						<input type="date" id="date-picker">
@@ -273,13 +273,13 @@
 					</div>
 				</div>
 
-			
+
 				<div id="diversions-list"></div>
-				
+
 				<script src="js/diversions.js"></script>
-			
+
 			</div>
-        
+
             <div class="leaflet-sidebar-pane" id="info">
                 <h1 class="leaflet-sidebar-header">
                     Podrobnosti o lince
@@ -288,10 +288,10 @@
 
                 <p>Zde jsou uvedené varianty vybrané linky, které mají konečné zastávky v jiném místě. Pokud se jedná o zkrácený spoj, který má konečnou na standardní trase, není takový spoj uvedený jako další varianta.</p>
                 <div class="detail-linky-group" id="detailLinky">
-                
+
             	</div>
             	<div id="resetLayers">
-                
+
             	</div>
             	<div id="prepinac-zastavek">
                     <p><input style="margin-right: 0.75em;" type="checkbox" id="show-stops" checked /><label for="show-stops">Zobrazit názvy zastávek v klasické mapě při zvětšení trasy.</label></p>
@@ -301,22 +301,22 @@
 				    const getStopsCheckboxValue = () => stopscheckbox.checked;
 				</script>
            		<div id="detail-linky-zastavky">
-                
+
 				</div>
 				<div id="diversions">
-				
+
 				</div>
 			</div>
         </div>
-			
+
 		<!-- Event listener pro odkazy výše -->
-        <script src="js/event-listener-lines.js"></script> 
-            
+        <script src="js/event-listener-lines.js"></script>
+
         </div>
     </div>
-    
+
     <!-- Konec obsahu sidebaru -->
-    
+
 	<div id="map">
 		<div class="zoom-info" id="zoomInfo"></div>
 	</div>
@@ -374,7 +374,7 @@
         // Přidání tlačítka na zavření mapy
         sidebar.addPanel({
             id: 'map',
-            tab: '<li class="svg-centering-li"><a href="#map" role="tab"><img class="svg-centering-img svg-img" src = "img/map.svg" style="width:20px;margin:10px"</a></li>',
+            tab: '<li class="svg-centering-li"><a href="#map" role="tab"><img class="svg-centering-img svg-img" src = "img/map.svg" style="width:20px;margin:10px" alt="Ikona mapy"></a></li>',
             button: function (event) { sidebar.close(); }
         });    
 
@@ -386,14 +386,14 @@
         
         var panelContentAppHelp = {
             id: 'help',                     // UID, used to access the panel
-            tab: '<li class="svg-centering-li"><a href="#app" role="tab"><img class="svg-img" src = "img/question.svg" style="width:24px;margin:8px"></a></li>',  // content can be passed as HTML string,
+            tab: '<li class="svg-centering-li"><a href="#app" role="tab"><img class="svg-img" src = "img/question.svg" style="width:24px;margin:8px" alt="Ikona otazníku"></a></li>',  // content can be passed as HTML string,
             pane: `
 					<h3>Funkce webu</h3>
 					<p>Aplikace je určená pro řidiče MHD v DPMB jako pomocník pro zobrazení správných tras a navigování po trase.</p>
 					<p>Tato webová aplikace zobrazuje na mapě linky MHD v Brně provozované DPMB dle vašeho výběru, tedy trasy tramvají, trolejbusů a autobusů, včetně zastávek.</p>
-					<p>Pokud tento panel překrývá celou obrazovku a nevidíte mapu, klikněte v pravém horním rohu na šipku sbalení <i class="fa fa-caret-left"></i> nebo vlevo na ikonu <img class="svg-img" style="width: 1em;" src = "img/map.svg"></p>
+					<p>Pokud tento panel překrývá celou obrazovku a nevidíte mapu, klikněte v pravém horním rohu na šipku sbalení <i class="fa fa-caret-left"></i> nebo vlevo na ikonu <img class="svg-img" style="width: 1em;" src = "img/map.svg" alt="Ikona mapy"></p>
 					<h3>Funkce mapy</h3>
-					<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <img class="svg-img" style="width: 1em;" src = "img/route.svg"> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
+					<p>Klikněte vlevo na ikonu dopravního prostředku a z nabídky vyberte linku. V záložce <img class="svg-img" style="width: 1em;" src = "img/route.svg" alt="Ikona cesty"> se zobrazí všechny varianty linky. Zkrácené spoje s konečnou po trase se nezobrazují jako samostatné varianty. Variantou je myšlena konečná v jiném místě. Po kliknutí na variantu linky se v mapě zobrazí pouze tato a vypíší se všechny zastávky tak, jak jdou po sobě. Kliknutím na název zastávky se mapa zvětší na místo zastavení.</p>
 					<p>Velké číslo linky v mapě se zobrazuje na výchozí první zastávce dané varianty. Kruhové značky zobrazují místo zastavení na zastávce.</p>
 					<h3>Navigace po trase</h3>
 					<p>Aplikace nemá vestavěnou klasickou navigaci z bodu A do bodu B, ale umožňuje jet podle polohy a trasy linky. Jednoduše vyberte trasu linky po které chcete jet, zobrazte mapu, a poté klikněte vpravo na ikonu šipky a povolte sdílení polohy (pokud to zařízení vyžaduje). Mapa se vystředí na vaši polohu. Jak se budete pohybovat, mapa se bude plynule posouvat a otáčet ve směru vaší jízdy. Získáte tak jasný přehled o tom, zda jedete správně a kdy bude následovat zastávka.</p>
@@ -410,8 +410,8 @@
 		
         var panelContentApp = {
             id: 'app',                     // UID, used to access the panel
-            tab: '<li class="svg-centering-li"><a href="#app" role="tab"><img class="svg-img" src = "img/download.svg" style="width:20px;margin:10px"></a></li>',  // content can be passed as HTML string,
-            pane: '<p>Tento web využívá technologii uložení aplikace do mobilního telefonu bez nutnosti instalace z Google Play nebo Apple App Store.<p/><h3><img class="svg-img" style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/apple.svg"><span style="vertical-align:middle;">Instalace pro iOS</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Safari</b>.</p><p>2. Ťukněte v adresním řádku na <b>ikonu sdílení</b> <img style="width:1em;" src="img/ios-share.png"></p><p>3. Vyberte položku <b>Přidat na domovskou obrazovku</b> <img class="svg-img" style="width:1em;" src="img/ios-add.png"><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/android.svg"><span style="vertical-align:middle;">Instalace pro Android</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Chrome</b> nebo <b>Firefox</b>.</p><p>2. Ťukněte v adresním řádku na <b>tři tečky</b> <img class="svg-img" style="width:1em;" src="img/android-dots.svg"></p><p>3. Vyberte položku <b>Přidat na plochu</b>.',
+            tab: '<li class="svg-centering-li"><a href="#app" role="tab"><img class="svg-img" src = "img/download.svg" style="width:20px;margin:10px" alt="Ikona stažení"></a></li>',  // content can be passed as HTML string,
+            pane: '<p>Tento web využívá technologii uložení aplikace do mobilního telefonu bez nutnosti instalace z Google Play nebo Apple App Store.<p/><h3><img class="svg-img" style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/apple.svg" alt="Ikona Apple"><span style="vertical-align:middle;">Instalace pro iOS</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Safari</b>.</p><p>2. Ťukněte v adresním řádku na <b>ikonu sdílení</b> <img style="width:1em;" src="img/ios-share.png" alt="Ikona sdílení iOS"></p><p>3. Vyberte položku <b>Přidat na domovskou obrazovku</b> <img class="svg-img" style="width:1em;" src="img/ios-add.png" alt="Ikona přidání v iOS"><h3><img style="width:1.7em; margin-right: 1em; vertical-align:middle;" src="img/android.svg" alt="Ikona Android"><span style="vertical-align:middle;">Instalace pro Android</span></h3><p>1. Otevřete tuto stránku v prohlížeči <b>Chrome</b> nebo <b>Firefox</b>.</p><p>2. Ťukněte v adresním řádku na <b>tři tečky</b> <img class="svg-img" style="width:1em;" src="img/android-dots.svg" alt="Ikona teček v Android"></p><p>3. Vyberte položku <b>Přidat na plochu</b>.',
             title: 'Mobilní aplikace',              // an optional pane header
             position: 'top'                  // optional vertical alignment, defaults to 'top'
         };
