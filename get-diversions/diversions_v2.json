@@ -122,22 +122,6 @@
       ]
     },
     {
-      "id": 91,
-      "number": "ZAS Svinošice",
-      "title": "Svinošice (v obou směrech)",
-      "latitude": 49.333540,
-      "longitude": 16.573144,
-      "validFrom": "2025-11-01T00:00:00+01:00",
-      "validTo": "2025-11-01T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu pokládky asfaltu na silnici II/379 bude zastávka Svinošice v obou směrech v uvedeném termínu (pouze v sobotu 01.11.2025) přeložena na spojnici silnice II/379 a MK mezi Lipůvkou a Svinošicemi. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "152"
-      ]
-    },
-    {
       "id": 34557,
       "number": "V2508-077",
       "title": "Ukončení výluky v ulici Kníničské",
@@ -269,23 +253,6 @@
       ]
     },
     {
-      "id": 88,
-      "number": "VP 2510-268",
-      "title": "Slavkov u Brna, most ",
-      "latitude": 49.146426,
-      "longitude": 16.877452,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "630",
-        "631"
-      ]
-    },
-    {
       "id": 79,
       "number": "2510 Letovice, Zboněk",
       "title": "Letovice, Zboněk (v obou směrech) (PRODLOUŽENO)",
@@ -315,6 +282,23 @@
       "type": "V",
       "affectedLines": [
         "251"
+      ]
+    },
+    {
+      "id": 88,
+      "number": "VP 2510-268",
+      "title": "Slavkov u Brna, most ",
+      "latitude": 49.146426,
+      "longitude": 16.877452,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "630",
+        "631"
       ]
     },
     {
@@ -348,22 +332,6 @@
       "affectedLines": [
         "1",
         "3"
-      ]
-    },
-    {
-      "id": 59,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -404,6 +372,22 @@
         "521",
         "522",
         "543"
+      ]
+    },
+    {
+      "id": 59,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -577,22 +561,6 @@
       ]
     },
     {
-      "id": 46,
-      "number": "PO 2509-194",
-      "title": "silnice II/394 Ivančice-Neslovice",
-      "latitude": 49.118714,
-      "longitude": 16.380100,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-12-01T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "423"
-      ]
-    },
-    {
       "id": 39,
       "number": "VP 2509-258",
       "title": "Malá Lhota (PRODLOUŽENO)",
@@ -606,6 +574,22 @@
       "type": "V",
       "affectedLines": [
         "313"
+      ]
+    },
+    {
+      "id": 46,
+      "number": "PO 2509-194",
+      "title": "silnice II/394 Ivančice-Neslovice",
+      "latitude": 49.118714,
+      "longitude": 16.380100,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-12-01T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "423"
       ]
     },
     {
@@ -643,23 +627,6 @@
       ]
     },
     {
-      "id": 36,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
-      ]
-    },
-    {
       "id": 24,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -676,6 +643,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
@@ -860,22 +844,6 @@
       ]
     },
     {
-      "id": 22,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 19,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -889,6 +857,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 22,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
