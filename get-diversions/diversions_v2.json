@@ -217,19 +217,20 @@
       ]
     },
     {
-      "id": 79,
-      "number": "2510 Letovice, Zboněk",
-      "title": "Letovice, Zboněk (v obou směrech) (PRODLOUŽENO)",
-      "latitude": 49.523293,
-      "longitude": 16.585686,
+      "id": 88,
+      "number": "VP 2510-268",
+      "title": "Slavkov u Brna, most ",
+      "latitude": 49.146426,
+      "longitude": 16.877452,
       "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-12T23:59:00+01:00",
+      "validTo": "2025-11-24T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "255"
+        "630",
+        "631"
       ]
     },
     {
@@ -249,36 +250,19 @@
       ]
     },
     {
-      "id": 78,
-      "number": "2510 Knínice, horní zastávka",
-      "title": "Knínice, horní zastávka (v obou směrech)",
-      "latitude": 49.539594,
-      "longitude": 16.702276,
+      "id": 79,
+      "number": "2510 Letovice, Zboněk",
+      "title": "Letovice, Zboněk (v obou směrech) (PRODLOUŽENO)",
+      "latitude": 49.523293,
+      "longitude": 16.585686,
       "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-05T23:59:00+01:00",
+      "validTo": "2025-11-12T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy silnice v obci Knínice budou v uvedeném termínu přeloženy zastávky Knínice, horní zastávka v obou směrech do náhradní polohy blíže centru obce. ",
+      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "251"
-      ]
-    },
-    {
-      "id": 88,
-      "number": "VP 2510-268",
-      "title": "Slavkov u Brna, most ",
-      "latitude": 49.146426,
-      "longitude": 16.877452,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "630",
-        "631"
+        "255"
       ]
     },
     {
@@ -315,22 +299,6 @@
       ]
     },
     {
-      "id": 77,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541"
-      ]
-    },
-    {
       "id": 69,
       "number": "VP 2510-264",
       "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
@@ -355,6 +323,22 @@
       ]
     },
     {
+      "id": 77,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
+      ]
+    },
+    {
       "id": 33952,
       "number": "V2510-105",
       "title": "Omezení dopravy v ulici Jemelkově",
@@ -373,6 +357,22 @@
       ]
     },
     {
+      "id": 68,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "403"
+      ]
+    },
+    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -387,22 +387,6 @@
       "affectedLines": [
         "69",
         "N91",
-        "403"
-      ]
-    },
-    {
-      "id": 68,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "403"
       ]
     },
@@ -525,22 +509,6 @@
       ]
     },
     {
-      "id": 46,
-      "number": "PO 2509-194",
-      "title": "silnice II/394 Ivančice-Neslovice",
-      "latitude": 49.118714,
-      "longitude": 16.380100,
-      "validFrom": "2025-09-29T00:00:00+02:00",
-      "validTo": "2025-12-01T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "423"
-      ]
-    },
-    {
       "id": 39,
       "number": "VP 2509-258",
       "title": "Malá Lhota (PRODLOUŽENO)",
@@ -554,6 +522,22 @@
       "type": "V",
       "affectedLines": [
         "313"
+      ]
+    },
+    {
+      "id": 46,
+      "number": "PO 2509-194",
+      "title": "silnice II/394 Ivančice-Neslovice",
+      "latitude": 49.118714,
+      "longitude": 16.380100,
+      "validFrom": "2025-09-29T00:00:00+02:00",
+      "validTo": "2025-12-01T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 423</strong></font>:\u00A0Ve směru z Ivančic do Neslovic jede odklonem bez dopadu na obsluhu zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "423"
       ]
     },
     {
@@ -591,22 +575,19 @@
       ]
     },
     {
-      "id": 24,
-      "number": "PO 2509-179",
-      "title": "Brno, Slatina II",
-      "latitude": 49.181928,
-      "longitude": 16.689606,
+      "id": 32,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
+        "930"
       ]
     },
     {
@@ -627,19 +608,22 @@
       ]
     },
     {
-      "id": 32,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
+      "id": 24,
+      "number": "PO 2509-179",
+      "title": "Brno, Slatina II",
+      "latitude": 49.181928,
+      "longitude": 16.689606,
       "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "930"
+        "601",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -808,22 +792,6 @@
       ]
     },
     {
-      "id": 19,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153"
-      ]
-    },
-    {
       "id": 22,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -837,6 +805,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 19,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
       ]
     },
     {
@@ -1093,7 +1077,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
