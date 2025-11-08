@@ -264,7 +264,7 @@
       "longitude": 17.307893,
       "validFrom": "2025-11-08T12:45:00+01:00",
       "validTo": "2025-11-08T15:15:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu pořádání kulturní akce: Strážnické vinobraní 2025, jedou spoje linek<font color=\"#009240\"><strong> 910</strong></font> a <font color=\"#009240\"><strong>911</strong></font> v časovém rozmezí od 12:45 do 15:15 hodin ve Strážnici odklonem a vynechají tak zastávku Strážnice, Skalická brána.. ",
       "privateTextHtml": null,
       "type": "V",
