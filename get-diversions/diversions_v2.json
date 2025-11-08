@@ -331,24 +331,6 @@
       ]
     },
     {
-      "id": 98,
-      "number": "2511 Znojmo, Kasárna",
-      "title": "Znojmo, Kasárna (směr Znojmo)",
-      "latitude": 48.890942,
-      "longitude": 16.000160,
-      "validFrom": "2025-11-05T00:00:00+01:00",
-      "validTo": "2025-11-08T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce chodníku je zastávka Znojmo, Kasárna ve směru do Znojma přesunuta o cca 40 metrů vpřed přibližně před dům č.p. 29. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "808",
-        "815",
-        "825"
-      ]
-    },
-    {
       "id": 90,
       "number": "Valchov, rozc.",
       "title": "Valchov, rozc.",
@@ -398,22 +380,6 @@
       ]
     },
     {
-      "id": 72,
-      "number": "PO 2511-208",
-      "title": "Vyškov-Opatovice",
-      "latitude": 49.300923,
-      "longitude": 16.955646,
-      "validFrom": "2025-11-03T00:00:00+01:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 750</strong></font>:\u00A0Zastávky Vyškov, Opatovice, u mlýna a Vyškov, Opatovice, náves jsou přemístěny na hlavní silnici. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "750"
-      ]
-    },
-    {
       "id": 95,
       "number": "PO 2511-209",
       "title": "Suchý, MK mezi č.p. 69 ? 85",
@@ -428,6 +394,22 @@
       "affectedLines": [
         "233",
         "261"
+      ]
+    },
+    {
+      "id": 72,
+      "number": "PO 2511-208",
+      "title": "Vyškov-Opatovice",
+      "latitude": 49.300923,
+      "longitude": 16.955646,
+      "validFrom": "2025-11-03T00:00:00+01:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 750</strong></font>:\u00A0Zastávky Vyškov, Opatovice, u mlýna a Vyškov, Opatovice, náves jsou přemístěny na hlavní silnici. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "750"
       ]
     },
     {
@@ -523,6 +505,22 @@
       ]
     },
     {
+      "id": 75,
+      "number": "VP 2510-267",
+      "title": "Rapotice, sil. III/3951",
+      "latitude": 49.192194,
+      "longitude": 16.254787,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 430</strong></font>\u00A0vynechává zastávku Lesní Jakubov. Vybrané spoje (ukončené v zastávce Rapotice, škola) budou vedeny do zastávky Rapotice, žel.st. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "430"
+      ]
+    },
+    {
       "id": 81,
       "number": "VP 2510-268",
       "title": "Slavkov u Brna, most ",
@@ -537,22 +535,6 @@
       "affectedLines": [
         "630",
         "631"
-      ]
-    },
-    {
-      "id": 75,
-      "number": "VP 2510-267",
-      "title": "Rapotice, sil. III/3951",
-      "latitude": 49.192194,
-      "longitude": 16.254787,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 430</strong></font>\u00A0vynechává zastávku Lesní Jakubov. Vybrané spoje (ukončené v zastávce Rapotice, škola) budou vedeny do zastávky Rapotice, žel.st. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "430"
       ]
     },
     {
@@ -589,22 +571,6 @@
       ]
     },
     {
-      "id": 68,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541"
-      ]
-    },
-    {
       "id": 60,
       "number": "VP 2510-264",
       "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
@@ -629,6 +595,22 @@
       ]
     },
     {
+      "id": 68,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
+      ]
+    },
+    {
       "id": 33952,
       "number": "V2510-105",
       "title": "Omezení dopravy v ulici Jemelkově",
@@ -647,6 +629,22 @@
       ]
     },
     {
+      "id": 59,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "403"
+      ]
+    },
+    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -661,22 +659,6 @@
       "affectedLines": [
         "69",
         "N91",
-        "403"
-      ]
-    },
-    {
-      "id": 59,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "403"
       ]
     },
@@ -848,23 +830,6 @@
       ]
     },
     {
-      "id": 34,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
-      ]
-    },
-    {
       "id": 22,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -881,6 +846,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 34,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
@@ -1065,22 +1047,6 @@
       ]
     },
     {
-      "id": 17,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153"
-      ]
-    },
-    {
       "id": 20,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -1094,6 +1060,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 17,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
       ]
     },
     {
