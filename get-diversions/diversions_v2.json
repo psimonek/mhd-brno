@@ -137,37 +137,19 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2511-213",
-      "title": "Blansko, ulice Sadová - I. etapa",
-      "latitude": 49.358941,
-      "longitude": 16.659415,
+      "id": 102,
+      "number": "PO 2511-215",
+      "title": "Moravské Bránice",
+      "latitude": 49.082693,
+      "longitude": 16.436963,
       "validFrom": "2025-11-10T00:00:00+01:00",
       "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": false,
-      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
+      "publicTextHtml": "Všechny spoje linky<font color=\"#009240\"><strong> 154</strong></font> ve směru z Ivančic do Dolních Kounic jedou v Moravských Bránicích mezi zastávkami železniční stanice a škola totožnou trasou jako v opačném směru. Bez vlivu na zastávky. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "222",
-        "233"
-      ]
-    },
-    {
-      "id": 94,
-      "number": "PO 2511-212",
-      "title": "Borotín",
-      "latitude": 49.587679,
-      "longitude": 16.685057,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251",
-        "253"
+        "154"
       ]
     },
     {
@@ -192,19 +174,37 @@
       ]
     },
     {
-      "id": 102,
-      "number": "PO 2511-215",
-      "title": "Moravské Bránice",
-      "latitude": 49.082693,
-      "longitude": 16.436963,
+      "id": 94,
+      "number": "PO 2511-212",
+      "title": "Borotín",
+      "latitude": 49.587679,
+      "longitude": 16.685057,
       "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": false,
-      "publicTextHtml": "Všechny spoje linky<font color=\"#009240\"><strong> 154</strong></font> ve směru z Ivančic do Dolních Kounic jedou v Moravských Bránicích mezi zastávkami železniční stanice a škola totožnou trasou jako v opačném směru. Bez vlivu na zastávky. ",
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "154"
+        "251",
+        "253"
+      ]
+    },
+    {
+      "id": 93,
+      "number": "PO 2511-213",
+      "title": "Blansko, ulice Sadová - I. etapa",
+      "latitude": 49.358941,
+      "longitude": 16.659415,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "233"
       ]
     },
     {
@@ -238,22 +238,6 @@
       "type": "V",
       "affectedLines": [
         "751"
-      ]
-    },
-    {
-      "id": 77,
-      "number": "PO 2511-211",
-      "title": "Blansko, náměstí Republiky",
-      "latitude": 49.361771,
-      "longitude": 16.644233,
-      "validFrom": "2025-11-09T10:30:00+01:00",
-      "validTo": "2025-11-09T11:50:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu kulturní akce - Vítání sv. Martina, v rámci které bude pořádán průvod centrem města - ulicemi Rožmitálova - náměstí Republiky - Sadová - Seifertova - Dvorská a dále do zámeckého parku dojde k omezení provozu autobusů v centru Blanska.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 222</strong></font> (pouze spoje č. 211 a 212) pojede obousměrným odklonem ulicemi Vodní a Mlýnská následovně:. spoj č. 211 v úseku mezi zastávkami Poliklinika - Dvorská, na odklonové trase obslouží zastávku Poříčí,, spoj č. 212 v úseku mezi zastávkami Hřbitov - Poliklinika, zastávku Náměstí Svobody obslouží v přeložené poloze v ulici Mlýnské před objektem Krajské hygienické stanice.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222"
       ]
     },
     {
@@ -331,22 +315,6 @@
       ]
     },
     {
-      "id": 90,
-      "number": "Valchov, rozc.",
-      "title": "Valchov, rozc.",
-      "latitude": 49.471450,
-      "longitude": 16.719512,
-      "validFrom": "2025-11-05T00:00:00+01:00",
-      "validTo": "2025-11-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy komunikace v obci Valchov (směrem na Velenov) bude v uvedeném termínu přeložena zastávka Valchov, rozcestí. Zastávka bude rozdělena na dvě samostatné zastávky:. spoje linky<font color=\"#009240\"><strong> 261</strong></font>\u00A0z Boskovic do Velenova a dále\u00A0směr Protivanov\u00A0zastaví na přeložené zastávce Valchov, rozcestí nacházející se naproti domu (restauraci) č.p. 51., spoje linky<font color=\"#009240\"><strong> 261</strong></font>\u00A0z Protivanova do Velenova a dále\u00A0směr Boskovice\u00A0zastaví na přeložené zastávce Valchov, rozcestí nacházející se u domu č.p. 50. Spoje linky<font color=\"#009240\"><strong> 261</strong></font>, které na své trase nezajíždí do Velenova a nemají na své trase zastávku Valchov, rozcestí tyto přeložené zastávky projedou bez zastavení a obslouží standardní zastávky Valchov dle platných jízdních řádů. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
-      ]
-    },
-    {
       "id": 76,
       "number": "VP 2511-270",
       "title": "Drnovice - Voděrady",
@@ -363,20 +331,35 @@
       ]
     },
     {
-      "id": 86,
-      "number": "PO 2511-207",
-      "title": "Rájec-Jestřebí, náměstí",
-      "latitude": 49.411294,
-      "longitude": 16.639223,
-      "validFrom": "2025-11-03T00:00:00+01:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
+      "id": 90,
+      "number": "Valchov, rozc.",
+      "title": "Valchov, rozc.",
+      "latitude": 49.471450,
+      "longitude": 16.719512,
+      "validFrom": "2025-11-05T00:00:00+01:00",
+      "validTo": "2025-11-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchů na náměstí Míru v Rájci-Jestřebí v prostoru zastávek Rájec-Jestřebí, nám. bude upraven provoz linky<font color=\"#009240\"><strong> 234</strong></font> a části spojů linky<font color=\"#009240\"><strong> 240</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 234</strong></font>. všechny průjezdné spoje Blansko – Rájec-Jestřebí – Boskovice a zpět:\u00A0dotčené spoje pojedou mezi zastávkami Rájec-Jestřebí, pošta / žel.st. a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje 151, 181:\u00A0odjíždí z přeložené zastávky Rájec-Jestřebí, nám. v ulici Havlíčkova (směr Blansko),, spoj 187:\u00A0ukončí jízdu na stanovišti linky<font color=\"#009240\"><strong> 240</strong></font> ve směru Sloup (mimo Holešín) - před městským úřadem,, spoje 501 a 502:\u00A0jedou po svých standardních trasách a obsluhují zastávku Rájec-Jestřebí, nám. dle jízdního řádu, tj. před městským úřadem.<br/><br/> Linka<font color=\"#009240\"><strong> 240</strong></font>. spoje jedoucí přes Holešín (a Doubravici):\u00A0pojedou mezi zastávkami Rájec-Jestřebí, lékárna a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje jedoucí do Rájce-Jestřebí, žel. st. přímo (mimo Holešín):\u00A0obslouží přeloženou zastávku Rájec-Jestřebí, nám. v ulici Jurkova,, spoj 12:\u00A0ukončí jízdu na přeložené zastávce Rájec-Jestřebí, nám. v ulici Havlíčkova a odtud odjezd jako linka<font color=\"#009240\"><strong> 234</strong></font> směr Blansko,, spoje jedoucí do Sloupu přímo (mimo Holešín):\u00A0obsluhují zastávku zastávku Rájec-Jestřebí, nám. dle jízdního řádu - před městským úřadem. Provozní omezení se těchto spojů netýká. ",
+      "publicTextHtml": "Z důvodu opravy komunikace v obci Valchov (směrem na Velenov) bude v uvedeném termínu přeložena zastávka Valchov, rozcestí. Zastávka bude rozdělena na dvě samostatné zastávky:. spoje linky<font color=\"#009240\"><strong> 261</strong></font>\u00A0z Boskovic do Velenova a dále\u00A0směr Protivanov\u00A0zastaví na přeložené zastávce Valchov, rozcestí nacházející se naproti domu (restauraci) č.p. 51., spoje linky<font color=\"#009240\"><strong> 261</strong></font>\u00A0z Protivanova do Velenova a dále\u00A0směr Boskovice\u00A0zastaví na přeložené zastávce Valchov, rozcestí nacházející se u domu č.p. 50. Spoje linky<font color=\"#009240\"><strong> 261</strong></font>, které na své trase nezajíždí do Velenova a nemají na své trase zastávku Valchov, rozcestí tyto přeložené zastávky projedou bez zastavení a obslouží standardní zastávky Valchov dle platných jízdních řádů. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "234",
-        "240"
+        "261"
+      ]
+    },
+    {
+      "id": 72,
+      "number": "PO 2511-208",
+      "title": "Vyškov-Opatovice",
+      "latitude": 49.300923,
+      "longitude": 16.955646,
+      "validFrom": "2025-11-03T00:00:00+01:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 750</strong></font>:\u00A0Zastávky Vyškov, Opatovice, u mlýna a Vyškov, Opatovice, náves jsou přemístěny na hlavní silnici. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "750"
       ]
     },
     {
@@ -397,19 +380,20 @@
       ]
     },
     {
-      "id": 72,
-      "number": "PO 2511-208",
-      "title": "Vyškov-Opatovice",
-      "latitude": 49.300923,
-      "longitude": 16.955646,
+      "id": 86,
+      "number": "PO 2511-207",
+      "title": "Rájec-Jestřebí, náměstí",
+      "latitude": 49.411294,
+      "longitude": 16.639223,
       "validFrom": "2025-11-03T00:00:00+01:00",
       "validTo": "2025-11-14T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 750</strong></font>:\u00A0Zastávky Vyškov, Opatovice, u mlýna a Vyškov, Opatovice, náves jsou přemístěny na hlavní silnici. ",
+      "publicTextHtml": "Z důvodu opravy povrchů na náměstí Míru v Rájci-Jestřebí v prostoru zastávek Rájec-Jestřebí, nám. bude upraven provoz linky<font color=\"#009240\"><strong> 234</strong></font> a části spojů linky<font color=\"#009240\"><strong> 240</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 234</strong></font>. všechny průjezdné spoje Blansko – Rájec-Jestřebí – Boskovice a zpět:\u00A0dotčené spoje pojedou mezi zastávkami Rájec-Jestřebí, pošta / žel.st. a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje 151, 181:\u00A0odjíždí z přeložené zastávky Rájec-Jestřebí, nám. v ulici Havlíčkova (směr Blansko),, spoj 187:\u00A0ukončí jízdu na stanovišti linky<font color=\"#009240\"><strong> 240</strong></font> ve směru Sloup (mimo Holešín) - před městským úřadem,, spoje 501 a 502:\u00A0jedou po svých standardních trasách a obsluhují zastávku Rájec-Jestřebí, nám. dle jízdního řádu, tj. před městským úřadem.<br/><br/> Linka<font color=\"#009240\"><strong> 240</strong></font>. spoje jedoucí přes Holešín (a Doubravici):\u00A0pojedou mezi zastávkami Rájec-Jestřebí, lékárna a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje jedoucí do Rájce-Jestřebí, žel. st. přímo (mimo Holešín):\u00A0obslouží přeloženou zastávku Rájec-Jestřebí, nám. v ulici Jurkova,, spoj 12:\u00A0ukončí jízdu na přeložené zastávce Rájec-Jestřebí, nám. v ulici Havlíčkova a odtud odjezd jako linka<font color=\"#009240\"><strong> 234</strong></font> směr Blansko,, spoje jedoucí do Sloupu přímo (mimo Holešín):\u00A0obsluhují zastávku zastávku Rájec-Jestřebí, nám. dle jízdního řádu - před městským úřadem. Provozní omezení se těchto spojů netýká. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "750"
+        "234",
+        "240"
       ]
     },
     {
@@ -489,22 +473,6 @@
       ]
     },
     {
-      "id": 70,
-      "number": "2510 Letovice, Zboněk",
-      "title": "Letovice, Zboněk (v obou směrech) (PRODLOUŽENO)",
-      "latitude": 49.523293,
-      "longitude": 16.585686,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-12T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "255"
-      ]
-    },
-    {
       "id": 75,
       "number": "VP 2510-267",
       "title": "Rapotice, sil. III/3951",
@@ -518,6 +486,22 @@
       "type": "V",
       "affectedLines": [
         "430"
+      ]
+    },
+    {
+      "id": 70,
+      "number": "2510 Letovice, Zboněk",
+      "title": "Letovice, Zboněk (v obou směrech) (PRODLOUŽENO)",
+      "latitude": 49.523293,
+      "longitude": 16.585686,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-12T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu další etapy stavebních prací na silnici I/43 ve Zboňku budou v uvedeném termínu dočasně přeloženy zastávky Letovice, Zboněk v obou směrech. Zastávky budou přeloženy na odpočívku přiléhající k silnici I/43 ve směru na Sebranice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "255"
       ]
     },
     {
@@ -555,19 +539,19 @@
       ]
     },
     {
-      "id": 51,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
+      "id": 68,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
       "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "161"
+        "541"
       ]
     },
     {
@@ -595,19 +579,19 @@
       ]
     },
     {
-      "id": 68,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
+      "id": 51,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
       "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "541"
+        "161"
       ]
     },
     {
@@ -629,22 +613,6 @@
       ]
     },
     {
-      "id": 59,
-      "number": "2510 Brno, Pod nemocnicí",
-      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
-      "latitude": 49.171975,
-      "longitude": 16.568542,
-      "validFrom": "2025-10-06T08:00:00+02:00",
-      "validTo": "2025-11-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "403"
-      ]
-    },
-    {
       "id": 33999,
       "number": "",
       "title": "Dočasné přeložení zastávky Pod nemocnicí",
@@ -659,6 +627,22 @@
       "affectedLines": [
         "69",
         "N91",
+        "403"
+      ]
+    },
+    {
+      "id": 59,
+      "number": "2510 Brno, Pod nemocnicí",
+      "title": "Brno, Pod Nemocnicí - v ulici U Penzionu",
+      "latitude": 49.171975,
+      "longitude": 16.568542,
+      "validFrom": "2025-10-06T08:00:00+02:00",
+      "validTo": "2025-11-11T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Pod Nemocnicí je pro linku<font color=\"#009240\"><strong> 403</strong></font> přesunuta cca 140 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
         "403"
       ]
     },
@@ -830,25 +814,6 @@
       ]
     },
     {
-      "id": 22,
-      "number": "PO 2509-179",
-      "title": "Brno, Slatina II",
-      "latitude": 49.181928,
-      "longitude": 16.689606,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "601",
-        "602",
-        "701",
-        "702"
-      ]
-    },
-    {
       "id": 34,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -879,6 +844,25 @@
       "type": "V",
       "affectedLines": [
         "930"
+      ]
+    },
+    {
+      "id": 22,
+      "number": "PO 2509-179",
+      "title": "Brno, Slatina II",
+      "latitude": 49.181928,
+      "longitude": 16.689606,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 602</strong></font>, <font color=\"#009240\"><strong> 701</strong></font> a <font color=\"#009240\"><strong>702</strong></font>:\u00A0Ve směru z regionu do centra obsluhují zastávku Brno, Slatina, sídliště v ulici Bedřichovické (zastávka Brno, Slatina, rozcestí směr Tuřany). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "601",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -1047,22 +1031,6 @@
       ]
     },
     {
-      "id": 20,
-      "number": "VP 2508-244",
-      "title": "Ujčov, Kasany (kraj Vysočina)",
-      "latitude": 49.478163,
-      "longitude": 16.333248,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 17,
       "number": "VP 2508-243",
       "title": "Rosice, ul. Nádražní",
@@ -1076,6 +1044,22 @@
       "type": "V",
       "affectedLines": [
         "153"
+      ]
+    },
+    {
+      "id": 20,
+      "number": "VP 2508-244",
+      "title": "Ujčov, Kasany (kraj Vysočina)",
+      "latitude": 49.478163,
+      "longitude": 16.333248,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu uzavírky silnice v Ujčově (místní část Kasany) jsou spoje 151 a 152 na lince<font color=\"#009240\"><strong> 334</strong></font> zrušeny. Spojení mezi Nedvědicí a Bystřicí n. P. je v obdobném čase umožněno na lince VDV č. 841122. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
       ]
     },
     {
