@@ -241,27 +241,6 @@
       ]
     },
     {
-      "id": 31955,
-      "number": "V2511-125+126",
-      "title": "Výluka v ulici Táborské",
-      "latitude": 49.192502,
-      "longitude": 16.633601,
-      "validFrom": "2025-11-08T07:00:00+01:00",
-      "validTo": "2025-11-09T19:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu výměny kolejnic bude vyloučen provoz v ulici Táborské:<br />\n• pro tramvaje <strong>v sobotu 8. listopadu 2025 od 7:10 do 19:00 hod.</strong> a <strong>v neděli 9. listopadu 2025 od 7:10 do 14:00 hod.</strong><br />\n• pro autobusy nepřetržitě <strong>od 7:00 hod. v sobotu 8. listopadu do 19:00 hod. v neděli 9 listopadu 2025</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 8</strong> bude rozdělena na dva samostatné úseky <strong>Nemocnice Bohunice – Geislerova </strong>(ve smyčce) a <strong>Geislerova</strong> (v ul. Nezamyslově) <strong>–</strong> <strong>Mifkova</strong>.<br />\n• Zastávky <strong>Geislerova </strong>pro provozní úsek Geislerova – Mifkova budou zřízeny v ulici Nezamyslově před křižovatkou s ulicí Táborskou vedle kaple sv. Františka.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9 </strong>bude v provozu pouze v úseku <strong>Čertova rokle – Geislerova </strong>(ve smyčce).<br />\n• Neobslouží tak zastávky <strong>Buzkova</strong>, <strong>Otakara Ševčíka</strong>, <strong>Dělnický dům</strong> a <strong>Juliánov</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 10</strong> bude rozdělena na dva samostatné úseky <strong>Komín, smyčka / Vozovna Komín – Hlavní nádraží </strong>(v ul. Masarykově)<strong> </strong>a <strong>Geislerova – Stránská skála</strong>.<br />\n• Linka pojede v centru po okružní trase <strong>Česká </strong><strong>– Náměstí Svobody – Zelný trh – Hlavní nádraží </strong>(2. kolej)<strong> – Malinovského náměstí – Česká</strong>.<br />\n• Zastávky <strong>Geislerova </strong>pro provozní úsek Geislerova – Stránská skála - smyčka obslouží společně s linkou 8 v ulici Nezamyslově.<br />\n• <strong class=\"red\">POZOR: </strong><strong><strong class=\"red\">Linka 10 bude v úseku Geislerova – Stránská skála - smyčka mimořádně v obou směrech jezdit po levé koleji a obslouží tak zastávky běžně používané pro opačný směr provozu!</strong> </strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu zajistí <strong>autobusová linka x9</strong> v trase <strong>Životského – Geislerova » Buzkova « Jílkova « Mošnova – Otakara Ševčíka – Dělnický dům – Juliánov</strong>.<br />\n• Zastávku <strong>Buzkova</strong> obslouží pouze ve směru do Juliánova, zastávky <strong>Mošnova</strong> a <strong>Jílkova </strong>pouze ve směru na Životského.<br />\n• Zastávku <strong>Geislerova</strong> ve směru do Juliánova obslouží v ulici Táborské vedle kaple sv. Františka, ve směru na Životského v ulici Táborské za křižovatkou s ulicí Geislerovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Autobusová linka 64</strong> ve směru na Červený písek obslouží zastávku <strong>Geislerova </strong>v přeložené poloze v ulici Táborské společně s linkou x9.<br />\n• Ve směru do Chrlic pojede ze zastávky <strong>Uzavřená </strong>přímo do přeložené zastávky <strong>Geislerova</strong> (v ulici Táborské za křižovatkou s ulicí Geislerovou), neobslouží tak zastávku <strong>Jílkova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>N</strong><strong>oční autobusová linka N98</strong> pojede už od sobotního odjezdu v 7:00 hod. od Hlavního nádraží v úseku <strong>Životského – Otakara Ševčíka </strong>obousměrným odklonem po trase linky x9.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření </em> – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-125-126_web.pdf\" target=\"_blank\"><em>ke stažení</em></a></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "8",
-        "9",
-        "x9",
-        "10",
-        "64",
-        "N98"
-      ]
-    },
-    {
       "id": 106,
       "number": "2511 Znojmo, Kasárna",
       "title": "Znojmo, Kasárna (směr Moravské Budějovice)",
