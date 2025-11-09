@@ -19,6 +19,23 @@
       ]
     },
     {
+      "id": 34707,
+      "number": "V2511-xxx",
+      "title": "Omezení provozu v ulici Jihlavské – III. etapa",
+      "latitude": 49.173556,
+      "longitude": 16.57509,
+      "validFrom": "2025-11-15T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:59+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu pokračujících stavebních prací je od soboty 15. listopadu 2025 předpokládáno zahájení další etapy omezení provozu v ulici Jihlavské, která nebude průjezdná mezi křižovatkami s ulicemi Dlouhou a Osovou ve směru z centra.<br />\n• Linky 40 a N90 pojedou odklonem ulicí Kamenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n\n<p> </p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40",
+        "N90"
+      ]
+    },
+    {
       "id": 99,
       "number": "VP 2511-101",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
