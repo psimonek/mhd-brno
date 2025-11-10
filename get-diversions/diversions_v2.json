@@ -164,7 +164,7 @@
       "longitude": 16.5946236,
       "validFrom": "2025-11-11T00:00:00+01:00",
       "validTo": null,
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"12646ff4-3f64-4a0d-9e58-f481e742e624\" data-view-mode=\"\"></drupal-media>\n\n<p> S platností od úterý <strong>11. listopadu 2025</strong> se do trasy trolejbusových <strong>linek 34</strong> a <strong>36 </strong>na ulici Kounicově zařazuje nově zřízená zastávka <strong>Zemská knihovna</strong>.<br />\n• Zastávka bude provozovaná v režimu celodenně na znamení.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády linek 34 a 36 jsou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "D",
