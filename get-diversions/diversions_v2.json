@@ -191,19 +191,20 @@
       ]
     },
     {
-      "id": 84,
-      "number": "PO 2511-217",
-      "title": "Silnice Silůvky-Prštice",
-      "latitude": 49.108096,
-      "longitude": 16.466575,
-      "validFrom": "2025-11-10T07:15:00+01:00",
-      "validTo": "2025-11-10T12:00:00+01:00",
+      "id": 93,
+      "number": "PO 2511-213",
+      "title": "Blansko, ulice Sadová - I. etapa",
+      "latitude": 49.358941,
+      "longitude": 16.659415,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 510</strong></font>:\u00A0Spoje 57, 58, 59, 18, 61, 60, 63 a 62 jedou mezi Silůvkami a Pršticemi odklonem s vynecháním zastávky Prštice, rozc. Hlína. Zastávka Prštice, u zámku je přeložena do ulice Ořechovské přibližně na úroveň domu č. 320. ",
+      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "510"
+        "222",
+        "233"
       ]
     },
     {
@@ -220,23 +221,6 @@
       "type": "V",
       "affectedLines": [
         "154"
-      ]
-    },
-    {
-      "id": 94,
-      "number": "PO 2511-212",
-      "title": "Borotín",
-      "latitude": 49.587679,
-      "longitude": 16.685057,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251",
-        "253"
       ]
     },
     {
@@ -278,20 +262,20 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2511-213",
-      "title": "Blansko, ulice Sadová - I. etapa",
-      "latitude": 49.358941,
-      "longitude": 16.659415,
+      "id": 94,
+      "number": "PO 2511-212",
+      "title": "Borotín",
+      "latitude": 49.587679,
+      "longitude": 16.685057,
       "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "222",
-        "233"
+        "251",
+        "253"
       ]
     },
     {
@@ -570,6 +554,22 @@
       ]
     },
     {
+      "id": 51,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
+      ]
+    },
+    {
       "id": 68,
       "number": "VP 2510-265",
       "title": "Boleradice, silnice směr Morkůvky",
@@ -607,22 +607,6 @@
         "521",
         "522",
         "543"
-      ]
-    },
-    {
-      "id": 51,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -1062,22 +1046,6 @@
       ]
     },
     {
-      "id": 17,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153"
-      ]
-    },
-    {
       "id": 20,
       "number": "VP 2508-244",
       "title": "Ujčov, Kasany (kraj Vysočina)",
@@ -1091,6 +1059,22 @@
       "type": "V",
       "affectedLines": [
         "334"
+      ]
+    },
+    {
+      "id": 17,
+      "number": "VP 2508-243",
+      "title": "Rosice, ul. Nádražní",
+      "latitude": 49.179179,
+      "longitude": 16.383169,
+      "validFrom": "2025-08-04T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
       ]
     },
     {
