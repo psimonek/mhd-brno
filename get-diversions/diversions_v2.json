@@ -181,7 +181,7 @@
       "longitude": 16.462369,
       "validFrom": "2025-11-10T08:15:00+01:00",
       "validTo": "2025-11-12T14:05:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#800000\"><strong> S41</strong></font>. Všechny vlaky budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), které bude organizována podle výlukového jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
