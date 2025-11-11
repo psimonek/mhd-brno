@@ -38,15 +38,15 @@
       ]
     },
     {
-      "id": 34714,
-      "number": "V2511-xxx",
+      "id": 34716,
+      "number": "V2511-132",
       "title": "Výluka tramvají v ulici Pekařské",
-      "latitude": 49.1896592,
-      "longitude": 16.5922833,
+      "latitude": 49.192141,
+      "longitude": 16.602466,
       "validFrom": "2025-11-15T06:30:00+01:00",
       "validTo": "2025-11-17T16:00:00+01:00",
       "isValid": false,
-      "publicTextHtml": "<p>Od 6:30 hod. v sobotu 15. listopadu do 16:00 hod. v pondělí 17. listopadu je plánována rekonstrukce tramvajové tratě v ulici Pekařské.<br />\n• Linky 5 a 6 budou odkloněny přes náměstí Svobody a ulicí Hybešovou.<br />\n• Náhradní dopravu zajistí autobusová linka x5.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "publicTextHtml": "<p>Z důvodu opravy tramvajové tratě bude <strong>od 6:30 hod. v sobotu 15. listopadu 2025 nepřetržitě do 16:00 hod. v pondělí 17. listopadu 2025 </strong>vyloučen provoz tramvají v ulici Pekařská.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajové linky 5 a 6 </strong>pojedou v úseku<strong> Moravské náměstí – Poříčí </strong>odklonem přes náměstí Svobody a ulicí Hybešovou.<br />\n• Neobslouží tak zastávky Šilingrovo náměstí, Nemocnice u sv. Anny a Mendlovo náměstí.<br />\n• Na odklonové trase obslouží všechny nácestné zastávky.<br />\n• Zastávku Česká obslouží v obou směrech před kostelem sv. Tomáše.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu zajistí <strong>autobusová linka x5</strong> v úseku <strong>Česká – Mendlovo náměstí – Poříčí</strong>.<br />\n• Ve směru na Poříčí obslouží pravidelné zastávky linek 5 a 6.<br />\n• Ve směru na Českou po zastávku Nemocnice u sv. Anny obslouží pravidelné zastávky linek 5 a 6, dále bude odkloněna přes zastávku Hybešova a Šilingrovo náměstí (zastávka v ulici Husově)</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-132_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -56,36 +56,19 @@
       ]
     },
     {
-      "id": 34712,
-      "number": "V2511-xxx",
+      "id": 34713,
+      "number": "V2511-129",
       "title": "Omezení provozu v křižovatce Zábrdovická × Šámalova",
       "latitude": 49.195907,
       "longitude": 16.637881,
       "validFrom": "2025-11-15T06:00:00+01:00",
       "validTo": "2025-11-17T23:00:00+01:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu stavebních prací je od 6:00 hod. v sobotu 15. listopadu do 23:00 hod. v pondělí 17. listopadu plánováno omezení průjezdu křižovatkami ulice Zábrdovické s ulicemi Šámalovou a Kuldovou.<br />\n• Linka 64 bude odkloněna ulicemi Gajdošovou a Táborskou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n\n<p> </p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "64"
-      ]
-    },
-    {
-      "id": 34707,
-      "number": "V2511-xxx",
-      "title": "Omezení provozu v ulici Jihlavské – III. etapa",
-      "latitude": 49.173556,
-      "longitude": 16.57509,
-      "validFrom": "2025-11-15T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:59+01:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu pokračujících stavebních prací je od soboty 15. listopadu 2025 předpokládáno zahájení další etapy omezení provozu v ulici Jihlavské, která nebude průjezdná mezi křižovatkami s ulicemi Dlouhou a Osovou ve směru z centra.<br />\n• Linky 40 a N90 pojedou odklonem ulicí Kamenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n\n<p> </p>\n\n<p> </p>\n",
+      "publicTextHtml": "<p>Z důvodu stavebních prací nebudou <strong>od 6:00 hod. v sobotu 15. listopadu 2025 do 23:00 hod. v pondělí 17. listopadu 2025</strong> pro silniční dopravu průjezdné křižovatky ulice Zábrdovické s ulicemi Šámalovou a Kuldovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 64</strong> pojede v úseku <strong>Stará osada – Geislerova</strong> obousměrným odklonem ulicemi Táborskou a Gajdošovou.<br />\n• Neobslouží tak zastávky Kuldova, Tomáškova, Uzavřená, Jílkova a Mošnova.<br />\n• Na odklonové trase navíc obslouží zastávky Gajdošova a Otakara Ševčíka, zastávku Buzkova v obou směrech.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-129_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "40",
-        "N90"
+        "64"
       ]
     },
     {
@@ -103,6 +86,23 @@
       "affectedLines": [
         "S3",
         "R9"
+      ]
+    },
+    {
+      "id": 34708,
+      "number": "V2511-130",
+      "title": "Omezení provozu v ulici Jihlavské – III. etapa",
+      "latitude": 49.173526,
+      "longitude": 16.577425,
+      "validFrom": "2025-11-14T23:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu pokračujících stavebních prací nebude <strong>od 23:00 hod. v pátek 14. listopadu 2025 do ukončení prací</strong> (předpoklad do 30. listopadu) pro veškerou dopravu průjezdná ulice Jihlavská mezi křižovatkami s ulicemi Dlouhou a Osovou ve směru od Ústředního hřbitova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusové linky 40 a N90</strong> pojedou ve směru z centra odklonem ulicí Kamenice.<br />\n• Obě linky tak v uvedeném směru neobslouží zastávku Stará nemocnice, linka 40 navíc neobslouží zastávku Nemocnice Bohunice.<br />\n• Na odklonové trase obslouží zastávky Mýtná a Kamenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Opatření zavedená v souvislosti s přechozími etapami výluky v ulici Jihlavské zůstávají i nadále v platnosti</em>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-130_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40",
+        "N90"
       ]
     },
     {
@@ -140,23 +140,6 @@
       ]
     },
     {
-      "id": 34634,
-      "number": "V2511-127",
-      "title": "Výluka tramvají na náměstí Svobody",
-      "latitude": 49.195114,
-      "longitude": 16.60827,
-      "validFrom": "2025-11-11T10:15:00+01:00",
-      "validTo": "2025-11-11T15:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání kulturně-společenské akce Svatomartinský košt 2025 bude <strong>v úterý 11. listopadu 2025 od 10:15 do 15:00</strong> vyloučen provoz tramvají přes náměstí Svobody.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společnou s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase obslouží zastávky Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 9</strong> pojede v úseku <strong>Moravské náměstí – Hlavní nádraží</strong> odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak zastávky Česká, Náměstí Svobody a Zelný trh.<br />\n• Zastávku Hlavní nádraží obslouží společně s linkou 10 na 5./6. nástupišti (zastávka pod Grandem).<br />\n• Na odklonové trase obslouží zastávku Malinovského náměstí.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-127_128_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "4",
-        "9"
-      ]
-    },
-    {
       "id": 34711,
       "number": "",
       "title": "Zřízení zastávky Zemská knihovna",
@@ -188,23 +171,6 @@
       "affectedLines": [
         "S41",
         "xS41"
-      ]
-    },
-    {
-      "id": 93,
-      "number": "PO 2511-213",
-      "title": "Blansko, ulice Sadová - I. etapa",
-      "latitude": 49.358941,
-      "longitude": 16.659415,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "233"
       ]
     },
     {
@@ -245,23 +211,6 @@
       ]
     },
     {
-      "id": 71,
-      "number": "PO 2511-216",
-      "title": "Holubice, nadjezd",
-      "latitude": 49.178169,
-      "longitude": 16.819124,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 106</strong></font> a spoje 13, 24 a 32 linky<font color=\"#009240\"><strong> 602</strong></font>:\u00A0Zastávka Holubice, nadjezd přeložena na silnici III/4163 vedoucí od centra obce k železniční stanici. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "602"
-      ]
-    },
-    {
       "id": 94,
       "number": "PO 2511-212",
       "title": "Borotín",
@@ -276,6 +225,40 @@
       "affectedLines": [
         "251",
         "253"
+      ]
+    },
+    {
+      "id": 93,
+      "number": "PO 2511-213",
+      "title": "Blansko, ulice Sadová - I. etapa",
+      "latitude": 49.358941,
+      "longitude": 16.659415,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "233"
+      ]
+    },
+    {
+      "id": 71,
+      "number": "PO 2511-216",
+      "title": "Holubice, nadjezd",
+      "latitude": 49.178169,
+      "longitude": 16.819124,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 106</strong></font> a spoje 13, 24 a 32 linky<font color=\"#009240\"><strong> 602</strong></font>:\u00A0Zastávka Holubice, nadjezd přeložena na silnici III/4163 vedoucí od centra obce k železniční stanici. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "106",
+        "602"
       ]
     },
     {
