@@ -174,6 +174,33 @@
       ]
     },
     {
+      "id": 34822,
+      "number": "V2511-131",
+      "title": "Omezení provozu v křižovatce Tržní × Hladíkova",
+      "latitude": 49.189741,
+      "longitude": 16.631192,
+      "validFrom": "2025-11-14T23:00:00+01:00",
+      "validTo": "2025-11-17T23:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace bude <strong>od 23:00 hod. v pátek 14. listopadu 2025 nepřetržitě do 23:00 hod. v pondělí 17. listopadu 2025</strong> částečně omezen průjezd křižovatkou Tržní × Hladíkova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusové linky 31, 33</strong> a <strong>noční autobusové linky N89, N96</strong> ve směru z centra pojedou v úseku mezi zastávkami <strong>Masná – Tržní</strong> odklonem ulicemi Masnou a Hladíkovou.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Linky 31, 33, N89 a N96 při jízdě od centra obslouží zastávku <strong>Masná</strong> v ulici Masné, společnou s linkami 64 a 67 směr Komárov.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Tržní</strong> ve směru do centra bude pro linky 49, 77, 84, N94, 106, 602, 701 a 702 přeložena přibližně o 50 metrů vpřed na most přes řeku Svitavu. </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "31",
+        "33",
+        "49",
+        "77",
+        "84",
+        "N89",
+        "N94",
+        "N96",
+        "106",
+        "602",
+        "701",
+        "702"
+      ]
+    },
+    {
       "id": 34708,
       "number": "V2511-130",
       "title": "Omezení provozu v ulici Jihlavské – III. etapa",
