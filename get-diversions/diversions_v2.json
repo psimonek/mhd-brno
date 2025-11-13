@@ -1,15 +1,15 @@
 {
   "diversions": [
     {
-      "id": 34718,
-      "number": "V2511-xxx",
+      "id": 34719,
+      "number": "V2511-133",
       "title": "Výluka tramvají v ulici Lidické",
       "latitude": 49.203685,
       "longitude": 16.606678,
       "validFrom": "2025-11-17T08:30:00+01:00",
       "validTo": "2025-11-17T20:30:00+01:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu rekonstrukce tramvajové tratě je v pondělí 17. listopadu od 8:30 do 20:30 hod. plánována výluka tramvají v ulici Lidické.<br />\n• Linka 1 bude ukončena na Malinovského náměstí.<br />\n• Linka 6 bude odkloněna do Štefánikovy čtvrti.<br />\n• Náhradní dopravu zajistí linky x1 a x6.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n\n<p> </p>\n\n<p> </p>\n",
+      "publicTextHtml": "<p>Z důvodu rekonstrukce tramvajové tratě bude <strong>v pondělí 17. listopadu od 8:30 hod. do 20:30 hod.</strong> vyloučen provoz tramvají v ulici Lidické.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 1</strong> bude v provozu pouze v úseku <strong>Bystrc, Rakovecká – Malinovského náměstí</strong>.<br />\n• Na <strong>Malinovského náměstí</strong> obslouží pro nástup zastávku linek 2 a 7 směr Hlavní nádraží.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 6</strong> bude v provozu pouze v úseku <strong>Starý Lískovec, smyčka – Česká</strong> a dále bude odkloněna po trase linky 5 do <strong>Štefánikovy čtvrti</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu v úseku <strong>Královo Pole, nádraží – Řečkovice</strong> zajistí mimořádná <strong>tramvajová linka x1</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Náhradní dopravu</strong> v úseku <strong>Hlavní nádraží – Královo Pole, nádraží</strong> zajistí mimořádná <strong>autobusová linka x6</strong>.<br />\n• Linka v obou směrech obslouží zastávky <strong>Hlavní nádraží</strong> (1. / 2. kolej), <strong>Malinovského náměstí</strong>, <strong>Moravské náměstí</strong>, <strong>Antonínská</strong>, <strong>Pionýrská</strong>, <strong>Hrnčířská</strong>, <strong>Šumavská</strong>, <strong>Štefánikova</strong>, <strong>Charvatská</strong>, <strong>Slovanské náměstí </strong>(ve směru do centra dvakrát), <strong>Semilasso </strong>a <strong>Královo Pole, nádraží</strong>.<br />\n• Zastávky <strong>Kartouzská</strong>, <strong>Jungmannova</strong>, <strong>Husitská </strong>nelze obsloužit v souvislosti se stavebními pracemi v ulici Palackého – více informací <strong><a href=\"https://www.dpmb.cz/node/34397/\" target=\"_blank\">viz v samostatném příspěvku zde</a></strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-133_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -17,6 +17,91 @@
         "x1",
         "6",
         "x6"
+      ]
+    },
+    {
+      "id": 34817,
+      "number": "",
+      "title": "Provoz v pondělí 17. listopadu 2025",
+      "latitude": 49.190995,
+      "longitude": 16.611478,
+      "validFrom": "2025-11-17T00:00:00+01:00",
+      "validTo": "2025-11-17T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> V pondělí 17. listopadu 2025</strong> (státní svátek) bude doprava na linkách 1–84 vedena podle jízdních řádů pro <strong>soboty + neděle</strong>.<br />\n• Linky 12 a 72 pojedou podle jízdních řádů pro neděle.</p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "x4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "12",
+        "25",
+        "26",
+        "27",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "44",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "E50",
+        "52",
+        "54",
+        "55",
+        "E56",
+        "57",
+        "58",
+        "64",
+        "65",
+        "67",
+        "68",
+        "69",
+        "70",
+        "72",
+        "74",
+        "75",
+        "E75",
+        "x75",
+        "E76",
+        "77",
+        "78",
+        "84",
+        "š85",
+        "š86",
+        "š88",
+        "N89",
+        "N90",
+        "N91",
+        "N92",
+        "N93",
+        "N94",
+        "N95",
+        "N96",
+        "N97",
+        "N98",
+        "N99"
       ]
     },
     {
@@ -328,23 +413,6 @@
       ]
     },
     {
-      "id": 86,
-      "number": "PO 2511-207",
-      "title": "Rájec-Jestřebí, náměstí",
-      "latitude": 49.411294,
-      "longitude": 16.639223,
-      "validFrom": "2025-11-03T00:00:00+01:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy povrchů na náměstí Míru v Rájci-Jestřebí v prostoru zastávek Rájec-Jestřebí, nám. bude upraven provoz linky<font color=\"#009240\"><strong> 234</strong></font> a části spojů linky<font color=\"#009240\"><strong> 240</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 234</strong></font>. všechny průjezdné spoje Blansko – Rájec-Jestřebí – Boskovice a zpět:\u00A0dotčené spoje pojedou mezi zastávkami Rájec-Jestřebí, pošta / žel.st. a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje 151, 181:\u00A0odjíždí z přeložené zastávky Rájec-Jestřebí, nám. v ulici Havlíčkova (směr Blansko),, spoj 187:\u00A0ukončí jízdu na stanovišti linky<font color=\"#009240\"><strong> 240</strong></font> ve směru Sloup (mimo Holešín) - před městským úřadem,, spoje 501 a 502:\u00A0jedou po svých standardních trasách a obsluhují zastávku Rájec-Jestřebí, nám. dle jízdního řádu, tj. před městským úřadem.<br/><br/> Linka<font color=\"#009240\"><strong> 240</strong></font>. spoje jedoucí přes Holešín (a Doubravici):\u00A0pojedou mezi zastávkami Rájec-Jestřebí, lékárna a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje jedoucí do Rájce-Jestřebí, žel. st. přímo (mimo Holešín):\u00A0obslouží přeloženou zastávku Rájec-Jestřebí, nám. v ulici Jurkova,, spoj 12:\u00A0ukončí jízdu na přeložené zastávce Rájec-Jestřebí, nám. v ulici Havlíčkova a odtud odjezd jako linka<font color=\"#009240\"><strong> 234</strong></font> směr Blansko,, spoje jedoucí do Sloupu přímo (mimo Holešín):\u00A0obsluhují zastávku zastávku Rájec-Jestřebí, nám. dle jízdního řádu - před městským úřadem. Provozní omezení se těchto spojů netýká. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "234",
-        "240"
-      ]
-    },
-    {
       "id": 95,
       "number": "PO 2511-209",
       "title": "Suchý, MK mezi č.p. 69 ? 85",
@@ -375,6 +443,23 @@
       "type": "V",
       "affectedLines": [
         "750"
+      ]
+    },
+    {
+      "id": 86,
+      "number": "PO 2511-207",
+      "title": "Rájec-Jestřebí, náměstí",
+      "latitude": 49.411294,
+      "longitude": 16.639223,
+      "validFrom": "2025-11-03T00:00:00+01:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy povrchů na náměstí Míru v Rájci-Jestřebí v prostoru zastávek Rájec-Jestřebí, nám. bude upraven provoz linky<font color=\"#009240\"><strong> 234</strong></font> a části spojů linky<font color=\"#009240\"><strong> 240</strong></font>.<br/><br/> Linka<font color=\"#009240\"><strong> 234</strong></font>. všechny průjezdné spoje Blansko – Rájec-Jestřebí – Boskovice a zpět:\u00A0dotčené spoje pojedou mezi zastávkami Rájec-Jestřebí, pošta / žel.st. a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje 151, 181:\u00A0odjíždí z přeložené zastávky Rájec-Jestřebí, nám. v ulici Havlíčkova (směr Blansko),, spoj 187:\u00A0ukončí jízdu na stanovišti linky<font color=\"#009240\"><strong> 240</strong></font> ve směru Sloup (mimo Holešín) - před městským úřadem,, spoje 501 a 502:\u00A0jedou po svých standardních trasách a obsluhují zastávku Rájec-Jestřebí, nám. dle jízdního řádu, tj. před městským úřadem.<br/><br/> Linka<font color=\"#009240\"><strong> 240</strong></font>. spoje jedoucí přes Holešín (a Doubravici):\u00A0pojedou mezi zastávkami Rájec-Jestřebí, lékárna a Rájec-Jestřebí, Komenského obousměrným odklonem ulicemi Fügnerova a Havlíčkova. Na odklonové trase obslouží přeloženou zastávku Rájec-Jestřebí, nám. (v ulici Havlíčkova),, spoje jedoucí do Rájce-Jestřebí, žel. st. přímo (mimo Holešín):\u00A0obslouží přeloženou zastávku Rájec-Jestřebí, nám. v ulici Jurkova,, spoj 12:\u00A0ukončí jízdu na přeložené zastávce Rájec-Jestřebí, nám. v ulici Havlíčkova a odtud odjezd jako linka<font color=\"#009240\"><strong> 234</strong></font> směr Blansko,, spoje jedoucí do Sloupu přímo (mimo Holešín):\u00A0obsluhují zastávku zastávku Rájec-Jestřebí, nám. dle jízdního řádu - před městským úřadem. Provozní omezení se těchto spojů netýká. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "234",
+        "240"
       ]
     },
     {
@@ -436,22 +521,6 @@
       ]
     },
     {
-      "id": 75,
-      "number": "VP 2510-267",
-      "title": "Rapotice, sil. III/3951",
-      "latitude": 49.192194,
-      "longitude": 16.254787,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-14T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 430</strong></font>\u00A0vynechává zastávku Lesní Jakubov. Vybrané spoje (ukončené v zastávce Rapotice, škola) budou vedeny do zastávky Rapotice, žel.st. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "430"
-      ]
-    },
-    {
       "id": 81,
       "number": "VP 2510-268",
       "title": "Slavkov u Brna, most ",
@@ -469,6 +538,22 @@
       ]
     },
     {
+      "id": 75,
+      "number": "VP 2510-267",
+      "title": "Rapotice, sil. III/3951",
+      "latitude": 49.192194,
+      "longitude": 16.254787,
+      "validFrom": "2025-10-20T00:00:00+02:00",
+      "validTo": "2025-11-14T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 430</strong></font>\u00A0vynechává zastávku Lesní Jakubov. Vybrané spoje (ukončené v zastávce Rapotice, škola) budou vedeny do zastávky Rapotice, žel.st. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "430"
+      ]
+    },
+    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -483,22 +568,6 @@
       "affectedLines": [
         "1",
         "3"
-      ]
-    },
-    {
-      "id": 51,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -539,6 +608,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 51,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -727,6 +812,23 @@
       ]
     },
     {
+      "id": 34,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
+      ]
+    },
+    {
       "id": 22,
       "number": "PO 2509-179",
       "title": "Brno, Slatina II",
@@ -759,23 +861,6 @@
       "type": "V",
       "affectedLines": [
         "930"
-      ]
-    },
-    {
-      "id": 34,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
       ]
     },
     {
