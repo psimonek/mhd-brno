@@ -301,7 +301,7 @@
       "longitude": 16.637881,
       "validFrom": "2025-11-15T06:00:00+01:00",
       "validTo": "2025-11-17T23:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu stavebních prací nebudou <strong>od 6:00 hod. v sobotu 15. listopadu 2025 do 23:00 hod. v pondělí 17. listopadu 2025</strong> pro silniční dopravu průjezdné křižovatky ulice Zábrdovické s ulicemi Šámalovou a Kuldovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 64</strong> pojede v úseku <strong>Stará osada – Geislerova</strong> obousměrným odklonem ulicemi Táborskou a Gajdošovou.<br />\n• Neobslouží tak zastávky Kuldova, Tomáškova, Uzavřená, Jílkova a Mošnova.<br />\n• Na odklonové trase navíc obslouží zastávky Gajdošova a Otakara Ševčíka, zastávku Buzkova v obou směrech.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-129_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
       "privateTextHtml": null,
       "type": "V",
