@@ -429,19 +429,19 @@
       ]
     },
     {
-      "id": 86,
-      "number": "PO 2511-221",
-      "title": "Letovice, Zboněk",
-      "latitude": 49.523008,
-      "longitude": 16.585954,
+      "id": 90,
+      "number": "PO 2511-226",
+      "title": "Velenov",
+      "latitude": 49.487057,
+      "longitude": 16.733315,
       "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy částečné uzavírky silnice I/43 bude v uvedeném termínu přesunuta zastávka Letovice, Zboněk. Náhradní zastávka pro oba směry se bude nacházet v křižovatce MK přímo ve Zboňku. ",
+      "publicTextHtml": "Z důvodu opravy komunikace bude zastávka Velenov přesunuta na plochu před dům č. p. 42. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "255"
+        "261"
       ]
     },
     {
@@ -458,6 +458,22 @@
       "type": "V",
       "affectedLines": [
         "655"
+      ]
+    },
+    {
+      "id": 86,
+      "number": "PO 2511-221",
+      "title": "Letovice, Zboněk",
+      "latitude": 49.523008,
+      "longitude": 16.585954,
+      "validFrom": "2025-11-12T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu další etapy částečné uzavírky silnice I/43 bude v uvedeném termínu přesunuta zastávka Letovice, Zboněk. Náhradní zastávka pro oba směry se bude nacházet v křižovatce MK přímo ve Zboňku. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "255"
       ]
     },
     {
@@ -495,22 +511,6 @@
       ]
     },
     {
-      "id": 90,
-      "number": "PO 2511-226",
-      "title": "Velenov",
-      "latitude": 49.487057,
-      "longitude": 16.733315,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu opravy komunikace bude zastávka Velenov přesunuta na plochu před dům č. p. 42. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "261"
-      ]
-    },
-    {
       "id": 34711,
       "number": "",
       "title": "Zřízení zastávky Zemská knihovna",
@@ -525,55 +525,6 @@
       "affectedLines": [
         "34",
         "36"
-      ]
-    },
-    {
-      "id": 106,
-      "number": "Lysovice, kult. dům - oba směry",
-      "title": "Lysovice, kult. dům - oba směry",
-      "latitude": 49.219023,
-      "longitude": 16.973850,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "751"
-      ]
-    },
-    {
-      "id": 66,
-      "number": "PO 2511-216",
-      "title": "Holubice, nadjezd",
-      "latitude": 49.178169,
-      "longitude": 16.819124,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-19T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 106</strong></font> a spoje 13, 24 a 32 linky<font color=\"#009240\"><strong> 602</strong></font>:\u00A0Zastávka Holubice, nadjezd přeložena na silnici III/4163 vedoucí od centra obce k železniční stanici. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "602"
-      ]
-    },
-    {
-      "id": 102,
-      "number": "PO 2511-215",
-      "title": "Moravské Bránice",
-      "latitude": 49.082693,
-      "longitude": 16.436963,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Všechny spoje linky<font color=\"#009240\"><strong> 154</strong></font> ve směru z Ivančic do Dolních Kounic jedou v Moravských Bránicích mezi zastávkami železniční stanice a škola totožnou trasou jako v opačném směru. Bez vlivu na zastávky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "154"
       ]
     },
     {
@@ -632,21 +583,52 @@
       ]
     },
     {
-      "id": 34709,
-      "number": "V2510-105",
-      "title": "Ukončení výluky v ulici Jemelkově",
-      "latitude": 49.170544,
-      "longitude": 16.554294,
-      "validFrom": "2025-11-07T22:30:00+01:00",
-      "validTo": null,
+      "id": 102,
+      "number": "PO 2511-215",
+      "title": "Moravské Bránice",
+      "latitude": 49.082693,
+      "longitude": 16.436963,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "<p>V pátek<strong> 7. listopadu 2025 ve 22:30 hod.</strong> bude ukončena výluka autobusových linek v ulici Jemelkově, která probíhala během pracovních dní mezi 6:30 – 18:30.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"85c06799-97b8-4c0e-b332-2539a4f18398\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusové linky E50</strong> <strong>a 69</strong> budou celodenně jezdit po pravidelných trasách ulicí Jemelkovou.<br />\n• Ruší se provoz výlukové linky x69.<br />\n• Z důvodu dokončovacích prací zůstane i nadále po ukončení výluky mimo provoz zastávka<strong> Starý Lískovec, smyčka ve směru na Dunajskou</strong> pro linky E50, 69 a N96 <em>(do 14. listopadu 2025)</em>. Náhradou linky E50 a 69 obslouží zastávku <strong>Dunajská</strong>, společnou s linkou N96.<br />\n• Zastávka <strong>Starý Lískovec, smyčka ve směru do Bosonoh / Kohoutovic</strong> bude obsluhována ve standardní poloze.</p>\n",
+      "publicTextHtml": "Všechny spoje linky<font color=\"#009240\"><strong> 154</strong></font> ve směru z Ivančic do Dolních Kounic jedou v Moravských Bránicích mezi zastávkami železniční stanice a škola totožnou trasou jako v opačném směru. Bez vlivu na zastávky. ",
       "privateTextHtml": null,
-      "type": "U",
+      "type": "V",
       "affectedLines": [
-        "E50",
-        "69",
-        "N96"
+        "154"
+      ]
+    },
+    {
+      "id": 106,
+      "number": "Lysovice, kult. dům - oba směry",
+      "title": "Lysovice, kult. dům - oba směry",
+      "latitude": 49.219023,
+      "longitude": 16.973850,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "751"
+      ]
+    },
+    {
+      "id": 66,
+      "number": "PO 2511-216",
+      "title": "Holubice, nadjezd",
+      "latitude": 49.178169,
+      "longitude": 16.819124,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-19T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 106</strong></font> a spoje 13, 24 a 32 linky<font color=\"#009240\"><strong> 602</strong></font>:\u00A0Zastávka Holubice, nadjezd přeložena na silnici III/4163 vedoucí od centra obce k železniční stanici. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "106",
+        "602"
       ]
     },
     {
@@ -759,19 +741,19 @@
       ]
     },
     {
-      "id": 63,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
+      "id": 48,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
       "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "541"
+        "161"
       ]
     },
     {
@@ -799,19 +781,19 @@
       ]
     },
     {
-      "id": 48,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
+      "id": 63,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
       "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "161"
+        "541"
       ]
     },
     {
@@ -933,23 +915,6 @@
       ]
     },
     {
-      "id": 32,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
-      ]
-    },
-    {
       "id": 29,
       "number": "PO 2509-182",
       "title": "Silnice Kozojídky - Hroznová Lhota",
@@ -982,6 +947,23 @@
         "602",
         "701",
         "702"
+      ]
+    },
+    {
+      "id": 32,
+      "number": "VP 2509-252",
+      "title": "Horní Břečkov",
+      "latitude": 48.889891,
+      "longitude": 15.897759,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "816",
+        "817"
       ]
     },
     {
