@@ -101,6 +101,23 @@
       ]
     },
     {
+      "id": 92,
+      "number": "2511 Blansko, Sadová",
+      "title": "Blansko, ulice Sadová - II. etapa",
+      "latitude": 49.360108,
+      "longitude": 16.657430,
+      "validFrom": "2025-11-18T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "233"
+      ]
+    },
+    {
       "id": 36,
       "number": "PO 2511-225",
       "title": "Znojmo, ul. Vídeňská třída, sil. I/38 - II. etapa",
@@ -117,23 +134,6 @@
         "803",
         "804",
         "809"
-      ]
-    },
-    {
-      "id": 92,
-      "number": "2511 Blansko, Sadová",
-      "title": "Blansko, ulice Sadová - II. etapa",
-      "latitude": 49.360108,
-      "longitude": 16.657430,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "233"
       ]
     },
     {
@@ -275,25 +275,6 @@
       ]
     },
     {
-      "id": 34716,
-      "number": "V2511-132",
-      "title": "Výluka tramvají v ulici Pekařské",
-      "latitude": 49.192141,
-      "longitude": 16.602466,
-      "validFrom": "2025-11-15T06:30:00+01:00",
-      "validTo": "2025-11-17T16:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy tramvajové tratě bude <strong>od 6:30 hod. v sobotu 15. listopadu 2025 nepřetržitě do 16:00 hod. v pondělí 17. listopadu 2025 </strong>vyloučen provoz tramvají v ulici Pekařská.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajové linky 5 a 6 </strong>pojedou v úseku<strong> Moravské náměstí – Poříčí </strong>odklonem přes náměstí Svobody a ulicí Hybešovou.<br />\n• Neobslouží tak zastávky Šilingrovo náměstí, Nemocnice u sv. Anny a Mendlovo náměstí.<br />\n• Na odklonové trase obslouží všechny nácestné zastávky.<br />\n• Zastávku Česká obslouží v obou směrech před kostelem sv. Tomáše.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu zajistí <strong>autobusová linka x5</strong> v úseku <strong>Česká – Mendlovo náměstí – Poříčí</strong>.<br />\n• Ve směru na Poříčí obslouží pravidelné zastávky linek 5 a 6.<br />\n• Ve směru na Českou po zastávku Nemocnice u sv. Anny obslouží pravidelné zastávky linek 5 a 6, dále bude odkloněna přes zastávku Hybešova a Šilingrovo náměstí (zastávka v ulici Husově).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N95</strong> pojede v úseku mezi zastávkami <strong>Tvrdého – Česká </strong>ve směru do Chrlic jednosměrným odklonem ulicemi Grohovou a Veveří.<br />\n• V uvedeném směru tak neobslouží zastávky Nemocnice u sv. Anny a Šilingrovo náměstí.<br />\n• Na odklonové trase obslouží zastávky Úvoz a Grohova (v ulici Grohově).<br />\n• Ve směru na Kamenný vrch pojede po současné trase ulicí Pekařskou a Úvoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření pro tramvaje – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-132_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravního opatření pro linku N95 – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-132b_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "x5",
-        "5",
-        "6",
-        "N95"
-      ]
-    },
-    {
       "id": 34713,
       "number": "V2511-129",
       "title": "Omezení provozu v křižovatce Zábrdovická × Šámalova",
@@ -307,6 +288,23 @@
       "type": "V",
       "affectedLines": [
         "64"
+      ]
+    },
+    {
+      "id": 99,
+      "number": "VP 2511-101",
+      "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
+      "latitude": 49.274245,
+      "longitude": 16.578369,
+      "validFrom": "2025-11-15T00:00:00+01:00",
+      "validTo": "2025-11-17T23:55:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:.<br/><br/> Linka<font color=\"#800000\"><strong> S3</strong></font>:Vlaky S3/4967, 4923, 4927, 4971, 4975, 4979\u00A0v úseku\u00A0Tišnov – Brno hl.n. pojedou\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S3</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:\u00A0Vlak R9/988 v sobotu 15.11.2025 a vlak R9/978 ve státní svátek 17.11.2025 pojede v úseku\u00A0Brno hl.n. – Brno Královo Pole\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3",
+        "R9"
       ]
     },
     {
@@ -349,23 +347,6 @@
         "602",
         "701",
         "702"
-      ]
-    },
-    {
-      "id": 99,
-      "number": "VP 2511-101",
-      "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
-      "validFrom": "2025-11-15T00:00:00+01:00",
-      "validTo": "2025-11-17T23:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:.<br/><br/> Linka<font color=\"#800000\"><strong> S3</strong></font>:Vlaky S3/4967, 4923, 4927, 4971, 4975, 4979\u00A0v úseku\u00A0Tišnov – Brno hl.n. pojedou\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S3</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:\u00A0Vlak R9/988 v sobotu 15.11.2025 a vlak R9/978 ve státní svátek 17.11.2025 pojede v úseku\u00A0Brno hl.n. – Brno Královo Pole\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "R9"
       ]
     },
     {
