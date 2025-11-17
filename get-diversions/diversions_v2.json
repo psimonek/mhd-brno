@@ -238,36 +238,22 @@
       ]
     },
     {
-      "id": 34713,
-      "number": "V2511-129",
-      "title": "Omezení provozu v křižovatce Zábrdovická × Šámalova",
-      "latitude": 49.195907,
-      "longitude": 16.637881,
-      "validFrom": "2025-11-15T06:00:00+01:00",
-      "validTo": "2025-11-17T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací nebudou <strong>od 6:00 hod. v sobotu 15. listopadu 2025 do 23:00 hod. v pondělí 17. listopadu 2025</strong> pro silniční dopravu průjezdné křižovatky ulice Zábrdovické s ulicemi Šámalovou a Kuldovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 64</strong> pojede v úseku <strong>Stará osada – Geislerova</strong> obousměrným odklonem ulicemi Táborskou a Gajdošovou.<br />\n• Neobslouží tak zastávky Kuldova, Tomáškova, Uzavřená, Jílkova a Mošnova.<br />\n• Na odklonové trase navíc obslouží zastávky Gajdošova a Otakara Ševčíka, zastávku Buzkova v obou směrech.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-129_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "64"
-      ]
-    },
-    {
-      "id": 99,
-      "number": "VP 2511-101",
-      "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
+      "id": 47,
+      "number": "2511 Brno, Tržní II",
+      "title": "Brno, Tržní - směr centrum",
+      "latitude": 49.189319,
+      "longitude": 16.629910,
       "validFrom": "2025-11-15T00:00:00+01:00",
-      "validTo": "2025-11-17T23:55:00+01:00",
+      "validTo": "2025-11-17T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:.<br/><br/> Linka<font color=\"#800000\"><strong> S3</strong></font>:Vlaky S3/4967, 4923, 4927, 4971, 4975, 4979\u00A0v úseku\u00A0Tišnov – Brno hl.n. pojedou\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S3</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:\u00A0Vlak R9/988 v sobotu 15.11.2025 a vlak R9/978 ve státní svátek 17.11.2025 pojede v úseku\u00A0Brno hl.n. – Brno Královo Pole\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.. ",
+      "publicTextHtml": "Zastávka Brno, Tržní směr centrum Brna:\u00A0Přeložena vpřed na Svitavský most. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "S3",
-        "R9"
+        "106",
+        "602",
+        "701",
+        "702"
       ]
     },
     {
@@ -294,49 +280,20 @@
       ]
     },
     {
-      "id": 47,
-      "number": "2511 Brno, Tržní II",
-      "title": "Brno, Tržní - směr centrum",
-      "latitude": 49.189319,
-      "longitude": 16.629910,
+      "id": 99,
+      "number": "VP 2511-101",
+      "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
+      "latitude": 49.274245,
+      "longitude": 16.578369,
       "validFrom": "2025-11-15T00:00:00+01:00",
-      "validTo": "2025-11-17T23:59:00+01:00",
+      "validTo": "2025-11-17T23:55:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Tržní směr centrum Brna:\u00A0Přeložena vpřed na Svitavský most. ",
+      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:.<br/><br/> Linka<font color=\"#800000\"><strong> S3</strong></font>:Vlaky S3/4967, 4923, 4927, 4971, 4975, 4979\u00A0v úseku\u00A0Tišnov – Brno hl.n. pojedou\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S3</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:\u00A0Vlak R9/988 v sobotu 15.11.2025 a vlak R9/978 ve státní svátek 17.11.2025 pojede v úseku\u00A0Brno hl.n. – Brno Královo Pole\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "106",
-        "602",
-        "701",
-        "702"
-      ]
-    },
-    {
-      "id": 34822,
-      "number": "V2511-131",
-      "title": "Omezení provozu v křižovatce Tržní × Hladíkova",
-      "latitude": 49.189741,
-      "longitude": 16.631192,
-      "validFrom": "2025-11-14T23:00:00+01:00",
-      "validTo": "2025-11-16T09:30:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "<p><strong class=\"blue\">AKTUALIZACE 9:15: Výluka byla předčasně ukončena v neděli 16.11. v 9:30. Odklony zrušeny a zastávky byly vráceny do svých běžných poloh. Linky 31 a 33 tak opět zastavují na zastávce Masná v Křenové ulici.</strong></p>\n\n<p> </p>\n\n<p>Z důvodu opravy povrchu komunikace bude <strong>od 23:00 hod. v pátek 14. listopadu 2025 nepřetržitě do 23:00 hod. v pondělí 17. listopadu 2025</strong> částečně omezen průjezd křižovatkou Tržní × Hladíkova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusové linky 31, 33</strong> a <strong>noční autobusové linky N89, N96</strong> ve směru z centra pojedou v úseku mezi zastávkami <strong>Masná – Tržní</strong> odklonem ulicemi Masnou a Hladíkovou.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Linky 31, 33, N89 a N96 při jízdě od centra obslouží zastávku <strong>Masná</strong> v ulici Masné, společnou s linkami 64 a 67 směr Komárov.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Tržní</strong> ve směru do centra bude pro linky 49, 77, 84, N94, 106, 602, 701 a 702 přeložena přibližně o 50 metrů vpřed na most přes řeku Svitavu. </p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "31",
-        "33",
-        "49",
-        "77",
-        "84",
-        "N89",
-        "N94",
-        "N96",
-        "106",
-        "602",
-        "701",
-        "702"
+        "S3",
+        "R9"
       ]
     },
     {
@@ -473,6 +430,27 @@
       ]
     },
     {
+      "id": 96,
+      "number": "PO 2511-214",
+      "title": "Hodonín, silnice II/380+II/431 (ulice Úprkova+Brněnská)",
+      "latitude": 48.857487,
+      "longitude": 17.124553,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 109</strong></font> a <font color=\"#009240\"><strong>663</strong></font>\u00A0pojedou mezi autobusovým nádražím v Hodoníně a zastávkou Hodonín, Brněnská\u00A0obousměrně odklonem přes čtvrť Bažantnice bez vlivu na obsluhu zastávek..<br/><br/> Linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>pojedou mezi železniční stanicí v Hodoníně a čtvrtí Bažantnice\u00A0obousměrně odklonem kolem obchodního centra u ulice Velkomoravská a přes Bažantnici ulicemi\u00A0třída Bří Čapků - Družstevní čtvrť.\u00A0Vynechají tak zastávku\u00A0Hodonín, Bezručova..<br/><br/> Linka MHD Hodonín<font color=\"#009240\"><strong> 903\u00A0</strong></font>pojede mezi zastávkou R. Filipa sídliště a železniční stanicí\u00A0odklonem po trase linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> ulicí Měšťanská - Štefánikova - Velkomoravská - Dvořákova. Vynechají tak zastávky\u00A0Hodonín, Brandlova, Hodonín, Rozmarýn a Hodonín, Janáčkova, náhradou zastaví na zastávkách linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> směr autobusové nádraží Hodonín, lázně, Hodonín, R. Filipa, sídliště a Hodonín, rest. Morava.. V době úplné uzavírky křižovatky nám. 17. listopadu x Úprkova x Národní třída budou linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>obousměrně odkloněny ulicemi Dvořákova - Velkomoravská. Vynechají tak zastávku Hodonín, Rodinova\u00A0a Hodonín, žel. st.. Jako náhradou zastaví mimořádně na zastávce Hodonín, aut. nádr. - stanoviště č. 11.\u00A0Tato uzavírka nastane v termínu 18. 11. 2025 - 19. 11. 2025, nebo v náhradním termínu 20. 11. 2025 - 21. 11. 2025.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "109",
+        "663",
+        "901",
+        "902",
+        "903",
+        "904"
+      ]
+    },
+    {
       "id": 91,
       "number": "PO 2511-213",
       "title": "Blansko, ulice Sadová - I. etapa",
@@ -504,27 +482,6 @@
       "affectedLines": [
         "251",
         "253"
-      ]
-    },
-    {
-      "id": 96,
-      "number": "PO 2511-214",
-      "title": "Hodonín, silnice II/380+II/431 (ulice Úprkova+Brněnská)",
-      "latitude": 48.857487,
-      "longitude": 17.124553,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 109</strong></font> a <font color=\"#009240\"><strong>663</strong></font>\u00A0pojedou mezi autobusovým nádražím v Hodoníně a zastávkou Hodonín, Brněnská\u00A0obousměrně odklonem přes čtvrť Bažantnice bez vlivu na obsluhu zastávek..<br/><br/> Linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>pojedou mezi železniční stanicí v Hodoníně a čtvrtí Bažantnice\u00A0obousměrně odklonem kolem obchodního centra u ulice Velkomoravská a přes Bažantnici ulicemi\u00A0třída Bří Čapků - Družstevní čtvrť.\u00A0Vynechají tak zastávku\u00A0Hodonín, Bezručova..<br/><br/> Linka MHD Hodonín<font color=\"#009240\"><strong> 903\u00A0</strong></font>pojede mezi zastávkou R. Filipa sídliště a železniční stanicí\u00A0odklonem po trase linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> ulicí Měšťanská - Štefánikova - Velkomoravská - Dvořákova. Vynechají tak zastávky\u00A0Hodonín, Brandlova, Hodonín, Rozmarýn a Hodonín, Janáčkova, náhradou zastaví na zastávkách linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> směr autobusové nádraží Hodonín, lázně, Hodonín, R. Filipa, sídliště a Hodonín, rest. Morava.. V době úplné uzavírky křižovatky nám. 17. listopadu x Úprkova x Národní třída budou linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>obousměrně odkloněny ulicemi Dvořákova - Velkomoravská. Vynechají tak zastávku Hodonín, Rodinova\u00A0a Hodonín, žel. st.. Jako náhradou zastaví mimořádně na zastávce Hodonín, aut. nádr. - stanoviště č. 11.\u00A0Tato uzavírka nastane v termínu 18. 11. 2025 - 19. 11. 2025, nebo v náhradním termínu 20. 11. 2025 - 21. 11. 2025.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "109",
-        "663",
-        "901",
-        "902",
-        "903",
-        "904"
       ]
     },
     {
@@ -582,27 +539,6 @@
       ]
     },
     {
-      "id": 34397,
-      "number": "V2510-119",
-      "title": "Omezení provozu na Palackého třídě",
-      "latitude": 49.223125,
-      "longitude": 16.59524,
-      "validFrom": "2025-10-28T06:30:00+01:00",
-      "validTo": "2025-11-17T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu opravy povrchů vozovky nebude <strong>od 28. října do ukončení prací</strong> (předpoklad do 17. listopadu 2025) pro veškerou dopravu průjezdná Palackého třída mezi křižovatkami s ulicemi Malátovou a Metodějovou / Kosmovou.</p>\n\n<p> </p>\n\n<p><strong class=\"red\">Spoje nočních linek N90 a N91 jedoucí na spojení u Hlavního nádraží v pondělí 17. listopadu 2025 na 23:00 hod. pojedou již po běžné trase Palackého třídou s obsluhou zastávek Husitská, Jungmannova a Kartouzská.</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 30, 44 a 72</strong> ve směru na Skácelovu pojedou v úseku <strong>Semilasso – Slovanské náměstí</strong> odklonem ulicemi Riegrovou a Srbskou.<br />\n• Neobslouží tak zastávku <strong>Husitská</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 30, 72 a 84</strong> ve směru k Semilassu pojedou v úseku <strong>Slovanské náměstí – Semilasso</strong> odklonem ulicemi Bulharskou a Berkovou.<br />\n• Neobslouží tak zastávku <strong>Husitská</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusové linky N90 a N91</strong> pojedou v úseku <strong>Semilasso – Šumavská</strong> obousměrným odklonem ulicemi Riegrovou / Berkovou – Srbskou / Bulharskou – Charvatskou – Chodskou – Domažlickou.<br />\n• Neobslouží tak zastávky <strong>Husitská</strong>, <strong>Jungmannova </strong>a <strong>Kartouzská</strong>.<br />\n• Na odklonové trase náhradou obslouží zastávky <strong>Slovanské náměstí</strong>, <strong>Charvatská </strong>a <strong>Štefánikova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Husitská </strong>autobusových a trolejbusových linek v ulici Husitské bude po dobu výluky bez obsluhy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-119_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "30",
-        "44",
-        "72",
-        "84",
-        "N90",
-        "N91"
-      ]
-    },
-    {
       "id": 76,
       "number": "VP 2510-268",
       "title": "Slavkov u Brna, most ",
@@ -634,22 +570,6 @@
       "affectedLines": [
         "1",
         "3"
-      ]
-    },
-    {
-      "id": 48,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -690,6 +610,22 @@
         "521",
         "522",
         "543"
+      ]
+    },
+    {
+      "id": 48,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
