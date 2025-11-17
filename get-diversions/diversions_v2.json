@@ -163,7 +163,7 @@
       "longitude": 16.764579,
       "validFrom": "2025-11-17T07:00:00+01:00",
       "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Mezi Tvarožnou a Rohlenkou (pouze v tomto směru) jede odklonem s vynecháním zastávky Tvarožná, ZD. Zastávka Tvarožná je přesunuta k parčíku na návsi. Ve směru do Viničných Šumic jede linka po své standardní trase. ",
       "privateTextHtml": null,
       "type": "V",
@@ -479,22 +479,6 @@
       ]
     },
     {
-      "id": 103,
-      "number": "PO 2511-220",
-      "title": "Křižovatka u Rohlenky I",
-      "latitude": 49.183948,
-      "longitude": 16.764579,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-17T06:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Mezi Rohlenkou a Tvarožnou jede obousměrným odklonem s vynecháním zastávky Tvarožná, ZD. Zastávka Tvarožná je přesunuta k parčíku na návsi. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "702"
-      ]
-    },
-    {
       "id": 34711,
       "number": "",
       "title": "Zřízení zastávky Zemská knihovna",
@@ -512,19 +496,37 @@
       ]
     },
     {
-      "id": 106,
-      "number": "Lysovice, kult. dům - oba směry",
-      "title": "Lysovice, kult. dům - oba směry",
-      "latitude": 49.219023,
-      "longitude": 16.973850,
+      "id": 93,
+      "number": "PO 2511-212",
+      "title": "Borotín",
+      "latitude": 49.587679,
+      "longitude": 16.685057,
       "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "751"
+        "251",
+        "253"
+      ]
+    },
+    {
+      "id": 91,
+      "number": "PO 2511-213",
+      "title": "Blansko, ulice Sadová - I. etapa",
+      "latitude": 49.358941,
+      "longitude": 16.659415,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-17T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "233"
       ]
     },
     {
@@ -549,23 +551,6 @@
       ]
     },
     {
-      "id": 91,
-      "number": "PO 2511-213",
-      "title": "Blansko, ulice Sadová - I. etapa",
-      "latitude": 49.358941,
-      "longitude": 16.659415,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-17T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu rekonstrukce komunikace je zastávka Blansko, Podlesí v obou směrech dočasně zrušena. Náhradou lze využít zastávku Blansko, Sadová. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "233"
-      ]
-    },
-    {
       "id": 66,
       "number": "PO 2511-216",
       "title": "Holubice, nadjezd",
@@ -583,20 +568,19 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2511-212",
-      "title": "Borotín",
-      "latitude": 49.587679,
-      "longitude": 16.685057,
+      "id": 106,
+      "number": "Lysovice, kult. dům - oba směry",
+      "title": "Lysovice, kult. dům - oba směry",
+      "latitude": 49.219023,
+      "longitude": 16.973850,
       "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "251",
-        "253"
+        "751"
       ]
     },
     {
@@ -709,22 +693,6 @@
       ]
     },
     {
-      "id": 48,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 56,
       "number": "VP 2510-264",
       "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
@@ -762,6 +730,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 48,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
