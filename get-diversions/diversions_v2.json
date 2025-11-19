@@ -68,6 +68,39 @@
       ]
     },
     {
+      "id": 34916,
+      "number": "Z2511-088",
+      "title": "Vánoční tramvaj",
+      "latitude": 49.197852,
+      "longitude": 16.607192,
+      "validFrom": "2025-11-22T00:00:00+01:00",
+      "validTo": "2025-12-23T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p><strong>Od soboty 22. listopadu 2025 do úterý 23. prosince 2025</strong> bude v provozu tradiční Vánoční tramvaj:</p>\n\n<p>• <strong>v pracovní dny vždy od 15:00 do 20:30</strong><br />\n• <strong>v nepracovní dny vždy od 12:00 do 20:30</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Tramvaj pojede v intervalu 30 minut po okružní trase centrem města: <strong>Česká </strong><em>(nástupiště 6)</em><strong> – Malinovského náměstí – Hlavní nádraží </strong><em>(1. kolej)</em><strong> – Hlavní nádraží </strong><em>(nástupiště 8)</em><strong> – Zelný trh – Náměstí Svobody</strong> <em>(u orloje)</em><strong> – Náměstí Svobody </strong><em>(běžná zastávka)</em><strong> –  Česká </strong><em>(nástupiště 6)</em>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Ve Vánoční tramvaji platí běžný tarif IDS JMK.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma trasy a jízdní řád – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_z2511-088_jr_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "X"
+      ]
+    },
+    {
+      "id": 34915,
+      "number": "V2511-134",
+      "title": "Vánoční trhy na náměstí Svobody",
+      "latitude": 49.195082,
+      "longitude": 16.608286,
+      "validFrom": "2025-11-21T15:00:00+01:00",
+      "validTo": "2025-12-23T20:30:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání vánočních trhů bude <strong>od pátku 21. listopadu 2025 do úterý 23. prosince 2025</strong> vyloučen provoz tramvají přes náměstí Svobody:</p>\n\n<p>• <strong>v pracovní dny vždy od 15:00 do 20:30</strong><br />\n• <strong>v nepracovní dny vždy od 12:00 do 20:30</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 4</strong> pojede v úseku <strong>Česká – Hlavní nádraží</strong> odklonem ulicí Husovou.<br />\n• Vynechá tak zastávky Náměstí Svobody a Zelný trh.<br />\n• Zastávku Česká obslouží společně s linkami 5 a 6 směr Mendlovo náměstí.<br />\n• Na odklonové trase obslouží zastávky Šilingrovo náměstí a Nové sady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>Tramvajová linka 9</strong> pojede v úseku <strong>Moravské náměstí – Hlavní nádraží</strong> obousměrným odklonem ulicí Rooseveltovou.<br />\n• Vynechá tak zastávky Česká, Náměstí Svobody a Zelný trh.<br />\n• Na odklonové trase obslouží zastávku Malinovského náměstí.<br />\n• Zastávku Hlavní nádraží obslouží na 5./6. koleji (společně s linkami 10 a 67).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Od soboty 22. listopadu 2025 přes náměstí Svobody vždy v době výluky projíždí Vánoční tramvaj, podrobnosti a jízdní řád budou uvedeny v samostatné informaci.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-134_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "4",
+        "9"
+      ]
+    },
+    {
       "id": 87,
       "number": "Valchov, rozc.",
       "title": "Valchov, rozc.",
@@ -81,6 +114,25 @@
       "type": "V",
       "affectedLines": [
         "261"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "PO 2511-225",
+      "title": "Znojmo, ul. Vídeňská třída, sil. I/38 - II. etapa",
+      "latitude": 48.846912,
+      "longitude": 16.057259,
+      "validFrom": "2025-11-18T00:00:00+01:00",
+      "validTo": "2025-11-20T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 802</strong></font>, <font color=\"#2C89C8\"><strong> 803</strong></font>, <font color=\"#2C89C8\"><strong> 804</strong></font> a <font color=\"#2C89C8\"><strong>809</strong></font>\u00A0- veškeré spoje ve směru z města vynechávají zastávku Znojmo, Vídeňská Pražákova, náhradou je zastávka Znojmo, Vídeňská Na Rejdišti. V opačném směru do města jedou všechny spoje daných linek bez omezení, nevynechávají žádnou zastávku. Všechny regionální linky\u00A0IDS JMK jedou po svých pravidelných trasách a nevynechávají žádnou zastávku. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "802",
+        "803",
+        "804",
+        "809"
       ]
     },
     {
@@ -115,25 +167,6 @@
       "affectedLines": [
         "222",
         "233"
-      ]
-    },
-    {
-      "id": 36,
-      "number": "PO 2511-225",
-      "title": "Znojmo, ul. Vídeňská třída, sil. I/38 - II. etapa",
-      "latitude": 48.846912,
-      "longitude": 16.057259,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-20T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 802</strong></font>, <font color=\"#2C89C8\"><strong> 803</strong></font>, <font color=\"#2C89C8\"><strong> 804</strong></font> a <font color=\"#2C89C8\"><strong>809</strong></font>\u00A0- veškeré spoje ve směru z města vynechávají zastávku Znojmo, Vídeňská Pražákova, náhradou je zastávka Znojmo, Vídeňská Na Rejdišti. V opačném směru do města jedou všechny spoje daných linek bez omezení, nevynechávají žádnou zastávku. Všechny regionální linky\u00A0IDS JMK jedou po svých pravidelných trasách a nevynechávají žádnou zastávku. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "802",
-        "803",
-        "804",
-        "809"
       ]
     },
     {
@@ -412,19 +445,19 @@
       ]
     },
     {
-      "id": 48,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
+      "id": 63,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
       "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "161"
+        "541"
       ]
     },
     {
@@ -452,19 +485,19 @@
       ]
     },
     {
-      "id": 63,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
+      "id": 48,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
       "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "541"
+        "161"
       ]
     },
     {
@@ -586,22 +619,6 @@
       ]
     },
     {
-      "id": 29,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 32,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -616,6 +633,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 29,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
@@ -834,22 +867,6 @@
       ]
     },
     {
-      "id": 12,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
-      ]
-    },
-    {
       "id": 13,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -867,6 +884,22 @@
         "662",
         "663",
         "664"
+      ]
+    },
+    {
+      "id": 12,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
       ]
     },
     {
