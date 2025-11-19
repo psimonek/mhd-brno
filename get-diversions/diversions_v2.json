@@ -68,6 +68,22 @@
       ]
     },
     {
+      "id": 34956,
+      "number": "V2511-135",
+      "title": "Omezení na lince E50",
+      "latitude": 49.170664,
+      "longitude": 16.554229,
+      "validFrom": "2025-11-22T00:00:00+01:00",
+      "validTo": "2025-11-22T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy povrchu komunikace v rámci křižovatky Jemelkova × Chironova nebude <strong>v sobotu 22. listopadu 2025</strong> daná křižovatka pro autobus linky E50 průjezdná.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Účelový spoj <strong>linky E50 </strong>jedoucí ve večerních hodinách směr Areál Slatina pojede v úseku mezi zastávkami <strong>Jírovcova – Bohunická </strong>odklonem ulicemi Petra Křivky a Kamenice.<br />\n• Vynechá tak zastávky <strong>Starý Lískovec, smyčka</strong>,<strong> Čermákova</strong>, <strong>Humenná</strong> a <strong>Běloruská</strong>.<br />\n• Na odklonové trase obslouží zastávka <strong>Univerzitní kampus</strong> <em>(zastávku linky 69 směr Ukrajinská)</em>, <strong>Uzbecká</strong> a <strong>Ukrajinská</strong>.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "E50"
+      ]
+    },
+    {
       "id": 34916,
       "number": "Z2511-088",
       "title": "Vánoční tramvaj",
@@ -117,22 +133,20 @@
       ]
     },
     {
-      "id": 36,
-      "number": "PO 2511-225",
-      "title": "Znojmo, ul. Vídeňská třída, sil. I/38 - II. etapa",
-      "latitude": 48.846912,
-      "longitude": 16.057259,
+      "id": 92,
+      "number": "2511 Blansko, Sadová",
+      "title": "Blansko, ulice Sadová - II. etapa",
+      "latitude": 49.360108,
+      "longitude": 16.657430,
       "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-20T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 802</strong></font>, <font color=\"#2C89C8\"><strong> 803</strong></font>, <font color=\"#2C89C8\"><strong> 804</strong></font> a <font color=\"#2C89C8\"><strong>809</strong></font>\u00A0- veškeré spoje ve směru z města vynechávají zastávku Znojmo, Vídeňská Pražákova, náhradou je zastávka Znojmo, Vídeňská Na Rejdišti. V opačném směru do města jedou všechny spoje daných linek bez omezení, nevynechávají žádnou zastávku. Všechny regionální linky\u00A0IDS JMK jedou po svých pravidelných trasách a nevynechávají žádnou zastávku. ",
+      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "802",
-        "803",
-        "804",
-        "809"
+        "222",
+        "233"
       ]
     },
     {
@@ -153,20 +167,22 @@
       ]
     },
     {
-      "id": 92,
-      "number": "2511 Blansko, Sadová",
-      "title": "Blansko, ulice Sadová - II. etapa",
-      "latitude": 49.360108,
-      "longitude": 16.657430,
+      "id": 36,
+      "number": "PO 2511-225",
+      "title": "Znojmo, ul. Vídeňská třída, sil. I/38 - II. etapa",
+      "latitude": 48.846912,
+      "longitude": 16.057259,
       "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-11-20T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 802</strong></font>, <font color=\"#2C89C8\"><strong> 803</strong></font>, <font color=\"#2C89C8\"><strong> 804</strong></font> a <font color=\"#2C89C8\"><strong>809</strong></font>\u00A0- veškeré spoje ve směru z města vynechávají zastávku Znojmo, Vídeňská Pražákova, náhradou je zastávka Znojmo, Vídeňská Na Rejdišti. V opačném směru do města jedou všechny spoje daných linek bez omezení, nevynechávají žádnou zastávku. Všechny regionální linky\u00A0IDS JMK jedou po svých pravidelných trasách a nevynechávají žádnou zastávku. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "222",
-        "233"
+        "802",
+        "803",
+        "804",
+        "809"
       ]
     },
     {
@@ -219,19 +235,19 @@
       ]
     },
     {
-      "id": 111,
-      "number": "Násedlovice, kostel",
-      "title": "Násedlovice, kostel",
-      "latitude": 49.014705,
-      "longitude": 16.962247,
+      "id": 86,
+      "number": "PO 2511-221",
+      "title": "Letovice, Zboněk",
+      "latitude": 49.523008,
+      "longitude": 16.585954,
       "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-12-16T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
+      "publicTextHtml": "Z důvodu další etapy částečné uzavírky silnice I/43 bude v uvedeném termínu přesunuta zastávka Letovice, Zboněk. Náhradní zastávka pro oba směry se bude nacházet v křižovatce MK přímo ve Zboňku. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "655"
+        "255"
       ]
     },
     {
@@ -253,19 +269,19 @@
       ]
     },
     {
-      "id": 86,
-      "number": "PO 2511-221",
-      "title": "Letovice, Zboněk",
-      "latitude": 49.523008,
-      "longitude": 16.585954,
+      "id": 111,
+      "number": "Násedlovice, kostel",
+      "title": "Násedlovice, kostel",
+      "latitude": 49.014705,
+      "longitude": 16.962247,
       "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-12-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy částečné uzavírky silnice I/43 bude v uvedeném termínu přesunuta zastávka Letovice, Zboněk. Náhradní zastávka pro oba směry se bude nacházet v křižovatce MK přímo ve Zboňku. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "255"
+        "655"
       ]
     },
     {
@@ -283,22 +299,6 @@
       "affectedLines": [
         "34",
         "36"
-      ]
-    },
-    {
-      "id": 106,
-      "number": "Lysovice, kult. dům - oba směry",
-      "title": "Lysovice, kult. dům - oba směry",
-      "latitude": 49.219023,
-      "longitude": 16.973850,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "751"
       ]
     },
     {
@@ -354,6 +354,22 @@
       "affectedLines": [
         "106",
         "602"
+      ]
+    },
+    {
+      "id": 106,
+      "number": "Lysovice, kult. dům - oba směry",
+      "title": "Lysovice, kult. dům - oba směry",
+      "latitude": 49.219023,
+      "longitude": 16.973850,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "751"
       ]
     },
     {
@@ -619,6 +635,22 @@
       ]
     },
     {
+      "id": 29,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
+      ]
+    },
+    {
       "id": 32,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -633,22 +665,6 @@
       "affectedLines": [
         "816",
         "817"
-      ]
-    },
-    {
-      "id": 29,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
       ]
     },
     {
