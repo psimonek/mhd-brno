@@ -133,23 +133,6 @@
       ]
     },
     {
-      "id": 92,
-      "number": "2511 Blansko, Sadová",
-      "title": "Blansko, ulice Sadová - II. etapa",
-      "latitude": 49.360108,
-      "longitude": 16.657430,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "233"
-      ]
-    },
-    {
       "id": 107,
       "number": "VP 2511-271",
       "title": "Rozdrojovice, ul. Na Březině",
@@ -183,6 +166,23 @@
         "803",
         "804",
         "809"
+      ]
+    },
+    {
+      "id": 92,
+      "number": "2511 Blansko, Sadová",
+      "title": "Blansko, ulice Sadová - II. etapa",
+      "latitude": 49.360108,
+      "longitude": 16.657430,
+      "validFrom": "2025-11-18T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "233"
       ]
     },
     {
@@ -251,6 +251,22 @@
       ]
     },
     {
+      "id": 111,
+      "number": "Násedlovice, kostel",
+      "title": "Násedlovice, kostel",
+      "latitude": 49.014705,
+      "longitude": 16.962247,
+      "validFrom": "2025-11-12T00:00:00+01:00",
+      "validTo": "2025-12-16T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "655"
+      ]
+    },
+    {
       "id": 105,
       "number": "2511 Jiříkovice, motorest Rohlenka II",
       "title": "Jiříkovice, motorest Rohlenka - směr z Brna",
@@ -266,22 +282,6 @@
         "601",
         "602",
         "702"
-      ]
-    },
-    {
-      "id": 111,
-      "number": "Násedlovice, kostel",
-      "title": "Násedlovice, kostel",
-      "latitude": 49.014705,
-      "longitude": 16.962247,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-12-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "655"
       ]
     },
     {
@@ -323,6 +323,22 @@
       ]
     },
     {
+      "id": 106,
+      "number": "Lysovice, kult. dům - oba směry",
+      "title": "Lysovice, kult. dům - oba směry",
+      "latitude": 49.219023,
+      "longitude": 16.973850,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "751"
+      ]
+    },
+    {
       "id": 93,
       "number": "PO 2511-212",
       "title": "Borotín",
@@ -337,39 +353,6 @@
       "affectedLines": [
         "251",
         "253"
-      ]
-    },
-    {
-      "id": 66,
-      "number": "PO 2511-216",
-      "title": "Holubice, nadjezd",
-      "latitude": 49.178169,
-      "longitude": 16.819124,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-19T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 106</strong></font> a spoje 13, 24 a 32 linky<font color=\"#009240\"><strong> 602</strong></font>:\u00A0Zastávka Holubice, nadjezd přeložena na silnici III/4163 vedoucí od centra obce k železniční stanici. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "602"
-      ]
-    },
-    {
-      "id": 106,
-      "number": "Lysovice, kult. dům - oba směry",
-      "title": "Lysovice, kult. dům - oba směry",
-      "latitude": 49.219023,
-      "longitude": 16.973850,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "751"
       ]
     },
     {
@@ -461,46 +444,6 @@
       ]
     },
     {
-      "id": 63,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541"
-      ]
-    },
-    {
-      "id": 56,
-      "number": "VP 2510-264",
-      "title": "Židlochovice, most mezi autobusovým stanovištěm a centrem (okr. křiž. II. etapa)",
-      "latitude": 49.036707,
-      "longitude": 16.616660,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-19T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 151</strong></font>, <font color=\"#009240\"><strong> 514</strong></font>\u00A0pojedou mezi Blučinou a zastávkou Židlochovice, aut. st. obousměrně odklonem přes Vojkovice a kolem Hrušovan u Brna.<br/><br/> Linka<font color=\"#009240\"><strong> 505</strong></font>\u00A0bude v obou směrech ukončena na zastávce Židlochovice, sídliště a zároveň bude provázána s linkami<font color=\"#009240\"><strong> 521</strong></font> a <font color=\"#009240\"><strong>522</strong></font>.\u00A0Zastávky Židlochovice, aut. st. a Židlochovice, žel. st. budou po dobu výluky bez obsluhy linkou<font color=\"#009240\"><strong> 505</strong></font>..<br/><br/> Linky<font color=\"#009240\"><strong> 521</strong></font>, <font color=\"#009240\"><strong> 522</strong></font>\u00A0budou v obou směrech ukončeny na zastávce Židlochovice, sídliště\u00A0a zároveň budou provázány s linkou<font color=\"#009240\"><strong> 505</strong></font>. Vybrané spoje linky<font color=\"#009240\"><strong> 521</strong></font> budou i nadále vedeny do Hrušovan u Brna a zpět odklonovou trasou přes Vojkovice.\u00A0Zastávky Židlochovice, aut. st., Židlochovice, žel. st. a Židlochovice, škola budou po dobu výluky bez obsluhy linkami<font color=\"#009240\"><strong> 521</strong></font> a <font color=\"#009240\"><strong>522</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "105",
-        "151",
-        "154",
-        "505",
-        "514",
-        "520",
-        "521",
-        "522",
-        "543"
-      ]
-    },
-    {
       "id": 48,
       "number": "2510 Brno, Ruda",
       "title": "Brno, Ruda - směr Žebětín",
@@ -514,6 +457,22 @@
       "type": "V",
       "affectedLines": [
         "161"
+      ]
+    },
+    {
+      "id": 63,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
       ]
     },
     {
