@@ -150,25 +150,6 @@
       ]
     },
     {
-      "id": 36,
-      "number": "PO 2511-225",
-      "title": "Znojmo, ul. Vídeňská třída, sil. I/38 - II. etapa",
-      "latitude": 48.846912,
-      "longitude": 16.057259,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-20T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 802</strong></font>, <font color=\"#2C89C8\"><strong> 803</strong></font>, <font color=\"#2C89C8\"><strong> 804</strong></font> a <font color=\"#2C89C8\"><strong>809</strong></font>\u00A0- veškeré spoje ve směru z města vynechávají zastávku Znojmo, Vídeňská Pražákova, náhradou je zastávka Znojmo, Vídeňská Na Rejdišti. V opačném směru do města jedou všechny spoje daných linek bez omezení, nevynechávají žádnou zastávku. Všechny regionální linky\u00A0IDS JMK jedou po svých pravidelných trasách a nevynechávají žádnou zastávku. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "802",
-        "803",
-        "804",
-        "809"
-      ]
-    },
-    {
       "id": 92,
       "number": "2511 Blansko, Sadová",
       "title": "Blansko, ulice Sadová - II. etapa",
@@ -302,24 +283,20 @@
       ]
     },
     {
-      "id": 96,
-      "number": "PO 2511-214",
-      "title": "Hodonín, silnice II/380+II/431 (ulice Úprkova+Brněnská)",
-      "latitude": 48.857487,
-      "longitude": 17.124553,
+      "id": 93,
+      "number": "PO 2511-212",
+      "title": "Borotín",
+      "latitude": 49.587679,
+      "longitude": 16.685057,
       "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 109</strong></font> a <font color=\"#009240\"><strong>663</strong></font>\u00A0pojedou mezi autobusovým nádražím v Hodoníně a zastávkou Hodonín, Brněnská\u00A0obousměrně odklonem přes čtvrť Bažantnice bez vlivu na obsluhu zastávek..<br/><br/> Linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>pojedou mezi železniční stanicí v Hodoníně a čtvrtí Bažantnice\u00A0obousměrně odklonem kolem obchodního centra u ulice Velkomoravská a přes Bažantnici ulicemi\u00A0třída Bří Čapků - Družstevní čtvrť.\u00A0Vynechají tak zastávku\u00A0Hodonín, Bezručova..<br/><br/> Linka MHD Hodonín<font color=\"#009240\"><strong> 903\u00A0</strong></font>pojede mezi zastávkou R. Filipa sídliště a železniční stanicí\u00A0odklonem po trase linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> ulicí Měšťanská - Štefánikova - Velkomoravská - Dvořákova. Vynechají tak zastávky\u00A0Hodonín, Brandlova, Hodonín, Rozmarýn a Hodonín, Janáčkova, náhradou zastaví na zastávkách linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> směr autobusové nádraží Hodonín, lázně, Hodonín, R. Filipa, sídliště a Hodonín, rest. Morava.. V době úplné uzavírky křižovatky nám. 17. listopadu x Úprkova x Národní třída budou linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>obousměrně odkloněny ulicemi Dvořákova - Velkomoravská. Vynechají tak zastávku Hodonín, Rodinova\u00A0a Hodonín, žel. st.. Jako náhradou zastaví mimořádně na zastávce Hodonín, aut. nádr. - stanoviště č. 11.\u00A0Tato uzavírka nastane v termínu 18. 11. 2025 - 19. 11. 2025, nebo v náhradním termínu 20. 11. 2025 - 21. 11. 2025.. ",
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "109",
-        "663",
-        "901",
-        "902",
-        "903",
-        "904"
+        "251",
+        "253"
       ]
     },
     {
@@ -339,20 +316,24 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2511-212",
-      "title": "Borotín",
-      "latitude": 49.587679,
-      "longitude": 16.685057,
+      "id": 96,
+      "number": "PO 2511-214",
+      "title": "Hodonín, silnice II/380+II/431 (ulice Úprkova+Brněnská)",
+      "latitude": 48.857487,
+      "longitude": 17.124553,
       "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 109</strong></font> a <font color=\"#009240\"><strong>663</strong></font>\u00A0pojedou mezi autobusovým nádražím v Hodoníně a zastávkou Hodonín, Brněnská\u00A0obousměrně odklonem přes čtvrť Bažantnice bez vlivu na obsluhu zastávek..<br/><br/> Linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>pojedou mezi železniční stanicí v Hodoníně a čtvrtí Bažantnice\u00A0obousměrně odklonem kolem obchodního centra u ulice Velkomoravská a přes Bažantnici ulicemi\u00A0třída Bří Čapků - Družstevní čtvrť.\u00A0Vynechají tak zastávku\u00A0Hodonín, Bezručova..<br/><br/> Linka MHD Hodonín<font color=\"#009240\"><strong> 903\u00A0</strong></font>pojede mezi zastávkou R. Filipa sídliště a železniční stanicí\u00A0odklonem po trase linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> ulicí Měšťanská - Štefánikova - Velkomoravská - Dvořákova. Vynechají tak zastávky\u00A0Hodonín, Brandlova, Hodonín, Rozmarýn a Hodonín, Janáčkova, náhradou zastaví na zastávkách linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> směr autobusové nádraží Hodonín, lázně, Hodonín, R. Filipa, sídliště a Hodonín, rest. Morava.. V době úplné uzavírky křižovatky nám. 17. listopadu x Úprkova x Národní třída budou linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>obousměrně odkloněny ulicemi Dvořákova - Velkomoravská. Vynechají tak zastávku Hodonín, Rodinova\u00A0a Hodonín, žel. st.. Jako náhradou zastaví mimořádně na zastávce Hodonín, aut. nádr. - stanoviště č. 11.\u00A0Tato uzavírka nastane v termínu 18. 11. 2025 - 19. 11. 2025, nebo v náhradním termínu 20. 11. 2025 - 21. 11. 2025.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "251",
-        "253"
+        "109",
+        "663",
+        "901",
+        "902",
+        "903",
+        "904"
       ]
     },
     {
@@ -444,22 +425,6 @@
       ]
     },
     {
-      "id": 48,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 63,
       "number": "VP 2510-265",
       "title": "Boleradice, silnice směr Morkůvky",
@@ -473,6 +438,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 48,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -594,22 +575,6 @@
       ]
     },
     {
-      "id": 29,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 32,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -624,6 +589,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 29,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
