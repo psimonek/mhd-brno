@@ -44,7 +44,7 @@
       "longitude": 16.635894,
       "validFrom": "2025-11-22T08:30:00+01:00",
       "validTo": "2025-11-22T16:15:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky na\u00A0lince<font color=\"#800000\"><strong> S21</strong></font>\u00A0budou v uvedeném úseku nahrazeny autobusy náhradní dopravy (NAD) jedoucí podle výlukového jízdního řádu jako\u00A0linka xS21.. ",
       "privateTextHtml": null,
       "type": "V",
