@@ -137,22 +137,6 @@
       ]
     },
     {
-      "id": 109,
-      "number": "PO 2511-223",
-      "title": "Sulíkov, dolní zastávka (pouze směr Kunštát)",
-      "latitude": 49.542442,
-      "longitude": 16.489996,
-      "validFrom": "2025-11-14T00:00:00+01:00",
-      "validTo": "2025-11-23T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky silnice v Sulíkově bude zastávka Sulíkov, dolní zastávka (pouze ve směru do Kunštátu) dočasně zrušena bez náhrady. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "256"
-      ]
-    },
-    {
       "id": 111,
       "number": "Násedlovice, kostel",
       "title": "Násedlovice, kostel",
