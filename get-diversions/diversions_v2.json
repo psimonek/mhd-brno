@@ -37,22 +37,6 @@
       ]
     },
     {
-      "id": 97,
-      "number": "PO 2511-228",
-      "title": "Šanov, účelová komunikace",
-      "latitude": 48.812839,
-      "longitude": 16.374594,
-      "validFrom": "2025-11-22T08:00:00+01:00",
-      "validTo": "2025-11-23T17:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 104</strong></font>\u00A0- veškeré spoje ve směru Hevlín pojedou mezi zastávkami Hrušovany n. Jev., žel. st. a Šanov, pož. zbroj. jednosměrným odklonem po silnicích III/4155, II/415 a III/4156 přes obec Hrabětice. V opačném směru do Brna jednou všechny spoje po své normální trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "104"
-      ]
-    },
-    {
       "id": 34916,
       "number": "Z2511-088",
       "title": "Vánoční tramvaj",
