@@ -204,6 +204,23 @@
       ]
     },
     {
+      "id": 93,
+      "number": "PO 2511-212",
+      "title": "Borotín",
+      "latitude": 49.587679,
+      "longitude": 16.685057,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251",
+        "253"
+      ]
+    },
+    {
       "id": 106,
       "number": "Lysovice, kult. dům - oba směry",
       "title": "Lysovice, kult. dům - oba směry",
@@ -241,40 +258,6 @@
       ]
     },
     {
-      "id": 93,
-      "number": "PO 2511-212",
-      "title": "Borotín",
-      "latitude": 49.587679,
-      "longitude": 16.685057,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251",
-        "253"
-      ]
-    },
-    {
-      "id": 94,
-      "number": "PO 2511-209",
-      "title": "Suchý, MK mezi č.p. 69 ? 85",
-      "latitude": 49.481847,
-      "longitude": 16.762932,
-      "validFrom": "2025-11-03T00:00:00+01:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu havarijní opravy vodovodu a kanalizace je uzavřena místní komunikace v obci Suchý (mezi domy č.p. 69 ? 85). .<br/><br/> Linky<font color=\"#009240\"><strong> 233</strong></font> a <font color=\"#009240\"><strong>261</strong></font> nebudou zajíždět do středu obce. Zastávky Suchý budou obsluhovat\u00A0v obou směrech na silnici II/373 v úrovni obecního úřadu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "233",
-        "261"
-      ]
-    },
-    {
       "id": 34527,
       "number": "V2511-123",
       "title": "Uzavírka ulice Fryčajovy",
@@ -309,23 +292,6 @@
       "type": "V",
       "affectedLines": [
         "174"
-      ]
-    },
-    {
-      "id": 76,
-      "number": "VP 2510-268",
-      "title": "Slavkov u Brna, most ",
-      "latitude": 49.146426,
-      "longitude": 16.877452,
-      "validFrom": "2025-10-20T00:00:00+02:00",
-      "validTo": "2025-11-24T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Spoj 74 výchozí ze zastávky Slavkov u Brna, aut. st. Frekvenci z vlakového nádraží na autobusovou stanici přepraví autobus linky<font color=\"#009240\"><strong> 631</strong></font>. Zde bude zajištěn přestup cestujících směr Němčany a Hodějice.<br/><br/> Linka<font color=\"#009240\"><strong> 631</strong></font>:\u00A0Časové úpravy vybraných spojů. Spoj 61 jede mimo zastávku Slavkov u Brna, žel. st. na autobusové nádraží. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "630",
-        "631"
       ]
     },
     {
