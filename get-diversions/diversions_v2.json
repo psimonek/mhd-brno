@@ -8,7 +8,7 @@
       "longitude": 16.403534,
       "validFrom": "2025-11-24T08:30:00+01:00",
       "validTo": "2025-11-25T14:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0budou v uvedeném úseku po dobu výluky nahrazeny autobusy náhradní dopravy jedoucími jako\u00A0linka xS41\u00A0podle výlukového jízdního řádu.. ",
       "privateTextHtml": null,
       "type": "V",
