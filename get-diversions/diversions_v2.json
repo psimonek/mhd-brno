@@ -87,22 +87,6 @@
       ]
     },
     {
-      "id": 104,
-      "number": "PO 2511-224",
-      "title": "Křižovatka u Rohlenky II",
-      "latitude": 49.183948,
-      "longitude": 16.764579,
-      "validFrom": "2025-11-17T07:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Mezi Tvarožnou a Rohlenkou (pouze v tomto směru) jede odklonem s vynecháním zastávky Tvarožná, ZD. Zastávka Tvarožná je přesunuta k parčíku na návsi. Ve směru do Viničných Šumic jede linka po své standardní trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "702"
-      ]
-    },
-    {
       "id": 34708,
       "number": "V2511-130",
       "title": "Omezení provozu v ulici Jihlavské – III. etapa",
@@ -117,24 +101,6 @@
       "affectedLines": [
         "40",
         "N90"
-      ]
-    },
-    {
-      "id": 105,
-      "number": "2511 Jiříkovice, motorest Rohlenka II",
-      "title": "Jiříkovice, motorest Rohlenka - směr z Brna",
-      "latitude": 49.183555,
-      "longitude": 16.760813,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Jiříkovice, motorest Rohlenka:\u00A0Pro směr z Brna do regionu přeložena před semaforový úsek směrem k Brnu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "601",
-        "602",
-        "702"
       ]
     },
     {
@@ -167,43 +133,6 @@
       "type": "V",
       "affectedLines": [
         "655"
-      ]
-    },
-    {
-      "id": 106,
-      "number": "Lysovice, kult. dům - oba směry",
-      "title": "Lysovice, kult. dům - oba směry",
-      "latitude": 49.219023,
-      "longitude": 16.973850,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje\u00A0v obouch směrech zastávky Lysovice, kult. dům - cestující mohou využít blízké zastávky Ob.Ú. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "751"
-      ]
-    },
-    {
-      "id": 96,
-      "number": "PO 2511-214",
-      "title": "Hodonín, silnice II/380+II/431 (ulice Úprkova+Brněnská)",
-      "latitude": 48.857487,
-      "longitude": 17.124553,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 109</strong></font> a <font color=\"#009240\"><strong>663</strong></font>\u00A0pojedou mezi autobusovým nádražím v Hodoníně a zastávkou Hodonín, Brněnská\u00A0obousměrně odklonem přes čtvrť Bažantnice bez vlivu na obsluhu zastávek..<br/><br/> Linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>pojedou mezi železniční stanicí v Hodoníně a čtvrtí Bažantnice\u00A0obousměrně odklonem kolem obchodního centra u ulice Velkomoravská a přes Bažantnici ulicemi\u00A0třída Bří Čapků - Družstevní čtvrť.\u00A0Vynechají tak zastávku\u00A0Hodonín, Bezručova..<br/><br/> Linka MHD Hodonín<font color=\"#009240\"><strong> 903\u00A0</strong></font>pojede mezi zastávkou R. Filipa sídliště a železniční stanicí\u00A0odklonem po trase linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> ulicí Měšťanská - Štefánikova - Velkomoravská - Dvořákova. Vynechají tak zastávky\u00A0Hodonín, Brandlova, Hodonín, Rozmarýn a Hodonín, Janáčkova, náhradou zastaví na zastávkách linky<font color=\"#009240\"><strong> 664</strong></font> a <font color=\"#009240\"><strong>911</strong></font> směr autobusové nádraží Hodonín, lázně, Hodonín, R. Filipa, sídliště a Hodonín, rest. Morava.. V době úplné uzavírky křižovatky nám. 17. listopadu x Úprkova x Národní třída budou linky MHD Hodonín<font color=\"#009240\"><strong> 901, 902, 903</strong></font> a <font color=\"#009240\"><strong>904\u00A0</strong></font>obousměrně odkloněny ulicemi Dvořákova - Velkomoravská. Vynechají tak zastávku Hodonín, Rodinova\u00A0a Hodonín, žel. st.. Jako náhradou zastaví mimořádně na zastávce Hodonín, aut. nádr. - stanoviště č. 11.\u00A0Tato uzavírka nastane v termínu 18. 11. 2025 - 19. 11. 2025, nebo v náhradním termínu 20. 11. 2025 - 21. 11. 2025.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "109",
-        "663",
-        "901",
-        "902",
-        "903",
-        "904"
       ]
     },
     {
@@ -278,22 +207,6 @@
       ]
     },
     {
-      "id": 48,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 63,
       "number": "VP 2510-265",
       "title": "Boleradice, silnice směr Morkůvky",
@@ -307,6 +220,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 48,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
