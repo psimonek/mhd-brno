@@ -1,23 +1,6 @@
 {
   "diversions": [
     {
-      "id": 112,
-      "number": "VP 2511-103",
-      "title": "žel. trať. Mor. Bránice – Ivančice",
-      "latitude": 49.092493,
-      "longitude": 16.403534,
-      "validFrom": "2025-11-24T08:30:00+01:00",
-      "validTo": "2025-11-25T14:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0budou v uvedeném úseku po dobu výluky nahrazeny autobusy náhradní dopravy jedoucími jako\u00A0linka xS41\u00A0podle výlukového jízdního řádu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S41",
-        "xS41"
-      ]
-    },
-    {
       "id": 34971,
       "number": "V2511-136",
       "title": "Omezení provozu autobusů v České a Lelekovicích",
@@ -137,19 +120,21 @@
       ]
     },
     {
-      "id": 111,
-      "number": "Násedlovice, kostel",
-      "title": "Násedlovice, kostel",
-      "latitude": 49.014705,
-      "longitude": 16.962247,
+      "id": 105,
+      "number": "2511 Jiříkovice, motorest Rohlenka II",
+      "title": "Jiříkovice, motorest Rohlenka - směr z Brna",
+      "latitude": 49.183555,
+      "longitude": 16.760813,
       "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-12-16T23:59:00+01:00",
+      "validTo": "2025-11-25T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
+      "publicTextHtml": "Zastávka Jiříkovice, motorest Rohlenka:\u00A0Pro směr z Brna do regionu přeložena před semaforový úsek směrem k Brnu. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "655"
+        "601",
+        "602",
+        "702"
       ]
     },
     {
@@ -169,21 +154,19 @@
       ]
     },
     {
-      "id": 105,
-      "number": "2511 Jiříkovice, motorest Rohlenka II",
-      "title": "Jiříkovice, motorest Rohlenka - směr z Brna",
-      "latitude": 49.183555,
-      "longitude": 16.760813,
+      "id": 111,
+      "number": "Násedlovice, kostel",
+      "title": "Násedlovice, kostel",
+      "latitude": 49.014705,
+      "longitude": 16.962247,
       "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-25T23:59:00+01:00",
+      "validTo": "2025-12-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávka Jiříkovice, motorest Rohlenka:\u00A0Pro směr z Brna do regionu přeložena před semaforový úsek směrem k Brnu. ",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "601",
-        "602",
-        "702"
+        "655"
       ]
     },
     {
@@ -201,23 +184,6 @@
       "affectedLines": [
         "34",
         "36"
-      ]
-    },
-    {
-      "id": 93,
-      "number": "PO 2511-212",
-      "title": "Borotín",
-      "latitude": 49.587679,
-      "longitude": 16.685057,
-      "validFrom": "2025-11-10T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "251",
-        "253"
       ]
     },
     {
@@ -255,6 +221,23 @@
         "902",
         "903",
         "904"
+      ]
+    },
+    {
+      "id": 93,
+      "number": "PO 2511-212",
+      "title": "Borotín",
+      "latitude": 49.587679,
+      "longitude": 16.685057,
+      "validFrom": "2025-11-10T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 251</strong></font> jedoucí závlekem přes Borotín pojedou obousměrně mezi zastávkami Cetkovice, žel. st. a Borotín odklonem. Nedochází ke změnám zastávek ani jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "251",
+        "253"
       ]
     },
     {
@@ -462,22 +445,6 @@
       ]
     },
     {
-      "id": 29,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 32,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -492,6 +459,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 29,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
