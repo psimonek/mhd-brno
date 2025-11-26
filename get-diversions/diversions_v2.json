@@ -66,6 +66,28 @@
       ]
     },
     {
+      "id": 35068,
+      "number": "V2511-137",
+      "title": "Výluka autobusů a trolejbusů v křižovatce Údolní × Úvoz",
+      "latitude": 49.198307,
+      "longitude": 16.593701,
+      "validFrom": "2025-11-28T23:05:00+01:00",
+      "validTo": "2025-11-30T23:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu finální pokládky povrchu komunikace bude <strong>od 23:05 hod. v pátek 28. listopadu 2025 nepřetržitě do 23:00 hod. v neděli 30. listopadu 2025</strong> vyloučen veškerý provoz v křižovatce Údolní × Úvoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong>.<br />\n• V úseku<strong> Tvrdého – Úvoz</strong> ve směru na Konečného náměstí pojedou autobusové <strong>linky x25</strong> a <strong>x26</strong> odklonem ulicemi Tvrdého, Lerchovou, Údolní a Gorkého. Na odklonové trase obslouží zastávky <strong>Žlutý kopec</strong>, <strong>Lerchova</strong>, <strong>Náměstí Míru</strong> <em>(zastávka linky N89 směr centrum), </em><strong>Heinrichova</strong> a <strong>Všetičkova</strong>.<br />\n• V úseku <strong>Čápkova – Mendlovo náměstí</strong> ve směru na Mendlovo náměstí pojedou autobusové<strong> linky x25</strong> a <strong>x26</strong> odklonem ulicemi Gorkého, Veveří, Husovou a Pekařskou. Na odklonové trase obslouží zastávky <strong>Grohova </strong><em>(v ul. Grohově)</em>, <strong>Česká</strong> <em>(společnou s linkou 12 směr centrum)</em>, <strong>Šilingrovo náměstí</strong> <em>(v ulici Pekařské)</em> a <strong>Nemocnice u sv. Anny</strong>. Zastávku <strong>Úvoz</strong> obslouží v uvedeném směru v přeložené poloze v ulici Úvoz před křižovatkou s ulicí Grohovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 38 </strong>bude v provozu pouze v úseku<strong> Preslova – Žlutý kopec</strong> a dále bude pokračovat jako<strong> linka 35</strong> na <strong>Mendlovo náměstí</strong>. <strong>Trolejbusová linka 39 </strong>bude po dobu výluky zcela mimo provoz a bude nahrazena trolejbusovou<strong> linkou 35</strong> v běžné trase <strong>Barvičova – Mendlovo náměstí</strong>.<br />\n• Po dobu výluky tak nebudou výše uvedené linky obsluhovat zastávky <strong>Úvoz</strong>, <strong>Grohova</strong>, <strong>Česká</strong>, <strong>Smetanova</strong>, <strong>Sušilova</strong>, <strong>Konečného náměstí</strong> a <strong>Čápkova</strong>.<br />\n• Mezi zastávkami <strong>Česká – Žlutý kopec</strong> lze alternativně využít autobusovou <strong>linku x4</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusové linky x4</strong> a <strong>N89 </strong>pojedou ve směru na Náměstí Míru v úseku mezi zastávkami <strong>Tvrdého – Náměstí Míru </strong>odklonem ulicemi Tvrdého, Lerchovou a Klácelovou.<br />\n• Vynechají tak zastávky <strong>Úvoz</strong> a <strong>Všetičkova</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Žlutý kopec</strong> a <strong>Lerchova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-137_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "x4",
+        "25",
+        "26",
+        "35",
+        "38",
+        "39",
+        "N89"
+      ]
+    },
+    {
       "id": 93,
       "number": "PO 2511-233",
       "title": "Slavkov u Brna, Palackého náměstí",
@@ -505,22 +527,6 @@
       ]
     },
     {
-      "id": 26,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 29,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -535,6 +541,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 26,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
