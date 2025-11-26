@@ -273,23 +273,6 @@
       ]
     },
     {
-      "id": 82,
-      "number": "2511 Blansko, Sadová",
-      "title": "Blansko, ulice Sadová - II. etapa",
-      "latitude": 49.360108,
-      "longitude": 16.657430,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "233"
-      ]
-    },
-    {
       "id": 99,
       "number": "VP 2511-271",
       "title": "Rozdrojovice, ul. Na Březině",
@@ -307,19 +290,20 @@
       ]
     },
     {
-      "id": 96,
-      "number": "PO 2511-224",
-      "title": "Křižovatka u Rohlenky II",
-      "latitude": 49.183948,
-      "longitude": 16.764579,
-      "validFrom": "2025-11-17T07:00:00+01:00",
-      "validTo": "2025-11-26T23:59:00+01:00",
+      "id": 82,
+      "number": "2511 Blansko, Sadová",
+      "title": "Blansko, ulice Sadová - II. etapa",
+      "latitude": 49.360108,
+      "longitude": 16.657430,
+      "validFrom": "2025-11-18T00:00:00+01:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Mezi Tvarožnou a Rohlenkou (pouze v tomto směru) jede odklonem s vynecháním zastávky Tvarožná, ZD. Zastávka Tvarožná je přesunuta k parčíku na návsi. Ve směru do Viničných Šumic jede linka po své standardní trase. ",
+      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "702"
+        "222",
+        "233"
       ]
     },
     {
@@ -369,24 +353,6 @@
       "type": "V",
       "affectedLines": [
         "255"
-      ]
-    },
-    {
-      "id": 97,
-      "number": "2511 Jiříkovice, motorest Rohlenka II",
-      "title": "Jiříkovice, motorest Rohlenka - směr z Brna",
-      "latitude": 49.183555,
-      "longitude": 16.760813,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-26T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Jiříkovice, motorest Rohlenka:\u00A0Pro směr z Brna do regionu přeložena před semaforový úsek směrem k Brnu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "601",
-        "602",
-        "702"
       ]
     },
     {
@@ -561,6 +527,22 @@
       ]
     },
     {
+      "id": 26,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
+      ]
+    },
+    {
       "id": 29,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -575,22 +557,6 @@
       "affectedLines": [
         "816",
         "817"
-      ]
-    },
-    {
-      "id": 26,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
       ]
     },
     {
