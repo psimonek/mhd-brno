@@ -161,7 +161,7 @@
       "longitude": 16.553009,
       "validFrom": "2025-11-28T00:00:00+01:00",
       "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu pořádání kulturní akce nebude možné odbavení cestujících a otočení autobusů\u00A0linky<font color=\"#009240\"><strong> 320</strong></font>\u00A0v Lipůvce na parkovišti před samoobsluhou. Zastávka Lipůvka bude pro výstup i nástup cestujících přesunuta.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -183,22 +183,6 @@
       "type": "V",
       "affectedLines": [
         "751"
-      ]
-    },
-    {
-      "id": 108,
-      "number": "PO 2511-230",
-      "title": "Drnholec, ul. Tovární (sil. III/39613)",
-      "latitude": 48.857918,
-      "longitude": 16.482738,
-      "validFrom": "2025-11-26T00:00:00+01:00",
-      "validTo": "2025-11-27T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 174</strong></font> pouze školní spoj 11\u00A0- pojede ze zastávky Drnholec, škola ve směru Jevišovka jednosměrným odklonem po Drnholci ulicemi Svatoplukova, Zámečnická, Tyršova a nám. Svobody a dále směr Jevišovka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "174"
       ]
     },
     {
@@ -704,23 +688,6 @@
       ]
     },
     {
-      "id": 14,
-      "number": "VP 2507-239",
-      "title": "Znojmo, Kasárna, křiž. I/38 a II/408",
-      "latitude": 48.886053,
-      "longitude": 16.003218,
-      "validFrom": "2025-07-21T00:00:00+02:00",
-      "validTo": "2025-11-27T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font>\u00A0vynechává zastávku Znojmo, Kasárna, rozcestí.<br/><br/> Linka<font color=\"#009240\"><strong> 825</strong></font>\u00A0jede z Přímětic přímo do Mramotic. Vybrané spoje jedou mezi zastávkami Znojmo, Přímětická rozcestí k Městskému lesíku a Znojmo, Mramotice, u čekárny přes Znojmo, Kasárna. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "825"
-      ]
-    },
-    {
       "id": 32248,
       "number": "V2507-055",
       "title": "Omezení provozu v ulici Jihlavské – II. etapa",
@@ -773,6 +740,22 @@
       ]
     },
     {
+      "id": 11,
+      "number": "VP 2506-231",
+      "title": "Mackovice, most ev. č. 3972-1",
+      "latitude": 48.882787,
+      "longitude": 16.314485,
+      "validFrom": "2025-06-16T00:00:00+02:00",
+      "validTo": "2025-11-28T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "822"
+      ]
+    },
+    {
       "id": 12,
       "number": "VP 2506-230",
       "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
@@ -790,22 +773,6 @@
         "662",
         "663",
         "664"
-      ]
-    },
-    {
-      "id": 11,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
