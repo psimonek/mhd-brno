@@ -145,7 +145,7 @@
       "longitude": 16.975794,
       "validFrom": "2025-11-28T10:00:00+01:00",
       "validTo": "2025-11-29T10:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávky Kostice, Břeclavská a Kostice, kaplička nebudou obsluhovány. Náhradou zastaví příslušné spoje linky<font color=\"#009240\"><strong> 572</strong></font> na zastávce Kostice, ObÚ. ",
       "privateTextHtml": null,
       "type": "V",
