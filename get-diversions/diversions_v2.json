@@ -147,7 +147,7 @@
       "longitude": 16.876757,
       "validFrom": "2025-11-28T19:10:00+01:00",
       "validTo": "2025-11-30T22:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 601</strong></font>:\u00A0Spoj 40 je ukončen v zastávce Slavkov u Brna, aut. st.<br/><br/> Linka<font color=\"#009240\"><strong> 620</strong></font>:\u00A0Spoj 14\u00A0je ukončen v zastávce Slavkov u Brna, aut. st..<br/><br/> Linka<font color=\"#009240\"><strong> 630</strong></font>:\u00A0Všechny spoje jedou obousměrně s vynecháním zastávky Slavkov u Brna, poliklinika. Spoje 56 a 49 jedou v trase Slavkov u Brna, žel. st. - Slavkov u Brna, MEZ a opačně. Odjezdy ze Slavkova u Brna, aut. st. jsou v době odklonu v tomto směru opožděny o 3 minuty, v opačném směru autobusy vyjíždějí dle jízdního řádu a do Slavkova u Brna přijíždějí dříve.. ",
       "privateTextHtml": null,
       "type": "V",
