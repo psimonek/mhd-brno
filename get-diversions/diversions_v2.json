@@ -37,22 +37,6 @@
       ]
     },
     {
-      "id": 35077,
-      "number": "V2511-138",
-      "title": "Dočasné přeložení zastávky U památníku",
-      "latitude": 49.235993,
-      "longitude": 16.528027,
-      "validFrom": "2025-11-29T15:00:00+01:00",
-      "validTo": "2025-11-29T21:00:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu konání kulturně-společenské akce bude <strong>v sobotu 29. listopadu 2025 od 15:00 do 21:00</strong> linka 302 v Kníničkách odkloněna ulicí K Lesu.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>U památníku</strong> proto bude v obou směrech dočasně přeložena cca o 100 metrů k Bystrci.</p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302"
-      ]
-    },
-    {
       "id": 111,
       "number": "PO 2511-235",
       "title": "Brno, Kníničky - ul. Ondrova",
@@ -62,6 +46,22 @@
       "validTo": "2025-11-29T21:00:00+01:00",
       "isValid": false,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0pojede obousměrným odklonem ul. K Lesu a obslouží tak zastávku Brno, U památníku v přesunuté poloze před křižovatkou ul. Ondrova\u00A0× U památníku\u00A0× K Lesu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "302"
+      ]
+    },
+    {
+      "id": 35077,
+      "number": "V2511-138",
+      "title": "Dočasné přeložení zastávky U památníku",
+      "latitude": 49.235993,
+      "longitude": 16.528027,
+      "validFrom": "2025-11-29T15:00:00+01:00",
+      "validTo": "2025-11-29T21:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání kulturně-společenské akce bude <strong>v sobotu 29. listopadu 2025 od 15:00 do 21:00</strong> linka 302 v Kníničkách odkloněna ulicí K Lesu.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>U památníku</strong> proto bude v obou směrech dočasně přeložena cca o 100 metrů k Bystrci.</p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -174,22 +174,6 @@
       ]
     },
     {
-      "id": 112,
-      "number": "PO 2511-231",
-      "title": "Lipůvka (parkoviště před samoobsluhou)",
-      "latitude": 49.339093,
-      "longitude": 16.553009,
-      "validFrom": "2025-11-28T00:00:00+01:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu pořádání kulturní akce nebude možné odbavení cestujících a otočení autobusů\u00A0linky<font color=\"#009240\"><strong> 320</strong></font>\u00A0v Lipůvce na parkovišti před samoobsluhou. Zastávka Lipůvka bude pro výstup i nástup cestujících přesunuta.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "320"
-      ]
-    },
-    {
       "id": 110,
       "number": "Lysovice, ObÚ",
       "title": "Lysovice, ObÚ",
@@ -255,23 +239,6 @@
       "affectedLines": [
         "4",
         "9"
-      ]
-    },
-    {
-      "id": 99,
-      "number": "VP 2511-271",
-      "title": "Rozdrojovice, ul. Na Březině",
-      "latitude": 49.255061,
-      "longitude": 16.512129,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0obsluhuje Rozdrojovice pouze závlekem od Kníniček. Zastávka Rozdrojovice, Na Březině bez obsluhy, zastávka Rozdrojovice, Na dědině přeložena k parku za kaplí (do provizorní točny).\u00A0Zastávky v Rozdrojovicích obslouží linka<font color=\"#009240\"><strong> 302</strong></font> vždy jen 1×, a to v pořadí stanoveném běžným jízdním řádem.. Na lince<font color=\"#009240\"><strong> 304</strong></font>\u00A0dochází k drobným časovým posunům nočních víkendových spojů vedených po Kuřimi. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302",
-        "304"
       ]
     },
     {
@@ -395,22 +362,6 @@
       ]
     },
     {
-      "id": 53,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541"
-      ]
-    },
-    {
       "id": 42,
       "number": "2510 Brno, Ruda",
       "title": "Brno, Ruda - směr Žebětín",
@@ -424,6 +375,22 @@
       "type": "V",
       "affectedLines": [
         "161"
+      ]
+    },
+    {
+      "id": 53,
+      "number": "VP 2510-265",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
       ]
     },
     {
@@ -512,6 +479,22 @@
       ]
     },
     {
+      "id": 26,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
+      ]
+    },
+    {
       "id": 29,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -526,22 +509,6 @@
       "affectedLines": [
         "816",
         "817"
-      ]
-    },
-    {
-      "id": 26,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
       ]
     },
     {
@@ -740,22 +707,6 @@
       "type": "V",
       "affectedLines": [
         "612"
-      ]
-    },
-    {
-      "id": 11,
-      "number": "VP 2506-231",
-      "title": "Mackovice, most ev. č. 3972-1",
-      "latitude": 48.882787,
-      "longitude": 16.314485,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-11-28T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0- téměř veškeré spoje pojedou mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0obousměrným odklonem po silnicích III/3972, III/3974 a II/394 přes okružní křižovatku silnic III/3974 x II/397. Budou tak zcela vynechávat zastávky\u00A0Břežany, u statku,\u00A0Břežany, škola\u00A0a\u00A0Mackovice, Břežanská. Pouze\u00A0školní spoje č. 5, 23, 61, 13, 58, 60, 24, 62 a 12\u00A0budou na objízdné trase mezi zastávkami\u00A0Břežany, u pošty\u00A0až\u00A0Mackovice, ObÚ\u00A0dělat navíc závlek ze silnice III/3974 k přeložené zastávce\u00A0Břežany, škola, která se bude nacházet na place u křižovatky silnic III/3972 x III/4152 v Břežanech poblíž staré sýpky. Spoje tak budou vynechávat pouze zastávku\u00A0Mackovice, Břežanská\u00A0na své objízdné trase. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "822"
       ]
     },
     {
