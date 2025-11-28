@@ -186,23 +186,6 @@
       ]
     },
     {
-      "id": 105,
-      "number": "VP 2511-104",
-      "title": "žel. trať. jedna kolej Skalice n.Svit. - Letovice",
-      "latitude": 49.526223,
-      "longitude": 16.579988,
-      "validFrom": "2025-11-25T08:30:00+01:00",
-      "validTo": "2025-11-28T13:40:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, jsou v úseku\u00A0Skalice nad Svitavou - Letovice\u00A0některé vlaky linky<font color=\"#800000\"><strong> S2</strong></font> odřeknuty a\u00A0nahrazeny autobusy\u00A0náhradní dopravy jedoucími podle výlukového jízdního řádu\u00A0linky xS2.\u00A0V opačném směru pojedou některé\u00A0vlaky linky<font color=\"#800000\"><strong> S2</strong></font> o čtyři minuty dříve\u00A0podle výlukového jízdního řádu\u00A0linky<font color=\"#800000\"><strong> S2</strong></font>.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S2",
-        "xS2"
-      ]
-    },
-    {
       "id": 34971,
       "number": "V2511-136",
       "title": "Omezení provozu autobusů v České a Lelekovicích",
@@ -306,22 +289,6 @@
       ]
     },
     {
-      "id": 103,
-      "number": "Násedlovice, kostel",
-      "title": "Násedlovice, kostel",
-      "latitude": 49.014705,
-      "longitude": 16.962247,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-12-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "655"
-      ]
-    },
-    {
       "id": 74,
       "number": "PO 2511-221",
       "title": "Letovice, Zboněk",
@@ -335,6 +302,22 @@
       "type": "V",
       "affectedLines": [
         "255"
+      ]
+    },
+    {
+      "id": 103,
+      "number": "Násedlovice, kostel",
+      "title": "Násedlovice, kostel",
+      "latitude": 49.014705,
+      "longitude": 16.962247,
+      "validFrom": "2025-11-12T00:00:00+01:00",
+      "validTo": "2025-12-16T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "655"
       ]
     },
     {
@@ -392,22 +375,6 @@
       ]
     },
     {
-      "id": 42,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 53,
       "number": "VP 2510-265",
       "title": "Boleradice, silnice směr Morkůvky",
@@ -421,6 +388,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -509,22 +492,6 @@
       ]
     },
     {
-      "id": 26,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 29,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -539,6 +506,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 26,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
