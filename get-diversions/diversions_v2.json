@@ -203,22 +203,6 @@
       ]
     },
     {
-      "id": 74,
-      "number": "PO 2511-234",
-      "title": "Tvarožná, Austerlitz",
-      "latitude": 49.191186,
-      "longitude": 16.771636,
-      "validFrom": "2025-11-29T10:00:00+01:00",
-      "validTo": "2025-11-29T17:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Mezi zastávkami Jiříkovice, motorest Rohlenka a Sivice jede odklonem, zastávka Tvarožná, ZD bez obsluhy, ostatní zastávky ve Tvarožné přeloženy do náhradních poloh.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "702"
-      ]
-    },
-    {
       "id": 105,
       "number": "VP 2511-105",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
@@ -412,22 +396,6 @@
       ]
     },
     {
-      "id": 99,
-      "number": "Násedlovice, kostel",
-      "title": "Násedlovice, kostel",
-      "latitude": 49.014705,
-      "longitude": 16.962247,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-12-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "655"
-      ]
-    },
-    {
       "id": 70,
       "number": "PO 2511-221",
       "title": "Letovice, Zboněk",
@@ -441,6 +409,22 @@
       "type": "V",
       "affectedLines": [
         "255"
+      ]
+    },
+    {
+      "id": 99,
+      "number": "Násedlovice, kostel",
+      "title": "Násedlovice, kostel",
+      "latitude": 49.014705,
+      "longitude": 16.962247,
+      "validFrom": "2025-11-12T00:00:00+01:00",
+      "validTo": "2025-12-16T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "655"
       ]
     },
     {
