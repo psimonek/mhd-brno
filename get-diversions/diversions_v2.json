@@ -210,7 +210,7 @@
       "longitude": 16.771636,
       "validFrom": "2025-11-29T10:00:00+01:00",
       "validTo": "2025-11-29T17:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Mezi zastávkami Jiříkovice, motorest Rohlenka a Sivice jede odklonem, zastávka Tvarožná, ZD bez obsluhy, ostatní zastávky ve Tvarožné přeloženy do náhradních poloh.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -307,22 +307,6 @@
         "601",
         "620",
         "630"
-      ]
-    },
-    {
-      "id": 103,
-      "number": "PO 2511-232",
-      "title": "Kostice, ulice Břeclavská a Hlavní",
-      "latitude": 48.748863,
-      "longitude": 16.975794,
-      "validFrom": "2025-11-28T10:00:00+01:00",
-      "validTo": "2025-11-29T10:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky Kostice, Břeclavská a Kostice, kaplička nebudou obsluhovány. Náhradou zastaví příslušné spoje linky<font color=\"#009240\"><strong> 572</strong></font> na zastávce Kostice, ObÚ. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "572"
       ]
     },
     {
@@ -514,22 +498,6 @@
       ]
     },
     {
-      "id": 40,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 49,
       "number": "VP 2510-265",
       "title": "Boleradice, silnice směr Morkůvky",
@@ -543,6 +511,22 @@
       "type": "V",
       "affectedLines": [
         "541"
+      ]
+    },
+    {
+      "id": 40,
+      "number": "2510 Brno, Ruda",
+      "title": "Brno, Ruda - směr Žebětín",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2025-10-13T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
       ]
     },
     {
@@ -1014,7 +998,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
