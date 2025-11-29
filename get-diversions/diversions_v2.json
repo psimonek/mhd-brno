@@ -171,38 +171,6 @@
       ]
     },
     {
-      "id": 35077,
-      "number": "V2511-138",
-      "title": "Dočasné přeložení zastávky U památníku",
-      "latitude": 49.235993,
-      "longitude": 16.528027,
-      "validFrom": "2025-11-29T15:00:00+01:00",
-      "validTo": "2025-11-29T21:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání kulturně-společenské akce bude <strong>v sobotu 29. listopadu 2025 od 15:00 do 21:00</strong> linka 302 v Kníničkách odkloněna ulicí K Lesu.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>U památníku</strong> proto bude v obou směrech dočasně přeložena cca o 100 metrů k Bystrci.</p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302"
-      ]
-    },
-    {
-      "id": 107,
-      "number": "PO 2511-235",
-      "title": "Brno, Kníničky - ul. Ondrova",
-      "latitude": 49.236230,
-      "longitude": 16.527866,
-      "validFrom": "2025-11-29T15:00:00+01:00",
-      "validTo": "2025-11-29T21:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 302</strong></font>\u00A0pojede obousměrným odklonem ul. K Lesu a obslouží tak zastávku Brno, U památníku v přesunuté poloze před křižovatkou ul. Ondrova\u00A0× U památníku\u00A0× K Lesu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "302"
-      ]
-    },
-    {
       "id": 105,
       "number": "VP 2511-105",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
@@ -581,6 +549,22 @@
       ]
     },
     {
+      "id": 25,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
+      ]
+    },
+    {
       "id": 28,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -595,22 +579,6 @@
       "affectedLines": [
         "816",
         "817"
-      ]
-    },
-    {
-      "id": 25,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
       ]
     },
     {
