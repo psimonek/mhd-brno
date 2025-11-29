@@ -226,7 +226,7 @@
       "longitude": 16.578369,
       "validFrom": "2025-11-29T08:40:00+01:00",
       "validTo": "2025-12-05T23:55:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:.<br/><br/> Linka<font color=\"#800000\"><strong> S3</strong></font>:Vlak\u00A0S3/1780\u00A0pojede z Brna hl.n. o 10 minut\u00A0dříve\u00A0podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S3</strong></font>..<br/><br/> Linka<font color=\"#800000\"><strong> R9</strong></font>:\u00A0Všechny vlaky\u00A0linky<font color=\"#800000\"><strong> R9</strong></font>\u00A0z Brna hl.n.\u00A0pojedou dříve podle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -1014,7 +1014,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
