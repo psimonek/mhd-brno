@@ -126,7 +126,7 @@
       "longitude": 16.611484,
       "validFrom": "2025-11-30T23:00:00+01:00",
       "validTo": null,
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>V neděli 30. listopadu 2025 ve večerních hodinách budou ukončeny níže uvedené výluky</strong>.</p>\n\n<p> </p>\n\n<p><strong class=\"blue\">Ukončení výluky v ulici Šámalově</strong><br />\n• Linka 64 ve směru na Červený písek se vrací na svou standardní trasu ulicí Šámalovou.<br />\n• Obnoví se obsluha zastávek Tomáškova a Kuldova v běžných polohách.</p>\n\n<p> </p>\n\n<p><strong class=\"blue\">Ukončení výluky autobusů v Modřicích</strong><br />\n• Linky 49 a N94 (spoje jedoucí k Olympii) se obousměrně vrací na svou standardní trasu ulicí Masarykovou.<br />\n• Obnoví se obsluha zastávky Modřice, Masarykova.<br />\n• Linky 49 a N94 (spoje jedoucí k Olympii) již nebudou obsluhovat zastávky Modřice, Husova a Modřice, železniční stanice.</p>\n\n<p> </p>\n\n<p><strong class=\"blue\">Ukončení výluky v ulici Jihlavské – III. etapa</strong><br />\n• Linky 40 a N90 se v úseku Krematorium – Nemocnice Bohunice ve směru z centra vrací na svou standardní trasu ulicí Jihlavskou.<br />\n• Obnoví se obsluha zastávky Stará nemocnice.<br />\n• Linky 40 a N90 již nebudou v uvedeném směru obsluhovat zastávky Mýtná a Kamenice.<br />\n• <em>I nadále zastávají zůstávají v platnosti veškerá opatření v souvislosti s I. a II. etapou výluky v ulici Jihlavské.</em></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Nové jízdní řády budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a></em>.</p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -153,28 +153,6 @@
       "affectedLines": [
         "S3",
         "R9"
-      ]
-    },
-    {
-      "id": 35068,
-      "number": "V2511-137",
-      "title": "Výluka autobusů a trolejbusů v křižovatce Údolní × Úvoz",
-      "latitude": 49.198307,
-      "longitude": 16.593701,
-      "validFrom": "2025-11-28T23:05:00+01:00",
-      "validTo": "2025-11-30T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu finální pokládky povrchu komunikace bude <strong>od 23:05 hod. v pátek 28. listopadu 2025 nepřetržitě do 23:00 hod. v neděli 30. listopadu 2025</strong> vyloučen veškerý provoz v křižovatce Údolní × Úvoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong>.<br />\n• V úseku<strong> Tvrdého – Úvoz</strong> ve směru na Konečného náměstí pojedou autobusové <strong>linky x25</strong> a <strong>x26</strong> odklonem ulicemi Tvrdého, Lerchovou, Údolní a Gorkého. Na odklonové trase obslouží zastávky <strong>Žlutý kopec</strong>, <strong>Lerchova</strong>, <strong>Náměstí Míru</strong> <em>(zastávka linky N89 směr centrum), </em><strong>Heinrichova</strong> a <strong>Všetičkova</strong>.<br />\n• V úseku <strong>Čápkova – Mendlovo náměstí</strong> ve směru na Mendlovo náměstí pojedou autobusové<strong> linky x25</strong> a <strong>x26</strong> odklonem ulicemi Gorkého, Veveří, Husovou a Pekařskou. Na odklonové trase obslouží zastávky <strong>Grohova </strong><em>(v ul. Grohově)</em>, <strong>Česká</strong> <em>(společnou s linkou 12 směr centrum)</em>, <strong>Šilingrovo náměstí</strong> <em>(v ulici Pekařské)</em> a <strong>Nemocnice u sv. Anny</strong>. Zastávku <strong>Úvoz</strong> obslouží v uvedeném směru v přeložené poloze v ulici Úvoz před křižovatkou s ulicí Grohovou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Trolejbusová linka 38 </strong>bude v provozu pouze v úseku<strong> Preslova – Žlutý kopec</strong> a dále bude pokračovat jako<strong> linka 35</strong> na <strong>Mendlovo náměstí</strong>. <strong>Trolejbusová linka 39 </strong>bude po dobu výluky zcela mimo provoz a bude nahrazena trolejbusovou<strong> linkou 35</strong> v běžné trase <strong>Barvičova – Mendlovo náměstí</strong>.<br />\n• Po dobu výluky tak nebudou výše uvedené linky obsluhovat zastávky <strong>Úvoz</strong>, <strong>Grohova</strong>, <strong>Česká</strong>, <strong>Smetanova</strong>, <strong>Sušilova</strong>, <strong>Konečného náměstí</strong> a <strong>Čápkova</strong>.<br />\n• Mezi zastávkami <strong>Česká – Žlutý kopec</strong> lze alternativně využít autobusovou <strong>linku x4</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusové linky x4</strong> a <strong>N89 </strong>pojedou ve směru na Náměstí Míru v úseku mezi zastávkami <strong>Tvrdého – Náměstí Míru </strong>odklonem ulicemi Tvrdého, Lerchovou a Klácelovou.<br />\n• Vynechají tak zastávky <strong>Úvoz</strong> a <strong>Všetičkova</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Žlutý kopec</strong> a <strong>Lerchova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-137_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "x4",
-        "25",
-        "26",
-        "35",
-        "38",
-        "39",
-        "N89"
       ]
     },
     {
@@ -263,20 +241,19 @@
       ]
     },
     {
-      "id": 34708,
-      "number": "V2511-130",
-      "title": "Omezení provozu v ulici Jihlavské – III. etapa",
-      "latitude": 49.173526,
-      "longitude": 16.577425,
-      "validFrom": "2025-11-14T23:00:00+01:00",
-      "validTo": "2025-11-30T23:00:00+01:00",
+      "id": 99,
+      "number": "Násedlovice, kostel",
+      "title": "Násedlovice, kostel",
+      "latitude": 49.014705,
+      "longitude": 16.962247,
+      "validFrom": "2025-11-12T00:00:00+01:00",
+      "validTo": "2025-12-16T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "<p>Z důvodu pokračujících stavebních prací nebude <strong>od 23:00 hod. v pátek 14. listopadu 2025 do ukončení prací</strong> (předpoklad do 30. listopadu) pro veškerou dopravu průjezdná ulice Jihlavská mezi křižovatkami s ulicemi Dlouhou a Osovou ve směru od Ústředního hřbitova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusové linky 40 a N90</strong> pojedou ve směru z centra odklonem ulicí Kamenice.<br />\n• Obě linky tak v uvedeném směru neobslouží zastávku Stará nemocnice, linka 40 navíc neobslouží zastávku Nemocnice Bohunice.<br />\n• Na odklonové trase obslouží zastávky Mýtná a Kamenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Opatření zavedená v souvislosti s přechozími etapami výluky v ulici Jihlavské zůstávají i nadále v platnosti</em>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-130_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "40",
-        "N90"
+        "655"
       ]
     },
     {
@@ -293,22 +270,6 @@
       "type": "V",
       "affectedLines": [
         "255"
-      ]
-    },
-    {
-      "id": 99,
-      "number": "Násedlovice, kostel",
-      "title": "Násedlovice, kostel",
-      "latitude": 49.014705,
-      "longitude": 16.962247,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-12-16T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 655</strong></font>\u00A0obslouží Násedlovice, kostel o 50m vzad směr Ždánice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "655"
       ]
     },
     {
@@ -412,23 +373,6 @@
       "affectedLines": [
         "509",
         "510"
-      ]
-    },
-    {
-      "id": 33897,
-      "number": "V2510-104",
-      "title": "Výluka autobusů v Modřicích - 5. etapa",
-      "latitude": 49.130482,
-      "longitude": 16.61459,
-      "validFrom": "2025-10-04T23:00:00+02:00",
-      "validTo": "2025-11-30T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p><span><span>Z důvodu rekonstrukce bude <strong>od 23:00 hod. v sobotu 4. října 2025 do ukončení prací</strong> (předpoklad do 30. listopadu 2025) omezen provoz v části ulice Masarykovy v úseku mezi křižovatkami s ulicemi Husovou a Uličkou.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"85c06799-97b8-4c0e-b332-2539a4f18398\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Tato etapa bezprostředně navazuje na 4. etapu, jejíž ukončení si vyžádá následující opatření:</strong></span></span></p>\n\n<p><span><span>• Dojde k obnovení provozu <strong>linky 49</strong> v úseku <strong>Přízřenice – Modřice, Olympia</strong>.<br />\n• Bude obnovena obsluha zastávek <strong>Jezerní</strong>, <strong>Modřická </strong>a <strong>Modřice, Žižkova</strong> linkami 49 a N94, které se vrací na pravidelnou trasu ulicí Modřickou.<br />\n• Dojde ke zprovoznění nově zřízené zastávky <strong>Jezerní </strong>ve směru do centra.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"a608b2d2-8304-4b3c-b9ff-ca6764c05997\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Se zahájením 5. etapy pak vstoupí v platnost následující opatření:</strong></span></span></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusové linky 49 a N94</strong> (spoje jedoucí k Olympii) jedou v úseku <strong>Modřice, Žižkova – Modřice, náměstí</strong> obousměrným odklonem ulicemi Husovou, Nádražní, Benešovou, Hybešovou a Havlíčkovou.<br />\n• Neobslouží tak zastávku <strong>Modřice, Masarykova</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Modřice, Husova</strong> a <strong>Modřice, železniční stanice</strong>.<br />\n<span><span>• Spoje linky N94 pravidelně ukončené v zastávce <strong>Modřice, smyčka</strong> pojedou po pravidelné trase ulicemi Husovou, Nádražní a Brněnskou.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Regionální autobusové linky 509 a 510</strong> v obou směrech neobslouží zastávky <strong>Modřice, Husova</strong> a <strong>Modřice, Masarykova</strong>.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávka <strong>Modřice, Masarykova</strong> bude po dobu výluky obousměrně zcela bez obsluhy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2510-104_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "49",
-        "N94"
       ]
     },
     {
@@ -561,22 +505,6 @@
       "type": "V",
       "affectedLines": [
         "933"
-      ]
-    },
-    {
-      "id": 33045,
-      "number": "V2509-087",
-      "title": "Jednosměrná výluka autobusů v ulici Šámalově",
-      "latitude": 49.200652,
-      "longitude": 16.632137,
-      "validFrom": "2025-09-01T05:00:00+02:00",
-      "validTo": "2025-11-30T23:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p><span><span>Z důvodu zahájení třetí etapy rekonstrukce křižovatky ulic Šámalovy a Zábrdovické bude <strong>od pondělí 1. září 2025 nepřetržitě do ukončení prací </strong>(předpoklad do konce listopadu 2025)<strong> </strong>omezen provoz autobusů v ulici Šámalově.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><strong> Autobusová linka 64 </strong>pojede ve směru na Červený písek v úseku <strong>Uzavřená » Stará osada </strong>jednosměrným odklonem ulicemi Krokovou a Kuldovou.<br />\n• Vynechá tak zastávku <strong>Tomáškova</strong>.</span></span><br />\n<span><span>• Zastávku <strong>Kuldova</strong> obslouží v přeložené poloze v ulici Kuldově u křižovatky s ulicí Zábrdovickou.</span></span><br />\n<span><span>• V opačném směru obslouží linka všechny běžné zastávky.</span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2509-087_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p> </p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "64"
       ]
     },
     {
@@ -866,7 +794,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
