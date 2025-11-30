@@ -224,23 +224,6 @@
       ]
     },
     {
-      "id": 78,
-      "number": "2511 Blansko, Sadová",
-      "title": "Blansko, ulice Sadová - II. etapa",
-      "latitude": 49.360108,
-      "longitude": 16.657430,
-      "validFrom": "2025-11-18T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu částečné uzavírky ulice Sadová v Blansku budou v uvedeném termínu přesunuty zastávky Blansko, Sadová v obou směrech. Zastávky jsou přeloženy do ulice Sadová asi o 300 metrů ve směru do centra. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "233"
-      ]
-    },
-    {
       "id": 99,
       "number": "Násedlovice, kostel",
       "title": "Násedlovice, kostel",
@@ -254,22 +237,6 @@
       "type": "V",
       "affectedLines": [
         "655"
-      ]
-    },
-    {
-      "id": 70,
-      "number": "PO 2511-221",
-      "title": "Letovice, Zboněk",
-      "latitude": 49.523008,
-      "longitude": 16.585954,
-      "validFrom": "2025-11-12T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu další etapy částečné uzavírky silnice I/43 bude v uvedeném termínu přesunuta zastávka Letovice, Zboněk. Náhradní zastávka pro oba směry se bude nacházet v křižovatce MK přímo ve Zboňku. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "255"
       ]
     },
     {
@@ -324,55 +291,6 @@
       "affectedLines": [
         "1",
         "3"
-      ]
-    },
-    {
-      "id": 49,
-      "number": "VP 2510-265",
-      "title": "Boleradice, silnice směr Morkůvky",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541"
-      ]
-    },
-    {
-      "id": 40,
-      "number": "2510 Brno, Ruda",
-      "title": "Brno, Ruda - směr Žebětín",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2025-10-13T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 100 metrů vpřed. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
-      "id": 9,
-      "number": "PO 2510-198",
-      "title": "Modřice, Masarykova ",
-      "latitude": 49.130427,
-      "longitude": 16.614555,
-      "validFrom": "2025-10-05T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 509</strong></font> a <font color=\"#009240\"><strong>510</strong></font>:\u00A0Jedou v Modřicích odklonem po místních komunikacích a vynechávají zastávky Modřice, Masarykova a Modřice, Husova.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "509",
-        "510"
       ]
     },
     {
@@ -441,22 +359,6 @@
       "affectedLines": [
         "816",
         "817"
-      ]
-    },
-    {
-      "id": 25,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
       ]
     },
     {
@@ -716,23 +618,6 @@
         "333",
         "334",
         "336"
-      ]
-    },
-    {
-      "id": 3,
-      "number": "PO 2503-018",
-      "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
-      "latitude": 48.904533,
-      "longitude": 16.816975,
-      "validFrom": "2025-03-24T00:00:00+01:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Velké Pavlovice, gymnázium bude přesunuta na souběžnou komunikaci do parkovacího zálivu naproti kostelu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "542",
-        "551"
       ]
     },
     {
