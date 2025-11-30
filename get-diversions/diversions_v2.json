@@ -146,28 +146,12 @@
       "longitude": 16.384539,
       "validFrom": "2025-11-30T13:30:00+01:00",
       "validTo": "2025-11-30T20:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 104</strong></font>:\u00A0veškeré spoje, které mají na své pravidelné trase zastávku\u00A0Laa an der Thaya, Stadtplatz\u00A0ji budou vynechávat. Místo toho budou dočasně obsluhovat zastávku\u00A0Laa an der Thaya, Stadtfeldgasse, která se nachází na hlavní ulici\u00A0Staatsbahnstraße\u00A0směrem k vlakovému nádraží Laa a. d. Thaya, Bahnhof.. POZOR! v neděli 30.11.2025 od 13:30 hod. do 20:00 hod.\u00A0je uzavřeno širší centrum obce a je nutné jet větším odklonem. Spoje obslouží zastávku\u00A0Stadtfeldgasse, která se nachází na hlavní ulici\u00A0Staatsbahnstraße.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "104"
-      ]
-    },
-    {
-      "id": 72,
-      "number": "PO 2511-236",
-      "title": "Prace, Mohyla míru",
-      "latitude": 49.132730,
-      "longitude": 16.763096,
-      "validFrom": "2025-11-30T09:00:00+01:00",
-      "validTo": "2025-11-30T13:30:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0V době uzavírky je vedena pouze v úseku Brno, Úzká - Prace, točna. Úsek Prace, točna - Prace, Mohyla míru je bez obsluhy.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "48"
       ]
     },
     {
