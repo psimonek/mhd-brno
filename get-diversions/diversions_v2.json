@@ -172,22 +172,6 @@
       ]
     },
     {
-      "id": 35076,
-      "number": "Z2511-090",
-      "title": "Posílení dopravy na výstaviště – festival Life!",
-      "latitude": 49.189225,
-      "longitude": 16.586801,
-      "validFrom": "2025-11-29T08:30:00+01:00",
-      "validTo": "2025-11-30T17:30:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu konání festivalu Life! bude<strong> </strong>posílena doprava k areálu brněnského výstaviště:</p>\n\n<p>• <strong>v sobotu 29. listopadu 2025 od 8:30 do 18:30</strong></p>\n\n<p>• <strong>v neděli 30. listopadu 2025 od 8:30 do 17:30</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka P1</strong> pojede v trase <strong>(Malinovského náměstí –) Hlavní nádraží – Mendlovo náměstí – Výstaviště - hlavní vstup – Pisárky</strong>.</p>\n\n<p>• Výchozí zastávkou ve směru do centra bude zastávka ARENA BRNO.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_z2511-090_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "P1"
-      ]
-    },
-    {
       "id": 35068,
       "number": "V2511-137",
       "title": "Výluka autobusů a trolejbusů v křižovatce Údolní × Úvoz",
@@ -533,22 +517,6 @@
       ]
     },
     {
-      "id": 25,
-      "number": "PO 2509-182",
-      "title": "Silnice Kozojídky - Hroznová Lhota",
-      "latitude": 48.913926,
-      "longitude": 17.405491,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-11-30T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "930"
-      ]
-    },
-    {
       "id": 28,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
@@ -563,6 +531,22 @@
       "affectedLines": [
         "816",
         "817"
+      ]
+    },
+    {
+      "id": 25,
+      "number": "PO 2509-182",
+      "title": "Silnice Kozojídky - Hroznová Lhota",
+      "latitude": 48.913926,
+      "longitude": 17.405491,
+      "validFrom": "2025-09-15T00:00:00+02:00",
+      "validTo": "2025-11-30T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 930</strong></font>\u00A0pojede mezi Kozojídkami a Hroznovou Lhotou\u00A0obousměrně odklonem přes Žeraviny bez vlivu na obsluhu zastávek.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "930"
       ]
     },
     {
