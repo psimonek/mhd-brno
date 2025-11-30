@@ -162,7 +162,7 @@
       "longitude": 16.763096,
       "validFrom": "2025-11-30T09:00:00+01:00",
       "validTo": "2025-11-30T13:30:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0V době uzavírky je vedena pouze v úseku Brno, Úzká - Prace, točna. Úsek Prace, točna - Prace, Mohyla míru je bez obsluhy.. ",
       "privateTextHtml": null,
       "type": "V",
