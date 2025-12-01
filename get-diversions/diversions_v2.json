@@ -110,7 +110,7 @@
       "longitude": 16.813717,
       "validFrom": "2025-12-01T07:15:00+01:00",
       "validTo": "2025-12-01T16:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 702</strong></font>:\u00A0Všechny spoje v provozu pouze v relaci Brno, Úzká - Viničné Šumice, ObÚ. Zastávky Hradská, Psénky a Točna bez obsluhy. ",
       "privateTextHtml": null,
       "type": "V",
