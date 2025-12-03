@@ -103,26 +103,6 @@
       ]
     },
     {
-      "id": 35168,
-      "number": "",
-      "title": "Ukončení dlouhodobých výluk",
-      "latitude": 49.19097,
-      "longitude": 16.611484,
-      "validFrom": "2025-11-30T23:00:00+01:00",
-      "validTo": null,
-      "isValid": true,
-      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> <strong>V neděli 30. listopadu 2025 ve večerních hodinách budou ukončeny níže uvedené výluky</strong>.</p>\n\n<p> </p>\n\n<p><strong class=\"blue\">Ukončení výluky v ulici Šámalově</strong><br />\n• Linka 64 ve směru na Červený písek se vrací na svou standardní trasu ulicí Šámalovou.<br />\n• Obnoví se obsluha zastávek Tomáškova a Kuldova v běžných polohách.</p>\n\n<p> </p>\n\n<p><strong class=\"blue\">Ukončení výluky autobusů v Modřicích</strong><br />\n• Linky 49 a N94 (spoje jedoucí k Olympii) se obousměrně vrací na svou standardní trasu ulicí Masarykovou.<br />\n• Obnoví se obsluha zastávky Modřice, Masarykova.<br />\n• Linky 49 a N94 (spoje jedoucí k Olympii) již nebudou obsluhovat zastávky Modřice, Husova a Modřice, železniční stanice.</p>\n\n<p> </p>\n\n<p><strong class=\"blue\">Ukončení výluky v ulici Jihlavské – III. etapa</strong><br />\n• Linky 40 a N90 se v úseku Krematorium – Nemocnice Bohunice ve směru z centra vrací na svou standardní trasu ulicí Jihlavskou.<br />\n• Obnoví se obsluha zastávky Stará nemocnice.<br />\n• Linky 40 a N90 již nebudou v uvedeném směru obsluhovat zastávky Mýtná a Kamenice.<br />\n• <em>I nadále zastávají zůstávají v platnosti veškerá opatření v souvislosti s I. a II. etapou výluky v ulici Jihlavské.</em></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Nové jízdní řády budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a></em>.</p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "40",
-        "49",
-        "64",
-        "N90",
-        "N94"
-      ]
-    },
-    {
       "id": 105,
       "number": "VP 2511-105",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
