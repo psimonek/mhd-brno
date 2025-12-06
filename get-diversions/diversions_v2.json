@@ -141,7 +141,7 @@
       "longitude": 16.635897,
       "validFrom": "2025-12-06T16:00:00+01:00",
       "validTo": "2025-12-06T20:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu konání kulturní akce v Rájci-Jestřebí bude v uvedeném termínu uzavřen úsek ulice Jurkovy od kruhového objezdu po křižovatku s ulicí Sportovní. Autobusy linek<font color=\"#009240\"><strong> 235</strong></font> a <font color=\"#009240\"><strong>240</strong></font> pojedou po objízdných trasách. Nedochází ke změnám v zastávkách ani jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
