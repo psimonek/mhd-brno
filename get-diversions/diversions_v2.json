@@ -125,29 +125,12 @@
       "longitude": 16.729318,
       "validFrom": "2025-12-06T20:05:00+01:00",
       "validTo": "2025-12-07T04:50:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "V železniční stanici\u00A0Šlapanice\u00A0nebude možno zajížděk k nástupišti, proto ve stanici Šlapanice\u00A0nezastaví vlaky linky S6/4125, 4127, 4141 a 4140.. Náhradou\u00A0mohou cestující využít železniční zastávku\u00A0Šlapanice zastávka\u00A0nebo mohou použit mezi Brnem a Šlapanicemi trolejbusovou linku č.31 nebo noční autobusovou linku<font color=\"#000000\"><strong> N96</strong></font>. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "S6"
-      ]
-    },
-    {
-      "id": 69,
-      "number": "PO 2512-241",
-      "title": "Rájec-Jestřebí",
-      "latitude": 49.407287,
-      "longitude": 16.635897,
-      "validFrom": "2025-12-06T16:00:00+01:00",
-      "validTo": "2025-12-06T20:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu konání kulturní akce v Rájci-Jestřebí bude v uvedeném termínu uzavřen úsek ulice Jurkovy od kruhového objezdu po křižovatku s ulicí Sportovní. Autobusy linek<font color=\"#009240\"><strong> 235</strong></font> a <font color=\"#009240\"><strong>240</strong></font> pojedou po objízdných trasách. Nedochází ke změnám v zastávkách ani jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "235",
-        "240"
       ]
     },
     {
