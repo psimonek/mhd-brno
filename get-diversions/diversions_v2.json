@@ -1,7 +1,90 @@
 {
   "diversions": [
     {
-      "id": 115,
+      "id": 107,
+      "number": "VP 2512-112",
+      "title": "žel. trať. Znojmo - Moravské Budějovice",
+      "latitude": 48.947308,
+      "longitude": 15.866318,
+      "validFrom": "2025-12-10T07:50:00+01:00",
+      "validTo": "2025-12-11T15:25:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky\u00A0S81/24807,24809,24811,24815,24806,24810,24814,24834\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) v úseku\u00A0Znojmo – Moravské Budějovice.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S81",
+        "xS81"
+      ]
+    },
+    {
+      "id": 108,
+      "number": "PO 2512-243",
+      "title": "Strážnice, ulice Rybářská",
+      "latitude": 48.903800,
+      "longitude": 17.314636,
+      "validFrom": "2025-12-09T00:00:00+01:00",
+      "validTo": "2025-12-10T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 911</strong></font> a <font color=\"#009240\"><strong>931</strong></font> pojedou k zastávce Strážnice, Úprkova odklonem po místních komunikacích bez dopadu na obsluhu toto zastávky.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "911",
+        "931"
+      ]
+    },
+    {
+      "id": 105,
+      "number": "VP 2512-111",
+      "title": "žel. trať Moravské Bránice - Moravský Krumlov",
+      "latitude": 49.053481,
+      "longitude": 16.348533,
+      "validFrom": "2025-12-08T08:30:00+01:00",
+      "validTo": "2025-12-09T13:50:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu\u00A0linky xS41.. Vlaky z/do Brna pojedou přímo do/z Ivančic, kde je umožněn přestup cestujících na/z NAD.. Autobusy NAD pojedou po několika odlišných trasách:trasa A\u00A0– vede ze stanice Ivančice přes Moravský Krumlov, nám. (mimo žel. stanici), Rakšice, Bohutice do Miroslavi a zpět.trasa B\u00A0–\u00A0vede ze železniční stanice Ivančice přes Mor. Krumlov u parku, poliklinika, Břízová, Jatky, Václavská, stezka, Mor. Krumlov žel.st. a zpět.. Přestup mezi autobusy NAD a autobusy linek<font color=\"#009240\"><strong> 441</strong></font>, <font color=\"#009240\"><strong> 442</strong></font>, <font color=\"#009240\"><strong> 443</strong></font>, <font color=\"#009240\"><strong> 444</strong></font> a <font color=\"#009240\"><strong>445</strong></font> ve směru z Brna je zajištěn na zastávce IDS JMK „Moravský Krumlov, u parku“.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S41",
+        "xS41"
+      ]
+    },
+    {
+      "id": 111,
+      "number": "ZAS Drnovice",
+      "title": "zast. Drnovice a Drnovice, horní zastávka",
+      "latitude": 49.467901,
+      "longitude": 16.537364,
+      "validFrom": "2025-12-08T00:00:00+01:00",
+      "validTo": "2025-12-11T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu opravy mostu přes vodní tok Úmoří v Drnovicích a související opravy vozovky komunikace č. III/3764 budou dočasně přeloženy zastávky Drnovice a Drnovice, horní zastávka pro linku<font color=\"#009240\"><strong> 257</strong></font> v obou směrech. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "257"
+      ]
+    },
+    {
+      "id": 109,
+      "number": "PO 2512-242",
+      "title": "Moravská Nová Ves, Nám. Republiky",
+      "latitude": 48.802427,
+      "longitude": 17.015094,
+      "validFrom": "2025-12-07T12:00:00+01:00",
+      "validTo": "2025-12-07T20:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávka Moravská Nová Ves, žel. st. bude v uvedenou dobu bez obsluhy, zastávky Moravská Nová Ves, křiž. budou přesunuty na ulici Školní ke křižovatce ulic Školní x U Jordánky x Vítězství.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "572"
+      ]
+    },
+    {
+      "id": 104,
       "number": "VP 2512-110",
       "title": "žel. trať. jedna kolej Adamov - Blansko jedna kolej",
       "latitude": 49.399133,
@@ -18,7 +101,7 @@
       ]
     },
     {
-      "id": 114,
+      "id": 103,
       "number": "VP 2512-109",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
       "latitude": 49.274245,
@@ -35,7 +118,7 @@
       ]
     },
     {
-      "id": 113,
+      "id": 102,
       "number": "VP 2512-108",
       "title": "žel. stanice Šlapanice, jedna kolej",
       "latitude": 49.157020,
@@ -51,7 +134,24 @@
       ]
     },
     {
-      "id": 112,
+      "id": 69,
+      "number": "PO 2512-241",
+      "title": "Rájec-Jestřebí",
+      "latitude": 49.407287,
+      "longitude": 16.635897,
+      "validFrom": "2025-12-06T16:00:00+01:00",
+      "validTo": "2025-12-06T20:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu konání kulturní akce v Rájci-Jestřebí bude v uvedeném termínu uzavřen úsek ulice Jurkovy od kruhového objezdu po křižovatku s ulicí Sportovní. Autobusy linek<font color=\"#009240\"><strong> 235</strong></font> a <font color=\"#009240\"><strong>240</strong></font> pojedou po objízdných trasách. Nedochází ke změnám v zastávkách ani jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "235",
+        "240"
+      ]
+    },
+    {
+      "id": 101,
       "number": "VP 2512-107",
       "title": "žel. trať v úseku Brno-Maloměřice - Adamov jedna kolej",
       "latitude": 49.225375,
@@ -68,7 +168,26 @@
       ]
     },
     {
-      "id": 110,
+      "id": 83,
+      "number": "PO 2512-240",
+      "title": "Miroslav, aut. st. - ul. Zámecká v Miroslavi",
+      "latitude": 48.946662,
+      "longitude": 16.313042,
+      "validFrom": "2025-12-06T07:30:00+01:00",
+      "validTo": "2025-12-06T17:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 158</strong></font>, <font color=\"#009240\"><strong> 445</strong></font>, <font color=\"#009240\"><strong> 450</strong></font> a <font color=\"#009240\"><strong>810</strong></font>\u00A0- z důvodu prací firmy E.ON. na ul. Zámecké\u00A0v Miroslavi je zcela uzavřena ul. Zámecká a autobusové nádraží. Zastávky\u00A0Miroslav, aut. st.\u00A0jsou dočasně přeloženy na sil. II/400 ul. Brněnská do bývalých zastávek\u00A0Miroslav, sklárny.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "158",
+        "445",
+        "450",
+        "810"
+      ]
+    },
+    {
+      "id": 99,
       "number": "VP 2512-106",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
       "latitude": 49.274245,
@@ -85,7 +204,24 @@
       ]
     },
     {
-      "id": 106,
+      "id": 110,
+      "number": "2512 - Velké Pavlovice, gymnázium",
+      "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
+      "latitude": 48.904533,
+      "longitude": 16.816975,
+      "validFrom": "2025-12-03T00:00:00+01:00",
+      "validTo": "2026-01-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka\u00A0Velké Pavlovice, gymnázium bude přesunuta na souběžnou komunikaci do parkovacího zálivu naproti kostelu.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "542",
+        "551"
+      ]
+    },
+    {
+      "id": 95,
       "number": "Lysovice, ObÚ",
       "title": "Lysovice, ObÚ",
       "latitude": 49.217709,
@@ -153,7 +289,7 @@
       ]
     },
     {
-      "id": 99,
+      "id": 88,
       "number": "Násedlovice, kostel",
       "title": "Násedlovice, kostel",
       "latitude": 49.014705,
@@ -190,7 +326,7 @@
       ]
     },
     {
-      "id": 73,
+      "id": 61,
       "number": "ZAS Novosedly",
       "title": "zastávka Novosedly (označník směr Nový Přerov)",
       "latitude": 48.837418,
@@ -241,7 +377,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 33,
       "number": "VP 2509-263",
       "title": "Znojmo, Nám. Svobody ",
       "latitude": 48.859125,
