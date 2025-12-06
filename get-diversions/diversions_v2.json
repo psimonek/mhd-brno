@@ -151,23 +151,6 @@
       ]
     },
     {
-      "id": 101,
-      "number": "VP 2512-107",
-      "title": "žel. trať v úseku Brno-Maloměřice - Adamov jedna kolej",
-      "latitude": 49.225375,
-      "longitude": 16.662505,
-      "validFrom": "2025-12-06T08:30:00+01:00",
-      "validTo": "2025-12-06T17:30:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění budou platit následující opatření:. Vybrané\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S2</strong></font>\u00A0budou po dobu výluky nahrazeny\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu\u00A0linky xS2.Za vlaky nahrazené NAD,\u00A0mimořádně zastaví\u00A0ostatní vlaky linky<font color=\"#800000\"><strong> S2</strong></font> v\u00A0Babicích nad Svitavou.\u00A0Autobusy NAD pojedou po několika odlišných trasách.\u00A0trasa A:\u00A0Brno hl. n. – Adamov\u00A0trasa B: Brno hl. n. - Bílovice nad Svitavou\u00A0trasa\u00A0C: Bílovice nad Svitavou - Adamov. Vzhledem k silniční uzavírce ulice Fryčajova v Brně je objízdná trasa NAD přes Ochoz u Brna. Přestup mezi vlaky linky<font color=\"#800000\"><strong> S2</strong></font> a autobusy NAD je v zastávce Adamov zastávka. . ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S2",
-        "xS2"
-      ]
-    },
-    {
       "id": 99,
       "number": "VP 2512-106",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
