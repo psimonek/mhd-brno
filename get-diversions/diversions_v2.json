@@ -59,7 +59,7 @@
       "longitude": 16.537364,
       "validFrom": "2025-12-08T00:00:00+01:00",
       "validTo": "2025-12-11T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu opravy mostu přes vodní tok Úmoří v Drnovicích a související opravy vozovky komunikace č. III/3764 budou dočasně přeloženy zastávky Drnovice a Drnovice, horní zastávka pro linku<font color=\"#009240\"><strong> 257</strong></font> v obou směrech. ",
       "privateTextHtml": null,
       "type": "V",
