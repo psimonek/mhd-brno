@@ -118,22 +118,6 @@
       ]
     },
     {
-      "id": 102,
-      "number": "VP 2512-108",
-      "title": "žel. stanice Šlapanice, jedna kolej",
-      "latitude": 49.157020,
-      "longitude": 16.729318,
-      "validFrom": "2025-12-06T20:05:00+01:00",
-      "validTo": "2025-12-07T04:50:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "V železniční stanici\u00A0Šlapanice\u00A0nebude možno zajížděk k nástupišti, proto ve stanici Šlapanice\u00A0nezastaví vlaky linky S6/4125, 4127, 4141 a 4140.. Náhradou\u00A0mohou cestující využít železniční zastávku\u00A0Šlapanice zastávka\u00A0nebo mohou použit mezi Brnem a Šlapanicemi trolejbusovou linku č.31 nebo noční autobusovou linku<font color=\"#000000\"><strong> N96</strong></font>. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S6"
-      ]
-    },
-    {
       "id": 110,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
