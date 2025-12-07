@@ -84,23 +84,6 @@
       ]
     },
     {
-      "id": 104,
-      "number": "VP 2512-110",
-      "title": "žel. trať. jedna kolej Adamov - Blansko jedna kolej",
-      "latitude": 49.399133,
-      "longitude": 16.630898,
-      "validFrom": "2025-12-07T08:35:00+01:00",
-      "validTo": "2025-12-07T16:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, jsou v úseku\u00A0Blansko- Rájec-Jestřebí\u00A0některé\u00A0vlaky linky<font color=\"#800000\"><strong> S2</strong></font> odřeknuty a nahrazeny autobusy náhradní dopravy jedoucími podle výlukového jízdního řádu linky xS2. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S2",
-        "xS2"
-      ]
-    },
-    {
       "id": 103,
       "number": "VP 2512-109",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
