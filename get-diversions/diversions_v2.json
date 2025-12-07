@@ -68,22 +68,6 @@
       ]
     },
     {
-      "id": 109,
-      "number": "PO 2512-242",
-      "title": "Moravská Nová Ves, Nám. Republiky",
-      "latitude": 48.802427,
-      "longitude": 17.015094,
-      "validFrom": "2025-12-07T12:00:00+01:00",
-      "validTo": "2025-12-07T20:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Moravská Nová Ves, žel. st. bude v uvedenou dobu bez obsluhy, zastávky Moravská Nová Ves, křiž. budou přesunuty na ulici Školní ke křižovatce ulic Školní x U Jordánky x Vítězství.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "572"
-      ]
-    },
-    {
       "id": 103,
       "number": "VP 2512-109",
       "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
