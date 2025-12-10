@@ -18,23 +18,6 @@
       ]
     },
     {
-      "id": 108,
-      "number": "PO 2512-243",
-      "title": "Strážnice, ulice Rybářská",
-      "latitude": 48.903800,
-      "longitude": 17.314636,
-      "validFrom": "2025-12-09T00:00:00+01:00",
-      "validTo": "2025-12-10T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 911</strong></font> a <font color=\"#009240\"><strong>931</strong></font> pojedou k zastávce Strážnice, Úprkova odklonem po místních komunikacích bez dopadu na obsluhu toto zastávky.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "911",
-        "931"
-      ]
-    },
-    {
       "id": 111,
       "number": "ZAS Drnovice",
       "title": "zast. Drnovice a Drnovice, horní zastávka",
