@@ -17,23 +17,6 @@
       ]
     },
     {
-      "id": 107,
-      "number": "VP 2512-112",
-      "title": "žel. trať. Znojmo - Moravské Budějovice",
-      "latitude": 48.947308,
-      "longitude": 15.866318,
-      "validFrom": "2025-12-10T07:50:00+01:00",
-      "validTo": "2025-12-11T15:25:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky\u00A0S81/24807,24809,24811,24815,24806,24810,24814,24834\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) v úseku\u00A0Znojmo – Moravské Budějovice.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S81",
-        "xS81"
-      ]
-    },
-    {
       "id": 111,
       "number": "ZAS Drnovice",
       "title": "zast. Drnovice a Drnovice, horní zastávka",
@@ -592,7 +575,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
