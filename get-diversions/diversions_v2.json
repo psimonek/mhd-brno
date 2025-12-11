@@ -169,6 +169,7 @@
         "75",
         "x75",
         "N94",
+        "x94",
         "211"
       ]
     },
@@ -575,7 +576,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
