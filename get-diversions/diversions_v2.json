@@ -17,23 +17,6 @@
       ]
     },
     {
-      "id": 103,
-      "number": "VP 2512-109",
-      "title": "žel. trať v úseku Brno-Kr.Pole – Brno-Maloměřice jedna kolej",
-      "latitude": 49.274245,
-      "longitude": 16.578369,
-      "validFrom": "2025-12-07T00:00:00+01:00",
-      "validTo": "2025-12-12T23:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu zvýšení propustnosti a eliminace předpokládaného zpoždění v úseku\u00A0Brno-Královo Pole – Brno-Maloměřice\u00A0budou platit následující opatření:. Pro linku S3 platí výlukový jízdní řád:Vlak\u00A0S3/1780\u00A0pojede z Brna hl.n. o 10 minut dříve.Vlaky\u00A0S3/4904, 4928, 4934, 4938, 4942, 4909, 4935, 4939, 4943, 4947\u00A0v úseku\u00A0Tišnov – Brno hl.n.\u00A0jsou\u00A0odřeknuty.Vlak S3/4913\u00A0projede zastávku\u00A0Česká a Brno-Řečkovice.Vybrané vlaky linky\u00A0S3\u00A0v úseku\u00A0Tišnov – Brno hl.n.\u00A0pojedou\u00A0dříve.. Pro linku R9 platí výlukový jízdní řád:Všechny vlaky\u00A0linky R9\u00A0z Brna hl.n. pojedou\u00A0dříve\u00A0podle výlukového jízdního řádu linky R9. Vlaky\u00A0R9/980, 978, 976, 974, 971\u00A0mimořádně\u00A0zastaví v Brně-Židenicích a Kuřimi\u00A0náhradou za odřeknuté vlaky linky S3. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "R9"
-      ]
-    },
-    {
       "id": 110,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
@@ -542,7 +525,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
