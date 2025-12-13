@@ -68,24 +68,6 @@
       ]
     },
     {
-      "id": 95,
-      "number": "VP 2512-113",
-      "title": "žel. trať. Brno-Královo Pole - Kuřim jedna kolej ",
-      "latitude": 49.266572,
-      "longitude": 16.582661,
-      "validFrom": "2025-12-13T00:00:00+01:00",
-      "validTo": "2025-12-13T19:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati budou\u00A0v úseku Brno hl.n. – Tišnov\u00A0platit následující opatření:. Pro linku<font color=\"#800000\"><strong> S3</strong></font> platí výlukový jízdní řád:Vlak\u00A0S3/1780\u00A0pojede z Brna hl.n. o 10 minut\u00A0dříve.\u00A0. Vybrané\u00A0vlaky linky<font color=\"#800000\"><strong> S3</strong></font> budou nahrazeny v úseku\u00A0Tišnov – Brno-Královo Pole\u00A0náhradní autobusovou dopravou\u00A0(NAD), která bude organizována podle výlukového jízdního řádu\u00A0linky xS3.<br/><br/> Linka xS3 neobsluhuje zastávku Brno-Řečkovice. Pro linku<font color=\"#800000\"><strong> R9</strong></font> platí výlukový jízdní řád:Vlak linky\u00A0R9/988 z Brna hl.n.\u00A0 pojede\u00A0dříve\u00A0podle výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3",
-        "R9"
-      ]
-    },
-    {
       "id": 100,
       "number": "PO 2512-244",
       "title": "Kyjov ul. Mezivodí ",
