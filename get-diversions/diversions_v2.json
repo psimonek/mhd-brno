@@ -1,6 +1,57 @@
 {
   "diversions": [
     {
+      "id": 99,
+      "number": "VP 2512-115",
+      "title": "žel. trať. jedna kolej Blansko - Rájec-Jestřebí jedna kolej",
+      "latitude": 49.399133,
+      "longitude": 16.630898,
+      "validFrom": "2025-12-21T08:10:00+01:00",
+      "validTo": "2025-12-21T15:45:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, jsou v úseku\u00A0Blansko-\u00A0 Rájec-Jestřebí\u00A0některé\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S2</strong></font>\u00A0odřeknuty a nahrazeny autobusy náhradní dopravy jedoucími podle výlukového jízdního řádu linky xS2. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S2",
+        "xS2"
+      ]
+    },
+    {
+      "id": 83,
+      "number": "2512 Silůvky",
+      "title": "Silůvky, směr od Ořechova",
+      "latitude": 49.105971,
+      "longitude": 16.468077,
+      "validFrom": "2025-12-15T00:00:00+01:00",
+      "validTo": "2025-12-23T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávka Silůvky je pro směr od Ořechova přeložena o cca 70 metrů zpět k domu č. 16. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "154",
+        "510"
+      ]
+    },
+    {
+      "id": 98,
+      "number": "VP 2512-114",
+      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
+      "latitude": 49.346375,
+      "longitude": 17.229137,
+      "validFrom": "2025-12-14T00:00:00+01:00",
+      "validTo": "2026-01-11T23:55:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "R8",
+        "xR8"
+      ]
+    },
+    {
       "id": 35432,
       "number": "V2512-139",
       "title": "Omezení autobusů do Avion Shopping Parku",
@@ -17,7 +68,42 @@
       ]
     },
     {
-      "id": 110,
+      "id": 95,
+      "number": "VP 2512-113",
+      "title": "žel. trať. Brno-Královo Pole - Kuřim jedna kolej ",
+      "latitude": 49.266572,
+      "longitude": 16.582661,
+      "validFrom": "2025-12-13T00:00:00+01:00",
+      "validTo": "2025-12-13T19:00:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati budou\u00A0v úseku Brno hl.n. – Tišnov\u00A0platit následující opatření:. Pro linku<font color=\"#800000\"><strong> S3</strong></font> platí výlukový jízdní řád:Vlak\u00A0S3/1780\u00A0pojede z Brna hl.n. o 10 minut\u00A0dříve.\u00A0. Vybrané\u00A0vlaky linky<font color=\"#800000\"><strong> S3</strong></font> budou nahrazeny v úseku\u00A0Tišnov – Brno-Královo Pole\u00A0náhradní autobusovou dopravou\u00A0(NAD), která bude organizována podle výlukového jízdního řádu\u00A0linky xS3.<br/><br/> Linka xS3 neobsluhuje zastávku Brno-Řečkovice. Pro linku<font color=\"#800000\"><strong> R9</strong></font> platí výlukový jízdní řád:Vlak linky\u00A0R9/988 z Brna hl.n.\u00A0 pojede\u00A0dříve\u00A0podle výlukového jízdního řádu linky<font color=\"#800000\"><strong> R9</strong></font>.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3",
+        "xS3",
+        "R9"
+      ]
+    },
+    {
+      "id": 100,
+      "number": "PO 2512-244",
+      "title": "Kyjov ul. Mezivodí ",
+      "latitude": 49.017185,
+      "longitude": 17.128265,
+      "validFrom": "2025-12-12T00:00:00+01:00",
+      "validTo": "2025-12-15T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>:\u00A0v Kyjově jezdí odklonem ulicemi\u00A0Nětčická a třída Komenského. Zastávka\u00A0Kyjov, Zahradní\u00A0je zrušena. Náhradou lze využít blízkých zastávek Kyjov, Poliklinika nebo Kyjov, Nětčice, obecní dům.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "671",
+        "673"
+      ]
+    },
+    {
+      "id": 96,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
       "latitude": 48.904533,
@@ -34,7 +120,7 @@
       ]
     },
     {
-      "id": 95,
+      "id": 79,
       "number": "Lysovice, ObÚ",
       "title": "Lysovice, ObÚ",
       "latitude": 49.217709,
@@ -102,7 +188,7 @@
       ]
     },
     {
-      "id": 88,
+      "id": 72,
       "number": "Násedlovice, kostel",
       "title": "Násedlovice, kostel",
       "latitude": 49.014705,
@@ -140,13 +226,13 @@
       ]
     },
     {
-      "id": 61,
+      "id": 50,
       "number": "ZAS Novosedly",
       "title": "zastávka Novosedly (označník směr Nový Přerov)",
       "latitude": 48.837418,
       "longitude": 16.493426,
       "validFrom": "2025-10-29T00:00:00+01:00",
-      "validTo": "2025-12-15T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
       "publicTextHtml": "zastávka\u00A0Novosedly (označník směr Nový Přerov)\u00A0- dočasně přeložena vpřed o cca 40 metrů před obecní úřad Novosedly. ",
       "privateTextHtml": null,
@@ -173,7 +259,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 26,
       "number": "VP 2510-261",
       "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
       "latitude": 49.030384,
@@ -191,7 +277,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 31,
       "number": "VP 2509-263",
       "title": "Znojmo, Nám. Svobody ",
       "latitude": 48.859125,
@@ -208,7 +294,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 27,
       "number": "VP 2509-252",
       "title": "Horní Břečkov",
       "latitude": 48.889891,
@@ -247,7 +333,7 @@
       "latitude": 49.087260,
       "longitude": 16.813492,
       "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-31T23:59:00+01:00",
+      "validTo": "2025-12-13T23:59:00+01:00",
       "isValid": true,
       "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
       "privateTextHtml": null,
