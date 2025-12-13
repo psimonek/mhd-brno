@@ -42,7 +42,7 @@
       "longitude": 17.229137,
       "validFrom": "2025-12-14T00:00:00+01:00",
       "validTo": "2026-01-11T23:55:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
@@ -208,22 +208,6 @@
       ]
     },
     {
-      "id": 50,
-      "number": "ZAS Novosedly",
-      "title": "zastávka Novosedly (označník směr Nový Přerov)",
-      "latitude": 48.837418,
-      "longitude": 16.493426,
-      "validFrom": "2025-10-29T00:00:00+01:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "zastávka\u00A0Novosedly (označník směr Nový Přerov)\u00A0- dočasně přeložena vpřed o cca 40 metrů před obecní úřad Novosedly. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "174"
-      ]
-    },
-    {
       "id": 34144,
       "number": "V2510-112",
       "title": "Omezení provozu tramvají ve smyčce Ečerova",
@@ -238,24 +222,6 @@
       "affectedLines": [
         "1",
         "3"
-      ]
-    },
-    {
-      "id": 26,
-      "number": "VP 2510-261",
-      "title": "Tavíkovice, průtah a silnice III/3983 - III. etapa",
-      "latitude": 49.030384,
-      "longitude": 16.106000,
-      "validFrom": "2025-10-01T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 158</strong></font>, <font color=\"#009240\"><strong> 443</strong></font> a <font color=\"#009240\"><strong>812</strong></font>\u00A0- téměř většina spojů nebude v Tavíkovicích obsluhovat zastávky, Tavíkovice, host. a Tavíkovice, OSEVA. Obsluhovat budou pouze zastávku Tavíkovice, škola.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- veškeré spoje (vyjma spojů 3 a 4) pojedou mezi obcemi Přeskače a Tavíkovice po obousměrné objízdné trase po silnicích II/400 a II/399.<br/><br/> Linka<font color=\"#009240\"><strong> 443</strong></font>\u00A0- spoje 3 a 4 obsluhují také zast. Tavíkovice, host. Mezi Tavíkovicemi a Horními Kounicemi pojedou po silnici III/39914.<br/><br/> Linka<font color=\"#009240\"><strong> 812</strong></font>\u00A0- spoj 91 pojede mezi Tavíkovicemi a Horními Kounicemi po silnici III/39914. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "158",
-        "443",
-        "812"
       ]
     },
     {
@@ -276,23 +242,6 @@
       ]
     },
     {
-      "id": 27,
-      "number": "VP 2509-252",
-      "title": "Horní Břečkov",
-      "latitude": 48.889891,
-      "longitude": 15.897759,
-      "validFrom": "2025-09-15T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 816</strong></font> (spoje 91, 92, 96)\u00A0pojedou mezi Horním Břečkovem a Lesnou odklonem.<br/><br/> Linka<font color=\"#009240\"><strong> 817</strong></font>\u00A0pojedou mezi Horním Břečkovem a Čížovem odklonem Lesnou. Na objízdné trase obslouží zastávky Lesná, penzion (vždy zastávka směr Znojmo) a náhradní zastávku Horní Břečkov, rozcestí Čížov zřízené na začátku obce Horní Břečkov ve směru od Lesné. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "816",
-        "817"
-      ]
-    },
-    {
       "id": 24,
       "number": "PO 2509-172",
       "title": "Lanžhot, ulice náměstí a autobusové nádraží",
@@ -309,55 +258,6 @@
       ]
     },
     {
-      "id": 22,
-      "number": "2509 Otnice, host. U Marků",
-      "title": "Otnice, host. U Marků - směr Milešovice",
-      "latitude": 49.087260,
-      "longitude": 16.813492,
-      "validFrom": "2025-09-08T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Otnice, host. U Marků je pro linku<font color=\"#009240\"><strong> 611</strong></font> a směr do Milešovic přesunuta cca 60 metrů vpřed k domu č. 132. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "611"
-      ]
-    },
-    {
-      "id": 23,
-      "number": "PO 2509-164",
-      "title": "Veselí nad Moravou - I/55",
-      "latitude": 48.955706,
-      "longitude": 17.385092,
-      "validFrom": "2025-09-02T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Spoje linky<font color=\"#009240\"><strong> 933</strong></font> pojedou ve směru na Uherský Ostroh mezi Veselím a Milokoští odklonem ulicemi Dvořákova, Hutník a Na Drahách. Zastávka Chaloupky bude ve směru do Uherského Ostrohu přesunuta do ulice Na Drahách před křižovatku s Masarykovou třídou, ve směru do Veselí bude zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "933"
-      ]
-    },
-    {
-      "id": 20,
-      "number": "VP 2508-082",
-      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
-      "latitude": 49.346375,
-      "longitude": 17.229137,
-      "validFrom": "2025-08-25T21:00:00+02:00",
-      "validTo": "2025-12-13T23:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) – Vyškov na Mor. – Brno\u00A0hl.n. nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku Brno-Královo Pole – Brno hl.n. jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0(kromě souběhu výluk 27.- 31.8.2025). Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R8",
-        "xR8"
-      ]
-    },
-    {
       "id": 32635,
       "number": "",
       "title": "Přerušení provozu linky 62",
@@ -371,22 +271,6 @@
       "type": "V",
       "affectedLines": [
         "62"
-      ]
-    },
-    {
-      "id": 15,
-      "number": "VP 2508-243",
-      "title": "Rosice, ul. Nádražní",
-      "latitude": 49.179179,
-      "longitude": 16.383169,
-      "validFrom": "2025-08-04T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrně odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "153"
       ]
     },
     {
@@ -458,26 +342,6 @@
       ]
     },
     {
-      "id": 11,
-      "number": "VP 2506-230",
-      "title": "Silnice II/380 mezi Mutěnicemi a Hodonínem - AKTUALIZACE OD 24. 09. 2025",
-      "latitude": 48.884979,
-      "longitude": 17.087230,
-      "validFrom": "2025-06-16T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 109</strong></font>\u00A0v úseku mezi zastávkami Hodonín, STS a Mutěnice, křižovatka obousměrně odkloněna přes obec Dubňany.\u00A0Zastávka Hodonín, Zbrod je mimo provoz.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "109",
-        "612",
-        "662",
-        "663",
-        "664"
-      ]
-    },
-    {
       "id": 8,
       "number": "2505 Pohořelice, náměstí",
       "title": "Pohořelice, náměstí - směr Brno",
@@ -493,22 +357,6 @@
         "104",
         "105",
         "108"
-      ]
-    },
-    {
-      "id": 6,
-      "number": "VP 2504-217",
-      "title": "Zaječí",
-      "latitude": 48.873324,
-      "longitude": 16.766646,
-      "validFrom": "2025-04-07T00:00:00+02:00",
-      "validTo": "2025-12-13T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 550</strong></font>:\u00A0Mezi zastávkami Zaječí, žel. st. a Přítluky, rozc. jede obousměrným odklonem po místních komunikacích obce Zaječí. Zastávka Zaječí, škola je bez obsluhy, zastávky Zaječí, MŠ a Zaječí, restaurace jsou přeloženy na objízdnou trasu.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "550"
       ]
     },
     {
