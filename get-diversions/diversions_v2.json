@@ -25,7 +25,7 @@
       "longitude": 16.468077,
       "validFrom": "2025-12-15T00:00:00+01:00",
       "validTo": "2025-12-23T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Silůvky je pro směr od Ořechova přeložena o cca 70 metrů zpět k domu č. 16. ",
       "privateTextHtml": null,
       "type": "V",
