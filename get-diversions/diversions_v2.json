@@ -52,22 +52,6 @@
       ]
     },
     {
-      "id": 35432,
-      "number": "V2512-139",
-      "title": "Omezení autobusů do Avion Shopping Parku",
-      "latitude": 49.158176,
-      "longitude": 16.627931,
-      "validFrom": "2025-12-13T22:00:00+01:00",
-      "validTo": "2025-12-14T05:30:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "<p>Z důvodu instalace mostního provizoria v místě mimoúrovňového křížení dálnice D1 s D2 nebude v nočních hodinách <strong>v sobotu 13. prosince 2025</strong> průjezdná daná komunikace poblíž nákupního komplexu Avion Shopping Park.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>linky 67</strong> s pravidelnými odjezdy z Jundrova ve <strong>21:05</strong> a <strong>22:05</strong> (z Hlavního nádraží ve <strong>21:32</strong> a <strong>22:32</strong>) pojedou od zastávky<strong> Hněvkovského</strong> odklonem ulicemi Sokolovou, Kšírovou a Havránkovou do smyčky <strong>Přízřenice</strong>.<br />\n• Vynechají tak zastávky <strong>Skandinávská</strong>, <strong>Ikea</strong> a <strong>Avion Shopping Park</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Záhumenice,</strong> <strong>Havránkova</strong>, <strong>Dolní Heršpice</strong>, <strong>Malá</strong>, <strong>Přízřenice</strong> a <strong>Přízřenice, smyčka</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>linky 67</strong> s pravidelnými odjezdy z Avion Shopping Parku ve<strong> 22:12</strong>, <strong>22:37</strong> a<strong> 23:07</strong> budou mimořádně vedeny z výchozí zastávky <strong>Přízřenice, smyčka </strong>ve <strong>22:11</strong>, <strong>22:36 </strong>a <strong>23:06</strong> odklonovou trasou ulicemi Havránkovou, Kšírovou a Sokolovou do zastávky <strong>Hněvkovského</strong> a dále po běžné trase směr<strong> Hlavní nádraží / Jundrov</strong>.<br />\n• Vynechají tak zastávky <strong>Avion Shopping Park</strong>, <strong>Ikea</strong> a <strong>Skandinávská</strong>.<br />\n• Na odklonové trase obslouží zastávky <strong>Přízřenice, smyčka</strong>, <strong>Přízřenice</strong>, <strong>Malá</strong>,<strong> Dolní Heršpice</strong>, <strong>Havránkova</strong> a <strong>Záhumenice</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> <em>V případě zdržení stavebních prací může dojít k mimořádnému odklonu také u prvních ranních spojů v neděli 14. prosince 2025.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "67"
-      ]
-    },
-    {
       "id": 100,
       "number": "PO 2512-244",
       "title": "Kyjov ul. Mezivodí ",
@@ -441,7 +425,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
