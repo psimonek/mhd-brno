@@ -52,23 +52,6 @@
       ]
     },
     {
-      "id": 100,
-      "number": "PO 2512-244",
-      "title": "Kyjov ul. Mezivodí ",
-      "latitude": 49.017185,
-      "longitude": 17.128265,
-      "validFrom": "2025-12-12T00:00:00+01:00",
-      "validTo": "2025-12-15T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 671</strong></font>, <font color=\"#2C89C8\"><strong> 673</strong></font>:\u00A0v Kyjově jezdí odklonem ulicemi\u00A0Nětčická a třída Komenského. Zastávka\u00A0Kyjov, Zahradní\u00A0je zrušena. Náhradou lze využít blízkých zastávek Kyjov, Poliklinika nebo Kyjov, Nětčice, obecní dům.\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "671",
-        "673"
-      ]
-    },
-    {
       "id": 96,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
