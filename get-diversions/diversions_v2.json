@@ -130,6 +130,23 @@
       ]
     },
     {
+      "id": 35684,
+      "number": "V2506-044",
+      "title": "Dočasné zrušení obsluhy zastávky Uzbecká",
+      "latitude": 49.172343,
+      "longitude": 16.583318,
+      "validFrom": "2025-12-19T23:00:00+01:00",
+      "validTo": "2026-05-20T23:59:59+02:00",
+      "isValid": false,
+      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Z důvodu stavebních prací nebude <strong>od 23:00 hod. 19. prosince 2025</strong> do ukončení prací (předpoklad do poloviny května 2026) možné obsloužit zastávku <strong>Uzbecká </strong>linek 40 a N90 směr Nemocnice Bohunice.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40",
+        "N90"
+      ]
+    },
+    {
       "id": 83,
       "number": "2512 Silůvky",
       "title": "Silůvky, směr od Ořechova",
