@@ -82,7 +82,7 @@
       ]
     },
     {
-      "id": 99,
+      "id": 80,
       "number": "VP 2512-115",
       "title": "žel. trať. jedna kolej Blansko - Rájec-Jestřebí jedna kolej",
       "latitude": 49.399133,
@@ -147,7 +147,24 @@
       ]
     },
     {
-      "id": 83,
+      "id": 82,
+      "number": "PO 2512-245",
+      "title": "Znojmo, ul. Vančurova",
+      "latitude": 48.866454,
+      "longitude": 16.045210,
+      "validFrom": "2025-12-17T00:00:00+01:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 802</strong></font>\u00A0vynechá závlek k zastávce Vančurova DPS.<br/><br/> Linka<font color=\"#009240\"><strong> 806</strong></font>\u00A0pojede po své trase, zastávku Vančurova DPS obslouží v přeložené poloze. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "802",
+        "806"
+      ]
+    },
+    {
+      "id": 64,
       "number": "2512 Silůvky",
       "title": "Silůvky, směr od Ořechova",
       "latitude": 49.105971,
@@ -164,7 +181,7 @@
       ]
     },
     {
-      "id": 98,
+      "id": 79,
       "number": "VP 2512-114",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
       "latitude": 49.346375,
@@ -181,7 +198,7 @@
       ]
     },
     {
-      "id": 96,
+      "id": 77,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
       "latitude": 48.904533,
@@ -195,22 +212,6 @@
       "affectedLines": [
         "542",
         "551"
-      ]
-    },
-    {
-      "id": 79,
-      "number": "Lysovice, ObÚ",
-      "title": "Lysovice, ObÚ",
-      "latitude": 49.217709,
-      "longitude": 16.970551,
-      "validFrom": "2025-11-26T00:00:00+01:00",
-      "validTo": "2025-12-21T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 751</strong></font>\u00A0neobsluhuje zastávku Lysovice, Obú\u00A0. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "751"
       ]
     },
     {
@@ -305,7 +306,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 25,
       "number": "VP 2509-263",
       "title": "Znojmo, Nám. Svobody ",
       "latitude": 48.859125,
@@ -322,7 +323,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 19,
       "number": "PO 2509-172",
       "title": "Lanžhot, ulice náměstí a autobusové nádraží",
       "latitude": 48.724845,
