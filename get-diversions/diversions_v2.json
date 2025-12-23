@@ -163,23 +163,6 @@
       ]
     },
     {
-      "id": 64,
-      "number": "2512 Silůvky",
-      "title": "Silůvky, směr od Ořechova",
-      "latitude": 49.105971,
-      "longitude": 16.468077,
-      "validFrom": "2025-12-15T00:00:00+01:00",
-      "validTo": "2025-12-23T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Silůvky je pro směr od Ořechova přeložena o cca 70 metrů zpět k domu č. 16. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "154",
-        "510"
-      ]
-    },
-    {
       "id": 79,
       "number": "VP 2512-114",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
@@ -230,22 +213,6 @@
         "x41",
         "N91",
         "x91"
-      ]
-    },
-    {
-      "id": 34916,
-      "number": "Z2511-088",
-      "title": "Vánoční tramvaj",
-      "latitude": 49.197852,
-      "longitude": 16.607192,
-      "validFrom": "2025-11-22T00:00:00+01:00",
-      "validTo": "2025-12-23T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p><strong>Od soboty 22. listopadu 2025 do úterý 23. prosince 2025</strong> bude v provozu tradiční Vánoční tramvaj:</p>\n\n<p>• <strong>v pracovní dny vždy od 15:00 do 20:30</strong><br />\n• <strong>v nepracovní dny vždy od 12:00 do 20:30</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Tramvaj pojede v intervalu 30 minut po okružní trase centrem města: <strong>Česká </strong><em>(nástupiště 6)</em><strong> – Malinovského náměstí – Hlavní nádraží </strong><em>(1. kolej)</em><strong> – Hlavní nádraží </strong><em>(nástupiště 8)</em><strong> – Zelný trh – Náměstí Svobody</strong> <em>(u orloje)</em><strong> – Náměstí Svobody </strong><em>(běžná zastávka)</em><strong> – Česká </strong><em>(nástupiště 6)</em>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> Ve Vánoční tramvaji platí běžný tarif IDS JMK.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma trasy a jízdní řád – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_z2511-088_jr_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "H4"
       ]
     },
     {
@@ -448,7 +415,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB."
   }
 }
