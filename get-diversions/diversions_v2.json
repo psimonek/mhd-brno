@@ -33,23 +33,6 @@
       ]
     },
     {
-      "id": 73,
-      "number": "VP 2512-116",
-      "title": "žel. trať. jedna kolej Rájec-Jestřebí - Skalice nad Svitavou jedna kolej",
-      "latitude": 49.399133,
-      "longitude": 16.630898,
-      "validFrom": "2025-12-27T07:30:00+01:00",
-      "validTo": "2025-12-27T15:10:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, jsou v úseku\u00A0Blansko-\u00A0 Rájec-Jestřebí\u00A0některé\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S2</strong></font>\u00A0odřeknuty a nahrazeny autobusy náhradní dopravy jedoucími podle výlukového jízdního řádu linky xS2. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S2",
-        "xS2"
-      ]
-    },
-    {
       "id": 35756,
       "number": "Z2512-100",
       "title": "Posílení dopravy do Vranova",
