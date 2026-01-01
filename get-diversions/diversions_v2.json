@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": 56,
-      "number": "PO 2512-246",
-      "title": "Laa an der Thaya - náměstí, zastávka Laa a.d. Thaya, Stadtplatz",
-      "latitude": 48.720412,
-      "longitude": 16.384539,
-      "validFrom": "2025-12-31T12:00:00+01:00",
-      "validTo": "2026-01-01T10:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 104</strong></font>:\u00A0veškeré spoje, které mají na své pravidelné trase zastávku\u00A0Laa an der Thaya, Stadtplatz\u00A0ji budou vynechávat. Místo toho budou dočasně obsluhovat zastávku\u00A0Laa an der Thaya, Stadtfeldgasse, která se nachází na hlavní ulici\u00A0Staatsbahnstraße\u00A0směrem k vlakovému nádraží Laa a. d. Thaya, Bahnhof.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "104"
-      ]
-    },
-    {
       "id": 35756,
       "number": "Z2512-100",
       "title": "Posílení dopravy do Vranova",
