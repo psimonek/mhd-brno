@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": 35756,
-      "number": "Z2512-100",
-      "title": "Posílení dopravy do Vranova",
-      "latitude": 49.310249666667,
-      "longitude": 16.612232,
-      "validFrom": "2025-12-25T00:00:00+01:00",
-      "validTo": "2026-01-01T23:59:59+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p><span><span><span><span><span>S ohledem na očekávanou zvýšenou poptávku po přepravě bude <strong>v nepracovních dnech od 25. prosince 2025 do 1. ledna 2026 a navíc také na Silvestra 31. prosince 2025 posílena doprava na Vranov.</strong></span></span></span></span></span></p>\n\n<p> </p>\n\n<p><span><span><span><span><span>V době <strong>od 08:00 do 17:00 hod.</strong> pojedou všechny spoje <strong>linky x41 až z nebo do Vranova</strong>, spoje tedy nebudou začínat nebo končit v zastávce Lelekovice, u kříže.</span></span></span></span></span><br />\n<span><span><span><span><span>• Spoje s odjezdy od Globusu <strong>mezi 09:08 a 15:08 hod.</strong> pojedou přes zastávku <strong>Vranov, křižovatka</strong> do zastávky <strong>Vranov, myslivna</strong>, neobslouží tak zastávku Vranov, smyčka.</span></span></span></span></span><br />\n<span><span><span><span><span>• Spoje s odjezdy z Vranova <strong>mezi 09:23 a 16:23 hod.</strong> pojedou již ze zastávky <strong>Vranov, myslivna</strong> <em>(vždy ve 23. minutu) </em>přes zastávky <strong>Vranov, křižovatka</strong> do zastávky <strong>Vranov, smyčka</strong> a dále po své trase do Brna.<br />\n• Ze zastávek <strong>Vranov, smyčka</strong> a <strong>Lelekovice, u kříže</strong> budou v uvedené době odjezdy směr Ivanovice, Globus<strong> <strong class=\"red\">konány o 1 minutu dříve</strong></strong> oproti pravidelnému jízdnímu řádu.</span></span></span></span></span></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "x41"
-      ]
-    },
-    {
       "id": 35444,
       "number": "",
       "title": "Vánoční a novoroční provoz MHD",
