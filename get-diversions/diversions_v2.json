@@ -1,6 +1,23 @@
 {
   "diversions": [
     {
+      "id": 35953,
+      "number": "V2601-002",
+      "title": "Omezení autobusů do Avion Shopping Parku",
+      "latitude": 49.158176,
+      "longitude": 16.627931,
+      "validFrom": "2026-01-09T20:00:00+01:00",
+      "validTo": "2026-01-11T23:59:59+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu demoličních prací v místě mimoúrovňového křížení dálnice D1 s D2 nebude <strong>od 20:00 hod. v pátek 9. ledna 2026 do ukončení provozu v neděli 11. ledna 2026</strong> průjezdná komunikace poblíž nákupního komplexu Avion Shopping Park.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 67</strong> pojede od zastávky<strong> Hněvkovského</strong> odklonem ulicemi Sokolovou, Kšírovou a Havránkovou do smyčky <strong>Přízřenice</strong>.<br />\n• Neobslouží tak v obou směrech zastávky <strong>Skandinávská</strong>, <strong>Ikea</strong> a <strong>Avion Shopping Park</strong>.<br />\n• Na odklonové trase obslouží v obou směrech zastávky <strong>Záhumenice,</strong> <strong>Havránkova</strong>, <strong>Dolní Heršpice</strong>, <strong>Malá</strong>, <strong>Přízřenice</strong> a <strong>Přízřenice, smyčka</strong>.<br />\n• Poslední odjezdy ze zastávky <strong>Hněvkovského </strong>do Avion Shopping Parku v pátek 16. ledna 2026 budou v časech <strong>19:13</strong>, <strong>19:33</strong> a <strong>19:53 hod.</strong>, z <strong>Avion Shopping Parku</strong> v časech <strong>20:02</strong>, <strong>20:22</strong> a <strong>20:42 hod.</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> V souvislosti s ukončením linky 67 ve smyčce Přízřenice budou všechny spoje <strong>linky 49</strong> (s výjimkou prvního odjezdu z Přízřenic v 9:18 hod. a posledního spoje do Přízřenic ve 20:03 hod. z Hlavního nádraží) prodlouženy do zastávky <strong>Modřice, Olympia</strong>.<br />\n• Ze zastávky <strong>Modřice, Olympia</strong> budou prodloužené spoje odjíždět <strong>o 9 minut dříve</strong> oproti pravidelnému odjezdu ze smyčky Přízřenice.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – bude doplněno</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "49",
+        "67"
+      ]
+    },
+    {
       "id": 58,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
