@@ -22,6 +22,44 @@
       ]
     },
     {
+      "id": 38,
+      "number": "VP 2601-002",
+      "title": "žel. trať. Znojmo - Šumná",
+      "latitude": 48.923402,
+      "longitude": 15.896015,
+      "validFrom": "2026-01-12T07:35:00+01:00",
+      "validTo": "2026-01-15T15:35:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S81</strong></font> budou v úseku\u00A0Znojmo – Šumná\u00A0nahrazeny autobusy náhradní\u00A0dopravy (NAD) jedoucí jako linka xS81.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S81",
+        "xS81"
+      ]
+    },
+    {
+      "id": 37,
+      "number": "VP 2601-001",
+      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
+      "latitude": 49.346375,
+      "longitude": 17.229137,
+      "validFrom": "2026-01-12T00:00:00+01:00",
+      "validTo": "2026-01-19T23:55:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky linky S71:Pojedou v\u00A0odchylných\u00A0časových polohách a\u00A0vybrané\u00A0vlaky v době\u00A0od 12.1.2026 do 15.1.2026\u00A0budou nahrazeny\u00A0NAD\u00A0podle výlukového jízdního řádu. Vlaky linky R12:Vybrané vlaky budou nahrazeny NAD dle výlukového jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "R8",
+        "xR8",
+        "S71",
+        "xS71",
+        "R12",
+        "xR12"
+      ]
+    },
+    {
       "id": 35953,
       "number": "V2601-002",
       "title": "Omezení autobusů do Avion Shopping Parku",
@@ -39,13 +77,13 @@
       ]
     },
     {
-      "id": 58,
+      "id": 36,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
       "longitude": 16.749580,
       "validFrom": "2026-01-01T00:00:00+01:00",
-      "validTo": "2026-01-31T23:59:00+01:00",
+      "validTo": "2026-02-28T23:59:00+01:00",
       "isValid": true,
       "publicTextHtml": "Zastávka Mokrá-Horákov, Horákov je pro oba směry přesunuta do prostoru obratiště autobusů. ",
       "privateTextHtml": null,
@@ -72,7 +110,7 @@
       ]
     },
     {
-      "id": 57,
+      "id": 35,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
@@ -89,7 +127,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": 29,
       "number": "VP 2512-114",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
       "latitude": 49.346375,
@@ -106,7 +144,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 27,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
       "latitude": 48.904533,
@@ -181,7 +219,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 17,
       "number": "VP 2509-263",
       "title": "Znojmo, Nám. Svobody ",
       "latitude": 48.859125,
@@ -198,7 +236,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 14,
       "number": "PO 2509-172",
       "title": "Lanžhot, ulice náměstí a autobusové nádraží",
       "latitude": 48.724845,
@@ -214,7 +252,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 9,
       "number": "VP 2507-240",
       "title": "II/395 Dolní Kounice - Moravské Bránice",
       "latitude": 49.074316,
@@ -248,7 +286,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 8,
       "number": "2506 Moutnice, u fary",
       "title": "Moutnice, u fary - směr Nesvačilka",
       "latitude": 49.050604,
@@ -264,7 +302,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 6,
       "number": "2505 Pohořelice, náměstí",
       "title": "Pohořelice, náměstí - směr Brno",
       "latitude": 48.980847,
@@ -282,7 +320,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "number": "VP 2503-212",
       "title": "Tišnov, náměstí Míru",
       "latitude": 49.348891,
