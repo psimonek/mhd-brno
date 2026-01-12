@@ -1,6 +1,23 @@
 {
   "diversions": [
     {
+      "id": 35909,
+      "number": "V2601-001",
+      "title": "Omezení trolejbusů v křižovatce Drobného × Pionýrská",
+      "latitude": 49.209511,
+      "longitude": 16.609503,
+      "validFrom": "2026-01-17T00:00:00+01:00",
+      "validTo": "2026-01-17T14:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu opravy trolejového vedení bude od ranních výjezdů <strong>v sobotu 17. ledna 2026 nepřetržitě do ukončení prací (předpoklad do 14:00 hod.) </strong>pro trolejbusy<strong> </strong>omezen průjezd křižovatkou ulic Drobného a Pionýrskou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"9b0569c5-e863-4e24-8b14-d3779cdd192b\" data-view-mode=\"\"></drupal-media>\n\n<p> Provoz na <strong>trolejbusových linkách 25</strong> a <strong>26</strong> zůstane zachován v trase <strong>Nemocnice Bohunice / Kamenný vrch – Mendlovo náměstí</strong>.<br />\n• V úseku <strong>Mendlovo náměstí – Jírova</strong> bude v provozu mimořádná autobusová<strong> linka x25</strong> s obsluhou pravidelných zastávek linky 25.<br />\n• V úseku <strong>Mendlovo náměstí – Štefánikova čtvrť</strong> bude v provozu mimořádná autobusová<strong> linka x26</strong> s obsluhou pravidelných zastávek linky 26.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2601-001_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "25",
+        "26"
+      ]
+    },
+    {
       "id": 35987,
       "number": "V2601-003",
       "title": "Výluka autobusů v ulici Kaštanové",
