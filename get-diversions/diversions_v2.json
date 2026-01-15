@@ -39,23 +39,6 @@
       ]
     },
     {
-      "id": 38,
-      "number": "VP 2601-002",
-      "title": "žel. trať. Znojmo - Šumná",
-      "latitude": 48.923402,
-      "longitude": 15.896015,
-      "validFrom": "2026-01-12T07:35:00+01:00",
-      "validTo": "2026-01-15T15:35:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S81</strong></font> budou v úseku\u00A0Znojmo – Šumná\u00A0nahrazeny autobusy náhradní\u00A0dopravy (NAD) jedoucí jako linka xS81.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S81",
-        "xS81"
-      ]
-    },
-    {
       "id": 37,
       "number": "VP 2601-001",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
