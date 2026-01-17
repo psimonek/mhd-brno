@@ -1,6 +1,125 @@
 {
   "diversions": [
     {
+      "id": 29,
+      "number": "VP 2601-009",
+      "title": "žel. trať. jedna kolej Skalice n.Svit. - Letovice",
+      "latitude": 49.526223,
+      "longitude": 16.579988,
+      "validFrom": "2026-01-24T09:15:00+01:00",
+      "validTo": "2026-01-25T16:25:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, platí v úseku\u00A0Skalice nad Svitavou - Letovice\u00A0výlukový jízdní řád\u00A0linky<font color=\"#800000\"><strong> S2</strong></font>, podle kterého pojedou vybrané vlaky cca o 4 minuty\u00A0dříve.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S2"
+      ]
+    },
+    {
+      "id": 27,
+      "number": "VP 2601-008",
+      "title": "žel. trať. Střelice - Moravské Bránice",
+      "latitude": 49.133149,
+      "longitude": 16.462369,
+      "validFrom": "2026-01-21T08:15:00+01:00",
+      "validTo": "2026-01-23T15:10:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#800000\"><strong> S41</strong></font>. Všechny vlaky budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), které bude organizována podle výlukového jízdního řádu linky xS41.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S41",
+        "xS41"
+      ]
+    },
+    {
+      "id": 28,
+      "number": "VP 2601-007",
+      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
+      "latitude": 49.346375,
+      "longitude": 17.229137,
+      "validFrom": "2026-01-20T00:00:00+01:00",
+      "validTo": "2026-01-30T23:55:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "R8",
+        "xR8",
+        "R12",
+        "xR12"
+      ]
+    },
+    {
+      "id": 26,
+      "number": "VP 2601-006",
+      "title": "žel. trať Moravské Bránice - Moravský Krumlov",
+      "latitude": 49.053481,
+      "longitude": 16.348533,
+      "validFrom": "2026-01-19T08:30:00+01:00",
+      "validTo": "2026-01-20T15:50:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu\u00A0linky xS41.. Vlaky z/do Brna pojedou přímo do/z Ivančic, kde je umožněn přestup cestujících na/z NAD.. Autobusy NAD pojedou po několika odlišných trasách:trasa A\u00A0– vede ze stanice Ivančice přes Moravský Krumlov, nám. (mimo žel. stanici), Rakšice do Bohutic – Miroslavi a zpět.trasa B\u00A0–\u00A0vede ze železniční stanice Ivančice přes Mor. Krumlov u parku, poliklinika, Břízová, Jatky, Václavská, stezka, Mor. Krumlov žel.st. a zpět.. Přestup mezi autobusy NAD a autobusy linek<font color=\"#009240\"><strong> 441</strong></font>, <font color=\"#009240\"><strong> 442</strong></font>, <font color=\"#009240\"><strong> 443</strong></font>, <font color=\"#009240\"><strong> 444</strong></font> a <font color=\"#009240\"><strong>445</strong></font> ve směru z Brna je zajištěn na zastávce IDS JMK „Moravský Krumlov, u parku“.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S41",
+        "xS41"
+      ]
+    },
+    {
+      "id": 23,
+      "number": "VP 2601-005",
+      "title": "žel. trať. jedna kolej Skalice n.Svit. - Letovice",
+      "latitude": 49.526223,
+      "longitude": 16.579988,
+      "validFrom": "2026-01-17T09:15:00+01:00",
+      "validTo": "2026-01-18T16:25:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, platí v úseku\u00A0Skalice nad Svitavou - Letovice\u00A0výlukový jízdní řád\u00A0linky<font color=\"#800000\"><strong> S2</strong></font>, podle kterého pojedou vybrané vlaky cca o 4 minuty\u00A0dříve.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S2"
+      ]
+    },
+    {
+      "id": 22,
+      "number": "VP 2601-004",
+      "title": "žel. trať Brno-Královo Pole - Kuřim jedna kolej",
+      "latitude": 49.296584,
+      "longitude": 16.550775,
+      "validFrom": "2026-01-17T07:55:00+01:00",
+      "validTo": "2026-01-18T16:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati budou v úseku\u00A0Brno- Královo Pole – Tišnov\u00A0platit následující opatření:. Pro\u00A0linku<font color=\"#800000\"><strong> S3</strong></font>\u00A0platí výlukový jízdní řád. Vybrané\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0budou nahrazeny v úseku\u00A0Tišnov – Brno-Královo Pole\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu linky xS3.<br/><br/> Linka xS3 neobsluhuje zastávku Brno-Řečkovice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3",
+        "xS3"
+      ]
+    },
+    {
+      "id": 21,
+      "number": "VP 2601-003",
+      "title": "žel. trať Rakšice - Miroslav",
+      "latitude": 49.011857,
+      "longitude": 16.348000,
+      "validFrom": "2026-01-17T07:45:00+01:00",
+      "validTo": "2026-01-18T15:15:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky na lince<font color=\"#800000\"><strong> S41</strong></font> budou v úseku Rakšice – Miroslav nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle výlukového jízdního řádu linky xS41.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S41",
+        "xS41"
+      ]
+    },
+    {
       "id": 35951,
       "number": "V2601-003",
       "title": "Výluka autobusů v ulici Kaštanové",
@@ -39,7 +158,28 @@
       ]
     },
     {
-      "id": 37,
+      "id": 20,
+      "number": "VP 2601-201",
+      "title": "Brno, Kaštanová I",
+      "latitude": 49.160449,
+      "longitude": 16.639116,
+      "validFrom": "2026-01-16T23:15:00+01:00",
+      "validTo": "2026-01-19T04:15:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#2C89C8\"><strong> 48</strong></font>:\u00A0Mezi zastávkami Brno, Hněvkovského a Brno, Holásky jede obousměrným odklonem s vynecháním standardních nácestných zastávek. Na odklonové trase obslouží zastávky Zámecká, Šromova, Chrlické náměstí, V rejích. Zastávku Holásky obslouží vždy v daném směru v ulici Požární. Spoje s vazbou na linku<font color=\"#000000\"><strong> N95</strong></font> jedou v upravených časových polohách.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 74</strong></font>:\u00A0Mezi zastávkami Brno, Hněvkovského a Brno, Hanácká jede obousměrným odklonem s vynecháním standardních nácestných zastávek. Náhradou obslouží zastávky Zámecká, Šromova, Chrlické náměstí, V rejích, Holásky (v ulici Požární), Rolencova a Holásecká. Spoje s vazbou na linku<font color=\"#000000\"><strong> N95</strong></font> jedou v upravených časových polohách.<br/><br/> Linka<font color=\"#009240\"><strong> 109</strong></font>:\u00A0Mezi zastávkami Brno, ÚAN Zvonařka a Brno, Hanácká jede obousměrným odklonem s vynecháním zastávek Brno, Konopná, Brno, Komárov, Brno, Mariánské náměstí, Brno, Ráječek a Brno, Ivanovické náměstí. Zastávka Hanácká směr Telnice je z parku přeložena ke kostelu (zastávka linek<font color=\"#2C89C8\"><strong> 40</strong></font> a <font color=\"#2C89C8\"><strong>74</strong></font> směr Tuřany, smyčka).<br/><br/> Linka<font color=\"#009240\"><strong> 151</strong></font>:\u00A0Posun spoje číslo\u00A0330 z oběhových důvodů.<br/><br/> Linka<font color=\"#009240\"><strong> 610</strong></font>:\u00A0Posun spojů číslo\u00A0201 a 221 z provozních důvodů.<br/><br/> Linka<font color=\"#009240\"><strong> 612</strong></font>:\u00A0Posun spojů číslo\u00A0101, 207 a 251 z oběhových a provozních důvodů. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "74",
+        "109",
+        "151",
+        "610",
+        "612"
+      ]
+    },
+    {
+      "id": 24,
       "number": "VP 2601-001",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
       "latitude": 49.346375,
@@ -60,7 +200,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 19,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
@@ -93,7 +233,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 18,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
@@ -110,7 +250,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 12,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
       "latitude": 48.904533,
@@ -185,7 +325,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 9,
       "number": "VP 2509-263",
       "title": "Znojmo, Nám. Svobody ",
       "latitude": 48.859125,
@@ -202,7 +342,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 8,
       "number": "PO 2509-172",
       "title": "Lanžhot, ulice náměstí a autobusové nádraží",
       "latitude": 48.724845,
@@ -218,7 +358,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 7,
       "number": "VP 2507-240",
       "title": "II/395 Dolní Kounice - Moravské Bránice",
       "latitude": 49.074316,
@@ -252,7 +392,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 6,
       "number": "2506 Moutnice, u fary",
       "title": "Moutnice, u fary - směr Nesvačilka",
       "latitude": 49.050604,
@@ -268,7 +408,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "number": "2505 Pohořelice, náměstí",
       "title": "Pohořelice, náměstí - směr Brno",
       "latitude": 48.980847,
@@ -345,7 +485,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
