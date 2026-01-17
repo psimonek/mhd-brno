@@ -70,6 +70,24 @@
       ]
     },
     {
+      "id": 36202,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Za Lužánkami",
+      "latitude": 49.209511,
+      "longitude": 16.609503,
+      "validFrom": "2026-01-17T14:00:00+01:00",
+      "validTo": "2026-08-31T23:59:59+02:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu stavebních prací je <strong>od 14:00 hod. v sobotu 17. ledna 2026 do ukončení prací</strong> (předpoklad do 31. srpna 2026) přeložena zastávka <strong>Za Lužánkami</strong>:<br />\n• Pro <strong>linku 67</strong> směr Avion Shopping Park přibližně o 140 metrů vzad do ulice Sportovní před výjezd z parkoviště.<br />\n• Pro <strong>linky 25</strong> a <strong>26</strong> směr Jírova / Štefánikova čtvrť ke středovému ostrůvku přibližně v úrovni stávající zastávky.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "25",
+        "26",
+        "67"
+      ]
+    },
+    {
       "id": 23,
       "number": "VP 2601-005",
       "title": "žel. trať. jedna kolej Skalice n.Svit. - Letovice",
