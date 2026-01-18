@@ -121,23 +121,6 @@
       ]
     },
     {
-      "id": 21,
-      "number": "VP 2601-003",
-      "title": "žel. trať Rakšice - Miroslav",
-      "latitude": 49.011857,
-      "longitude": 16.348000,
-      "validFrom": "2026-01-17T07:45:00+01:00",
-      "validTo": "2026-01-18T15:15:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky na lince<font color=\"#800000\"><strong> S41</strong></font> budou v úseku Rakšice – Miroslav nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle výlukového jízdního řádu linky xS41.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S41",
-        "xS41"
-      ]
-    },
-    {
       "id": 35951,
       "number": "V2601-003",
       "title": "Výluka autobusů v ulici Kaštanové",
