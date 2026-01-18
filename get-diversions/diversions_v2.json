@@ -104,23 +104,6 @@
       ]
     },
     {
-      "id": 22,
-      "number": "VP 2601-004",
-      "title": "žel. trať Brno-Královo Pole - Kuřim jedna kolej",
-      "latitude": 49.296584,
-      "longitude": 16.550775,
-      "validFrom": "2026-01-17T07:55:00+01:00",
-      "validTo": "2026-01-18T16:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati budou v úseku\u00A0Brno- Královo Pole – Tišnov\u00A0platit následující opatření:. Pro\u00A0linku<font color=\"#800000\"><strong> S3</strong></font>\u00A0platí výlukový jízdní řád. Vybrané\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0budou nahrazeny v úseku\u00A0Tišnov – Brno-Královo Pole\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu linky xS3.<br/><br/> Linka xS3 neobsluhuje zastávku Brno-Řečkovice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3"
-      ]
-    },
-    {
       "id": 35951,
       "number": "V2601-003",
       "title": "Výluka autobusů v ulici Kaštanové",
