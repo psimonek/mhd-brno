@@ -41,7 +41,7 @@
       "longitude": 17.229137,
       "validFrom": "2026-01-20T00:00:00+01:00",
       "validTo": "2026-01-30T23:55:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
       "privateTextHtml": null,
       "type": "V",
@@ -85,27 +85,6 @@
         "25",
         "26",
         "67"
-      ]
-    },
-    {
-      "id": 24,
-      "number": "VP 2601-001",
-      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
-      "latitude": 49.346375,
-      "longitude": 17.229137,
-      "validFrom": "2026-01-12T00:00:00+01:00",
-      "validTo": "2026-01-19T23:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky linky S71:Pojedou v\u00A0odchylných\u00A0časových polohách a\u00A0vybrané\u00A0vlaky v době\u00A0od 12.1.2026 do 15.1.2026\u00A0budou nahrazeny\u00A0NAD\u00A0podle výlukového jízdního řádu. Vlaky linky R12:Vybrané vlaky budou nahrazeny NAD dle výlukového jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R8",
-        "xR8",
-        "S71",
-        "xS71",
-        "R12",
-        "xR12"
       ]
     },
     {
