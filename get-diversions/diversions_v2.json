@@ -53,23 +53,6 @@
       ]
     },
     {
-      "id": 26,
-      "number": "VP 2601-006",
-      "title": "žel. trať Moravské Bránice - Moravský Krumlov",
-      "latitude": 49.053481,
-      "longitude": 16.348533,
-      "validFrom": "2026-01-19T08:30:00+01:00",
-      "validTo": "2026-01-20T15:50:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu\u00A0linky xS41.. Vlaky z/do Brna pojedou přímo do/z Ivančic, kde je umožněn přestup cestujících na/z NAD.. Autobusy NAD pojedou po několika odlišných trasách:trasa A\u00A0– vede ze stanice Ivančice přes Moravský Krumlov, nám. (mimo žel. stanici), Rakšice do Bohutic – Miroslavi a zpět.trasa B\u00A0–\u00A0vede ze železniční stanice Ivančice přes Mor. Krumlov u parku, poliklinika, Břízová, Jatky, Václavská, stezka, Mor. Krumlov žel.st. a zpět.. Přestup mezi autobusy NAD a autobusy linek<font color=\"#009240\"><strong> 441</strong></font>, <font color=\"#009240\"><strong> 442</strong></font>, <font color=\"#009240\"><strong> 443</strong></font>, <font color=\"#009240\"><strong> 444</strong></font> a <font color=\"#009240\"><strong>445</strong></font> ve směru z Brna je zajištěn na zastávce IDS JMK „Moravský Krumlov, u parku“.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S41",
-        "xS41"
-      ]
-    },
-    {
       "id": 36202,
       "number": "",
       "title": "Dočasné přeložení zastávky Za Lužánkami",
