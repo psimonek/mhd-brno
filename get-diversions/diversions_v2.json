@@ -1,6 +1,39 @@
 {
   "diversions": [
     {
+      "id": 36354,
+      "number": "V2601-005",
+      "title": "Omezení autobusů v ulici Jihlavské",
+      "latitude": 49.173007,
+      "longitude": 16.590337,
+      "validFrom": "2026-01-31T07:30:00+01:00",
+      "validTo": "2026-02-01T19:30:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu stavby horkovodu bude <strong>v sobotu 31. ledna 2026 a v neděli 1. února 2026 vždy od 7:30 do 19:30 hod.</strong> pro veškerou dopravu uzavřena část ulice Jihlavské podél Ústředního hřbitova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 40</strong> pojede v úseku <strong>Ústřední hřbitov – Stará nemocnice</strong> obousměrným odklonem ulicemi Vídeňskou, Bohunickou, Ukrajinskou / Čeňka Růžičky a Dlouhou.<br />\n• Neobslouží tak v obou směrech zastávku <strong>Krematorium</strong>.<br />\n• Na odklonové trase ve směru z centra obslouží navíc zastávky <strong>Traťová</strong>, <strong>Gruzínská </strong>(v ul. Ukrajinské), <strong>Ukrajinská </strong>a <strong>Uzbecká </strong>(v ul. Dlouhé), zastávku <strong>Ústřední hřbitov</strong> obslouží u nástupiště regionálních linek v ulici Vídeňské.<br />\n• Na odklonové trase ve směru do centra obslouží navíc zastávky <strong>Uzbecká </strong>(v ul Dlouhé), <strong>Běloruská</strong>, <strong>Vyhlídalova</strong>, <strong>Gruzínská </strong>(v ul. Lány), <strong>Za hřbitovem</strong>, <strong>Traťová </strong>a <strong>Bohunická</strong>, zastávku <strong>Ústřední hřbitov</strong> obslouží dvakrát (v ul. Vídeňské i pravidelnou v ul. Jihlavské).<br />\n<strong class=\"red\">• Odjezdy ze Studentské budou po dobu výluky konány o 9 minut dříve oproti pravidelnému jízdnímu řádu.</strong></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2601-005_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci Jízdní řády</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "40"
+      ]
+    },
+    {
+      "id": 36345,
+      "number": "V2601-004",
+      "title": "Omezení autobusů v ulici Charbulově",
+      "latitude": 49.187495,
+      "longitude": 16.633494,
+      "validFrom": "2026-01-31T06:00:00+01:00",
+      "validTo": "2026-01-31T22:30:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu demontáže jeřábu nebude <strong>v sobotu 31. ledna 2026 od 6:00 hod. do 22:30 hod.</strong> pro veškerou dopravu průjezdná ulice Charbulova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 49</strong> pojede v úseku mezi zastávkami <strong>Tržní – Škola Charbulova</strong> obousměrným odklonem ulicí Štolcovou.<br />\n• Zastávky <strong>Jiránkova </strong>a <strong>Psychiatrická nemocnice</strong> obslouží v přeložené poloze v ulici Štolcově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>noční autobusové linky N94</strong> s odjezdem v <strong>5:58 hod.</strong> ze zastávky Modřice, Olympia a v <strong>6:30 hod.</strong> ze zastávky Modřice, smyčka pojedou v úseku mezi zastávkami <strong>Mírová – Tržní </strong>odklonem ulicemi Černovickou a Ostravskou.<br />\n• Neobslouží tak zastávky v úseku <strong>Faměrovo náměstí – Jiránkova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>noční autobusové linky N94</strong> s odjezdy od hlavního nádraží v <strong>6:00</strong>, <strong>6:30 </strong>a<strong> 7:00 hod.</strong> pojedou v úseku mezi zastávkami <strong>Tržní – Škola Charbulova</strong> odklonem ulicí Štolcovou.<br />\n• Zastávky <strong>Jiránkova </strong>a <strong>Psychiatrická nemocnice</strong> obslouží v přeložené poloze v ulici Štolcově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Pravidelný posilový spoj <strong>noční autobusové linky N94</strong> s odjezdem z Horních Heršpic v <strong>6:06 hod.</strong> pojede v úseku <strong>Škola Charbulova – Tržní </strong>odklonem ulicí Štolcovou a dále po pravidelné trase.<br />\n• Zastávky <strong>Psychiatrická nemocnice </strong>a <strong>Jiránkova</strong> obslouží v přeložené poloze v ulici Štolcově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu v neobsluhovaném úseku zajistí mimořádné spoje <strong>linky N94</strong> v trase <strong>Mariánské náměstí » Černovická » Mírová » Hájecká » Faměrovo náměstí » Škola Charbulova » Psychiatrické nemocnice » Jiránkova » Tržní » Masná » Vlhká » Hlavní nádraží</strong> s odjezdem z Mariánského náměstí v <strong>6:13 a 6:43 hod.</strong><br />\n• Zastávky <strong>Jiránkova </strong>a <strong>Psychiatrická nemocnice</strong> obslouží v přeložené poloze v ulici Štolcově.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2601-004_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<p> </p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "49",
+        "N94"
+      ]
+    },
+    {
       "id": 28,
       "number": "VP 2601-007",
       "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
