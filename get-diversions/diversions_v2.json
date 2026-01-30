@@ -41,7 +41,7 @@
       "longitude": 16.61165,
       "validFrom": "2026-01-30T00:00:00+01:00",
       "validTo": "2026-01-30T23:59:59+01:00",
-      "isValid": true,
+      "isValid": false,
       "publicTextHtml": "<p><strong>Dne 30. ledna 2026</strong> (pololetní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Autobusové linky 66, š85, š86 a š88 budou mimo provoz.</p>\n\n<p> </p>\n\n<p><strong>Od 30. ledna 2026</strong> navíc dochází k drobným změnám jízdních řádů <strong>linek 40 a x41</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> U spojů regionálních linek doporučujeme věnovat pozornost poznámkám v jízdních řádech.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek jsou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -104,25 +104,6 @@
         "š85",
         "š86",
         "š88"
-      ]
-    },
-    {
-      "id": 28,
-      "number": "VP 2601-007",
-      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
-      "latitude": 49.346375,
-      "longitude": 17.229137,
-      "validFrom": "2026-01-20T00:00:00+01:00",
-      "validTo": "2026-01-30T23:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R8",
-        "xR8",
-        "R12",
-        "xR12"
       ]
     },
     {
