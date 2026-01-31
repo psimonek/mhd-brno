@@ -1,6 +1,89 @@
 {
   "diversions": [
     {
+      "id": 33,
+      "number": "VP 2602-013",
+      "title": "žel. trať Brno-Královo Pole - Kuřim jedna kolej",
+      "latitude": 49.296584,
+      "longitude": 16.550775,
+      "validFrom": "2026-02-07T07:50:00+01:00",
+      "validTo": "2026-02-08T16:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati budou v úseku\u00A0Brno- Královo Pole – Tišnov\u00A0platit následující opatření:. Pro\u00A0linku<font color=\"#800000\"><strong> S3</strong></font>\u00A0platí výlukový jízdní řád. Vybrané\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0budou nahrazeny v úseku\u00A0Tišnov – Brno-Královo Pole\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu linky xS3.<br/><br/> Linka xS3 neobsluhuje zastávku Brno-Řečkovice. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3",
+        "xS3"
+      ]
+    },
+    {
+      "id": 34,
+      "number": "2602 Doubravník, Štěpnice",
+      "title": "Doubravník, Štěpnice (směr Tišnov)",
+      "latitude": 49.419000,
+      "longitude": 16.351956,
+      "validFrom": "2026-02-02T08:00:00+01:00",
+      "validTo": "2026-02-02T12:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávka\u00A0Doubravník, Štěpnice\u00A0(ve směru do Tišnova) je pro linku\u00A0334\u00A0přesunuta přibližně o\u00A010 metrů zpět. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "334"
+      ]
+    },
+    {
+      "id": 31,
+      "number": "VP 2602-012",
+      "title": "žel. trať Břeclav - Mikulov na Moravě",
+      "latitude": 48.754082,
+      "longitude": 16.722937,
+      "validFrom": "2026-02-02T08:00:00+01:00",
+      "validTo": "2026-02-05T13:25:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky v úseku\u00A0Břeclav\u00A0 – Mikulov na Moravě\u00A0budou nahrazeny autobusy náhradní dopravy (NAD)\u00A0jedoucí podle výlukového jízdního řádu linky xS8.",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S8",
+        "xS8"
+      ]
+    },
+    {
+      "id": 27,
+      "number": "2602 Němčičky",
+      "title": "Němčičky směr Medlov",
+      "latitude": 49.050665,
+      "longitude": 16.501763,
+      "validFrom": "2026-02-02T07:50:00+01:00",
+      "validTo": "2026-02-06T17:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu\u00A0výkopových prací\u00A0je zastávka Němčičky\u00A0ve směru do Medlova dočasně přesunuta vpřed o cca 95 metrů k objektu č. p. 121. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "513"
+      ]
+    },
+    {
+      "id": 24,
+      "number": "PO 2602-003",
+      "title": "Dobšice, silnice II/412, most ev.č. 412-004",
+      "latitude": 48.851444,
+      "longitude": 16.089692,
+      "validFrom": "2026-02-02T00:00:00+01:00",
+      "validTo": "2026-10-31T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 108</strong></font>\u00A0- jede odklonovou trasou mezi okružní křižovatkou silnic I/53 x II/408 až zastávkou Znojmo, aut. nádr. v trase buď přes Suchohrdly u Znojma nebo přes ul. Vídeňskou ve Znojmě.<br/><br/> Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0-\u00A0 jede odklonovou trasou mezi okružní křižovatkou silnic I/53 x II/408 až zastávkou Znojmo, Suchohrdelská, hřbitov v trase buď přes Suchohrdly u Znojma nebo přes Dobšice, ul. Znojemskou, bez vynechání zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "108",
+        "822"
+      ]
+    },
+    {
       "id": 36354,
       "number": "V2601-005",
       "title": "Omezení autobusů v ulici Jihlavské",
@@ -31,6 +114,27 @@
       "affectedLines": [
         "49",
         "N94"
+      ]
+    },
+    {
+      "id": 26,
+      "number": "PO 2601-002",
+      "title": "Pohořelice, náměstí",
+      "latitude": 48.980870,
+      "longitude": 16.522290,
+      "validFrom": "2026-01-31T00:00:00+01:00",
+      "validTo": "2026-02-01T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 104</strong></font>, <font color=\"#009240\"><strong> 105</strong></font>, <font color=\"#009240\"><strong> 108</strong></font> (ve směru Brno)\u00A0- všechny spoje budou dočasně po dobu uzavírky odjíždět v Pohořelicích, nám. od označníku číslo 3. Označník číslo 1 bude dočasně zrušen po dobu uzavírky ul.\u00A0 Lidické v Pohořelicích. V opačném směru od Brna ve směru Znojmo, Mikulov a Laa odjíždějí všechny spoje bez omezení z označníku číslo 2.<br/><br/> Linky<font color=\"#009240\"><strong> 164</strong></font>, <font color=\"#009240\"><strong> 165</strong></font>\u00A0- všechny spoje odjíždějí z Pohořelic, nám. dočasně po dobu uzavírky od označníku číslo 2. Pro otáčení v Pohořelicích mezi spoji využijí ulic Hybešova, Dlouhá a Lidická. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "104",
+        "105",
+        "108",
+        "164",
+        "165",
+        "504"
       ]
     },
     {
@@ -107,6 +211,23 @@
       ]
     },
     {
+      "id": 21,
+      "number": "VP 2601-202",
+      "title": "Drnovice u Lysic, most 3674-2",
+      "latitude": 49.469527,
+      "longitude": 16.543865,
+      "validFrom": "2026-01-26T00:00:00+01:00",
+      "validTo": "2026-09-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy mostu v obci Drnovice bude zcela vyloučen provoz autobusů v úseku Voděrady, náměstí - Drnovice. Autobusová linka<font color=\"#009240\"><strong> 257</strong></font> pojede v úseku Voděrady, náměstí - Lysice, pohostinství\u00A0obousměrným odklonem\u00A0přes zastávky Krhov, Pohodlí a Lysice, výzkum.\u00A0Vynechá zastávky Voděrady, horní zastávka, Drnovice, Drnovice, horní zastávka a Lysice, škola. Obsluha zastávky Lysice, škola točna\u00A0bude zajištěna linkou<font color=\"#009240\"><strong> 257</strong></font> pouze při jízdě ve směru Lysice - Kozárov / Olešnice. Na linku<font color=\"#009240\"><strong> 257</strong></font> bude v exponovaných časech v PRACOVNÍ DNY navazovat linka<font color=\"#009240\"><strong> 245</strong></font> v zastávce Lysice, pohostinství směr do / z Drnovic. Náhradní dopravu zajistí výlukové spoje linky<font color=\"#009240\"><strong> 245</strong></font> v úseku Lysice, pohostinství - Drnovice a pravidelné spoje linky<font color=\"#009240\"><strong> 301</strong></font> do zastávek Drnovice, rozcestí 0,5 a Drnovice, rozcestí Kunice. . . ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "245",
+        "257"
+      ]
+    },
+    {
       "id": 36202,
       "number": "",
       "title": "Dočasné přeložení zastávky Za Lužánkami",
@@ -125,7 +246,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 14,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
@@ -158,7 +279,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 13,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
@@ -175,7 +296,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 10,
       "number": "2512 - Velké Pavlovice, gymnázium",
       "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
       "latitude": 48.904533,
