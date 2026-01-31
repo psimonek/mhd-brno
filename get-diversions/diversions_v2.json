@@ -279,23 +279,6 @@
       ]
     },
     {
-      "id": 10,
-      "number": "2512 - Velké Pavlovice, gymnázium",
-      "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
-      "latitude": 48.904533,
-      "longitude": 16.816975,
-      "validFrom": "2025-12-03T00:00:00+01:00",
-      "validTo": "2026-01-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Velké Pavlovice, gymnázium bude přesunuta na souběžnou komunikaci do parkovacího zálivu naproti kostelu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "542",
-        "551"
-      ]
-    },
-    {
       "id": 34971,
       "number": "V2511-136",
       "title": "Omezení provozu autobusů v České a Lelekovicích",
