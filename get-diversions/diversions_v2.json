@@ -74,34 +74,13 @@
       "longitude": 16.089692,
       "validFrom": "2026-02-02T00:00:00+01:00",
       "validTo": "2026-10-31T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 108</strong></font>\u00A0- jede odklonovou trasou mezi okružní křižovatkou silnic I/53 x II/408 až zastávkou Znojmo, aut. nádr. v trase buď přes Suchohrdly u Znojma nebo přes ul. Vídeňskou ve Znojmě.<br/><br/> Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0-\u00A0 jede odklonovou trasou mezi okružní křižovatkou silnic I/53 x II/408 až zastávkou Znojmo, Suchohrdelská, hřbitov v trase buď přes Suchohrdly u Znojma nebo přes Dobšice, ul. Znojemskou, bez vynechání zastávek. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
         "108",
         "822"
-      ]
-    },
-    {
-      "id": 26,
-      "number": "PO 2601-002",
-      "title": "Pohořelice, náměstí",
-      "latitude": 48.980870,
-      "longitude": 16.522290,
-      "validFrom": "2026-01-31T00:00:00+01:00",
-      "validTo": "2026-02-01T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 104</strong></font>, <font color=\"#009240\"><strong> 105</strong></font>, <font color=\"#009240\"><strong> 108</strong></font> (ve směru Brno)\u00A0- všechny spoje budou dočasně po dobu uzavírky odjíždět v Pohořelicích, nám. od označníku číslo 3. Označník číslo 1 bude dočasně zrušen po dobu uzavírky ul.\u00A0 Lidické v Pohořelicích. V opačném směru od Brna ve směru Znojmo, Mikulov a Laa odjíždějí všechny spoje bez omezení z označníku číslo 2.<br/><br/> Linky<font color=\"#009240\"><strong> 164</strong></font>, <font color=\"#009240\"><strong> 165</strong></font>\u00A0- všechny spoje odjíždějí z Pohořelic, nám. dočasně po dobu uzavírky od označníku číslo 2. Pro otáčení v Pohořelicích mezi spoji využijí ulic Hybešova, Dlouhá a Lidická. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "104",
-        "105",
-        "108",
-        "164",
-        "165",
-        "504"
       ]
     },
     {
