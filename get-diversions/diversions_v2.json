@@ -18,22 +18,6 @@
       ]
     },
     {
-      "id": 34,
-      "number": "2602 Doubravník, Štěpnice",
-      "title": "Doubravník, Štěpnice (směr Tišnov)",
-      "latitude": 49.419000,
-      "longitude": 16.351956,
-      "validFrom": "2026-02-02T08:00:00+01:00",
-      "validTo": "2026-02-02T12:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Doubravník, Štěpnice\u00A0(ve směru do Tišnova) je pro linku\u00A0334\u00A0přesunuta přibližně o\u00A010 metrů zpět. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "334"
-      ]
-    },
-    {
       "id": 31,
       "number": "VP 2602-012",
       "title": "žel. trať Břeclav - Mikulov na Moravě",
