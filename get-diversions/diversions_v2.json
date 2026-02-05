@@ -34,23 +34,6 @@
       ]
     },
     {
-      "id": 31,
-      "number": "VP 2602-012",
-      "title": "žel. trať Břeclav - Mikulov na Moravě",
-      "latitude": 48.754082,
-      "longitude": 16.722937,
-      "validFrom": "2026-02-02T08:00:00+01:00",
-      "validTo": "2026-02-05T13:25:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky v úseku\u00A0Břeclav\u00A0 – Mikulov na Moravě\u00A0budou nahrazeny autobusy náhradní dopravy (NAD)\u00A0jedoucí podle výlukového jízdního řádu linky xS8.",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S8",
-        "xS8"
-      ]
-    },
-    {
       "id": 27,
       "number": "2602 Němčičky",
       "title": "Němčičky směr Medlov",
