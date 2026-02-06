@@ -34,22 +34,6 @@
       ]
     },
     {
-      "id": 27,
-      "number": "2602 Němčičky",
-      "title": "Němčičky směr Medlov",
-      "latitude": 49.050665,
-      "longitude": 16.501763,
-      "validFrom": "2026-02-02T07:50:00+01:00",
-      "validTo": "2026-02-06T17:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0výkopových prací\u00A0je zastávka Němčičky\u00A0ve směru do Medlova dočasně přesunuta vpřed o cca 95 metrů k objektu č. p. 121. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "513"
-      ]
-    },
-    {
       "id": 24,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
