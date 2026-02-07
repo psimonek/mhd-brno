@@ -82,22 +82,6 @@
       ]
     },
     {
-      "id": 36591,
-      "number": "Z2602-011",
-      "title": "Doprava na hrad Špilberk",
-      "latitude": 49.195268,
-      "longitude": 16.598121,
-      "validFrom": "2026-02-07T10:30:00+01:00",
-      "validTo": "2026-02-07T17:30:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> V souvislosti s konáním kulturní akce Masopust na hradě Špilberk bude <strong>v sobotu 7. února 2026 od 10:30 do 17:30</strong> zajištěn provoz sezónní minibusové linky 80 v trase Česká – Hrad Špilberk.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řád bude k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "D",
-      "affectedLines": [
-        "80"
-      ]
-    },
-    {
       "id": 32,
       "number": "VP 2602-013",
       "title": "žel. trať Brno-Královo Pole - Kuřim jedna kolej",
