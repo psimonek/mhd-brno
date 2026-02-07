@@ -1,6 +1,87 @@
 {
   "diversions": [
     {
+      "id": 35,
+      "number": "VP 2602-003",
+      "title": "Jedovnice - Křtiny",
+      "latitude": 49.313149,
+      "longitude": 16.746855,
+      "validFrom": "2026-02-14T00:00:00+01:00",
+      "validTo": "2026-02-15T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu stavebních prací na území městysu Křtiny ve směru na Jedovnice bude linka<font color=\"#009240\"><strong> 201</strong></font> o víkendu 14. a 15.02.2026 vedena v úseku Křtiny – Jedovnice po objízdné trase kolem Býčí skály přes Josefov, Olomučany a Rudici. Na odklonové trase obslouží zastávku Jedovnice, chaloupky (náhrada za zastávku Jedovnice, Újezd) a zastávku Rudice (zajištění přestupů cestujících v relaci Brno-Blansko). Žádné další zastávky na trase odklonu v úseku Rudice a Křtiny, náměstí linka<font color=\"#009240\"><strong> 201</strong></font> neobsluhuje. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "VP 2602-015",
+      "title": "žel. trať Havlíčkův Brod - Žďár nad Sázavou",
+      "latitude": 49.296584,
+      "longitude": 16.550775,
+      "validFrom": "2026-02-11T07:45:00+01:00",
+      "validTo": "2026-02-17T20:55:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu eliminace zpoždění vyvolaného nutností náhradní autobusové dopravy bude na lince<font color=\"#800000\"><strong> R9</strong></font> platit výlukový jízdní řád. Vlaky\u00A0R9/990\u00A0a\u00A0R9/989\u00A0v úseku Brno hl.n. - Tišnov\u00A0nepojedou.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "R9"
+      ]
+    },
+    {
+      "id": 37,
+      "number": "PO 2602-004",
+      "title": "Kuřim, Záhoří",
+      "latitude": 49.306987,
+      "longitude": 16.545346,
+      "validFrom": "2026-02-09T12:00:00+01:00",
+      "validTo": "2026-02-09T15:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu umístění jeřábu v Kuřimi, Záhoří v ulici Pazourkové dojde v pondělí 09.02.2026 (od 12:00 do 15:00 hod.) k přesunu zastávky Kuřim, Záhoří do ulice Klínová. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "304"
+      ]
+    },
+    {
+      "id": 33,
+      "number": "VP 2602-014",
+      "title": "žel. trať Mikulov na Moravě – Hrušovany n.Jev.-Šanov",
+      "latitude": 48.811725,
+      "longitude": 16.436276,
+      "validFrom": "2026-02-09T08:00:00+01:00",
+      "validTo": "2026-02-12T14:35:00+01:00",
+      "isValid": false,
+      "publicTextHtml": " Vlaky v\u00A0úseku\u00A0Břeclav\u00A0\u00A0– Hrušovany n.Jev.-Šanov\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle výlukového jízdního řádu linky\u00A0xS8. \u00A0V úseku\u00A0Břeclav -\u00A0Mikulov na Moravě\u00A0jsou spoje vedeny souběžně vlaky bez návaznosti na autobusy náhradní dopravy. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S8",
+        "xS8"
+      ]
+    },
+    {
+      "id": 38,
+      "number": "PO 2602-005",
+      "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
+      "latitude": 48.922926,
+      "longitude": 15.873887,
+      "validFrom": "2026-02-09T00:00:00+01:00",
+      "validTo": "2026-05-08T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 830</strong></font>\u00A0- veškeré spoje v obou směrech nebudou až do odvolání obsluhovat zastávku Šumná, žel. st. Otáčet se budou v obci Šumná u obecního úřadu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "830"
+      ]
+    },
+    {
       "id": 36591,
       "number": "Z2602-011",
       "title": "Doprava na hrad Špilberk",
@@ -17,7 +98,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 32,
       "number": "VP 2602-013",
       "title": "žel. trať Brno-Královo Pole - Kuřim jedna kolej",
       "latitude": 49.296584,
@@ -34,7 +115,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 23,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
       "latitude": 48.851444,
@@ -51,7 +132,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 20,
       "number": "VP 2601-202",
       "title": "Drnovice u Lysic, most 3674-2",
       "latitude": 49.469527,
@@ -86,7 +167,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
@@ -119,7 +200,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
