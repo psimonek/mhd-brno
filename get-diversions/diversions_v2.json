@@ -82,23 +82,6 @@
       ]
     },
     {
-      "id": 32,
-      "number": "VP 2602-013",
-      "title": "žel. trať Brno-Královo Pole - Kuřim jedna kolej",
-      "latitude": 49.296584,
-      "longitude": 16.550775,
-      "validFrom": "2026-02-07T07:50:00+01:00",
-      "validTo": "2026-02-08T16:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu nedostatečné kapacity trati budou v úseku\u00A0Brno- Královo Pole – Tišnov\u00A0platit následující opatření:. Pro\u00A0linku<font color=\"#800000\"><strong> S3</strong></font>\u00A0platí výlukový jízdní řád. Vybrané\u00A0vlaky\u00A0linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0budou nahrazeny v úseku\u00A0Tišnov – Brno-Královo Pole\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu linky xS3.<br/><br/> Linka xS3 neobsluhuje zastávku Brno-Řečkovice. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3"
-      ]
-    },
-    {
       "id": 23,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
@@ -419,7 +402,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
