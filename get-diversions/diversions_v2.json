@@ -73,7 +73,7 @@
       "longitude": 15.873887,
       "validFrom": "2026-02-09T00:00:00+01:00",
       "validTo": "2026-05-08T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 830</strong></font>\u00A0- veškeré spoje v obou směrech nebudou až do odvolání obsluhovat zastávku Šumná, žel. st. Otáčet se budou v obci Šumná u obecního úřadu. ",
       "privateTextHtml": null,
       "type": "V",
