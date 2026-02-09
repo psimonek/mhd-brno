@@ -33,22 +33,6 @@
       ]
     },
     {
-      "id": 37,
-      "number": "PO 2602-004",
-      "title": "Kuřim, Záhoří",
-      "latitude": 49.306987,
-      "longitude": 16.545346,
-      "validFrom": "2026-02-09T12:00:00+01:00",
-      "validTo": "2026-02-09T15:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu umístění jeřábu v Kuřimi, Záhoří v ulici Pazourkové dojde v pondělí 09.02.2026 (od 12:00 do 15:00 hod.) k přesunu zastávky Kuřim, Záhoří do ulice Klínová. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "304"
-      ]
-    },
-    {
       "id": 33,
       "number": "VP 2602-014",
       "title": "žel. trať Mikulov na Moravě – Hrušovany n.Jev.-Šanov",
