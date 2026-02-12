@@ -107,23 +107,6 @@
       ]
     },
     {
-      "id": 33,
-      "number": "VP 2602-014",
-      "title": "žel. trať Mikulov na Moravě – Hrušovany n.Jev.-Šanov",
-      "latitude": 48.811725,
-      "longitude": 16.436276,
-      "validFrom": "2026-02-09T08:00:00+01:00",
-      "validTo": "2026-02-12T14:35:00+01:00",
-      "isValid": true,
-      "publicTextHtml": " Vlaky v\u00A0úseku\u00A0Břeclav\u00A0\u00A0– Hrušovany n.Jev.-Šanov\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle výlukového jízdního řádu linky\u00A0xS8. \u00A0V úseku\u00A0Břeclav -\u00A0Mikulov na Moravě\u00A0jsou spoje vedeny souběžně vlaky bez návaznosti na autobusy náhradní dopravy. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S8",
-        "xS8"
-      ]
-    },
-    {
       "id": 38,
       "number": "PO 2602-005",
       "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
