@@ -82,7 +82,7 @@
       "longitude": 16.746855,
       "validFrom": "2026-02-14T00:00:00+01:00",
       "validTo": "2026-02-15T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu stavebních prací na území městysu Křtiny ve směru na Jedovnice bude linka<font color=\"#009240\"><strong> 201</strong></font> o víkendu 14. a 15.02.2026 vedena v úseku Křtiny – Jedovnice po objízdné trase kolem Býčí skály přes Josefov, Olomučany a Rudici. Na odklonové trase obslouží zastávku Jedovnice, chaloupky (náhrada za zastávku Jedovnice, Újezd) a zastávku Rudice (zajištění přestupů cestujících v relaci Brno-Blansko). Žádné další zastávky na trase odklonu v úseku Rudice a Křtiny, náměstí linka<font color=\"#009240\"><strong> 201</strong></font> neobsluhuje. ",
       "privateTextHtml": null,
       "type": "V",
@@ -443,7 +443,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
