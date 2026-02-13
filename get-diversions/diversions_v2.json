@@ -1,83 +1,181 @@
 {
   "diversions": [
     {
-      "id": 35987,
-      "number": "V2601-003",
-      "title": "Výluka autobusů v ulici Kaštanové",
-      "latitude": 49.156542,
-      "longitude": 16.646787,
-      "validFrom": "2026-01-16T23:15:00+01:00",
-      "validTo": "2026-01-19T04:15:00+01:00",
+      "id": 36699,
+      "number": "",
+      "title": "Provoz MHD o jarních prázdninách",
+      "latitude": 49.191943,
+      "longitude": 16.612111,
+      "validFrom": "2026-02-16T00:00:00+01:00",
+      "validTo": "2026-02-20T23:59:59+01:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu stavebních prací na dálničním mostě je pravděpodobně <strong>od 23:15 hod. v pátek 16. ledna 2026 do 4:15 hod. v pondělí 19. ledna 2026</strong> předpokládána uzavírka ulice Kaštanová pro veškerou dopravu v místě mimoúrovňového křížení s dálnicí D1.</p>\n\n<p>Omezení se dotkne <strong>linek 40, 48, 64, 74 a N95</strong>, které mezi Komárovem a Tuřany pojedou odklonem po dálnici D2 a přes Chrlice a Holásky, a <strong>linky 109</strong>, která pojede odklonem přes Slatinu. Linky 40, 64 a N95 zajistí závlekem v omezeném rozsahu obsluhu zastávky Ráječek.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "publicTextHtml": "<p><strong>Ve dnech </strong><strong>16. – 20. února 2026</strong> (jarní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Autobusové linky 66, š85, š86 a š88 budou mimo provoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> U spojů regionálních linek doporučujeme věnovat pozornost poznámkám v jízdních řádech.</p>\n",
       "privateTextHtml": null,
-      "type": "V",
+      "type": "D",
       "affectedLines": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "12",
+        "25",
+        "26",
+        "27",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
         "40",
-        "48",
-        "64",
-        "74",
-        "N95",
-        "109"
-      ]
-    },
-    {
-      "id": 38,
-      "number": "VP 2601-002",
-      "title": "žel. trať. Znojmo - Šumná",
-      "latitude": 48.923402,
-      "longitude": 15.896015,
-      "validFrom": "2026-01-12T07:35:00+01:00",
-      "validTo": "2026-01-15T15:35:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S81</strong></font> budou v úseku\u00A0Znojmo – Šumná\u00A0nahrazeny autobusy náhradní\u00A0dopravy (NAD) jedoucí jako linka xS81.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S81",
-        "xS81"
-      ]
-    },
-    {
-      "id": 37,
-      "number": "VP 2601-001",
-      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
-      "latitude": 49.346375,
-      "longitude": 17.229137,
-      "validFrom": "2026-01-12T00:00:00+01:00",
-      "validTo": "2026-01-19T23:55:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky linky S71:Pojedou v\u00A0odchylných\u00A0časových polohách a\u00A0vybrané\u00A0vlaky v době\u00A0od 12.1.2026 do 15.1.2026\u00A0budou nahrazeny\u00A0NAD\u00A0podle výlukového jízdního řádu. Vlaky linky R12:Vybrané vlaky budou nahrazeny NAD dle výlukového jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R8",
-        "xR8",
-        "S71",
-        "xS71",
-        "R12",
-        "xR12"
-      ]
-    },
-    {
-      "id": 35953,
-      "number": "V2601-002",
-      "title": "Omezení autobusů do Avion Shopping Parku",
-      "latitude": 49.158176,
-      "longitude": 16.627931,
-      "validFrom": "2026-01-09T20:00:00+01:00",
-      "validTo": "2026-01-11T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu demoličních prací v místě mimoúrovňového křížení dálnice D1 s D2 nebude <strong>od 20:00 hod. v pátek 9. ledna 2026 do ukončení provozu v neděli 11. ledna 2026</strong> průjezdná komunikace poblíž nákupního komplexu Avion Shopping Park.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 67</strong> pojede od zastávky<strong> Hněvkovského</strong> odklonem ulicemi Sokolovou, Kšírovou a Havránkovou do smyčky <strong>Přízřenice</strong>.<br />\n• Neobslouží tak v obou směrech zastávky <strong>Skandinávská</strong>, <strong>Ikea</strong> a <strong>Avion Shopping Park</strong>.<br />\n• Na odklonové trase obslouží v obou směrech zastávky <strong>Záhumenice,</strong> <strong>Havránkova</strong>, <strong>Dolní Heršpice</strong>, <strong>Malá</strong>, <strong>Přízřenice</strong> a <strong>Přízřenice, smyčka</strong>.<br />\n• Poslední odjezdy ze zastávky <strong>Hněvkovského </strong>do Avion Shopping Parku v pátek 9. ledna 2026 budou v časech <strong>19:13</strong>, <strong>19:33</strong> a <strong>19:53 hod.</strong>, z <strong>Avion Shopping Parku</strong> v časech <strong>20:02</strong>, <strong>20:22</strong> a <strong>20:42 hod.</strong><br />\n• Odjezdy ze zastávky Přízřenice, smyčka budou vykonávány o 1 minutu dříve než pravidelné odjezdy z Avion Shopping Parku, ze zastávky Hněvkovského spoje pojedou již dle jízdního řádu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> V souvislosti s ukončením linky 67 ve smyčce Přízřenice budou <strong>během víkendu 10. a 11. ledna 2025</strong> všechny spoje <strong>linky 49</strong> (s výjimkou prvního odjezdu z Přízřenic v 9:18 hod. a posledního spoje do Přízřenic ve 20:03 hod. z Hlavního nádraží) běžně ukončené ve smyčce Přízřenice prodlouženy do zastávky <strong>Modřice, Olympia</strong>.<br />\n• Zastávka <strong>Přízřenice, smyčka</strong> nebude během daného víkendu linkou 49 obsluhována (s výjimkou výše uvedených spojů).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2601-002_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
+        "41",
+        "x41",
+        "42",
+        "44",
+        "46",
+        "47",
         "49",
-        "67"
+        "50",
+        "E50",
+        "52",
+        "54",
+        "55",
+        "E56",
+        "57",
+        "58",
+        "62",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "72",
+        "75",
+        "E75",
+        "x75",
+        "E76",
+        "77",
+        "78",
+        "84",
+        "š85",
+        "š86",
+        "š88"
+      ]
+    },
+    {
+      "id": 35,
+      "number": "VP 2602-003",
+      "title": "Jedovnice - Křtiny",
+      "latitude": 49.313149,
+      "longitude": 16.746855,
+      "validFrom": "2026-02-14T00:00:00+01:00",
+      "validTo": "2026-02-15T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu stavebních prací na území městysu Křtiny ve směru na Jedovnice bude linka<font color=\"#009240\"><strong> 201</strong></font> o víkendu 14. a 15.02.2026 vedena v úseku Křtiny – Jedovnice po objízdné trase kolem Býčí skály přes Josefov, Olomučany a Rudici. Na odklonové trase obslouží zastávku Jedovnice, chaloupky (náhrada za zastávku Jedovnice, Újezd) a zastávku Rudice (zajištění přestupů cestujících v relaci Brno-Blansko). Žádné další zastávky na trase odklonu v úseku Rudice a Křtiny, náměstí linka<font color=\"#009240\"><strong> 201</strong></font> neobsluhuje. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "201"
       ]
     },
     {
       "id": 36,
+      "number": "VP 2602-015",
+      "title": "žel. trať Havlíčkův Brod - Žďár nad Sázavou",
+      "latitude": 49.296584,
+      "longitude": 16.550775,
+      "validFrom": "2026-02-11T07:45:00+01:00",
+      "validTo": "2026-02-17T20:55:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu eliminace zpoždění vyvolaného nutností náhradní autobusové dopravy bude na lince<font color=\"#800000\"><strong> R9</strong></font> platit výlukový jízdní řád. Vlaky\u00A0R9/990\u00A0a\u00A0R9/989\u00A0v úseku Brno hl.n. - Tišnov\u00A0nepojedou.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "R9"
+      ]
+    },
+    {
+      "id": 38,
+      "number": "PO 2602-005",
+      "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
+      "latitude": 48.922926,
+      "longitude": 15.873887,
+      "validFrom": "2026-02-09T00:00:00+01:00",
+      "validTo": "2026-05-08T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 830</strong></font>\u00A0- veškeré spoje v obou směrech nebudou až do odvolání obsluhovat zastávku Šumná, žel. st. Otáčet se budou v obci Šumná u obecního úřadu. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "830"
+      ]
+    },
+    {
+      "id": 23,
+      "number": "PO 2602-003",
+      "title": "Dobšice, silnice II/412, most ev.č. 412-004",
+      "latitude": 48.851444,
+      "longitude": 16.089692,
+      "validFrom": "2026-02-02T00:00:00+01:00",
+      "validTo": "2026-10-31T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 108</strong></font>\u00A0- jede odklonovou trasou mezi okružní křižovatkou silnic I/53 x II/408 až zastávkou Znojmo, aut. nádr. v trase buď přes Suchohrdly u Znojma nebo přes ul. Vídeňskou ve Znojmě.<br/><br/> Linka<font color=\"#009240\"><strong> 822</strong></font>\u00A0-\u00A0 jede odklonovou trasou mezi okružní křižovatkou silnic I/53 x II/408 až zastávkou Znojmo, Suchohrdelská, hřbitov v trase buď přes Suchohrdly u Znojma nebo přes Dobšice, ul. Znojemskou, bez vynechání zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "108",
+        "822"
+      ]
+    },
+    {
+      "id": 20,
+      "number": "VP 2601-202",
+      "title": "Drnovice u Lysic, most 3674-2",
+      "latitude": 49.469527,
+      "longitude": 16.543865,
+      "validFrom": "2026-01-26T00:00:00+01:00",
+      "validTo": "2026-09-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu opravy mostu v obci Drnovice bude zcela vyloučen provoz autobusů v úseku Voděrady, náměstí - Drnovice. Autobusová linka<font color=\"#009240\"><strong> 257</strong></font> pojede v úseku Voděrady, náměstí - Lysice, pohostinství\u00A0obousměrným odklonem\u00A0přes zastávky Krhov, Pohodlí a Lysice, výzkum.\u00A0Vynechá zastávky Voděrady, horní zastávka, Drnovice, Drnovice, horní zastávka a Lysice, škola. Obsluha zastávky Lysice, škola točna\u00A0bude zajištěna linkou<font color=\"#009240\"><strong> 257</strong></font> pouze při jízdě ve směru Lysice - Kozárov / Olešnice. Na linku<font color=\"#009240\"><strong> 257</strong></font> bude v exponovaných časech v PRACOVNÍ DNY navazovat linka<font color=\"#009240\"><strong> 245</strong></font> v zastávce Lysice, pohostinství směr do / z Drnovic. Náhradní dopravu zajistí výlukové spoje linky<font color=\"#009240\"><strong> 245</strong></font> v úseku Lysice, pohostinství - Drnovice a pravidelné spoje linky<font color=\"#009240\"><strong> 301</strong></font> do zastávek Drnovice, rozcestí 0,5 a Drnovice, rozcestí Kunice. . . ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "245",
+        "257"
+      ]
+    },
+    {
+      "id": 36202,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Za Lužánkami",
+      "latitude": 49.209511,
+      "longitude": 16.609503,
+      "validFrom": "2026-01-17T14:00:00+01:00",
+      "validTo": "2026-08-31T23:59:59+02:00",
+      "isValid": true,
+      "publicTextHtml": "<p>Z důvodu stavebních prací je <strong>od 14:00 hod. v sobotu 17. ledna 2026 do ukončení prací</strong> (předpoklad do 31. srpna 2026) přeložena zastávka <strong>Za Lužánkami</strong>:<br />\n• Pro <strong>linku 67</strong> směr Avion Shopping Park přibližně o 140 metrů vzad do ulice Sportovní před výjezd z parkoviště.<br />\n• Pro <strong>linky 25</strong> a <strong>26</strong> směr Jírova / Štefánikova čtvrť ke středovému ostrůvku přibližně v úrovni stávající zastávky.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "25",
+        "26",
+        "67"
+      ]
+    },
+    {
+      "id": 13,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
@@ -110,7 +208,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 12,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
@@ -124,40 +222,6 @@
       "affectedLines": [
         "802",
         "806"
-      ]
-    },
-    {
-      "id": 29,
-      "number": "VP 2512-114",
-      "title": "žel. trať. Přerov - Němčice nad Hanou(N)",
-      "latitude": 49.346375,
-      "longitude": 17.229137,
-      "validFrom": "2025-12-14T00:00:00+01:00",
-      "validTo": "2026-01-11T23:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky\u00A0R8\u00A0směr Přerov budou v úseku (Kojetín) –\u00A0Vyškov na Mor. – Brno\u00A0hl.n.\u00A0nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního\u00A0řádu\u00A0linky xR8.. Cestující v úseku\u00A0Brno-Královo Pole – Brno hl.n.\u00A0jako náhradní dopravu využijí\u00A0vlaky linky S3\u00A0. Vlaky\u00A0linky S71\u00A0pojedou v odchylných časových polohách podle výlukového jízdního řádu. Vlaky linky\u00A0R12/1783, 1784\u00A0budou nahrazeny autobusy náhradní dopravy (NAD) dle výlukového jízdního řádu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R8",
-        "xR8"
-      ]
-    },
-    {
-      "id": 27,
-      "number": "2512 - Velké Pavlovice, gymnázium",
-      "title": "Velké Pavlovice, náměstí 9. května (u domu č. p. 566/3)",
-      "latitude": 48.904533,
-      "longitude": 16.816975,
-      "validFrom": "2025-12-03T00:00:00+01:00",
-      "validTo": "2026-01-31T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Velké Pavlovice, gymnázium bude přesunuta na souběžnou komunikaci do parkovacího zálivu naproti kostelu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "542",
-        "551"
       ]
     },
     {
@@ -188,7 +252,7 @@
       "validFrom": "2025-11-01T06:15:00+01:00",
       "validTo": null,
       "isValid": true,
-      "publicTextHtml": "<p>Z důvodu rekonstrukce inženýrských sítí a povrchu komunikace je <strong>od 6:15 hod. v sobotu 1. listopadu 2025</strong> <strong>do ukončení prací</strong> (předpoklad minimálně do jara 2027) pro veškerou dopravu uzavřena ulice Fryčajova v Obřanech.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Všechny spoje <strong>tramvajové linky 4</strong> jsou vedeny až do zastávky <strong>Obřany, Babická</strong>.<br />\n• Ruší se tak ukončení vybraných spojů v zastávce <strong>Maloměřický most</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 57</strong> je v provozu pouze v úseku (<strong>Vranov, smyčka –) Haškova – Maloměřický most</strong>.<br />\n• Ruší se tak ukončení vybraných spojů v zastávce <strong>Obřany, sídliště</strong> v ranních hodinách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 75</strong> je v provozu pouze v úseku <strong>(Slatina, nádraží –) Vozovna Slatina – Tomkovo náměstí</strong>.<br />\n• Ve směru ze Slatiny jede ze zastávky <strong>Židenice, kasárna</strong> přes zastávky <strong>Karlova </strong>a <strong>Maloměřický most</strong> do výstupní zastávky <strong>Tomkovo náměstí</strong>.<br />\n• Ve směru do Slatiny jede z <strong>Tomkova náměstí</strong> (zastávka linky 84 směr Stará osada) přímo do zastávky <strong>Židenice, kasárna</strong> a dále po běžné trase.<br />\n• Mezi Maloměřicemi, Obřany a Bílovicemi nad Svitavou je náhradou možné využít linky 4 a x75.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu zajišťuje mimořádná <strong>minibusová linka x75</strong> v trase <strong>Obřanský most – Hradiska – Obřany, sídliště (– Bílovice nad Svitavou, železniční stanice)</strong>.<br />\n• Zastávka <strong>Hradiska </strong>je v obou směrech zřízena v horní části stejnojmenné komunikace.<br />\n• V úseku Obřany, sídliště – Bílovice nad Svitavou, železniční stanice jede po trase a zastávkách linky 75.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N94</strong> je ukončena v zastávce <strong>Obřany, Babická</strong>.<br />\n• Ruší se tak provoz vybraných spojů až do Bílovic nad Svitavou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávky <strong>Hlaváčova </strong>a <strong>Bílovická </strong>jsou po dobu výluky zcela bez obsluhy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> S ohledem na omezenou kapacitu minibusové linky x75 a výrazně delší dobu jízdy doporučujeme pro cesty mezi Brnem a Bílovicemi nad Svitavou primárně využívat <strong>železniční linku S2</strong> s přestupem na autobusové linky x75 a 211 v zastávce <strong>Bílovice nad Svitavou, železniční stanice</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> V průběhu uzavírky může v rámci dílčích etap stavebních prací docházet k drobným změnám zavedených opatření.</p>\n\n<p> </p>\n\n<p><strong class=\"red\"><span><span><span>AKTUALIZACE 26. listopadu 2025: Od noci z pátku 28. listopadu na sobotu 29. listopadu 2025 je zahájen provoz výlukové noční midibusové linky x94. </span></span></span></strong></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka</strong><span><span><span> <strong>x94</strong> jede po trase <strong>Brno, Tomkovo náměstí </strong>(návaznost s linkou N94) <strong>– Ochoz u Brna – Kanice – Řícmanice – Bílovice nad Svitavou – Brno, Obřany, sídliště</strong>.<br />\n• Ze zastávky <strong>Obřany, sídliště </strong>směr Brno spoje odjíždějí od označníku směr Bílovice nad Svitavou.<br />\n• V Bílovicích nad Svitavou spoje zastavují oproti lince x75 na protisměrných zastávkách.<br />\n• V zastávkách <strong>Ochoz u Brna</strong>, <strong>Kanice</strong> a <strong>Řícmanice </strong>zastavují pouze spoje určené jízdním řádem, ostatní spoje jedou v úseku <strong>Brno, Tomkovo náměstí – Bílovice nad Svitavou, UP závody</strong> bez zastavení.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span> Linka x94 zároveň nahrazuje vybrané spoje linky x75 v okrajových denních dobách.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span> Tarifní opatření:<br />\n• Při jízdě linkou x94 mezi zastávkami v tarifní zóně 100 držitelé příslušné předplatní jízdenky nehradí jízdné za zóny 210 a 215, postačuje předplatní jízdenka pro zónu 100.<br />\n• Při jízdě linkou x94 mezi tarifními zónami 100 a 215 držitelé příslušné předplatní jízdenky nehradí jízdné za zónu 210, postačuje předplatní jízdenka pro zóny 100 a 215.<br />\n• Cestující s jednorázovou jízdenkou hradí jízdné podle skutečně projetých tarifních zón.<br />\n• Na lince probíhá mimo zastávky Tomkovo náměstí a Obřany, sídliště <strong>nástup cestujících výhradně předními dveřmi </strong>s kontrolou nebo prodejem jízdních dokladů řidičem.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-123_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "publicTextHtml": "<p>Z důvodu rekonstrukce inženýrských sítí a povrchu komunikace je <strong>od 6:15 hod. v sobotu 1. listopadu 2025</strong> <strong>do ukončení prací</strong> (předpoklad minimálně do jara 2027) pro veškerou dopravu uzavřena ulice Fryčajova v Obřanech.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"96a7086f-5aad-4568-932f-78e7c0655fd1\" data-view-mode=\"\"></drupal-media>\n\n<p> Všechny spoje <strong>tramvajové linky 4</strong> jsou vedeny až do zastávky <strong>Obřany, Babická</strong>.<br />\n• Ruší se tak ukončení vybraných spojů v zastávce <strong>Maloměřický most</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 57</strong> je v provozu pouze v úseku (<strong>Vranov, smyčka –) Haškova – Maloměřický most</strong>.<br />\n• Ruší se tak ukončení vybraných spojů v zastávce <strong>Obřany, sídliště</strong> v ranních hodinách.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 75</strong> je v provozu pouze v úseku <strong>(Slatina, nádraží –) Vozovna Slatina – Tomkovo náměstí</strong>.<br />\n• Ve směru ze Slatiny jede ze zastávky <strong>Židenice, kasárna</strong> přes zastávky <strong>Karlova </strong>a <strong>Maloměřický most</strong> do zastávky <strong>Tomkovo náměstí</strong>.<br />\n• Ve směru do Slatiny jede z <strong>Tomkova náměstí</strong> (obsluhuje jak zastávku za ústím ulice Valchařské, tak zastávku linky 84) přímo do zastávky <strong>Židenice, kasárna</strong> a dále po běžné trase.<br />\n• Mezi Maloměřicemi, Obřany a Bílovicemi nad Svitavou je náhradou možné využít linky 4 a x75.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu zajišťuje mimořádná <strong>minibusová linka x75</strong> v trase <strong>Obřanský most – Hradiska – Obřany, sídliště (– Bílovice nad Svitavou, železniční stanice)</strong>.<br />\n• Zastávka <strong>Hradiska </strong>je v obou směrech zřízena v horní části stejnojmenné komunikace.<br />\n• V úseku Obřany, sídliště – Bílovice nad Svitavou, železniční stanice jede po trase a zastávkách linky 75.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka N94</strong> je ukončena v zastávce <strong>Obřany, Babická</strong>.<br />\n• Ruší se tak provoz vybraných spojů až do Bílovic nad Svitavou.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p> Zastávky <strong>Hlaváčova </strong>a <strong>Bílovická </strong>jsou po dobu výluky zcela bez obsluhy.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> S ohledem na omezenou kapacitu minibusové linky x75 a výrazně delší dobu jízdy doporučujeme pro cesty mezi Brnem a Bílovicemi nad Svitavou primárně využívat <strong>železniční linku S2</strong> s přestupem na autobusové linky x75 a 211 v zastávce <strong>Bílovice nad Svitavou, železniční stanice</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> V průběhu uzavírky může v rámci dílčích etap stavebních prací docházet k drobným změnám zavedených opatření.</p>\n\n<p> </p>\n\n<p><strong class=\"red\"><span><span><span>AKTUALIZACE 26. listopadu 2025: Od noci z pátku 28. listopadu na sobotu 29. listopadu 2025 je zahájen provoz výlukové noční midibusové linky x94. </span></span></span></strong></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Noční autobusová linka</strong><span><span><span> <strong>x94</strong> jede po trase <strong>Brno, Tomkovo náměstí </strong>(návaznost s linkou N94) <strong>– Ochoz u Brna – Kanice – Řícmanice – Bílovice nad Svitavou – Brno, Obřany, sídliště</strong>.<br />\n• Ze zastávky <strong>Obřany, sídliště </strong>směr Brno spoje odjíždějí od označníku směr Bílovice nad Svitavou.<br />\n• V Bílovicích nad Svitavou spoje zastavují oproti lince x75 na protisměrných zastávkách.<br />\n• V zastávkách <strong>Ochoz u Brna</strong>, <strong>Kanice</strong> a <strong>Řícmanice </strong>zastavují pouze spoje určené jízdním řádem, ostatní spoje jedou v úseku <strong>Brno, Tomkovo náměstí – Bílovice nad Svitavou, UP závody</strong> bez zastavení.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span> Linka x94 zároveň nahrazuje vybrané spoje linky x75 v okrajových denních dobách.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p><span><span><span> Tarifní opatření:<br />\n• Při jízdě linkou x94 mezi zastávkami v tarifní zóně 100 držitelé příslušné předplatní jízdenky nehradí jízdné za zóny 210 a 215, postačuje předplatní jízdenka pro zónu 100.<br />\n• Při jízdě linkou x94 mezi tarifními zónami 100 a 215 držitelé příslušné předplatní jízdenky nehradí jízdné za zónu 210, postačuje předplatní jízdenka pro zóny 100 a 215.<br />\n• Cestující s jednorázovou jízdenkou hradí jízdné podle skutečně projetých tarifních zón.<br />\n• Na lince probíhá mimo zastávky Tomkovo náměstí a Obřany, sídliště <strong>nástup cestujících výhradně předními dveřmi </strong>s kontrolou nebo prodejem jízdních dokladů řidičem.</span></span></span></p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2511-123_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -219,7 +283,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 9,
       "number": "VP 2509-263",
       "title": "Znojmo, Nám. Svobody ",
       "latitude": 48.859125,
@@ -236,7 +300,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 8,
       "number": "PO 2509-172",
       "title": "Lanžhot, ulice náměstí a autobusové nádraží",
       "latitude": 48.724845,
@@ -252,7 +316,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 7,
       "number": "VP 2507-240",
       "title": "II/395 Dolní Kounice - Moravské Bránice",
       "latitude": 49.074316,
@@ -286,7 +350,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 6,
       "number": "2506 Moutnice, u fary",
       "title": "Moutnice, u fary - směr Nesvačilka",
       "latitude": 49.050604,
@@ -302,7 +366,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "number": "2505 Pohořelice, náměstí",
       "title": "Pohořelice, náměstí - směr Brno",
       "latitude": 48.980847,
