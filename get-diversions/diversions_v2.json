@@ -1,6 +1,75 @@
 {
   "diversions": [
     {
+      "id": 41,
+      "number": "VP 2602-019",
+      "title": "žel. trať. Brno-Horní Heršpice - Střelice jedna kolej",
+      "latitude": 49.162456,
+      "longitude": 16.586931,
+      "validFrom": "2026-02-21T08:20:00+01:00",
+      "validTo": "2026-03-01T16:35:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Některé vlaky\u00A0linky<font color=\"#800000\"><strong> S4</strong></font>\u00A0pojedou v odchylných časových polohách dle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S4</strong></font>.\u00A0(Z Brna hl.n. dříve, ze Střelic do Brna později.). Po dobu výluky budou\u00A0z Brna hl.n. do Střelic a zpět\u00A0nahrazeny vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle\u00A0výlukového jízdního řádu linky xS41. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S4",
+        "S41",
+        "xS41"
+      ]
+    },
+    {
+      "id": 38,
+      "number": "VP 2602-018",
+      "title": "žel. trať v úseku Veselí nad Moravou – Strážnice",
+      "latitude": 48.921514,
+      "longitude": 17.334406,
+      "validFrom": "2026-02-19T08:00:00+01:00",
+      "validTo": "2026-02-20T14:05:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku Strážnice – Veselí nad Moravou po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S91",
+        "xS91"
+      ]
+    },
+    {
+      "id": 37,
+      "number": "VP 2602-017",
+      "title": "žel. trať. Strážnice - Sudoměřice nad Moravou",
+      "latitude": 48.891698,
+      "longitude": 17.298464,
+      "validFrom": "2026-02-18T08:00:00+01:00",
+      "validTo": "2026-02-18T14:15:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku\u00A0Strážnice – Hodonín\u00A0nahrazeny náhradní autobusovou dopravou (NAD) jedoucí podle výlukového jízdního řádu jako\u00A0linka xS91.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S91",
+        "xS91"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "VP 2602-016",
+      "title": "žel. trať Veselí nad Moravou – Vrbovce",
+      "latitude": 48.912955,
+      "longitude": 17.490027,
+      "validFrom": "2026-02-16T07:20:00+01:00",
+      "validTo": "2026-02-17T14:50:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S91</strong></font> budou v úseku\u00A0Veselí nad Moravou\u00A0– Vrbovce - Myjava\u00A0nahrazeny autobusy náhradní dopravy\u00A0(NAD) jedoucími jako linka xS91.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S91",
+        "xS91"
+      ]
+    },
+    {
       "id": 36699,
       "number": "",
       "title": "Provoz MHD o jarních prázdninách",
@@ -75,7 +144,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 34,
       "number": "VP 2602-003",
       "title": "Jedovnice - Křtiny",
       "latitude": 49.313149,
@@ -91,7 +160,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 35,
       "number": "VP 2602-015",
       "title": "žel. trať Havlíčkův Brod - Žďár nad Sázavou",
       "latitude": 49.296584,
@@ -107,7 +176,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 40,
       "number": "PO 2602-005",
       "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
       "latitude": 48.922926,
@@ -123,7 +192,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 22,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
       "latitude": 48.851444,
@@ -140,7 +209,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 19,
       "number": "VP 2601-202",
       "title": "Drnovice u Lysic, most 3674-2",
       "latitude": 49.469527,
@@ -175,13 +244,13 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
       "longitude": 16.749580,
       "validFrom": "2026-01-01T00:00:00+01:00",
-      "validTo": "2026-02-28T23:59:00+01:00",
+      "validTo": "2026-04-30T23:59:00+02:00",
       "isValid": true,
       "publicTextHtml": "Zastávka Mokrá-Horákov, Horákov je pro oba směry přesunuta do prostoru obratiště autobusů. ",
       "privateTextHtml": null,
@@ -208,7 +277,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
