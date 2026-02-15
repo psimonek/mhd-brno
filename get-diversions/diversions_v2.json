@@ -77,7 +77,7 @@
       "longitude": 16.612111,
       "validFrom": "2026-02-16T00:00:00+01:00",
       "validTo": "2026-02-20T23:59:59+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p><strong>Ve dnech </strong><strong>16. – 20. února 2026</strong> (jarní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Autobusové linky 66, š85, š86 a š88 budou mimo provoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> U spojů regionálních linek doporučujeme věnovat pozornost poznámkám v jízdních řádech.</p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -141,22 +141,6 @@
         "š85",
         "š86",
         "š88"
-      ]
-    },
-    {
-      "id": 34,
-      "number": "VP 2602-003",
-      "title": "Jedovnice - Křtiny",
-      "latitude": 49.313149,
-      "longitude": 16.746855,
-      "validFrom": "2026-02-14T00:00:00+01:00",
-      "validTo": "2026-02-15T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu stavebních prací na území městysu Křtiny ve směru na Jedovnice bude linka<font color=\"#009240\"><strong> 201</strong></font> o víkendu 14. a 15.02.2026 vedena v úseku Křtiny – Jedovnice po objízdné trase kolem Býčí skály přes Josefov, Olomučany a Rudici. Na odklonové trase obslouží zastávku Jedovnice, chaloupky (náhrada za zastávku Jedovnice, Újezd) a zastávku Rudice (zajištění přestupů cestujících v relaci Brno-Blansko). Žádné další zastávky na trase odklonu v úseku Rudice a Křtiny, náměstí linka<font color=\"#009240\"><strong> 201</strong></font> neobsluhuje. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
       ]
     },
     {
