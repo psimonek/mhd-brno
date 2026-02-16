@@ -60,7 +60,7 @@
       "longitude": 17.490027,
       "validFrom": "2026-02-16T07:20:00+01:00",
       "validTo": "2026-02-17T14:50:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S91</strong></font> budou v úseku\u00A0Veselí nad Moravou\u00A0– Vrbovce - Myjava\u00A0nahrazeny autobusy náhradní dopravy\u00A0(NAD) jedoucími jako linka xS91.. ",
       "privateTextHtml": null,
       "type": "V",
