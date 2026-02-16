@@ -1,6 +1,22 @@
 {
   "diversions": [
     {
+      "id": 36640,
+      "number": "V2602-006",
+      "title": "Přerušení provozu linky 62",
+      "latitude": 49.182042,
+      "longitude": 16.588057,
+      "validFrom": "2026-02-23T05:00:00+01:00",
+      "validTo": "2026-07-23T20:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu stavebních prací nebude <strong>od pondělí 23. února 2026 do ukončení prací</strong> (předpoklad do 27. července 2026) pro veškerou dopravu průjezdná část ulice Vinohrady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 62</strong> bude po dobu trvání stavebních prací mimo provoz.<br />\n• Zastávku <strong>Červený kopec</strong> nebude možné obsloužit.<br />\n• V úseku Mendlovo náměstí – Nemocnice Milosrdných bratří bude možné využít pravidelné tramvajové linky.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "62"
+      ]
+    },
+    {
       "id": 41,
       "number": "VP 2602-019",
       "title": "žel. trať. Brno-Horní Heršpice - Střelice jedna kolej",
