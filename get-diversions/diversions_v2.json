@@ -69,23 +69,6 @@
       ]
     },
     {
-      "id": 36,
-      "number": "VP 2602-016",
-      "title": "žel. trať Veselí nad Moravou – Vrbovce",
-      "latitude": 48.912955,
-      "longitude": 17.490027,
-      "validFrom": "2026-02-16T07:20:00+01:00",
-      "validTo": "2026-02-17T14:50:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S91</strong></font> budou v úseku\u00A0Veselí nad Moravou\u00A0– Vrbovce - Myjava\u00A0nahrazeny autobusy náhradní dopravy\u00A0(NAD) jedoucími jako linka xS91.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S91",
-        "xS91"
-      ]
-    },
-    {
       "id": 36699,
       "number": "",
       "title": "Provoz MHD o jarních prázdninách",
