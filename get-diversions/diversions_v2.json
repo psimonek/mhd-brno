@@ -143,22 +143,6 @@
       ]
     },
     {
-      "id": 35,
-      "number": "VP 2602-015",
-      "title": "žel. trať Havlíčkův Brod - Žďár nad Sázavou",
-      "latitude": 49.296584,
-      "longitude": 16.550775,
-      "validFrom": "2026-02-11T07:45:00+01:00",
-      "validTo": "2026-02-17T20:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu eliminace zpoždění vyvolaného nutností náhradní autobusové dopravy bude na lince<font color=\"#800000\"><strong> R9</strong></font> platit výlukový jízdní řád. Vlaky\u00A0R9/990\u00A0a\u00A0R9/989\u00A0v úseku Brno hl.n. - Tišnov\u00A0nepojedou.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R9"
-      ]
-    },
-    {
       "id": 40,
       "number": "PO 2602-005",
       "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
