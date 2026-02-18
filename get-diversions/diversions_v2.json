@@ -59,7 +59,7 @@
       "longitude": 17.298464,
       "validFrom": "2026-02-18T08:00:00+01:00",
       "validTo": "2026-02-18T14:15:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku\u00A0Strážnice – Hodonín\u00A0nahrazeny náhradní autobusovou dopravou (NAD) jedoucí podle výlukového jízdního řádu jako\u00A0linka xS91.. ",
       "privateTextHtml": null,
       "type": "V",
