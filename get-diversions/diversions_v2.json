@@ -52,23 +52,6 @@
       ]
     },
     {
-      "id": 37,
-      "number": "VP 2602-017",
-      "title": "žel. trať. Strážnice - Sudoměřice nad Moravou",
-      "latitude": 48.891698,
-      "longitude": 17.298464,
-      "validFrom": "2026-02-18T08:00:00+01:00",
-      "validTo": "2026-02-18T14:15:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku\u00A0Strážnice – Hodonín\u00A0nahrazeny náhradní autobusovou dopravou (NAD) jedoucí podle výlukového jízdního řádu jako\u00A0linka xS91.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S91",
-        "xS91"
-      ]
-    },
-    {
       "id": 36699,
       "number": "",
       "title": "Provoz MHD o jarních prázdninách",
