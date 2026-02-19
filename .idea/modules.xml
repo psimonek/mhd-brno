@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../hidden-data/.idea/hidden-data.iml" filepath="$PROJECT_DIR$/../hidden-data/.idea/hidden-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mhd-brno.iml" filepath="$PROJECT_DIR$/.idea/mhd-brno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mhd-brno-test/.idea/mhd-brno-test.iml" filepath="$PROJECT_DIR$/../mhd-brno-test/.idea/mhd-brno-test.iml" />
     </modules>
   </component>
 </project>

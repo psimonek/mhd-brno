@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="hidden-data" />
+    <orderEntry type="module" module-name="mhd-brno-test" />
   </component>
 </module>
