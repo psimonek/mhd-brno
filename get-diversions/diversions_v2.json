@@ -1,6 +1,57 @@
 {
   "diversions": [
     {
+      "id": 36640,
+      "number": "V2602-006",
+      "title": "Přerušení provozu linky 62",
+      "latitude": 49.182042,
+      "longitude": 16.588057,
+      "validFrom": "2026-02-23T05:00:00+01:00",
+      "validTo": "2026-07-23T20:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu stavebních prací nebude <strong>od pondělí 23. února 2026 do ukončení prací</strong> (předpoklad do 27. července 2026) pro veškerou dopravu průjezdná část ulice Vinohrady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 62</strong> bude po dobu trvání stavebních prací mimo provoz.<br />\n• Zastávku <strong>Červený kopec</strong> nebude možné obsloužit.<br />\n• V úseku Mendlovo náměstí – Nemocnice Milosrdných bratří bude možné využít pravidelné tramvajové linky.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "62"
+      ]
+    },
+    {
+      "id": 41,
+      "number": "VP 2602-019",
+      "title": "žel. trať. Brno-Horní Heršpice - Střelice jedna kolej",
+      "latitude": 49.162456,
+      "longitude": 16.586931,
+      "validFrom": "2026-02-21T08:20:00+01:00",
+      "validTo": "2026-03-01T16:35:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Některé vlaky\u00A0linky<font color=\"#800000\"><strong> S4</strong></font>\u00A0pojedou v odchylných časových polohách dle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S4</strong></font>.\u00A0(Z Brna hl.n. dříve, ze Střelic do Brna později.). Po dobu výluky budou\u00A0z Brna hl.n. do Střelic a zpět\u00A0nahrazeny vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle\u00A0výlukového jízdního řádu linky xS41. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S4",
+        "S41",
+        "xS41"
+      ]
+    },
+    {
+      "id": 38,
+      "number": "VP 2602-018",
+      "title": "žel. trať v úseku Veselí nad Moravou – Strážnice",
+      "latitude": 48.921514,
+      "longitude": 17.334406,
+      "validFrom": "2026-02-19T08:00:00+01:00",
+      "validTo": "2026-02-20T14:05:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku Strážnice – Veselí nad Moravou po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S91",
+        "xS91"
+      ]
+    },
+    {
       "id": 36699,
       "number": "",
       "title": "Provoz MHD o jarních prázdninách",
@@ -8,7 +59,7 @@
       "longitude": 16.612111,
       "validFrom": "2026-02-16T00:00:00+01:00",
       "validTo": "2026-02-20T23:59:59+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p><strong>Ve dnech </strong><strong>16. – 20. února 2026</strong> (jarní prázdniny) pojedou linky 1–84 podle jízdních řádů pro <strong>pracovní dny – prázdniny</strong>.</p>\n\n<p>• Autobusové linky 66, š85, š86 a š88 budou mimo provoz.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> U spojů regionálních linek doporučujeme věnovat pozornost poznámkám v jízdních řádech.</p>\n",
       "privateTextHtml": null,
       "type": "D",
@@ -75,39 +126,7 @@
       ]
     },
     {
-      "id": 35,
-      "number": "VP 2602-003",
-      "title": "Jedovnice - Křtiny",
-      "latitude": 49.313149,
-      "longitude": 16.746855,
-      "validFrom": "2026-02-14T00:00:00+01:00",
-      "validTo": "2026-02-15T23:59:00+01:00",
-      "isValid": false,
-      "publicTextHtml": "Z důvodu stavebních prací na území městysu Křtiny ve směru na Jedovnice bude linka<font color=\"#009240\"><strong> 201</strong></font> o víkendu 14. a 15.02.2026 vedena v úseku Křtiny – Jedovnice po objízdné trase kolem Býčí skály přes Josefov, Olomučany a Rudici. Na odklonové trase obslouží zastávku Jedovnice, chaloupky (náhrada za zastávku Jedovnice, Újezd) a zastávku Rudice (zajištění přestupů cestujících v relaci Brno-Blansko). Žádné další zastávky na trase odklonu v úseku Rudice a Křtiny, náměstí linka<font color=\"#009240\"><strong> 201</strong></font> neobsluhuje. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "201"
-      ]
-    },
-    {
-      "id": 36,
-      "number": "VP 2602-015",
-      "title": "žel. trať Havlíčkův Brod - Žďár nad Sázavou",
-      "latitude": 49.296584,
-      "longitude": 16.550775,
-      "validFrom": "2026-02-11T07:45:00+01:00",
-      "validTo": "2026-02-17T20:55:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu eliminace zpoždění vyvolaného nutností náhradní autobusové dopravy bude na lince<font color=\"#800000\"><strong> R9</strong></font> platit výlukový jízdní řád. Vlaky\u00A0R9/990\u00A0a\u00A0R9/989\u00A0v úseku Brno hl.n. - Tišnov\u00A0nepojedou.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "R9"
-      ]
-    },
-    {
-      "id": 38,
+      "id": 40,
       "number": "PO 2602-005",
       "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
       "latitude": 48.922926,
@@ -123,7 +142,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 22,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
       "latitude": 48.851444,
@@ -140,7 +159,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 19,
       "number": "VP 2601-202",
       "title": "Drnovice u Lysic, most 3674-2",
       "latitude": 49.469527,
@@ -165,7 +184,7 @@
       "validFrom": "2026-01-17T14:00:00+01:00",
       "validTo": "2026-08-31T23:59:59+02:00",
       "isValid": true,
-      "publicTextHtml": "<p>Z důvodu stavebních prací je <strong>od 14:00 hod. v sobotu 17. ledna 2026 do ukončení prací</strong> (předpoklad do 31. srpna 2026) přeložena zastávka <strong>Za Lužánkami</strong>:<br />\n• Pro <strong>linku 67</strong> směr Avion Shopping Park přibližně o 140 metrů vzad do ulice Sportovní před výjezd z parkoviště.<br />\n• Pro <strong>linky 25</strong> a <strong>26</strong> směr Jírova / Štefánikova čtvrť ke středovému ostrůvku přibližně v úrovni stávající zastávky.</p>\n",
+      "publicTextHtml": "<p><strong class=\"red\">AKTUALIZACE:</strong> <strong>Od 8:00 hod. v úterý 17. února 2026</strong> je přeložena také zastávka <strong>Za Lužánkami </strong>pro linku 67 směr Jundrov přibližně o 140 metrů vzad před křižovatku s ulicí Erbenovou.</p>\n\n<p>Z důvodu stavebních prací je <strong>od 14:00 hod. v sobotu 17. ledna 2026 do ukončení prací</strong> (předpoklad do 31. srpna 2026) přeložena zastávka <strong>Za Lužánkami</strong>:<br />\n• Pro <strong>linku 67</strong> směr Avion Shopping Park přibližně o 140 metrů vzad do ulice Sportovní před výjezd z parkoviště.<br />\n• Pro <strong>linky 25</strong> a <strong>26</strong> směr Jírova / Štefánikova čtvrť ke středovému ostrůvku přibližně v úrovni stávající zastávky.</p>\n",
       "privateTextHtml": null,
       "type": "Z",
       "affectedLines": [
@@ -175,13 +194,13 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "number": "2601 Mokrá-Horákov, Horákov",
       "title": "Mokrá-Horákov, Horákov",
       "latitude": 49.215663,
       "longitude": 16.749580,
       "validFrom": "2026-01-01T00:00:00+01:00",
-      "validTo": "2026-02-28T23:59:00+01:00",
+      "validTo": "2026-04-30T23:59:00+02:00",
       "isValid": true,
       "publicTextHtml": "Zastávka Mokrá-Horákov, Horákov je pro oba směry přesunuta do prostoru obratiště autobusů. ",
       "privateTextHtml": null,
@@ -208,7 +227,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "number": "PO 2512-245",
       "title": "Znojmo, ul. Vančurova",
       "latitude": 48.866454,
