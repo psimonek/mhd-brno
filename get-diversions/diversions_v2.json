@@ -35,23 +35,6 @@
       ]
     },
     {
-      "id": 38,
-      "number": "VP 2602-018",
-      "title": "žel. trať v úseku Veselí nad Moravou – Strážnice",
-      "latitude": 48.921514,
-      "longitude": 17.334406,
-      "validFrom": "2026-02-19T08:00:00+01:00",
-      "validTo": "2026-02-20T14:05:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku Strážnice – Veselí nad Moravou po dobu výluky\u00A0nahrazeny náhradní autobusovou dopravou (NAD)\u00A0jedoucí podle výlukového\u00A0jízdního řádu jako\u00A0linka xS91.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S91",
-        "xS91"
-      ]
-    },
-    {
       "id": 36699,
       "number": "",
       "title": "Provoz MHD o jarních prázdninách",
