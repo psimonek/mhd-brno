@@ -17,7 +17,23 @@
       ]
     },
     {
-      "id": 41,
+      "id": 31,
+      "number": "VP 2602-004",
+      "title": "Boleradice, silnice směr Morkůvky",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2026-02-23T00:00:00+01:00",
+      "validTo": "2026-06-05T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541"
+      ]
+    },
+    {
+      "id": 36,
       "number": "VP 2602-019",
       "title": "žel. trať. Brno-Horní Heršpice - Střelice jedna kolej",
       "latitude": 49.162456,
@@ -35,13 +51,13 @@
       ]
     },
     {
-      "id": 40,
+      "id": 35,
       "number": "PO 2602-005",
       "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
       "latitude": 48.922926,
       "longitude": 15.873887,
       "validFrom": "2026-02-09T00:00:00+01:00",
-      "validTo": "2026-05-08T23:59:00+02:00",
+      "validTo": "2026-02-22T23:59:00+01:00",
       "isValid": true,
       "publicTextHtml": "Linka<font color=\"#009240\"><strong> 830</strong></font>\u00A0- veškeré spoje v obou směrech nebudou až do odvolání obsluhovat zastávku Šumná, žel. st. Otáčet se budou v obci Šumná u obecního úřadu. ",
       "privateTextHtml": null,
@@ -51,7 +67,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 16,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
       "latitude": 48.851444,
@@ -68,7 +84,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 13,
       "number": "VP 2601-202",
       "title": "Drnovice u Lysic, most 3674-2",
       "latitude": 49.469527,
