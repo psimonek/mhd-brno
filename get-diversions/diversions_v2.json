@@ -40,7 +40,7 @@
       "longitude": 16.586931,
       "validFrom": "2026-02-21T08:20:00+01:00",
       "validTo": "2026-03-01T16:35:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Některé vlaky\u00A0linky<font color=\"#800000\"><strong> S4</strong></font>\u00A0pojedou v odchylných časových polohách dle\u00A0výlukového jízdního řádu linky<font color=\"#800000\"><strong> S4</strong></font>.\u00A0(Z Brna hl.n. dříve, ze Střelic do Brna později.). Po dobu výluky budou\u00A0z Brna hl.n. do Střelic a zpět\u00A0nahrazeny vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0náhradní autobusovou dopravou (NAD), která bude organizována podle\u00A0výlukového jízdního řádu linky xS41. ",
       "privateTextHtml": null,
       "type": "V",
