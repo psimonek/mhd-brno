@@ -24,7 +24,7 @@
       "longitude": 16.825633,
       "validFrom": "2026-02-23T00:00:00+01:00",
       "validTo": "2026-06-05T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -48,22 +48,6 @@
         "S4",
         "S41",
         "xS41"
-      ]
-    },
-    {
-      "id": 35,
-      "number": "PO 2602-005",
-      "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
-      "latitude": 48.922926,
-      "longitude": 15.873887,
-      "validFrom": "2026-02-09T00:00:00+01:00",
-      "validTo": "2026-02-22T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 830</strong></font>\u00A0- veškeré spoje v obou směrech nebudou až do odvolání obsluhovat zastávku Šumná, žel. st. Otáčet se budou v obci Šumná u obecního úřadu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "830"
       ]
     },
     {
@@ -387,7 +371,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
