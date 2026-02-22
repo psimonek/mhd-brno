@@ -60,6 +60,6 @@ opacityControl.onAdd = function(map) {
     return opacityContainer;
 };
 
-//opacityControl.addTo(map);
+//opacityControl.addTo(map); --- odstranění slideru pro opacity kvůli úspoře místa
 L.control.layers(baseMaps).addTo(map);
 map.addLayer(osm);
