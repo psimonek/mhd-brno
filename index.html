@@ -15,7 +15,7 @@
     
     <!-- Content Security Policy (CSP) -->
     <script>
-        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com https://overpass-api.de https://tiles.openfreemap.org; " +
+        const csp = "default-src 'self' https://queue.simpleanalyticscdn.com https://overpass-api.de https://tiles.openfreemap.org wss://gis.brno.cz/geoevent/ws/services/stream_kordis_26/StreamServer/subscribe; " +
                     "script-src 'self' 'unsafe-inline' https://ajax.googleapis.com https://unpkg.com https://scripts.simpleanalyticscdn.com; " +
                     "style-src 'self' 'unsafe-inline' https://unpkg.com https://maxcdn.bootstrapcdn.com; " +
                     "img-src 'self' data: https://queue.simpleanalyticscdn.com https://tile.openstreetmap.org https://unpkg.com https://ags.cuzk.cz;" +
@@ -30,24 +30,24 @@
     
     <link rel="manifest" href="manifest.json">
     
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="plugins/leaflet/leaflet.css" />
     <link rel="stylesheet" href="plugins/leaflet-sidebar-v2-master/css/leaflet-sidebar.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="plugins/font-awesome/font-awesome.min.css" />
     <link rel="stylesheet" href="css/main.css" />
 
     <script src="js/appscript.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>    
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="plugins/jquery/jquery.min.js"></script>
+    <script src="plugins/leaflet/leaflet.js"></script>
     <script src="plugins/leaflet-sidebar-v2-master/js/leaflet-sidebar.js"></script>
-	<script src="https://unpkg.com/leaflet-rotate@0.2.8/dist/leaflet-rotate-src.js"></script>
+	<script src="plugins/leaflet-rotate/leaflet-rotate.js"></script>
 	<script src="js/screen-lock.js"></script>
 
 	<!-- Maplibre GL -->
-	<link href="https://unpkg.com/maplibre-gl@^4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
-	<script src="https://unpkg.com/maplibre-gl@^4.7.1/dist/maplibre-gl.js"></script>
+	<link href="plugins/maplibre-gl/maplibre-gl.css" rel="stylesheet" />
+	<script src="plugins/maplibre-gl/maplibre-gl.js"></script>
 
-	<!-- Maplibre GL Leaflet  -->
-	<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet/leaflet-maplibre-gl.js"></script>
+	<!-- Maplibre GL Leaflet -->
+	<script src="plugins/maplibre-gl-leaflet/leaflet-maplibre-gl.js"></script>
 
 	<!-- Zjištění dark theme pro doplnění <meta name="theme-color" content="#000000">  -->
 <script>
@@ -326,6 +326,17 @@
 
     <!-- Konec obsahu sidebaru -->
 
+    <!-- Poloha vozidel - hlavní skript -->
+    <script>
+        let linkaCislo;
+        let linkaCisloFiltr;
+        let heading = 0;
+        let endBearing = 0; // Je nutné definovat proměnnou na začátku. Ptáme se na ni v vehicle-position.js a ještě nemusí být deklarovaná v použitém get-location.js
+        let filterLineNumber = 0; // Filtrování linky
+        let filterButtonState = false;
+    </script>
+    <script src="js/vehicle-position.js"></script>
+
 	<div id="map">
 		<div class="zoom-info" id="zoomInfo"></div>
 	</div>
@@ -366,7 +377,7 @@
 		// Proměnné pro určení a sledování polohy uživatele
 		
 		//var marker = L.marker([50.0755, 14.4378]).addTo(map); 
-        var heading = 0; // Směr pohybu uživatele
+        heading = 0; // Směr pohybu uživatele
         var watchId; // ID sledování polohy
         var tracking = false; // Stav sledování polohy
 		</script>
@@ -464,6 +475,72 @@
 		    return button;
 		};	
 		locateButton.addTo(map);
+
+
+
+
+
+
+
+
+
+
+
+        // Přidání tlačítka pro aktivaci polohy vozidel
+        var vehicleButton = L.control({position: 'topright'});
+
+        vehicleButton.onAdd = function (map) {
+            var vehiclebutton = L.DomUtil.create('button', 'vehicle-button');
+            vehiclebutton.id = 'vehiclebttn-id';
+            vehiclebutton.style.backgroundColor = 'white'; // Nastavení počáteční barvy pozadí
+            vehiclebutton.style.border = '2px solid rgba(0,0,0,0.2)'; // Nastavení okraje
+            vehiclebutton.style.cursor = 'pointer'; // Změna kurzoru na ruku
+            vehiclebutton.style.width = '48px';
+            vehiclebutton.style.height = '48px';
+            vehiclebutton.style.padding = '0px';
+
+            // Přidání ikony do tlačítka
+            var vehicleicon = L.DomUtil.create('img', 'vehicle-icon');
+            vehicleicon.src = 'img/place.svg'; // Zde zadejte cestu k vaší ikoně
+            vehicleicon.style.width = '24px'; // Nastavení šířky ikony
+            vehicleicon.style.height = '24px'; // Nastavení výšky ikony
+            vehicleicon.style.display = 'block'; // Zajištění, že ikona je blokový prvek
+            vehicleicon.style.margin = 'auto'; // Vycentrování ikony
+            vehicleicon.style.padding = '0px';
+            vehiclebutton.appendChild(vehicleicon);
+
+            return vehiclebutton;
+        };
+        vehicleButton.addTo(map);
+
+        const vehiclebttn = document.getElementById('vehiclebttn-id');
+        vehiclebttn.addEventListener('click', () => {
+            if (!trackingButton) {
+                trackingButton = true;
+                startWebsocket();
+                vehiclebttn.style.backgroundColor = 'orange';
+            } else {
+                trackingButton = false;
+                stopWebsocket();
+                for (const m of vehicles.values()) map.removeLayer(m);
+                vehicles.clear();
+                vehiclebttn.style.backgroundColor = 'white';
+            }
+        });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 		// Nastavení tříd při změně režimů z tmavého na světlý a obráceně
     	
@@ -615,9 +692,17 @@
 
 	<!-- Funkce pro skrytí ostatních vrstev, než na které bylo kliknuto. -->
 	<script src="js/hide-layer-by-name.js"></script>
+    <script src="js/show-layer-by-name.js"></script>
+    <script src="js/show-layer-selected-variant.js"></script>
+    <script src="js/hide-layer-selected-variant.js"></script>
 	
 	<!-- Funkce pro zobrazení všech hladin v objektu. -->
 	<script src="js/show-all-layers.js"></script>
+
+    <!-- Přidání tlačítka pro smazání cesty vybrané linky -->
+    <script src="js/clear-screen-button.js"></script>
+    <script src="js/filter-lines.js"></script>
+    <script src="js/change-svg-fill.js"></script>
 
 	<!-- Anonymní měření statistiky - bez sledování -->
 	<!-- 100% privacy-first analytics -->

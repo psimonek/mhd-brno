@@ -1,8 +1,11 @@
 function loadLinesAndStops(lineRef) {
-
+    linkaCislo = lineRef;
 	tooltips.clearLayers(); // Musíme vyprázdnit skupinu tooltipů pro zobrazování zastávek u varianty.
 	
 	var entityArray = []; //Vytvoříme Array pro relace pro fitBounding
+
+    // Nastavíme ikonu filtrování na dostupnou
+    setSvgFillById('svg-hide', '#000000');
 	
 	if (lineRef === "Rež") {
 		var xmlData = "lines-data/rezijni.osm";
@@ -20,7 +23,7 @@ function loadLinesAndStops(lineRef) {
     resetDiv.innerHTML = textToAddReset;
 
 	if (lineRef === "Rež") {
-		console.log(xmlData);
+		//console.log(xmlData);
 		// Pomocná funkce pro získání hodnoty tagu
 		function getTagValue(tags, key) {
 		    for (let tag of tags) {
@@ -184,7 +187,7 @@ function loadLinesAndStops(lineRef) {
 									
 						// Předpokládáme, že jmenohladiny je vrstva s různými typy
 						dataVrstvy.eachLayer(function(layer) {
-							console.log(layer);
+							//console.log(layer);
 	
 						    // Získání typu vrstvy z options
 						    var layerType = layer.options.layerType; // Předpokládáme, že layerType je v options
@@ -217,7 +220,7 @@ function loadLinesAndStops(lineRef) {
 				                				            
 					            // Kontrola zoomu
 					            map.on('zoomend', function() {
-					            	console.log(getStopsCheckboxValue());
+					            	//console.log(getStopsCheckboxValue());
 					                if (map.getZoom() > 15 && map.hasLayer(osm) && getStopsCheckboxValue()) {
 					                    tooltips.addTo(map);
 					                } else {
@@ -448,6 +451,12 @@ function loadLinesAndStops(lineRef) {
 		                            L.polyline(latlngs, { color: lineColor, weight: 6 })
 		                            .bindPopup(relation.tags.name || "Neznámá linka")
 		                            .addTo(hladina);
+
+                                // Při přepnutí na zobrazení linky změnit tlačítko skrytí linky
+                                hideButtonState = false;
+                                const el = document.getElementById('hidebutton-id');
+                                if (el) el.style.backgroundColor = 'white';
+
 		                        //}
 		
 		                    } else if (member.type === 'node') {
@@ -474,12 +483,19 @@ function loadLinesAndStops(lineRef) {
 						        event.preventDefault();
 						        // Získej hodnotu z atributu data-line
 						        var cisloRel = this.getAttribute('data-line');
+                                linkaCislo = cisloRel;
 						        // Vyvolej funkci hideLayerByName s cisloRelace
 						        hideLayerByName(cisloRel);
 						        // Vyvolej funkci addStoptoDiv s cisloRelace
 						        addStoptoDiv(cisloRel);
 						        setTheme(); // Potřebujeme kvůli zachování barev variant linek při jejich vyvolání a skrytí zkontrolovat režim tmavý/světlý 
-						    });
+
+                                // Při přepnutí na zobrazení linky změnit tlačítko skrytí linky
+                                hideButtonState = false;
+                                const el = document.getElementById('hidebutton-id');
+                                if (el) el.style.backgroundColor = 'white';
+
+                            });
 						});
 		
 						var $cols = $('.detail-linky').click(function(e) {
@@ -530,7 +546,7 @@ function loadLinesAndStops(lineRef) {
 					                				            
 						            // Kontrola zoomu
 						            map.on('zoomend', function() {
-						            	console.log(getStopsCheckboxValue());
+						            	//console.log(getStopsCheckboxValue());
 						                if (map.getZoom() > 15 && map.hasLayer(osm) && getStopsCheckboxValue()) {
 						                    tooltips.addTo(map);
 						                } else {

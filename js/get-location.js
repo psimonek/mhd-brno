@@ -4,7 +4,7 @@ var cumulativeDeltaHeading = 0;
 
 // Proměnné pro plynulou rotaci pohledu
 var startBearing = 0; // počáteční úhel
-var endBearing = 0; // koncový úhel
+endBearing = 0; // koncový úhel
 var duration = 300; // trvání animace v milisekundách
 
 // Funkce pro plynulou změnu úhlu pohledu
@@ -52,6 +52,7 @@ function getLocation() {
             tracking = false; // Nastavení stavu sledování na false
             map.setBearing(0);
             releaseWakeLock();
+            endBearing = 0;
         }
     } else {
         alert("Geolokace není podporována tímto prohlížečem.");
@@ -65,7 +66,7 @@ function showPosition(e) {
     var lon = e.longitude;
 
     // Získání směru pohybu
-    var heading = e.heading !== null ? e.heading : 0;
+    heading = e.heading !== null ? e.heading : 0;
     var accuracy = e.accuracy !== null ? e.accuracy : 0;
     var speed = e.speed !== null ? e.speed : 0;
     var zoomlevel = map.getZoom();
@@ -158,6 +159,7 @@ function showPosition(e) {
             arrowElement.style.transform = 'rotate(' + heading + 'deg)';
         }
         cumulativeDeltaHeading = 0; // reset kumulativní změny - kvůli možné změně pohledu a nakumulování úhlu
+        endBearing = 0;
     }
 }
 
