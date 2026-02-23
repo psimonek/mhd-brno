@@ -380,7 +380,7 @@ protože každý obrázek je jinak velký */
 
 .leaflet-sidebar-tabs,
 .leaflet-sidebar-content {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.95);
 }
 .leaflet-sidebar.leaflet-touch,
 .leaflet-touch .leaflet-control-layers,
