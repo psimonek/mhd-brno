@@ -228,9 +228,10 @@ body, html {
 	font-weight: bold;
 	border:2px solid black;
 }
-.locate-button {
+.locate-button,
+.vehicle-button {
     background: white;
-    border: 2px solid #007bff;
+    border: none;
     border-radius: 5px;
     padding: 5px;
     cursor: pointer;
@@ -374,3 +375,28 @@ protože každý obrázek je jinak velký */
 #date-picker {width: 76px;}
 #search-input {width: 116px;}
 #diversions-date, #diversions-search {padding: 0 6px !important;}
+
+/* Stylování leaflet panelu */
+
+.leaflet-sidebar-tabs,
+.leaflet-sidebar-content {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.leaflet-sidebar.leaflet-touch,
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+    border: none;
+}
+.leaflet-sidebar-header {
+    background: none;
+    color: black;
+}
+.leaflet-sidebar-tabs > li.active,
+.leaflet-sidebar-tabs > ul > li.active {
+    background-color: rgba(128, 128, 128, 0.4);
+}
+.leaflet-sidebar-left.leaflet-touch,
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar{
+    box-shadow: 0 1px 15px rgba(0, 0, 0, 0.2);
+}
