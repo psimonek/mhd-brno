@@ -8,7 +8,7 @@
       "longitude": 16.588057,
       "validFrom": "2026-02-23T05:00:00+01:00",
       "validTo": "2026-07-23T20:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu stavebních prací nebude <strong>od pondělí 23. února 2026 do ukončení prací</strong> (předpoklad do 27. července 2026) pro veškerou dopravu průjezdná část ulice Vinohrady.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 62</strong> bude po dobu trvání stavebních prací mimo provoz.<br />\n• Zastávku <strong>Červený kopec</strong> nebude možné obsloužit.<br />\n• V úseku Mendlovo náměstí – Nemocnice Milosrdných bratří bude možné využít pravidelné tramvajové linky.</p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -24,7 +24,7 @@
       "longitude": 16.825633,
       "validFrom": "2026-02-23T00:00:00+01:00",
       "validTo": "2026-06-05T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova.. ",
       "privateTextHtml": null,
       "type": "V",
@@ -48,22 +48,6 @@
         "S4",
         "S41",
         "xS41"
-      ]
-    },
-    {
-      "id": 35,
-      "number": "PO 2602-005",
-      "title": "zast. Šumná, žel. st. - bez obsluhy bus linkou 830",
-      "latitude": 48.922926,
-      "longitude": 15.873887,
-      "validFrom": "2026-02-09T00:00:00+01:00",
-      "validTo": "2026-02-22T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 830</strong></font>\u00A0- veškeré spoje v obou směrech nebudou až do odvolání obsluhovat zastávku Šumná, žel. st. Otáčet se budou v obci Šumná u obecního úřadu. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "830"
       ]
     },
     {
