@@ -200,7 +200,7 @@ function processRecord(record) {
     const lookupKey = m ? m[0] : rawFinalStop;
     const finalStopName = stopsMap.get(lookupKey) || rawFinalStop || '';
 
-    const popup = `Linka: ${record.LineName || lineId || ''}, kurz: ${record.Course}<br>Do: ${finalStopName} <br>Zpoždění: ${record.Delay} min.`;
+    const popup = `<strong>${record.LineName || lineId || ''} » ${finalStopName}</strong><br># ${record.ID}&nbsp;&nbsp;&nbsp;⇄ ${record.Course}&nbsp;&nbsp;&nbsp;➠${record.Delay} min.`;
     //const tooltipDelay = `${record.Delay} min.`; --- příliš náročné na vykreslení na mobilu.
 
     if (vehicles.has(id)) {
