@@ -1,6 +1,23 @@
 {
   "diversions": [
     {
+      "id": 35,
+      "number": "Blansko, Dolní Lhota (směr Rájec-Jestřebí)",
+      "title": "Blansko, Dolní Lhota směr Rájec-Jestřebí",
+      "latitude": 49.384465,
+      "longitude": 16.632813,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-03-15T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu\u00A0opravy chodníků při komunikaci č.\u00A0III/37435\u00A0v místní části Dolní Lhota ve městě Blansku bude operativně\u00A0překládána zastávka Blansko, Dolní Lhota\u00A0směr Rájec-Jestřebí mimo místo stavebních prací.<br/><br/> Linky<font color=\"#2C89C8\"><strong> 222</strong></font> (pro výstup) a 235\u00A0obslouží zastávku Blansko, Dolní Lhota směr Rájec-Jestřebí v provizorní poloze. Zastávka Blansko, Dolní Lhota směr centrum Blanska bude obsluhována ve standardní pozici. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "235"
+      ]
+    },
+    {
       "id": 36640,
       "number": "V2602-006",
       "title": "Přerušení provozu linky 62",
@@ -17,7 +34,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 29,
       "number": "VP 2602-004",
       "title": "Boleradice, silnice směr Morkůvky",
       "latitude": 48.962976,
@@ -33,7 +50,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 34,
       "number": "VP 2602-019",
       "title": "žel. trať. Brno-Horní Heršpice - Střelice jedna kolej",
       "latitude": 49.162456,
@@ -51,7 +68,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 15,
       "number": "PO 2602-003",
       "title": "Dobšice, silnice II/412, most ev.č. 412-004",
       "latitude": 48.851444,
