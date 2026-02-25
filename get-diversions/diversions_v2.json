@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": 36858,
+      "number": "V2603-007",
+      "title": "Změna odjezdové zastávky linky 84 na Staré osadě",
+      "latitude": 49.202521,
+      "longitude": 16.641948,
+      "validFrom": "2026-03-01T00:00:00+01:00",
+      "validTo": "2026-11-30T23:59:59+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>V souvislosti se stavebními pracemi v ulicích Skopalíkově a Markéty Kuncové a provozními změnami bude <strong>od 1. března 2026 do ukončení prací</strong> (předpoklad do 30. listopadu 2026) <strong>linka 84</strong> na <strong>Staré osadě</strong> pro nástup obsluhovat <strong>nástupiště č. 8</strong> (pravidelná zastávka linky 44).</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma přestupního uzlu Stará osada – <a href=\"https://www.dpmb.cz/sites/default/files/downloads/2026/02/staraosada_260301.pdf\" target=\"_blank\">ke stažení</a></em></p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "84"
+      ]
+    },
+    {
       "id": 36640,
       "number": "V2602-006",
       "title": "Přerušení provozu linky 62",
