@@ -1,6 +1,22 @@
 {
   "diversions": [
     {
+      "id": 36953,
+      "number": "V2603-008",
+      "title": "Výluka autobusů v ulici U Jezu",
+      "latitude": 49.125693,
+      "longitude": 16.633448,
+      "validFrom": "2026-03-02T06:00:00+01:00",
+      "validTo": "2026-05-29T23:59:59+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu stavebních prací nebude<strong> od pondělí 2. března 2026 do ukončení prací</strong> (předpoklad do 29. května 2026) pro autobusy průjezdná ulice U Jezu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>autobusové linky 49</strong> běžně vedené do nebo ze zastávky <strong>Dvůr v lese</strong> budou v provozu pouze v úseku <strong>Hlavní nádraží –</strong> <strong>Modřice, čistička</strong>.<br />\n• Zastávka <strong>Dvůr v lese</strong> bude po dobu trvání výluky <strong>bez obsluhy</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em>  Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "49"
+      ]
+    },
+    {
       "id": 35,
       "number": "Blansko, Dolní Lhota (směr Rájec-Jestřebí)",
       "title": "Blansko, Dolní Lhota směr Rájec-Jestřebí",
