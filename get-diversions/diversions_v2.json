@@ -1,6 +1,42 @@
 {
   "diversions": [
     {
+      "id": 36994,
+      "number": "",
+      "title": "Výluka tramvají v Bystrci",
+      "latitude": 49.218032,
+      "longitude": 16.50949,
+      "validFrom": "2026-03-07T07:00:00+01:00",
+      "validTo": "2026-03-08T19:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu instalace mostní podpěry bude pravděpodobně o víkendu<strong> 7. – 8. března 2026</strong> vyloučen provoz tramvají v úseku <strong>Kubíčkova – Ečerova</strong> v Bystrci. Tramvajová<strong> linka 3</strong> bude ukončena ve smyčce Rakovecká, náhradní dopravu ve vyloučeném úseku zajistí posílená autobusová <strong>linka 54</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"82a3a754-7376-4ed1-acab-e935dec1a956\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Podrobné informace o výluce budou v případě její realizace zveřejněny v týdnu před jejím zahájením na webu <a href=\"https://www.dpmb.cz/\" target=\"_blank\">www.dpmb.cz</a> a rozesílány registrovaným uživatelům prostřednictvím služby <a href=\"https://www.dpmb.cz/form/odber-newsletteru\" target=\"_blank\">Newsletter</a></em>.</p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "3"
+      ]
+    },
+    {
+      "id": 36955,
+      "number": "V2603-009",
+      "title": "Změna obsluhy zastávky Ruda",
+      "latitude": 49.220578,
+      "longitude": 16.502837,
+      "validFrom": "2026-03-05T04:30:00+01:00",
+      "validTo": "2026-04-30T22:20:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>V souvislosti s výstavbou tramvajové trati na Kamechy bude <strong>od 4:30 hod. ve čtvrtek 5. března 2026 do ukončení této etapy prací</strong> (předpoklad do večera 30. dubna 2026) zastávka <strong>Ruda</strong>:<br />\n• Ve směru z Ečerovy na Kamechy přeložena cca o 90 metrů vzad.<br />\n• Ve směru z Kamech na Ečerovu <strong class=\"red\">dočasně bez obsluhy</strong>. Náhradou bude možné využít zastávky <strong>Říčanská</strong> a <strong>Ečerova</strong>.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "E50",
+        "52",
+        "54",
+        "N98",
+        "161"
+      ]
+    },
+    {
       "id": 36953,
       "number": "V2603-008",
       "title": "Výluka autobusů v ulici U Jezu",
@@ -9,7 +45,7 @@
       "validFrom": "2026-03-02T06:00:00+01:00",
       "validTo": "2026-05-29T23:59:59+02:00",
       "isValid": false,
-      "publicTextHtml": "<p>Z důvodu stavebních prací nebude<strong> od pondělí 2. března 2026 do ukončení prací</strong> (předpoklad do 29. května 2026) pro autobusy průjezdná ulice U Jezu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>autobusové linky 49</strong> běžně vedené do nebo ze zastávky <strong>Dvůr v lese</strong> budou v provozu pouze v úseku <strong>Hlavní nádraží –</strong> <strong>Modřice, čistička</strong>.<br />\n• Zastávka <strong>Dvůr v lese</strong> bude po dobu trvání výluky <strong>bez obsluhy</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em>  Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n",
+      "publicTextHtml": "<p>Z důvodu stavebních prací nebude<strong> od pondělí 2. března 2026 do ukončení prací</strong> (předpoklad do 29. května 2026) pro autobusy průjezdná ulice U Jezu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"91942a3b-47db-456f-b278-54ed4d56192f\" data-view-mode=\"\"></drupal-media>\n\n<p> Spoje <strong>autobusové linky 49</strong> běžně vedené do nebo ze zastávky <strong>Dvůr v lese</strong> budou v provozu pouze v úseku <strong>Hlavní nádraží –</strong> <strong>Modřice, čistička</strong>.<br />\n• Zastávka <strong>Dvůr v lese</strong> bude po dobu trvání výluky <strong>bez obsluhy</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em>  Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
