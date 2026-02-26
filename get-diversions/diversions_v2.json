@@ -50,6 +50,22 @@
       ]
     },
     {
+      "id": 36992,
+      "number": "Z2602-013",
+      "title": "Slavnosti moravského uzeného a vína – posílení dopravy k hradu Veveří",
+      "latitude": 49.256634,
+      "longitude": 16.460934,
+      "validFrom": "2026-02-28T09:00:00+01:00",
+      "validTo": "2026-03-01T18:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu konání gastronomické akce Slavnosti moravského uzeného a vína 2026 bude <strong>o víkendu 28. února – 1. března 2026</strong> posílena doprava k hradu Veveří.<br />\n<br />\n<img alt=\"\" src=\"https://old.dpmb.cz/Data/Img/Image/DDI/bus13.png\" /></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Autobusová linka 303 </strong>bude v provozu podle běžného jízdního řádu a jednotlivé spoje budou v případě zvýšené poptávky posíleny autobusem navíc.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> V souvislosti s rekonstrukcí Jižní brány hradu Veveří je přístupová cesta od zastávky <strong>Hrad Veveří </strong>uzavřena!<br />\n• Pro přístup do areálu hradu využijte výhradně zastávku <strong>U Matky Boží</strong>, kterou obsluhují spoje linky 303 jedoucí přes Mečkov.</p>\n",
+      "privateTextHtml": null,
+      "type": "D",
+      "affectedLines": [
+        "303"
+      ]
+    },
+    {
       "id": 36640,
       "number": "V2602-006",
       "title": "Přerušení provozu linky 62",
