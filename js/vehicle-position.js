@@ -1,5 +1,6 @@
 loadStopsCsv();
 
+let isWebSocketInitialized = false; // Nová pro sledování stavu WebSocketu kvůli opuštení a následnému vrácení se k aplikaci
 let ws = null;
 let trackingButton = false;
 const vehicles = new Map();
@@ -182,7 +183,7 @@ function processRecord(record) {
     const lineId = record.LineID;
     const lineName = record.LineName;
 
-    console.log("Stav filterButtonState:" + filterButtonState);
+    //console.log("Stav filterButtonState:" + filterButtonState);
     if (filterButtonState && filterLineNumber !== lineName) {
         //const m = vehicles.get(id);
         //if (m) {
@@ -244,10 +245,11 @@ function sendFilter(wsInstance, lineFilter = null) {
     wsInstance.send(JSON.stringify(filter));
 }
 
-function startWebsocket(lineFilter = null) {
+function startWebsocket(lineFilter = null,overlayText) {
     if (ws) return;
-    _showWsOverlay(); // zobrazíme hlášku o čekání na data
+    _showWsOverlay(overlayText); // zobrazíme hlášku o čekání na data
     ws = new WebSocket(STREAM_URL);
+    isWebSocketInitialized = true; // Nastavit, když se WebSocket otevírá kvůli opuštění a následnému vrácení se do aplikace
     ws.addEventListener('open', () => { sendFilter(ws, lineFilter); });
     ws.addEventListener('message', ev => {
         if (typeof ev.data === 'string') handleMessage(ev.data);
@@ -257,20 +259,27 @@ function startWebsocket(lineFilter = null) {
             reader.readAsText(ev.data);
         }
     });
-    ws.addEventListener('close', () => { ws = null; });
-    ws.addEventListener('error', () => { /* ignore */ });
+    ws.addEventListener('close', () => {
+        ws = null;
+        console.log('Websocket uzavřen');
+    });
+    ws.addEventListener('error', () => {
+        console.log('Websocket error');
+    });
 }
 
 function stopWebsocket() {
     if (!ws) {
         _hideAndRemoveWsOverlay();
+        isWebSocketInitialized = false;
         // reset příznaků tak, aby další start fungoval korektně
         _overlayCheckStarted = false;
         _wsOverlayHidden = false;
         return;
     }
     try { ws.close(); } catch(e) {}
-    ws = null;
+    ws = null; // Ukončujeme spojení
+    isWebSocketInitialized = false; // Nastavujeme proměnnou pro přepínání obrazovek na false
     _hideAndRemoveWsOverlay();
     _overlayCheckStarted = false;
     _wsOverlayHidden = false;
@@ -285,7 +294,7 @@ function stopWebsocket() {
 
 // --- Loading overlay komponenta ---
 
-function _createWsOverlayIfNeeded() {
+function _createWsOverlayIfNeeded(overlayText) {
     if (document.getElementById(_wsOverlayId)) return;
     const el = document.createElement('div');
     el.id = _wsOverlayId;
@@ -325,7 +334,7 @@ function _createWsOverlayIfNeeded() {
     el.appendChild(spinner);
 
     const text = document.createElement('div');
-    text.textContent = 'Čekám na data o poloze vozidel...';
+    text.textContent = overlayText;
     text.style.pointerEvents = 'none';
     el.appendChild(text);
 
@@ -335,11 +344,11 @@ function _createWsOverlayIfNeeded() {
     requestAnimationFrame(() => { el.style.opacity = '1'; });
 }
 
-function _showWsOverlay() {
+function _showWsOverlay(overlayText) {
     // reset příznaků při novém zobrazení
     _overlayCheckStarted = false;
     _wsOverlayHidden = false;
-    _createWsOverlayIfNeeded();
+    _createWsOverlayIfNeeded(overlayText);
     const el = document.getElementById(_wsOverlayId);
     if (!el) return;
     el.style.display = 'flex';
@@ -378,3 +387,20 @@ function _hideOverlayAfterMarkersRendered() {
 }
 
 // Konec zprávy o čekání na načtení dat polohy vozidel
+
+// Skripty pro hlídání opuštění aplikace a vrácení se zpět, aby se znovu otevřel websocket a aktualizoval stav polohy vozů
+
+function checkWebSocket() {
+    console.log('Uvnitře funkce checkWebSocket() je isWebSocketInitialized: ', isWebSocketInitialized);
+    if (isWebSocketInitialized && (!ws || ws.readyState !== WebSocket.OPEN)) {
+        console.log('WebSocket je uzavřený nebo nedostupný, pokoušíme se znovu připojit...');
+        startWebsocket(null,'Obnovuji data o poloze vozidel...'); // Znovu inicializuj WebSocket připojení
+    } else if (ws) {
+        console.log('WebSocket je stále otevřený.');
+    }
+}
+document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') {
+        checkWebSocket(); // Kontroluj stav WebSocketu při návratu do aplikace
+    }
+});

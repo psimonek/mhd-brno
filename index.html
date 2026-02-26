@@ -342,7 +342,7 @@
 	</div>
 
     <script>
-    	var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky   
+        var addclass = 'highlight-color'; // třídla pro dynamické zvýraznění řádku detailu linky
 
 		// proměnná pro zamknutí mobilu, aby nepadal do uspání obrazovky.
 		//let wakeLock = null;
@@ -517,7 +517,7 @@
         vehiclebttn.addEventListener('click', () => {
             if (!trackingButton) {
                 trackingButton = true;
-                startWebsocket();
+                startWebsocket(null,'Čekám na data o poloze vozidel...');
                 vehiclebttn.style.backgroundColor = 'orange';
             } else {
                 trackingButton = false;
