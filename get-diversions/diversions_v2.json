@@ -102,6 +102,24 @@
       ]
     },
     {
+      "id": 37012,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Staré letiště",
+      "latitude": 49.1849594,
+      "longitude": 16.6592656,
+      "validFrom": "2026-02-27T19:00:00+01:00",
+      "validTo": "2026-05-31T15:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu rekonstrukce vodovodu je <strong>od 19:00 v pátek 27. února 2026 do ukončení prací</strong> (předpoklad do konce května 2026) přeložena zastávka <strong>Staré letiště</strong> pro linky 31, 33 a N96 v obou směrech:</p>\n\n<p>• směrem do centra <strong>cca o 400 metrů vzad</strong></p>\n\n<p>• směrem z centra <strong>cca o 430 metrů vpřed</strong></p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "31",
+        "33",
+        "N96"
+      ]
+    },
+    {
       "id": 36640,
       "number": "V2602-006",
       "title": "Přerušení provozu linky 62",
