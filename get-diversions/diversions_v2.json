@@ -35,6 +35,22 @@
       ]
     },
     {
+      "id": 37051,
+      "number": "V2603-010",
+      "title": "Výluka tramvají v Bystrce",
+      "latitude": 49.218042,
+      "longitude": 16.509399,
+      "validFrom": "2026-03-07T07:00:00+01:00",
+      "validTo": "2026-03-08T19:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu instalace mostní podpěry bude o víkendu <strong>7. a 8. března 2026</strong>, vždy mezi <strong>7:00 hod. – 19:00 hod.</strong>, vyloučen provoz tramvají v úseku <strong>Kubíčkova – Ečerova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 3</strong> bude po dobu výluky ukončena ve smyčce <strong>Rakovecká</strong>.<br />\n• Neobslouží tak zastávky <strong>Kubíčkova</strong>, <strong>Ondrouškova</strong> a <strong>Ečerova</strong>.<br />\n• Navíc obslouží zastávku <strong>Rakovecká</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Náhradní dopravu</strong> ve vyloučeném úseku zajistí <strong>autobusová linka 54 (</strong>v běžné trase), která bude oproti pravidelnému jízdnímu řádu posílena.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> I nadále zůstávají v platnosti veškerá opatření platná v rámci aktuálně probíhající výluky tramvají ve smyčce Ečerova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2603-010_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "3"
+      ]
+    },
+    {
       "id": 36994,
       "number": "",
       "title": "Výluka tramvají v Bystrci",
@@ -101,23 +117,6 @@
       "type": "V",
       "affectedLines": [
         "49"
-      ]
-    },
-    {
-      "id": 42,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "664",
-        "912"
       ]
     },
     {
@@ -206,6 +205,23 @@
       "affectedLines": [
         "541",
         "612"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "664",
+        "912"
       ]
     },
     {
