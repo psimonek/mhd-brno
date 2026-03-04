@@ -78,7 +78,7 @@
       "longitude": 16.555533,
       "validFrom": "2026-03-04T08:00:00+01:00",
       "validTo": "2026-03-29T18:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu výkopových prací je <strong>od 8:00 hod. ve středu 4. března 2026 do ukončení prací</strong> (předpoklad do 29. března 2026) přeložena zastávka <strong>Optátova</strong> směr <span><span>Anthropos</span></span> pro linky 44 a N98 přibližně o 100 metrů vzad.</p>\n",
       "privateTextHtml": null,
       "type": "Z",
