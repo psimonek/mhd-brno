@@ -88,23 +88,6 @@
       ]
     },
     {
-      "id": 36,
-      "number": "VP 2603-020",
-      "title": "žel. trať. Mor. Bránice – Ivančice",
-      "latitude": 49.092493,
-      "longitude": 16.403534,
-      "validFrom": "2026-03-03T08:30:00+01:00",
-      "validTo": "2026-03-04T14:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S41</strong></font>\u00A0budou v uvedeném úseku po dobu výluky nahrazeny autobusy náhradní dopravy jedoucími jako\u00A0linka xS41\u00A0podle výlukového jízdního řádu.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S41",
-        "xS41"
-      ]
-    },
-    {
       "id": 36953,
       "number": "V2603-008",
       "title": "Výluka autobusů v ulici U Jezu",
