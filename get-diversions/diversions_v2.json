@@ -92,7 +92,7 @@
       "longitude": 16.502795,
       "validFrom": "2026-03-05T04:30:00+01:00",
       "validTo": "2026-04-30T22:20:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
       "privateTextHtml": null,
       "type": "V",
@@ -108,7 +108,7 @@
       "longitude": 16.502837,
       "validFrom": "2026-03-05T04:30:00+01:00",
       "validTo": "2026-04-30T22:20:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>V souvislosti s výstavbou tramvajové trati na Kamechy bude <strong>od 4:30 hod. ve čtvrtek 5. března 2026 do ukončení této etapy prací</strong> (předpoklad do večera 30. dubna 2026) zastávka <strong>Ruda</strong>:<br />\n• Ve směru z Ečerovy na Kamechy přeložena cca o 90 metrů vzad.<br />\n• Ve směru z Kamech na Ečerovu <strong class=\"red\">dočasně bez obsluhy</strong>. Náhradou bude možné využít zastávky <strong>Říčanská</strong> a <strong>Ečerova</strong>.</p>\n",
       "privateTextHtml": null,
       "type": "Z",
@@ -645,7 +645,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
