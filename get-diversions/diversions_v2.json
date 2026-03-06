@@ -84,6 +84,24 @@
       ]
     },
     {
+      "id": 37173,
+      "number": "",
+      "title": "Dočasná změna nástupní zastávky Česká pro trolejbusy",
+      "latitude": 49.198314,
+      "longitude": 16.605223,
+      "validFrom": "2026-03-07T07:00:00+01:00",
+      "validTo": "2026-03-07T12:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "<p>V sobotu <strong>7. března 2026 od 7:00 hod. do ukončení prací</strong> (předpoklad 12:00 hod.) bude z důvodu úpravy prostranství ulice Brandlovy přeložena nástupní zastávka <strong>Česká</strong> pro trolejbusy linek 32, 34 a 36:</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linka 32</strong> obslouží pro nástup <strong>pravé</strong> příjezdové nástupiště.</p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Linky 34</strong> a<strong> 36</strong> obslouží pro nástup <strong>levé </strong>příjezdové nástupiště.</p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "32",
+        "34",
+        "36"
+      ]
+    },
+    {
       "id": 37051,
       "number": "V2603-010",
       "title": "Výluka tramvají v Bystrci",
@@ -187,24 +205,6 @@
       ]
     },
     {
-      "id": 29,
-      "number": "VP 2603-205",
-      "title": "Blansko, Palava",
-      "latitude": 49.368444,
-      "longitude": 16.658492,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu úplné uzavírky silnice v Blansku mezi místními částmi Sever a Češkovice bude vyloučen provoz autobusů v úseku Blansko, Sever - Blansko, Češkovice.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 223</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku (Klepačov -) Autobusové stanoviště - Sever. Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast, Obůrka, Těchov, mateřská škola a Těchov. Pojede podle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 226</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku Skalní Mlýn - Autobusové stanoviště (- Sever). Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast a Obůrka. Pojede podle výlukového jízdního řádu. Náhradní dopravu zajistí mimořádná autobusová linka<font color=\"#009240\"><strong> x223</strong></font> s přestupem v zastávce Těchov na pravidelnou regionální autobusovou linku<font color=\"#009240\"><strong> 233</strong></font>, nebo v zastávce Poliklinika na linky<font color=\"#2C89C8\"><strong> 222</strong></font> a <font color=\"#2C89C8\"><strong>223</strong></font> směr Sever, resp. Autobusové stanoviště.<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude vedena po trase Blansko: Češkovice - Obůrka - Těchov (přestup na linku 233) - Poliklinika (- Autobusové stanoviště). Ze zastávky Poliklinika bude pokračovat vždy po některé z těchto tras:. - Seifertova - Náměstí Republiky, nebo, - Svitavská - Autobusové stanoviště. V době ranní a odpolední špičky budou vybrané spoje linky<font color=\"#009240\"><strong> x223</strong></font> vedeny od zastávky Těchov po trase: - Erbenova, škola - Náměstí Míru - Pošta - Autobusové stanoviště. Nácestné zastávky Na Žižlavici, Podlesí a Sadová nebude linka<font color=\"#009240\"><strong> x223</strong></font> obsluhovat..<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude v provozu celotýdenně. Náhradní dopravu částečně zajistí také regionální autobusová linka<font color=\"#009240\"><strong> 233</strong></font> prodloužením závleků spojů č. 15, 203 a 260 v úseku Blansko, Obůrka - Těchov přes zastávky Češkovice, chatová oblast a Češkovice. Spoj 260 bude z důvodu vypravení soupravy s cyklovozíkem veden od zastávky Blansko, Těchov závlekem pouze do zastávky Obůrka, kde bude navazovat na spoj č. 203 v protisměru, kterým přiveze cestující z Češkovic. Mezi spoji č. 203 a 260 bude zajištěna garantovaná přestupní vazba v zastávce Blansko, Obůrka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "223",
-        "226",
-        "233"
-      ]
-    },
-    {
       "id": 23,
       "number": "PO 2603-009",
       "title": "Hrušovany u Brna, ul. Masarykova",
@@ -241,20 +241,21 @@
       ]
     },
     {
-      "id": 36,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
+      "id": 29,
+      "number": "VP 2603-205",
+      "title": "Blansko, Palava",
+      "latitude": 49.368444,
+      "longitude": 16.658492,
       "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
+      "validTo": "2026-08-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
+      "publicTextHtml": "Z důvodu úplné uzavírky silnice v Blansku mezi místními částmi Sever a Češkovice bude vyloučen provoz autobusů v úseku Blansko, Sever - Blansko, Češkovice.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 223</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku (Klepačov -) Autobusové stanoviště - Sever. Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast, Obůrka, Těchov, mateřská škola a Těchov. Pojede podle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 226</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku Skalní Mlýn - Autobusové stanoviště (- Sever). Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast a Obůrka. Pojede podle výlukového jízdního řádu. Náhradní dopravu zajistí mimořádná autobusová linka<font color=\"#009240\"><strong> x223</strong></font> s přestupem v zastávce Těchov na pravidelnou regionální autobusovou linku<font color=\"#009240\"><strong> 233</strong></font>, nebo v zastávce Poliklinika na linky<font color=\"#2C89C8\"><strong> 222</strong></font> a <font color=\"#2C89C8\"><strong>223</strong></font> směr Sever, resp. Autobusové stanoviště.<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude vedena po trase Blansko: Češkovice - Obůrka - Těchov (přestup na linku 233) - Poliklinika (- Autobusové stanoviště). Ze zastávky Poliklinika bude pokračovat vždy po některé z těchto tras:. - Seifertova - Náměstí Republiky, nebo, - Svitavská - Autobusové stanoviště. V době ranní a odpolední špičky budou vybrané spoje linky<font color=\"#009240\"><strong> x223</strong></font> vedeny od zastávky Těchov po trase: - Erbenova, škola - Náměstí Míru - Pošta - Autobusové stanoviště. Nácestné zastávky Na Žižlavici, Podlesí a Sadová nebude linka<font color=\"#009240\"><strong> x223</strong></font> obsluhovat..<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude v provozu celotýdenně. Náhradní dopravu částečně zajistí také regionální autobusová linka<font color=\"#009240\"><strong> 233</strong></font> prodloužením závleků spojů č. 15, 203 a 260 v úseku Blansko, Obůrka - Těchov přes zastávky Češkovice, chatová oblast a Češkovice. Spoj 260 bude z důvodu vypravení soupravy s cyklovozíkem veden od zastávky Blansko, Těchov závlekem pouze do zastávky Obůrka, kde bude navazovat na spoj č. 203 v protisměru, kterým přiveze cestující z Češkovic. Mezi spoji č. 203 a 260 bude zajištěna garantovaná přestupní vazba v zastávce Blansko, Obůrka. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "664",
-        "912"
+        "223",
+        "226",
+        "233"
       ]
     },
     {
@@ -289,6 +290,23 @@
       "affectedLines": [
         "222",
         "235"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "664",
+        "912"
       ]
     },
     {
