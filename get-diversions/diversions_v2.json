@@ -126,7 +126,7 @@
       "longitude": 16.011090,
       "validFrom": "2026-03-07T00:00:00+01:00",
       "validTo": "2026-03-07T23:55:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Všechny vlaky budou po dobu výluky nahrazeny náhradní autobusovou dopravu (NAD) v úseku\u00A0Znojmo – Retz \u00A0jedoucí podle jízdního řádu\u00A0linky xS82.. Autobusy náhradní dopravy budou\u00A0odjíždět\u00A0ze stanice\u00A0Znojmo o cca 45 minut dříve, než je pravidelný\u00A0odjezd vlaků, naopak budou do stanice\u00A0Znojmo přijíždět až o 35 minut později.. ",
       "privateTextHtml": null,
       "type": "V",
