@@ -33,7 +33,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 38,
       "number": "PO 2603-008",
       "title": "Znojmo, Pražská sídliště",
       "latitude": 48.868441,
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 32,
       "number": "VP 2603-022",
       "title": "žel. trať v úseku Skalice nad Svitavou – Boskovice",
       "latitude": 49.473662,
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 31,
       "number": "VP 2603-021",
       "title": "žel. trať. Křenovice h.n. - Brno hl.n. + Blansko- Rájec-Jestřebí",
       "latitude": 49.125780,
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 37,
       "number": "VP 2603-025",
       "title": "žel. trať v úseku Znojmo - Retz",
       "latitude": 48.769699,
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 36,
       "number": "2603 Brno, Ruda",
       "title": "Brno, Ruda - oba směry",
       "latitude": 49.220558,
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 22,
       "number": "PO 2603-009",
       "title": "Hrušovany u Brna, ul. Masarykova",
       "latitude": 49.038571,
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 28,
       "number": "VP 2603-205",
       "title": "Blansko, Palava",
       "latitude": 49.368444,
@@ -259,15 +259,15 @@
       ]
     },
     {
-      "id": 35,
+      "id": 34,
       "number": "VP 2603-207",
-      "title": "Boleradice II, silnice směr Morkůvky",
+      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
       "latitude": 48.962976,
       "longitude": 16.825633,
       "validFrom": "2026-03-02T00:00:00+01:00",
       "validTo": "2026-06-05T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. ",
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 30,
       "number": "Blansko, Dolní Lhota (směr Rájec-Jestřebí)",
       "title": "Blansko, Dolní Lhota směr Rájec-Jestřebí",
       "latitude": 49.384465,
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 35,
       "number": "VP 2603-206",
       "title": "Hodonín, Měšťanská",
       "latitude": 48.861157,
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 33,
       "number": "PO 2602-006",
       "title": "Modřice, Agropodnik",
       "latitude": 49.124451,
