@@ -50,23 +50,6 @@
       ]
     },
     {
-      "id": 37051,
-      "number": "V2603-010",
-      "title": "Výluka tramvají v Bystrci",
-      "latitude": 49.218042,
-      "longitude": 16.509399,
-      "validFrom": "2026-03-07T07:00:00+01:00",
-      "validTo": "2026-03-08T19:00:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "<p>Z důvodu instalace mostní podpěry bude o víkendu <strong>7. a 8. března 2026</strong>, vždy mezi <strong>7:00 hod. – 19:00 hod.</strong>, vyloučen provoz tramvají v úseku <strong>Kubíčkova – Ečerova</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Tramvajová linka 3</strong> bude po dobu výluky ukončena ve smyčce <strong>Rakovecká</strong>.<br />\n• Neobslouží tak zastávky <strong>Kubíčkova</strong>, <strong>Ondrouškova</strong> a <strong>Ečerova</strong>.<br />\n• Navíc obslouží zastávku <strong>Rakovecká</strong>.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Náhradní dopravu</strong> ve vyloučeném úseku zajistí <strong>autobusová linka 54 </strong>(v běžné trase), která bude oproti pravidelnému jízdnímu řádu posílena.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"e4b7c0ba-8762-481e-9ccd-098e280c4d65\" data-view-mode=\"\"></drupal-media>\n\n<p> I nadále zůstávají v platnosti veškerá opatření platná v rámci aktuálně probíhající výluky tramvají ve smyčce Ečerova.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2603-010_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "3",
-        "54"
-      ]
-    },
-    {
       "id": 36955,
       "number": "V2603-009",
       "title": "Změna obsluhy zastávky Ruda",
@@ -136,6 +119,23 @@
       ]
     },
     {
+      "id": 30,
+      "number": "Blansko, Dolní Lhota (směr Rájec-Jestřebí)",
+      "title": "Blansko, Dolní Lhota směr Rájec-Jestřebí",
+      "latitude": 49.384465,
+      "longitude": 16.632813,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-03-15T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0opravy chodníků při komunikaci č.\u00A0III/37435\u00A0v místní části Dolní Lhota ve městě Blansku bude operativně\u00A0překládána zastávka Blansko, Dolní Lhota\u00A0směr Rájec-Jestřebí mimo místo stavebních prací.<br/><br/> Linky<font color=\"#2C89C8\"><strong> 222</strong></font> (pro výstup) a 235\u00A0obslouží zastávku Blansko, Dolní Lhota směr Rájec-Jestřebí v provizorní poloze. Zastávka Blansko, Dolní Lhota směr centrum Blanska bude obsluhována ve standardní pozici. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "222",
+        "235"
+      ]
+    },
+    {
       "id": 22,
       "number": "PO 2603-009",
       "title": "Hrušovany u Brna, ul. Masarykova",
@@ -190,23 +190,6 @@
       ]
     },
     {
-      "id": 35,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "664",
-        "912"
-      ]
-    },
-    {
       "id": 34,
       "number": "VP 2603-207",
       "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
@@ -224,20 +207,20 @@
       ]
     },
     {
-      "id": 30,
-      "number": "Blansko, Dolní Lhota (směr Rájec-Jestřebí)",
-      "title": "Blansko, Dolní Lhota směr Rájec-Jestřebí",
-      "latitude": 49.384465,
-      "longitude": 16.632813,
+      "id": 35,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
       "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-03-15T23:59:00+01:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0opravy chodníků při komunikaci č.\u00A0III/37435\u00A0v místní části Dolní Lhota ve městě Blansku bude operativně\u00A0překládána zastávka Blansko, Dolní Lhota\u00A0směr Rájec-Jestřebí mimo místo stavebních prací.<br/><br/> Linky<font color=\"#2C89C8\"><strong> 222</strong></font> (pro výstup) a 235\u00A0obslouží zastávku Blansko, Dolní Lhota směr Rájec-Jestřebí v provizorní poloze. Zastávka Blansko, Dolní Lhota směr centrum Blanska bude obsluhována ve standardní pozici. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "222",
-        "235"
+        "664",
+        "912"
       ]
     },
     {
