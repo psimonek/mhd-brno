@@ -40,7 +40,7 @@
       "longitude": 16.034310,
       "validFrom": "2026-03-09T00:00:00+01:00",
       "validTo": "2026-05-31T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Linky<font color=\"#2C89C8\"><strong> 803</strong></font> a <font color=\"#009240\"><strong>807</strong></font> jedou mezi zastávkami Pod Soudním vrchem a Gagarinova odklonem ulicí Pod Soudním vrchem. Zastávka Znojmo, Pod Soudním vrchem přeložena o cca 40 metrů zpět (blíže k hlavní silnici I/38). ",
       "privateTextHtml": null,
       "type": "V",
