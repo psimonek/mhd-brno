@@ -40,7 +40,7 @@
       "longitude": 16.70193,
       "validFrom": "2026-03-10T09:00:00+01:00",
       "validTo": "2026-03-22T15:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu výkopových prací je <strong>od 9:00 hod. v úterý 10. března 2026 do ukončení prací</strong> (předpoklad do 22. března 2026) přeložena zastávka <strong>Macháčkova</strong> pro linky 55, N98 a 151 v obou směrech:</p>\n\n<p>• směrem do centra <strong>cca o 175 metrů vpřed</strong></p>\n\n<p>• směrem z centra <strong>cca o 175 metrů vzad</strong></p>\n",
       "privateTextHtml": null,
       "type": "Z",
