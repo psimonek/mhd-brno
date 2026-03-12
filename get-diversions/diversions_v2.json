@@ -1,6 +1,23 @@
 {
   "diversions": [
     {
+      "id": 37286,
+      "number": "",
+      "title": "Dočasné přeložení zastávky Skácelova",
+      "latitude": 49.221896,
+      "longitude": 16.585016,
+      "validFrom": "2026-03-16T05:00:00+01:00",
+      "validTo": "2026-07-15T15:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "<p>Z důvodu výkopových prací bude <strong>od 5:00 hod. v pondělí 16. března 2026 do ukončení prací</strong> (předpoklad do 15. července 2026) přeložena zastávka <strong>Skácelova</strong> pro linky 12 a N99 v obou směrech před křižovatku Královopolská × Skácelova × Purkyňova blíže k centru:</p>\n\n<p>• směrem do centra <strong>cca o 130 metrů vpřed</strong></p>\n\n<p>• směrem z centra <strong>cca o 140 metrů vzad</strong></p>\n",
+      "privateTextHtml": null,
+      "type": "Z",
+      "affectedLines": [
+        "12",
+        "N99"
+      ]
+    },
+    {
       "id": 37218,
       "number": "V2603-012",
       "title": "Výluka tramvají na Stránskou skálu",
