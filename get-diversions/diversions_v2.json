@@ -125,7 +125,7 @@
       "longitude": 16.673947,
       "validFrom": "2026-03-14T05:00:00+01:00",
       "validTo": "2026-04-15T23:20:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu úplné uzavírky silnice v části ul. Elplova v Brně-Líšni dojde k omezení na lince<font color=\"#009240\"><strong> 201</strong></font>.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 78</strong></font>\u00A0pojede\u00A0v úseku mezi zastávkami Elplova – Mikulovská odklonem ulicemi Podruhovou - Masarovou - Houbalovou - Sedláčkovou - Jedovnickou. Neobslouží tak zastávku Brno, Strnadova. Náhradou linka<font color=\"#2C89C8\"><strong> 78</strong></font> na odklonové trase obslouží nácestné zastávky Houbalova a Vlkova.\u00A0S ohledem na stavební uspořádání komunikace a aktuální intenzity provozu\u00A0nebude linka<font color=\"#2C89C8\"><strong> 78</strong></font> obsluhovat zastávku Růženin dvůr..<br/><br/> Linka<font color=\"#009240\"><strong> 201</strong></font> (školní spoje č. 26 a 79 obsluhující zastávku Brno, Horníkova) pojedou v úseku Horníkova - Prušánecká obousměrným odklonem ulicemi Podruhovou - Masarovou - Houbalovou - Sedláčkovou - Jedovnickou. Neobslouží tak zastávku Brno, Strnadova. Na odklonové trase neobslouží žádné nácestné zastávky.\u00A0. ",
       "privateTextHtml": null,
       "type": "V",
@@ -746,7 +746,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
