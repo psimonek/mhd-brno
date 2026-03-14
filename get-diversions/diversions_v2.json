@@ -1,6 +1,39 @@
 {
   "diversions": [
     {
+      "id": 38,
+      "number": "VP 2603-208",
+      "title": "Rosice, Zastávecká",
+      "latitude": 49.183274,
+      "longitude": 16.374564,
+      "validFrom": "2026-03-17T00:00:00+01:00",
+      "validTo": "2026-03-25T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 153</strong></font>\u00A0pojede v úseku mezi zastávkami Rosice, ADOSA a Rosice, Trávníky obousměrným odklonem ulicemi Na Mýtě, Kpt. Jaroše, Brněnská a Wolkerova. Na odklonové trase obslouží zastávku Rosice, Kamínky. Zastávky Rosice, Husova a Rosice, Těstárny budou obsluhovány pouze spoji č. 8 a 15 (školní spoje). Zastávka Rosice, Těstárny bude navíc přeložena na ulici 1. května (před křižovatkou s ulicí Pod zahrádkami – společná pro oba směry). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "153"
+      ]
+    },
+    {
+      "id": 35,
+      "number": "VP 2603-024",
+      "title": "žel. trať. Znojmo - Šumná",
+      "latitude": 48.923402,
+      "longitude": 15.896015,
+      "validFrom": "2026-03-16T07:35:00+01:00",
+      "validTo": "2026-03-19T15:35:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S81</strong></font> budou v úseku\u00A0Znojmo – Šumná\u00A0nahrazeny autobusy náhradní\u00A0dopravy (NAD) jedoucí jako linka xS81.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S81",
+        "xS81"
+      ]
+    },
+    {
       "id": 37286,
       "number": "",
       "title": "Dočasné přeložení zastávky Skácelova",
@@ -35,6 +68,73 @@
       ]
     },
     {
+      "id": 15,
+      "number": "Újezd u Černé Hory (směr Lažany)",
+      "title": "Újezd u Černé Hory (směr Lažany)",
+      "latitude": 49.370791,
+      "longitude": 16.544144,
+      "validFrom": "2026-03-16T00:00:00+01:00",
+      "validTo": "2026-05-17T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu výkopových prací na silnici v obci Újezd u Černé Hory bude pro linku<font color=\"#009240\"><strong> 313</strong></font> přeložena zastávka Újezd u Černé Hory (pouze směr Lažany). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "313"
+      ]
+    },
+    {
+      "id": 41,
+      "number": "2603 Vracov, obecní úřad",
+      "title": "Vracov, obecní úřad (směr Bzenec)",
+      "latitude": 48.979706,
+      "longitude": 17.219275,
+      "validFrom": "2026-03-16T00:00:00+01:00",
+      "validTo": "2026-03-26T23:59:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu uzavírky zastávkového zálivu zastávky Vracov, ObÚ bude tato zastávka ve směru na Bzenec dočasně přesunuta o 150m vzad. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "665",
+        "912"
+      ]
+    },
+    {
+      "id": 34,
+      "number": "VP 2603-023",
+      "title": "žel. trať. Hrušovany u Brna - Židlochovice",
+      "latitude": 49.028821,
+      "longitude": 16.604668,
+      "validFrom": "2026-03-14T08:10:00+01:00",
+      "validTo": "2026-03-14T15:50:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S3</strong></font> budou v úseku\u00A0Hrušovany u Brna – Židlochovice\u00A0nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle jízdního řádu\u00A0linky xS3.",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S3",
+        "xS3"
+      ]
+    },
+    {
+      "id": 40,
+      "number": "PO 2603-011",
+      "title": "Brno, ul. Elplova",
+      "latitude": 49.210543,
+      "longitude": 16.673947,
+      "validFrom": "2026-03-14T05:00:00+01:00",
+      "validTo": "2026-04-15T23:20:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu úplné uzavírky silnice v části ul. Elplova v Brně-Líšni dojde k omezení na lince<font color=\"#009240\"><strong> 201</strong></font>.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 78</strong></font>\u00A0pojede\u00A0v úseku mezi zastávkami Elplova – Mikulovská odklonem ulicemi Podruhovou - Masarovou - Houbalovou - Sedláčkovou - Jedovnickou. Neobslouží tak zastávku Brno, Strnadova. Náhradou linka<font color=\"#2C89C8\"><strong> 78</strong></font> na odklonové trase obslouží nácestné zastávky Houbalova a Vlkova.\u00A0S ohledem na stavební uspořádání komunikace a aktuální intenzity provozu\u00A0nebude linka<font color=\"#2C89C8\"><strong> 78</strong></font> obsluhovat zastávku Růženin dvůr..<br/><br/> Linka<font color=\"#009240\"><strong> 201</strong></font> (školní spoje č. 26 a 79 obsluhující zastávku Brno, Horníkova) pojedou v úseku Horníkova - Prušánecká obousměrným odklonem ulicemi Podruhovou - Masarovou - Houbalovou - Sedláčkovou - Jedovnickou. Neobslouží tak zastávku Brno, Strnadova. Na odklonové trase neobslouží žádné nácestné zastávky.\u00A0. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "78",
+        "201"
+      ]
+    },
+    {
       "id": 37217,
       "number": "V2603-011",
       "title": "Omezení na lince 78 v oblasti Líšně",
@@ -49,6 +149,22 @@
       "affectedLines": [
         "78",
         "201"
+      ]
+    },
+    {
+      "id": 42,
+      "number": "2603 Brno, Macháčkova",
+      "title": "Brno, Macháčkova oba směry",
+      "latitude": 49.206201,
+      "longitude": 16.701719,
+      "validFrom": "2026-03-10T09:00:00+01:00",
+      "validTo": "2026-03-22T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0opravy havarijního stavu odvodnění\u00A0je zastávka Brno, Macháčkova v obou směrech dočasně přesunuta o cca 175 metrů (ve směru na Jírovu vpřed před objekt č. p. 48, ve směru do Mariánského údolí vzad před objekt č. p. 36). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "151"
       ]
     },
     {
@@ -70,7 +186,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 39,
       "number": "PO 2603-008",
       "title": "Znojmo, Pražská sídliště",
       "latitude": 48.868441,
@@ -84,22 +200,6 @@
       "affectedLines": [
         "803",
         "807"
-      ]
-    },
-    {
-      "id": 36,
-      "number": "2603 Brno, Ruda",
-      "title": "Brno, Ruda - oba směry",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2026-03-05T04:30:00+01:00",
-      "validTo": "2026-04-30T22:20:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -119,6 +219,22 @@
         "52",
         "54",
         "N98",
+        "161"
+      ]
+    },
+    {
+      "id": 33,
+      "number": "2603 Brno, Ruda",
+      "title": "Brno, Ruda - oba směry",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2026-03-05T04:30:00+01:00",
+      "validTo": "2026-04-30T22:20:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
         "161"
       ]
     },
@@ -156,7 +272,59 @@
       ]
     },
     {
-      "id": 22,
+      "id": 31,
+      "number": "VP 2603-207",
+      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-06-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541",
+        "612"
+      ]
+    },
+    {
+      "id": 32,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "664",
+        "912"
+      ]
+    },
+    {
+      "id": 25,
+      "number": "VP 2603-205",
+      "title": "Blansko, Palava",
+      "latitude": 49.368444,
+      "longitude": 16.658492,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-08-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu úplné uzavírky silnice v Blansku mezi místními částmi Sever a Češkovice bude vyloučen provoz autobusů v úseku Blansko, Sever - Blansko, Češkovice.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 223</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku (Klepačov -) Autobusové stanoviště - Sever. Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast, Obůrka, Těchov, mateřská škola a Těchov. Pojede podle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 226</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku Skalní Mlýn - Autobusové stanoviště (- Sever). Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast a Obůrka. Pojede podle výlukového jízdního řádu. Náhradní dopravu zajistí mimořádná autobusová linka<font color=\"#009240\"><strong> x223</strong></font> s přestupem v zastávce Těchov na pravidelnou regionální autobusovou linku<font color=\"#009240\"><strong> 233</strong></font>, nebo v zastávce Poliklinika na linky<font color=\"#2C89C8\"><strong> 222</strong></font> a <font color=\"#2C89C8\"><strong>223</strong></font> směr Sever, resp. Autobusové stanoviště.<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude vedena po trase Blansko: Češkovice - Obůrka - Těchov (přestup na linku 233) - Poliklinika (- Autobusové stanoviště). Ze zastávky Poliklinika bude pokračovat vždy po některé z těchto tras:. - Seifertova - Náměstí Republiky, nebo, - Svitavská - Autobusové stanoviště. V době ranní a odpolední špičky budou vybrané spoje linky<font color=\"#009240\"><strong> x223</strong></font> vedeny od zastávky Těchov po trase: - Erbenova, škola - Náměstí Míru - Pošta - Autobusové stanoviště. Nácestné zastávky Na Žižlavici, Podlesí a Sadová nebude linka<font color=\"#009240\"><strong> x223</strong></font> obsluhovat.. S platností od 17.03.2026 bude linka<font color=\"#009240\"><strong> x223</strong></font> obsluhovat zastávku Na Žižlavici v obou směrech..<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude v provozu celotýdenně. Náhradní dopravu částečně zajistí také regionální autobusová linka<font color=\"#009240\"><strong> 233</strong></font> prodloužením závleků spojů č. 15, 203 a 260 v úseku Blansko, Obůrka - Těchov přes zastávky Češkovice, chatová oblast a Češkovice. Spoj 260 bude z důvodu vypravení soupravy s cyklovozíkem veden od zastávky Blansko, Těchov závlekem pouze do zastávky Obůrka, kde bude navazovat na spoj č. 203 v protisměru, kterým přiveze cestující z Češkovic. Mezi spoji č. 203 a 260 bude zajištěna garantovaná přestupní vazba v zastávce Blansko, Obůrka. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "223",
+        "226",
+        "233"
+      ]
+    },
+    {
+      "id": 20,
       "number": "PO 2603-009",
       "title": "Hrušovany u Brna, ul. Masarykova",
       "latitude": 49.038571,
@@ -189,75 +357,6 @@
         "601",
         "630",
         "631"
-      ]
-    },
-    {
-      "id": 28,
-      "number": "VP 2603-205",
-      "title": "Blansko, Palava",
-      "latitude": 49.368444,
-      "longitude": 16.658492,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-08-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu úplné uzavírky silnice v Blansku mezi místními částmi Sever a Češkovice bude vyloučen provoz autobusů v úseku Blansko, Sever - Blansko, Češkovice.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 223</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku (Klepačov -) Autobusové stanoviště - Sever. Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast, Obůrka, Těchov, mateřská škola a Těchov. Pojede podle výlukového jízdního řádu.<br/><br/> Linka<font color=\"#2C89C8\"><strong> 226</strong></font>\u00A0(MD Blansko)\u00A0bude vedena pouze v úseku Skalní Mlýn - Autobusové stanoviště (- Sever). Neobslouží tak zastávky Češkovice, Češkovice, chatová oblast a Obůrka. Pojede podle výlukového jízdního řádu. Náhradní dopravu zajistí mimořádná autobusová linka<font color=\"#009240\"><strong> x223</strong></font> s přestupem v zastávce Těchov na pravidelnou regionální autobusovou linku<font color=\"#009240\"><strong> 233</strong></font>, nebo v zastávce Poliklinika na linky<font color=\"#2C89C8\"><strong> 222</strong></font> a <font color=\"#2C89C8\"><strong>223</strong></font> směr Sever, resp. Autobusové stanoviště.<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude vedena po trase Blansko: Češkovice - Obůrka - Těchov (přestup na linku 233) - Poliklinika (- Autobusové stanoviště). Ze zastávky Poliklinika bude pokračovat vždy po některé z těchto tras:. - Seifertova - Náměstí Republiky, nebo, - Svitavská - Autobusové stanoviště. V době ranní a odpolední špičky budou vybrané spoje linky<font color=\"#009240\"><strong> x223</strong></font> vedeny od zastávky Těchov po trase: - Erbenova, škola - Náměstí Míru - Pošta - Autobusové stanoviště. Nácestné zastávky Na Žižlavici, Podlesí a Sadová nebude linka<font color=\"#009240\"><strong> x223</strong></font> obsluhovat..<br/><br/> Linka<font color=\"#009240\"><strong> x223</strong></font> bude v provozu celotýdenně. Náhradní dopravu částečně zajistí také regionální autobusová linka<font color=\"#009240\"><strong> 233</strong></font> prodloužením závleků spojů č. 15, 203 a 260 v úseku Blansko, Obůrka - Těchov přes zastávky Češkovice, chatová oblast a Češkovice. Spoj 260 bude z důvodu vypravení soupravy s cyklovozíkem veden od zastávky Blansko, Těchov závlekem pouze do zastávky Obůrka, kde bude navazovat na spoj č. 203 v protisměru, kterým přiveze cestující z Češkovic. Mezi spoji č. 203 a 260 bude zajištěna garantovaná přestupní vazba v zastávce Blansko, Obůrka. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "223",
-        "226",
-        "233"
-      ]
-    },
-    {
-      "id": 34,
-      "number": "VP 2603-207",
-      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-06-05T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541",
-        "612"
-      ]
-    },
-    {
-      "id": 35,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "664",
-        "912"
-      ]
-    },
-    {
-      "id": 30,
-      "number": "Blansko, Dolní Lhota (směr Rájec-Jestřebí)",
-      "title": "Blansko, Dolní Lhota směr Rájec-Jestřebí",
-      "latitude": 49.384465,
-      "longitude": 16.632813,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-03-15T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0opravy chodníků při komunikaci č.\u00A0III/37435\u00A0v místní části Dolní Lhota ve městě Blansku bude operativně\u00A0překládána zastávka Blansko, Dolní Lhota\u00A0směr Rájec-Jestřebí mimo místo stavebních prací.<br/><br/> Linky<font color=\"#2C89C8\"><strong> 222</strong></font> (pro výstup) a 235\u00A0obslouží zastávku Blansko, Dolní Lhota směr Rájec-Jestřebí v provizorní poloze. Zastávka Blansko, Dolní Lhota směr centrum Blanska bude obsluhována ve standardní pozici. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "222",
-        "235"
       ]
     },
     {
@@ -295,7 +394,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 30,
       "number": "PO 2602-006",
       "title": "Modřice, Agropodnik",
       "latitude": 49.124451,
@@ -647,7 +746,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
