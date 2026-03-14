@@ -101,23 +101,6 @@
       ]
     },
     {
-      "id": 34,
-      "number": "VP 2603-023",
-      "title": "žel. trať. Hrušovany u Brna - Židlochovice",
-      "latitude": 49.028821,
-      "longitude": 16.604668,
-      "validFrom": "2026-03-14T08:10:00+01:00",
-      "validTo": "2026-03-14T15:50:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S3</strong></font> budou v úseku\u00A0Hrušovany u Brna – Židlochovice\u00A0nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle jízdního řádu\u00A0linky xS3.",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S3",
-        "xS3"
-      ]
-    },
-    {
       "id": 40,
       "number": "PO 2603-011",
       "title": "Brno, ul. Elplova",
@@ -203,6 +186,22 @@
       ]
     },
     {
+      "id": 33,
+      "number": "2603 Brno, Ruda",
+      "title": "Brno, Ruda - oba směry",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2026-03-05T04:30:00+01:00",
+      "validTo": "2026-04-30T22:20:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "161"
+      ]
+    },
+    {
       "id": 36955,
       "number": "V2603-009",
       "title": "Změna obsluhy zastávky Ruda",
@@ -219,22 +218,6 @@
         "52",
         "54",
         "N98",
-        "161"
-      ]
-    },
-    {
-      "id": 33,
-      "number": "2603 Brno, Ruda",
-      "title": "Brno, Ruda - oba směry",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2026-03-05T04:30:00+01:00",
-      "validTo": "2026-04-30T22:20:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "161"
       ]
     },
@@ -272,20 +255,22 @@
       ]
     },
     {
-      "id": 31,
-      "number": "VP 2603-207",
-      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
+      "id": 11,
+      "number": "PO 2603-007",
+      "title": "Slavkov u Brna, okružní křižovatka v centru",
+      "latitude": 49.150780,
+      "longitude": 16.876373,
       "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-06-05T23:59:00+02:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 630</strong></font>, <font color=\"#009240\"><strong> 631</strong></font>:\u00A0Jedou ve Slavkově u Brna odklonem bez dopadu na obsluhu zastávek. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "541",
-        "612"
+        "106",
+        "601",
+        "630",
+        "631"
       ]
     },
     {
@@ -303,6 +288,23 @@
       "affectedLines": [
         "664",
         "912"
+      ]
+    },
+    {
+      "id": 31,
+      "number": "VP 2603-207",
+      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-06-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541",
+        "612"
       ]
     },
     {
@@ -338,25 +340,6 @@
       "affectedLines": [
         "154",
         "521"
-      ]
-    },
-    {
-      "id": 11,
-      "number": "PO 2603-007",
-      "title": "Slavkov u Brna, okružní křižovatka v centru",
-      "latitude": 49.150780,
-      "longitude": 16.876373,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-05-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 630</strong></font>, <font color=\"#009240\"><strong> 631</strong></font>:\u00A0Jedou ve Slavkově u Brna odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "601",
-        "630",
-        "631"
       ]
     },
     {
