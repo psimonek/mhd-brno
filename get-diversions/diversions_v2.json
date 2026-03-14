@@ -108,7 +108,7 @@
       "longitude": 16.604668,
       "validFrom": "2026-03-14T08:10:00+01:00",
       "validTo": "2026-03-14T15:50:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S3</strong></font> budou v úseku\u00A0Hrušovany u Brna – Židlochovice\u00A0nahrazeny autobusy náhradní dopravy (NAD) jedoucími podle jízdního řádu\u00A0linky xS3.",
       "privateTextHtml": null,
       "type": "V",
