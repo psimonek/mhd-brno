@@ -58,7 +58,7 @@
       "longitude": 16.677053,
       "validFrom": "2026-03-16T00:00:00+01:00",
       "validTo": "2026-05-29T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu opravy tramvajové tratě bude <strong>od pondělí 16. března 2026 do ukončení prací</strong> (předpoklad do 29. května 2026) vyloučen provoz tramvají na Stránskou skálu.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"bc4c9a93-c8e0-447b-9750-d0ec753169bf\" data-view-mode=\"\"></drupal-media>\n\n<p> Všechny spoje <strong>tramvajové linky 10</strong> budou od zastávky Krásného odkloněny do smyčky <strong>Novolíšeňská</strong>.<br />\n• Tramvajové zastávky <strong>Podstránská</strong>, <strong>Stránská skála</strong> a <strong>Stránská skála - smyčka</strong> nebude možné obsloužit.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"fc4dd07b-c8f7-46d9-9dbc-626086b3714a\" data-view-mode=\"\"></drupal-media>\n\n<p> Náhradní dopravu pro areál Zetoru zajistí <strong>autobusová linka x10</strong> v polookružní trase <strong>Novolíšeňská – Zetor - smyčka – ZKL – Slévárna Heunisch – Zetor - silnice – Novolíšeňská</strong>.<br />\n• Linka x10 bude v provozu pouze ve špičkách pracovních dnů, vždy od <strong>4:45 do 8:30</strong>, <strong>od 13:30 do 18:30</strong> a účelový spoj <strong>po 22:00</strong>.<br />\n• Zastávku <strong>Zetor - smyčka</strong> obslouží linka x10 náhradou za spoje linky 58 vedené závlekem přes tuto zastávku.</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"b2d6d691-c35d-4b6e-be2d-98f2754298c0\" data-view-mode=\"\"></drupal-media>\n\n<p><strong> Změny zastávek:</strong></p>\n\n<p><strong>Podstránská</strong> – bez obsluhy linkou 10, obsluhována pravidelnými autobusovými linkami 72 a 75</p>\n\n<p><strong>Stránská skála</strong> – bez obsluhy, náhradou bude možné využít linku x10 (obslouží zastávky v areálu Zetoru)</p>\n\n<p><strong>Stránská skála - smyčka</strong> – bez obsluhy, náhradou bude možné využít linku x10 (obslouží zastávky v areálu Zetoru)</p>\n\n<p> </p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Schéma dopravních opatření – <a href=\"https://dpmb.cz/sites/default/files/infotabule/info_v2603-012_web.pdf\" target=\"_blank\">ke stažení</a></em></p>\n\n<drupal-media data-align=\"left\" data-entity-type=\"media\" data-entity-uuid=\"081d77d8-0e25-42e5-805f-a4a5b5daf1ca\" data-view-mode=\"\"></drupal-media>\n\n<p><em> Jízdní řády dotčených linek budou k dispozici v sekci <a href=\"https://www.dpmb.cz/jizdni-rady-zastavek-linek\">Jízdní řády</a>.</em></p>\n",
       "privateTextHtml": null,
       "type": "V",
@@ -75,7 +75,7 @@
       "longitude": 16.544144,
       "validFrom": "2026-03-16T00:00:00+01:00",
       "validTo": "2026-05-17T23:59:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu výkopových prací na silnici v obci Újezd u Černé Hory bude pro linku<font color=\"#009240\"><strong> 313</strong></font> přeložena zastávka Újezd u Černé Hory (pouze směr Lažany). ",
       "privateTextHtml": null,
       "type": "V",
@@ -91,7 +91,7 @@
       "longitude": 17.219275,
       "validFrom": "2026-03-16T00:00:00+01:00",
       "validTo": "2026-03-26T23:59:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Z důvodu uzavírky zastávkového zálivu zastávky Vracov, ObÚ bude tato zastávka ve směru na Bzenec dočasně přesunuta o 150m vzad. ",
       "privateTextHtml": null,
       "type": "V",
@@ -729,7 +729,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
