@@ -41,7 +41,7 @@
       "longitude": 16.585016,
       "validFrom": "2026-03-16T05:00:00+01:00",
       "validTo": "2026-07-15T15:00:00+02:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "<p>Z důvodu výkopových prací bude <strong>od 5:00 hod. v pondělí 16. března 2026 do ukončení prací</strong> (předpoklad do 15. července 2026) přeložena zastávka <strong>Skácelova</strong> pro linky 12 a N99 v obou směrech před křižovatku Královopolská × Skácelova × Purkyňova blíže k centru:</p>\n\n<p>• směrem do centra <strong>cca o 130 metrů vpřed</strong></p>\n\n<p>• směrem z centra <strong>cca o 140 metrů vzad</strong></p>\n",
       "privateTextHtml": null,
       "type": "Z",
@@ -729,7 +729,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": false,
+    "fromCache": true,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
