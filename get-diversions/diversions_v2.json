@@ -1,7 +1,24 @@
 {
   "diversions": [
     {
-      "id": 38,
+      "id": 42,
+      "number": "VP 2603-026",
+      "title": "žel. trať. Blansko- Rájec-Jestřebí",
+      "latitude": 49.371699,
+      "longitude": 16.636777,
+      "validFrom": "2026-03-21T08:45:00+01:00",
+      "validTo": "2026-03-22T17:45:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu nedostatečné kapacity trati, budou některé vlaky na lince<font color=\"#800000\"><strong> S2</strong></font> v úseku\u00A0Blansko – Rájec-Jestřebí\u00A0nahrazeny autobusy náhradní dopravy\u00A0(NAD)\u00A0jedoucími podle výlukového jízdního řádu\u00A0linky xS2.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S2",
+        "xS2"
+      ]
+    },
+    {
+      "id": 37,
       "number": "VP 2603-208",
       "title": "Rosice, Zastávecká",
       "latitude": 49.183274,
@@ -17,7 +34,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 34,
       "number": "VP 2603-024",
       "title": "žel. trať. Znojmo - Šumná",
       "latitude": 48.923402,
@@ -51,6 +68,22 @@
       ]
     },
     {
+      "id": 15,
+      "number": "Újezd u Černé Hory (směr Lažany)",
+      "title": "Újezd u Černé Hory (směr Lažany)",
+      "latitude": 49.370791,
+      "longitude": 16.544144,
+      "validFrom": "2026-03-16T00:00:00+01:00",
+      "validTo": "2026-05-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu výkopových prací na silnici v obci Újezd u Černé Hory bude pro linku<font color=\"#009240\"><strong> 313</strong></font> přeložena zastávka Újezd u Černé Hory (pouze směr Lažany). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "313"
+      ]
+    },
+    {
       "id": 37218,
       "number": "V2603-012",
       "title": "Výluka tramvají na Stránskou skálu",
@@ -68,23 +101,7 @@
       ]
     },
     {
-      "id": 15,
-      "number": "Újezd u Černé Hory (směr Lažany)",
-      "title": "Újezd u Černé Hory (směr Lažany)",
-      "latitude": 49.370791,
-      "longitude": 16.544144,
-      "validFrom": "2026-03-16T00:00:00+01:00",
-      "validTo": "2026-05-17T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu výkopových prací na silnici v obci Újezd u Černé Hory bude pro linku<font color=\"#009240\"><strong> 313</strong></font> přeložena zastávka Újezd u Černé Hory (pouze směr Lažany). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "313"
-      ]
-    },
-    {
-      "id": 41,
+      "id": 40,
       "number": "2603 Vracov, obecní úřad",
       "title": "Vracov, obecní úřad (směr Bzenec)",
       "latitude": 48.979706,
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 39,
       "number": "PO 2603-011",
       "title": "Brno, ul. Elplova",
       "latitude": 49.210543,
@@ -135,22 +152,6 @@
       ]
     },
     {
-      "id": 42,
-      "number": "2603 Brno, Macháčkova",
-      "title": "Brno, Macháčkova oba směry",
-      "latitude": 49.206201,
-      "longitude": 16.701719,
-      "validFrom": "2026-03-10T09:00:00+01:00",
-      "validTo": "2026-03-22T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0opravy havarijního stavu odvodnění\u00A0je zastávka Brno, Macháčkova v obou směrech dočasně přesunuta o cca 175 metrů (ve směru na Jírovu vpřed před objekt č. p. 48, ve směru do Mariánského údolí vzad před objekt č. p. 36). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "151"
-      ]
-    },
-    {
       "id": 37227,
       "number": "",
       "title": "Dočasné přeložení zastávky Macháčkova",
@@ -169,7 +170,23 @@
       ]
     },
     {
-      "id": 39,
+      "id": 41,
+      "number": "2603 Brno, Macháčkova",
+      "title": "Brno, Macháčkova oba směry",
+      "latitude": 49.206201,
+      "longitude": 16.701719,
+      "validFrom": "2026-03-10T09:00:00+01:00",
+      "validTo": "2026-03-22T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0opravy havarijního stavu odvodnění\u00A0je zastávka Brno, Macháčkova v obou směrech dočasně přesunuta o cca 175 metrů (ve směru na Jírovu vpřed před objekt č. p. 48, ve směru do Mariánského údolí vzad před objekt č. p. 36). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "151"
+      ]
+    },
+    {
+      "id": 38,
       "number": "PO 2603-008",
       "title": "Znojmo, Pražská sídliště",
       "latitude": 48.868441,
@@ -183,22 +200,6 @@
       "affectedLines": [
         "803",
         "807"
-      ]
-    },
-    {
-      "id": 33,
-      "number": "2603 Brno, Ruda",
-      "title": "Brno, Ruda - oba směry",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2026-03-05T04:30:00+01:00",
-      "validTo": "2026-04-30T22:20:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
       ]
     },
     {
@@ -218,6 +219,22 @@
         "52",
         "54",
         "N98",
+        "161"
+      ]
+    },
+    {
+      "id": 32,
+      "number": "2603 Brno, Ruda",
+      "title": "Brno, Ruda - oba směry",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2026-03-05T04:30:00+01:00",
+      "validTo": "2026-04-30T22:20:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
         "161"
       ]
     },
@@ -255,43 +272,7 @@
       ]
     },
     {
-      "id": 11,
-      "number": "PO 2603-007",
-      "title": "Slavkov u Brna, okružní křižovatka v centru",
-      "latitude": 49.150780,
-      "longitude": 16.876373,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-05-31T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 630</strong></font>, <font color=\"#009240\"><strong> 631</strong></font>:\u00A0Jedou ve Slavkově u Brna odklonem bez dopadu na obsluhu zastávek. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "106",
-        "601",
-        "630",
-        "631"
-      ]
-    },
-    {
-      "id": 32,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "664",
-        "912"
-      ]
-    },
-    {
-      "id": 31,
+      "id": 30,
       "number": "VP 2603-207",
       "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
       "latitude": 48.962976,
@@ -308,7 +289,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 24,
       "number": "VP 2603-205",
       "title": "Blansko, Palava",
       "latitude": 49.368444,
@@ -326,7 +307,24 @@
       ]
     },
     {
-      "id": 20,
+      "id": 31,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "664",
+        "912"
+      ]
+    },
+    {
+      "id": 19,
       "number": "PO 2603-009",
       "title": "Hrušovany u Brna, ul. Masarykova",
       "latitude": 49.038571,
@@ -340,6 +338,25 @@
       "affectedLines": [
         "154",
         "521"
+      ]
+    },
+    {
+      "id": 11,
+      "number": "PO 2603-007",
+      "title": "Slavkov u Brna, okružní křižovatka v centru",
+      "latitude": 49.150780,
+      "longitude": 16.876373,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 106</strong></font>, <font color=\"#009240\"><strong> 601</strong></font>, <font color=\"#009240\"><strong> 630</strong></font>, <font color=\"#009240\"><strong> 631</strong></font>:\u00A0Jedou ve Slavkově u Brna odklonem bez dopadu na obsluhu zastávek. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "106",
+        "601",
+        "630",
+        "631"
       ]
     },
     {
@@ -377,7 +394,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 29,
       "number": "PO 2602-006",
       "title": "Modřice, Agropodnik",
       "latitude": 49.124451,
@@ -729,7 +746,7 @@
   ],
   "metadata": {
     "language": "cs",
-    "fromCache": true,
+    "fromCache": false,
     "warning": "Downloading data using automated tools is forbidden, for API access contact DPMB. Automatizované stahování dat není povolené, pro přístup k API kontaktujte DPMB.",
     "error": ""
   }
