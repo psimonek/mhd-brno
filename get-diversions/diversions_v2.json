@@ -34,23 +34,6 @@
       ]
     },
     {
-      "id": 34,
-      "number": "VP 2603-024",
-      "title": "žel. trať. Znojmo - Šumná",
-      "latitude": 48.923402,
-      "longitude": 15.896015,
-      "validFrom": "2026-03-16T07:35:00+01:00",
-      "validTo": "2026-03-19T15:35:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Vlaky linky<font color=\"#800000\"><strong> S81</strong></font> budou v úseku\u00A0Znojmo – Šumná\u00A0nahrazeny autobusy náhradní\u00A0dopravy (NAD) jedoucí jako linka xS81.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "S81",
-        "xS81"
-      ]
-    },
-    {
       "id": 37286,
       "number": "",
       "title": "Dočasné přeložení zastávky Skácelova",
@@ -152,6 +135,22 @@
       ]
     },
     {
+      "id": 41,
+      "number": "2603 Brno, Macháčkova",
+      "title": "Brno, Macháčkova oba směry",
+      "latitude": 49.206201,
+      "longitude": 16.701719,
+      "validFrom": "2026-03-10T09:00:00+01:00",
+      "validTo": "2026-03-22T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0opravy havarijního stavu odvodnění\u00A0je zastávka Brno, Macháčkova v obou směrech dočasně přesunuta o cca 175 metrů (ve směru na Jírovu vpřed před objekt č. p. 48, ve směru do Mariánského údolí vzad před objekt č. p. 36). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "151"
+      ]
+    },
+    {
       "id": 37227,
       "number": "",
       "title": "Dočasné přeložení zastávky Macháčkova",
@@ -166,22 +165,6 @@
       "affectedLines": [
         "55",
         "N98",
-        "151"
-      ]
-    },
-    {
-      "id": 41,
-      "number": "2603 Brno, Macháčkova",
-      "title": "Brno, Macháčkova oba směry",
-      "latitude": 49.206201,
-      "longitude": 16.701719,
-      "validFrom": "2026-03-10T09:00:00+01:00",
-      "validTo": "2026-03-22T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu\u00A0opravy havarijního stavu odvodnění\u00A0je zastávka Brno, Macháčkova v obou směrech dočasně přesunuta o cca 175 metrů (ve směru na Jírovu vpřed před objekt č. p. 48, ve směru do Mariánského údolí vzad před objekt č. p. 36). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
         "151"
       ]
     },
@@ -272,20 +255,20 @@
       ]
     },
     {
-      "id": 30,
-      "number": "VP 2603-207",
-      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
+      "id": 31,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
       "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-06-05T23:59:00+02:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
       "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
       "privateTextHtml": null,
       "type": "V",
       "affectedLines": [
-        "541",
-        "612"
+        "664",
+        "912"
       ]
     },
     {
@@ -304,23 +287,6 @@
         "223",
         "226",
         "233"
-      ]
-    },
-    {
-      "id": 31,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "664",
-        "912"
       ]
     },
     {
@@ -357,6 +323,23 @@
         "601",
         "630",
         "631"
+      ]
+    },
+    {
+      "id": 30,
+      "number": "VP 2603-207",
+      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-06-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541",
+        "612"
       ]
     },
     {
