@@ -1,6 +1,105 @@
 {
   "diversions": [
     {
+      "id": 22,
+      "number": "ZDO 2603-002",
+      "title": "Přechod na letní čas",
+      "latitude": 49.194930,
+      "longitude": 16.608375,
+      "validFrom": "2026-03-29T01:59:00+01:00",
+      "validTo": "2026-03-29T03:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "V noci ze soboty 28. 3. 2026 na neděli 29. 3. 2026 začíná platnost středoevropského letního času.\u00A0V čase 2:00 se čas posune o hodinu dopředu na 3:00.. Na nočních linkách\u00A0v Brně\u00A0se uskuteční o jedno spojení nočních autobusových linek méně. Organizace dopravy na linkách<font color=\"#000000\"><strong> N89</strong></font> – N99 je stanovena vlastním pokynem DPMB, a.s., včetně organizace dopravy na linkách vyjíždějících mimo město Brno. V regionální dopravě\u00A0IDS JMK pojedou spoje, které odjíždí z výchozích zastávek\u00A0po 2:00, s hodinovým zpožděním\u00A0oproti nově platnému SELČ, tedy v časech\u00A03:xx. Níže uvedené noční spoje s odjezdy z výchozích zastávek dle jízdního řádu pojedou s hodinovým zpožděním oproti SELČ:. linka<font color=\"#2C89C8\"><strong> 48</strong></font>, spoj č. 337 s obvyklým odjezdem ve 2:15 z Brna, Hanácké do Prace pojede ve 3:15 letního času, linka<font color=\"#009240\"><strong> 302</strong></font>, spoj č. 303 s obvyklým odjezdem ve 2:15 hod. z Kuřimi, žel.st. do Brna pojede ve 3:15 letního času, linka<font color=\"#009240\"><strong> 302</strong></font>, spoj č. 304 s obvyklým odjezdem ve 2:30 hod. z Brna, U Luhu do Kuřimi pojede ve 3:30 letního času, linka<font color=\"#009240\"><strong> 304</strong></font>, spoj č. 226 s obvyklým odjezdem ve 2:03 hod. z Kuřimi, Podlesí do Kuřimi, žel.st. pojede ve 3:03 letního času, linka<font color=\"#009240\"><strong> 304</strong></font>, spoj č. 227 s obvyklým odjezdem ve 2:45 hod. z Kuřimi, žel. st. do Kuřimi, TE pojede ve 3:45 letního času, linka<font color=\"#009240\"><strong> 304</strong></font>, spoje č. 228 a 229\u00A0nejedou!, linka<font color=\"#009240\"><strong> 501</strong></font>, spoj č. 233 s obvyklým odjezdem ve 2:06 z Brna, Ořechovské do Moravan pojede ve 3:06 letního času, .<br/><br/> Linka<font color=\"#009240\"><strong> 403</strong></font>, spoj č. 152 s obvyklým odjezdem ve 2:30 z Ostopovic do Brna bude zcela zrušen, spoj 153 s pravidelným odjezdem ve 3:18 z Brna, Osové do Popůvek může být na odjezdu z výchozí zastávky několik minut opožděn.. . ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "48",
+        "302",
+        "304",
+        "403",
+        "501"
+      ]
+    },
+    {
+      "id": 46,
+      "number": "VP 2603-028",
+      "title": "žel. trať. Hodonín - Rohatec",
+      "latitude": 48.891698,
+      "longitude": 17.298464,
+      "validFrom": "2026-03-28T20:30:00+01:00",
+      "validTo": "2026-03-29T03:00:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky\u00A0linky<font color=\"#800000\"><strong> S9</strong></font>\u00A0budou nahrazeny náhradní autobusovou dopravou (NAD) jedoucí podle výlukového jízdního řádu jako\u00A0linka xS9\u00A0po dvou trasách. Trasa A:\u00A0Moravský Písek - Hodonín - Břeclav. Trasa B:\u00A0Staré Město u U. H. - Moravský Písek - Hodonín. Vlaky\u00A0linky<font color=\"#800000\"><strong> S91</strong></font>\u00A0budou v úseku\u00A0Strážnice – Hodonín\u00A0nahrazeny náhradní autobusovou dopravou (NAD) jedoucí podle výlukového jízdního řádu jako\u00A0linka xS91. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S91",
+        "xS91",
+        "S9",
+        "xS9"
+      ]
+    },
+    {
+      "id": 47,
+      "number": "VP 2603-027",
+      "title": "žel. trať. Staré Město u UH - Uherské Hradiště, NAD Staré Město u UH - Kunovice (-Veselí n.M. )",
+      "latitude": 49.069368,
+      "longitude": 17.428007,
+      "validFrom": "2026-03-28T08:40:00+01:00",
+      "validTo": "2026-03-31T18:30:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Vlaky linky\u00A0S6,<font color=\"#800000\"><strong> S5</strong></font>\u00A0budou po dobu výluky nahrazeny náhradní autobusovou dopravou (NAD), která bude organizována podle výlukového jízdního řádu linek\u00A0xS6, xS5. Autobusy NAD pojedou po několika odlišných trasách. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "S6",
+        "xS6",
+        "S5",
+        "xS5"
+      ]
+    },
+    {
+      "id": 45,
+      "number": "PO 2603-015",
+      "title": "Břeclav, nám. TGM (u zastávek kostel)",
+      "latitude": 48.759230,
+      "longitude": 16.880917,
+      "validFrom": "2026-03-25T09:00:00+01:00",
+      "validTo": "2026-03-25T15:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Zastávka\u00A0Břeclav, nám. TGM kostel bude během platnosti omezení bez obsluhy, jako náhradou zastaví příslušné linky na zastávce\u00A0Břeclav, nám. TGM MěÚ..<br/><br/> Linky MAD Břeclav 561, 562, 563, 566, 567 a 568\u00A0obslouží místo zastávky\u00A0Břeclav, nám. TGM kostel zastávku Břeclav, nám. TGM městský úřad. Ve směru od autobusového nádraží bude zastávka nám. TGM městský úřad pro tyto linky MAD přemístěna cca o 100m blíže k nádraží.<br/><br/> Linka MAD Břeclav 564\u00A0ve směru od autobusového nádraží vynechá zastávku nemocnice, zastávku TGM městský úřad obslouží ve své standardní poloze. V opačném směru nezajíždí k zastávce nám. TGM, MěÚ, ale náhradou obslouží náhradou zastávku 1. máje. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "561",
+        "562",
+        "563",
+        "564",
+        "566",
+        "567",
+        "568",
+        "570",
+        "571",
+        "572"
+      ]
+    },
+    {
+      "id": 36,
+      "number": "PO 2603-014",
+      "title": "Laa an der Thaya - náměstí, zastávka Laa a.d. Thaya, Stadtplatz",
+      "latitude": 48.720412,
+      "longitude": 16.384539,
+      "validFrom": "2026-03-24T06:00:00+01:00",
+      "validTo": "2026-03-24T16:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 104</strong></font>:\u00A0veškeré spoje, které mají na své pravidelné trase zastávku\u00A0Laa an der Thaya, Stadtplatz\u00A0ji budou vynechávat. Místo toho budou dočasně obsluhovat zastávku\u00A0Laa an der Thaya, Stadtfeldgasse, která se nachází na hlavní ulici\u00A0Staatsbahnstraße\u00A0směrem k vlakovému nádraží Laa a. d. Thaya, Bahnhof.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "104"
+      ]
+    },
+    {
       "id": 37493,
       "number": "P2603-038",
       "title": "Dočasné přeložení zastávky Karolíny Světlé",
@@ -19,6 +118,55 @@
     },
     {
       "id": 42,
+      "number": "PO 2603-012",
+      "title": "Lednice, ulice Valtická",
+      "latitude": 48.799401,
+      "longitude": 16.800628,
+      "validFrom": "2026-03-23T00:00:00+01:00",
+      "validTo": "2026-03-29T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 555</strong></font> pojede\u00A0mezi zastávkami Lednice, nám. a Lednice, Valtická obusměrně odklonem po místích komunikacích ulicemi Břeclavská - Komenského - Nádražní.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "555"
+      ]
+    },
+    {
+      "id": 39,
+      "number": "PO 2603-013",
+      "title": "Rousínov, Rousínovec",
+      "latitude": 49.196401,
+      "longitude": 16.884291,
+      "validFrom": "2026-03-23T00:00:00+01:00",
+      "validTo": "2026-05-31T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Linka<font color=\"#009240\"><strong> 732</strong></font>:\u00A0Mezi zastávkami Rousínov, autobusová stanice a Rousínov, Rousínovec (pro oba směry přeložena na ulici Trnečkovu) jede obousměrně odklonem ulicemi Rudé armády, Slavkovská a Trnečkova.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "732"
+      ]
+    },
+    {
+      "id": 48,
+      "number": "2603 Kyjov, Boršov",
+      "title": "Kyjov, Boršov",
+      "latitude": 49.025213,
+      "longitude": 17.122343,
+      "validFrom": "2026-03-23T00:00:00+01:00",
+      "validTo": "2026-06-29T23:59:00+02:00",
+      "isValid": false,
+      "publicTextHtml": "Z důvodu uzavírky silnice II/432 v Kyjově je zastávka Boršov pro oba směry přeložena na silnici II/432 za částečně uzavřený úsek silnice II/432 ve směru ven z města. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "671",
+        "672"
+      ]
+    },
+    {
+      "id": 44,
       "number": "VP 2603-026",
       "title": "žel. trať. Blansko- Rájec-Jestřebí",
       "latitude": 49.371699,
@@ -32,6 +180,24 @@
       "affectedLines": [
         "S2",
         "xS2"
+      ]
+    },
+    {
+      "id": 21,
+      "number": "ZDO 2603-001",
+      "title": "Hustopeče - Slavnosti mandloní a vína 2026",
+      "latitude": 48.941081,
+      "longitude": 16.735394,
+      "validFrom": "2026-03-21T08:30:00+01:00",
+      "validTo": "2026-03-21T20:00:00+01:00",
+      "isValid": false,
+      "publicTextHtml": "Dle aktuálních potřeb mohou být posilovány všechny autobusové linky v oblasti. Pro dopravu z Brna do Hustopečí využívejte hlavně vlaky linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0s mimořádně navýšenou kapacitou! Zdvojené jednotky Moravia jedou z Brna, hlavního nádraží v 9:09, 10:09 a 11:09. Opačným směrem pak budou posíleny vlaky s odjezdy v 16:04, 17:04 a 18:04 z Hustopečí.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "540",
+        "542",
+        "543"
       ]
     },
     {
@@ -68,6 +234,22 @@
       ]
     },
     {
+      "id": 15,
+      "number": "Újezd u Černé Hory (směr Lažany)",
+      "title": "Újezd u Černé Hory (směr Lažany)",
+      "latitude": 49.370791,
+      "longitude": 16.544144,
+      "validFrom": "2026-03-16T00:00:00+01:00",
+      "validTo": "2026-05-17T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu výkopových prací na silnici v obci Újezd u Černé Hory bude pro linku<font color=\"#009240\"><strong> 313</strong></font> přeložena zastávka Újezd u Černé Hory (pouze směr Lažany). ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "313"
+      ]
+    },
+    {
       "id": 37218,
       "number": "V2603-012",
       "title": "Výluka tramvají na Stránskou skálu",
@@ -85,23 +267,7 @@
       ]
     },
     {
-      "id": 15,
-      "number": "Újezd u Černé Hory (směr Lažany)",
-      "title": "Újezd u Černé Hory (směr Lažany)",
-      "latitude": 49.370791,
-      "longitude": 16.544144,
-      "validFrom": "2026-03-16T00:00:00+01:00",
-      "validTo": "2026-05-17T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Z důvodu výkopových prací na silnici v obci Újezd u Černé Hory bude pro linku<font color=\"#009240\"><strong> 313</strong></font> přeložena zastávka Újezd u Černé Hory (pouze směr Lažany). ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "313"
-      ]
-    },
-    {
-      "id": 40,
+      "id": 41,
       "number": "2603 Vracov, obecní úřad",
       "title": "Vracov, obecní úřad (směr Bzenec)",
       "latitude": 48.979706,
@@ -118,7 +284,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 40,
       "number": "PO 2603-011",
       "title": "Brno, ul. Elplova",
       "latitude": 49.210543,
@@ -170,7 +336,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 43,
       "number": "2603 Brno, Macháčkova",
       "title": "Brno, Macháčkova oba směry",
       "latitude": 49.206201,
@@ -203,22 +369,6 @@
       ]
     },
     {
-      "id": 32,
-      "number": "2603 Brno, Ruda",
-      "title": "Brno, Ruda - oba směry",
-      "latitude": 49.220558,
-      "longitude": 16.502795,
-      "validFrom": "2026-03-05T04:30:00+01:00",
-      "validTo": "2026-04-30T22:20:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "161"
-      ]
-    },
-    {
       "id": 36955,
       "number": "V2603-009",
       "title": "Změna obsluhy zastávky Ruda",
@@ -235,6 +385,22 @@
         "52",
         "54",
         "N98",
+        "161"
+      ]
+    },
+    {
+      "id": 31,
+      "number": "2603 Brno, Ruda",
+      "title": "Brno, Ruda - oba směry",
+      "latitude": 49.220558,
+      "longitude": 16.502795,
+      "validFrom": "2026-03-05T04:30:00+01:00",
+      "validTo": "2026-04-30T22:20:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka Brno, Ruda je pro směr do Žebětína přesunuta o cca 180 metrů vzad, pro směr k Zoo je zrušena. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
         "161"
       ]
     },
@@ -272,6 +438,40 @@
       ]
     },
     {
+      "id": 29,
+      "number": "VP 2603-207",
+      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
+      "latitude": 48.962976,
+      "longitude": 16.825633,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-06-05T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "541",
+        "612"
+      ]
+    },
+    {
+      "id": 17,
+      "number": "PO 2603-009",
+      "title": "Hrušovany u Brna, ul. Masarykova",
+      "latitude": 49.038571,
+      "longitude": 16.594191,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-08-30T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Zastávka\u00A0Hrušovany u Brna, ObÚ je bez obsluhy.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "154",
+        "521"
+      ]
+    },
+    {
       "id": 11,
       "number": "PO 2603-007",
       "title": "Slavkov u Brna, okružní křižovatka v centru",
@@ -291,58 +491,7 @@
       ]
     },
     {
-      "id": 30,
-      "number": "VP 2603-207",
-      "title": "Boleradice II, silnice směr Morkůvky (AKTUALIZACE od 05. 03. 2026)",
-      "latitude": 48.962976,
-      "longitude": 16.825633,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-06-05T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávky mezi Boleradicemi a Klobouky u Brna nebudou obsluhovány. Jedná se o zastávky Boleradice, ZD, Boleradice, mlýn, Morkůvky, Klobouky u Brna, samota, Klobouky u Brna, ropovod, Klobouky u Brna, Wurmova. Zastávky\u00A0Boleradice budou v obou směrech přesunuty na silnici směr Diváky do blízkosti přechodu pro chodce u kostela. Platí to jak pro linku<font color=\"#009240\"><strong> 541</strong></font>, tak pro linku<font color=\"#009240\"><strong> 612</strong></font>.. Výjimkou jsou spoje 83+84, které z důvodu nemožnosti bezpečného otáčení autobusů v Boleradicích za přesunutými zastávkami směrem na Diváky budou obsluhovat standardní zastávky Boleradice ve své klasické poloze. To znamená zejména to, že odjezd spoje 84 linky<font color=\"#009240\"><strong> 541</strong></font> směr Hustopeče v čase 07:22 bude realizován ze standardní zastávky Boleradice jako před výlukou. Všechny ostatní spoje pojedou z přesunutých zastávek u kostela.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "541",
-        "612"
-      ]
-    },
-    {
-      "id": 31,
-      "number": "VP 2603-206",
-      "title": "Hodonín, Měšťanská",
-      "latitude": 48.861157,
-      "longitude": 17.139444,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-12-06T23:59:00+01:00",
-      "isValid": true,
-      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "664",
-        "912"
-      ]
-    },
-    {
-      "id": 19,
-      "number": "PO 2603-009",
-      "title": "Hrušovany u Brna, ul. Masarykova",
-      "latitude": 49.038571,
-      "longitude": 16.594191,
-      "validFrom": "2026-03-02T00:00:00+01:00",
-      "validTo": "2026-08-30T23:59:00+02:00",
-      "isValid": true,
-      "publicTextHtml": "Zastávka\u00A0Hrušovany u Brna, ObÚ je bez obsluhy.. ",
-      "privateTextHtml": null,
-      "type": "V",
-      "affectedLines": [
-        "154",
-        "521"
-      ]
-    },
-    {
-      "id": 24,
+      "id": 23,
       "number": "VP 2603-205",
       "title": "Blansko, Palava",
       "latitude": 49.368444,
@@ -357,6 +506,23 @@
         "223",
         "226",
         "233"
+      ]
+    },
+    {
+      "id": 30,
+      "number": "VP 2603-206",
+      "title": "Hodonín, Měšťanská",
+      "latitude": 48.861157,
+      "longitude": 17.139444,
+      "validFrom": "2026-03-02T00:00:00+01:00",
+      "validTo": "2026-12-06T23:59:00+01:00",
+      "isValid": true,
+      "publicTextHtml": "Linky<font color=\"#009240\"><strong> 664</strong></font>,912:\u00A0v Hodoníně mezi zastávkami Pánov a aut.nádraží jedou odklonem po I/55 a ulicemi Brněnská a Úprkova a navíc obslouží zastávku Brněnská. Zastávky cihelna, Černý most, lázně, rest. Morava\u00A0jsou během výluky zrušeny. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "664",
+        "912"
       ]
     },
     {
@@ -394,7 +560,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 28,
       "number": "PO 2602-006",
       "title": "Modřice, Agropodnik",
       "latitude": 49.124451,
@@ -684,6 +850,22 @@
         "104",
         "105",
         "108"
+      ]
+    },
+    {
+      "id": 4,
+      "number": "Rudka směr Domašov",
+      "title": "Rudka",
+      "latitude": 49.241516,
+      "longitude": 16.330662,
+      "validFrom": "2025-04-23T08:05:00+02:00",
+      "validTo": "2028-03-31T23:59:00+02:00",
+      "isValid": true,
+      "publicTextHtml": "Z důvodu\u00A0\u00A0stavebního záboru v\u00A0 oblasti mostu\u00A0je dočasně přesunuta zastávka Rudka ve směru do Domašova vzad o cca 20 metrů.. ",
+      "privateTextHtml": null,
+      "type": "V",
+      "affectedLines": [
+        "423"
       ]
     },
     {
