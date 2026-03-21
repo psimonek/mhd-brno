@@ -190,7 +190,7 @@
       "longitude": 16.735394,
       "validFrom": "2026-03-21T08:30:00+01:00",
       "validTo": "2026-03-21T20:00:00+01:00",
-      "isValid": false,
+      "isValid": true,
       "publicTextHtml": "Dle aktuálních potřeb mohou být posilovány všechny autobusové linky v oblasti. Pro dopravu z Brna do Hustopečí využívejte hlavně vlaky linky<font color=\"#800000\"><strong> S3</strong></font>\u00A0s mimořádně navýšenou kapacitou! Zdvojené jednotky Moravia jedou z Brna, hlavního nádraží v 9:09, 10:09 a 11:09. Opačným směrem pak budou posíleny vlaky s odjezdy v 16:04, 17:04 a 18:04 z Hustopečí.. ",
       "privateTextHtml": null,
       "type": "V",
